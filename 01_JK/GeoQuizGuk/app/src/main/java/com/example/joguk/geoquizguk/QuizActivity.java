@@ -59,62 +59,10 @@ public class QuizActivity extends AppCompatActivity {
             mCurrentIndex = savedInstanceState.getInt(KEY_INDEX, 0);
         }
 
-        // Widget & Listener Setting
-        this.mLengthTextView = (TextView) findViewById(R.id.length_text_view);
-        this.mQuestionTextView = (TextView) findViewById(R.id.question_text_view);
-        this.mTrueButton = (Button) findViewById(R.id.true_button);
-        this.mTrueButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                checkAnswer(true);
-            }
-        });
-        this.mFalseButton = (Button) findViewById(R.id.false_button);
-        this.mFalseButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                checkAnswer(false);
-            }
-        });
-
-        this.mCheatButton = (Button) findViewById(R.id.cheat_button);
-        this.mCheatButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                // Start Activity
-                boolean answerIsTrue = mQuestionBank[mCurrentIndex].isAnswerTrue();
-                // QuizActivity에서 CheatActivity로 이동하겠다.
-                // this란 현재. class는 new Activity
-                Intent intent = CheatActivity.newIntent(QuizActivity.this, answerIsTrue);
-                startActivityForResult(intent, REQUEST_CODE_CHEAT);
-            }
-        });
-
-        this.mPrevButton = (Button) findViewById(R.id.prev_button);
-        this.mPrevButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-//                mCurrentIndex = (mQuestionBank.length + mCurrentIndex - 1) % mQuestionBank.length;
-//                updateQuestion();
-                processMoveIndex(-1);
-            }
-        });
+        // init
+        this.init();
 
         this.updateQuestion();
-
-        this.mNextButton = (Button) findViewById(R.id.next_button);
-        this.mNextButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-//                mCurrentIndex = (mCurrentIndex + 1) % mQuestionBank.length;
-//                mIsCheater = false;
-//                updateQuestion();
-                processMoveIndex(1);
-            }
-        });
-
-        // indicatorInit
-        this.indicatorInit();
     }
 
     @Override
@@ -131,6 +79,66 @@ public class QuizActivity extends AppCompatActivity {
             // static method call
             mIsCheater = CheatActivity.wasAnswerShown(data);
         }
+    }
+
+    private void init(){
+        this.mLengthTextView = (TextView) findViewById(R.id.length_text_view);
+        this.mQuestionTextView = (TextView) findViewById(R.id.question_text_view);
+        this.mTrueButton = (Button) findViewById(R.id.true_button);
+        this.mFalseButton = (Button) findViewById(R.id.false_button);
+        this.mCheatButton = (Button) findViewById(R.id.cheat_button);
+        this.mPrevButton = (Button) findViewById(R.id.prev_button);
+        this.mNextButton = (Button) findViewById(R.id.next_button);
+
+        // indicator Init
+        this.spa = new SamplePagerAdapter(getSupportFragmentManager());
+        this.spa.setItemCount(this.mQuestionBank.length);
+
+        this.viewPager = (ViewPager) findViewById(R.id.pager);
+        this.viewPager.setAdapter(this.spa);
+
+        this.lineIndicator = (LineIndicator) findViewById(R.id.line_indicator);
+        this.lineIndicator.setupWithViewPager(this.viewPager);
+
+/*      CircleIndicator circleIndicator = (CircleIndicator) findViewById(R.id.circle_indicator);
+        circleIndicator.setupWithViewPager(viewPager);*/
+
+        this.mTrueButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                checkAnswer(true);
+            }
+        });
+
+        this.mFalseButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                checkAnswer(false);
+            }
+        });
+
+        this.mCheatButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                boolean answerIsTrue = mQuestionBank[mCurrentIndex].isAnswerTrue();
+                Intent intent = CheatActivity.newIntent(QuizActivity.this, answerIsTrue);
+                startActivityForResult(intent, REQUEST_CODE_CHEAT);
+            }
+        });
+
+        this.mPrevButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                processMoveIndex(1);
+            }
+        });
+
+        this.mNextButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                processMoveIndex(-1);
+            }
+        });
     }
 
     private void processMoveIndex(int delta) {
@@ -165,22 +173,6 @@ public class QuizActivity extends AppCompatActivity {
         }
         Toast.makeText(this, messageResId, Toast.LENGTH_SHORT).show();
     }
-
-    // indicator
-    private void indicatorInit() {
-        this.spa = new SamplePagerAdapter(getSupportFragmentManager());
-        this.spa.setItemCount(this.mQuestionBank.length);
-
-        this.viewPager = (ViewPager) findViewById(R.id.pager);
-        this.viewPager.setAdapter(this.spa);
-
-        this.lineIndicator = (LineIndicator) findViewById(R.id.line_indicator);
-        this.lineIndicator.setupWithViewPager(this.viewPager);
-
-/*      CircleIndicator circleIndicator = (CircleIndicator) findViewById(R.id.circle_indicator);
-        circleIndicator.setupWithViewPager(viewPager);*/
-    }
-    // indicator end
 
     // app Life Cycle method
     @Override
