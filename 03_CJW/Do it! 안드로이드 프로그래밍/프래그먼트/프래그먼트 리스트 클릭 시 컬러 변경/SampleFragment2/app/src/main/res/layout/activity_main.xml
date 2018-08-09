@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <!--프래그먼트의 제약 : ID 나 태그 둘중하나는 반드시 필요-->
+    <fragment
+        android:id="@+id/fragment_color_list"
+        android:name="fragment.techtown.android.samplefragment2.ColorListFragment"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+    />
+    
+    <fragment
+        android:id="@+id/fragment_color"
+        android:name="fragment.techtown.android.samplefragment2.ColorFragment"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+    />
+
+
+</LinearLayout>
