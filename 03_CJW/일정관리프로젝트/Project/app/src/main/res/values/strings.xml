@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimeKiller</string>
+    
+    <string name="action_search">Search</string>
+</resources>
