@@ -10,15 +10,23 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.List;
+import java.util.UUID;
 
 public class CrimeListFragment extends Fragment {
+    // static variable
+    private static final int REQUEST_CRIME = 1;
+    private final String TAG = "ListFragment";
+
+    // member variable
     private RecyclerView mCrimeRecyclerView;
     private CrimeAdapter mAdapter;
-    private static final int REQUEST_CRIME = 1;
+    private UUID mDetailId;
+    private int mLastPagerPosition = 0;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
@@ -34,17 +42,64 @@ public class CrimeListFragment extends Fragment {
     @Override
     public void onResume() {
         super.onResume();
+        Log.d(TAG, "OnResume");
+
+        LinearLayoutManager manager = (LinearLayoutManager) mCrimeRecyclerView.getLayoutManager();
+        int firstPos = manager.findFirstCompletelyVisibleItemPosition();
+        int lastPos = manager.findLastCompletelyVisibleItemPosition();
+
+        if (mLastPagerPosition >= 0 && firstPos < lastPos) {
+            if (mLastPagerPosition < firstPos) {
+                manager.scrollToPosition(mLastPagerPosition);
+            } else if (mLastPagerPosition > lastPos) {
+                manager.scrollToPosition(mLastPagerPosition);
+            }
+        }
+
         updateUI();
     }
 
-    private void updateUI() {
+    public void updateUI() {
         CrimeLab crimeLab = CrimeLab.get(getActivity());
         List<Crime> crimes = crimeLab.getCrimes();
+
         if (mAdapter == null) {
             mAdapter = new CrimeAdapter(crimes);
             mCrimeRecyclerView.setAdapter(mAdapter);
         } else {
             mAdapter.notifyDataSetChanged();
+
+            // mDetailId use
+//            int position = -1;
+//            for (int ndx = 0; ndx < crimes.size(); ndx++) {
+//                Crime oneCrime = crimes.get(ndx);
+//                if (oneCrime.getId() == mDetailId) {
+//                    position = ndx;
+//                    break;
+//                }
+//            }
+//
+//            if (position >= 0) {
+//                mAdapter.notifyItemChanged(position);
+//            } else {
+//                // 모르면 전부다 update
+//                mAdapter.notifyDataSetChanged();
+//            }
+        }
+    }
+
+    @Override
+    public void onActivityResult(int requestCode, int resultCode, Intent data) {
+        if (data == null || requestCode != REQUEST_CRIME) {
+            return;
+        }
+        int position = CrimePagerActivity.getCurrentPosition(data);
+        Log.d(TAG, "onActivityResult: " + Integer.toString(position));
+
+        mLastPagerPosition = position;
+
+        if (requestCode == REQUEST_CRIME) {
+            // Handle result
         }
     }
 
@@ -52,6 +107,7 @@ public class CrimeListFragment extends Fragment {
         private Crime mCrime;
         private TextView mTitleTextView;
         private TextView mDateTextView;
+
         private ImageView mSolvedImageView;
 
         public CrimeHolder(LayoutInflater inflater, ViewGroup parent) {
@@ -64,6 +120,7 @@ public class CrimeListFragment extends Fragment {
         }
 
         public void bind(Crime crime) {
+            Log.d(TAG, crime.getTitle());
             mCrime = crime;
             mTitleTextView.setText(mCrime.getTitle());
             mDateTextView.setText(mCrime.getDate().toString());
@@ -72,17 +129,13 @@ public class CrimeListFragment extends Fragment {
 
         @Override
         public void onClick(View view) {
-            Intent intent = CrimeActivity.newIntent(getActivity(), mCrime.getId());
+            mDetailId = mCrime.getId();
+            Intent intent = CrimePagerActivity.newIntent(getActivity(), mCrime.getId());
             startActivityForResult(intent, REQUEST_CRIME);
         }
     }
 
-    @Override
-    public void onActivityResult(int requestCode, int resultCode, Intent data) {
-        if (requestCode == REQUEST_CRIME) { // Handle result
-        }
-    }
-
+    // Adapter Inner Class
     private class CrimeAdapter extends RecyclerView.Adapter<CrimeHolder> {
         private List<Crime> mCrimes;
 
