@@ -3,7 +3,6 @@ package com.example.joguk.criminalintent;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
@@ -16,9 +15,9 @@ import java.util.UUID;
 
 public class CrimePagerActivity extends AppCompatActivity {
     private static final String EXTRA_CRIME_ID =
-            "com.example.joguk.criminalintent.crime_id";
+            "com.bignerdranch.android.criminalintent.crime_id";
     private static final String EXTRA_CURRENT_POSITION =
-            "com.example.joguk.criminalintent.current_position";
+            "com.bignerdranch.android.criminalintent.current_position";
 
     private ViewPager mViewPager;
     private List<Crime> mCrimes;
@@ -28,8 +27,9 @@ public class CrimePagerActivity extends AppCompatActivity {
         intent.putExtra(EXTRA_CRIME_ID, crimeId);
         return intent;
     }
+
     @Override
-    protected void onCreate(@Nullable Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_crime_pager);
 
@@ -37,7 +37,6 @@ public class CrimePagerActivity extends AppCompatActivity {
                 .getSerializableExtra(EXTRA_CRIME_ID);
 
         mViewPager = (ViewPager) findViewById(R.id.crime_view_pager);
-
         mCrimes = CrimeLab.get(this).getCrimes();
         FragmentManager fragmentManager = getSupportFragmentManager();
         mViewPager.setAdapter(new FragmentStatePagerAdapter(fragmentManager) {
@@ -46,7 +45,6 @@ public class CrimePagerActivity extends AppCompatActivity {
                 Crime crime = mCrimes.get(position);
                 return CrimeFragment.newInstance(crime.getId());
             }
-
             @Override
             public int getCount() {
                 return mCrimes.size();
@@ -63,21 +61,22 @@ public class CrimePagerActivity extends AppCompatActivity {
         mViewPager.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
             @Override
             public void onPageSelected(final int position) {
-                Log.d("tag","onPageSelected: " + Integer.toString(position));
+                Log.d("tag", "onPageSelected: " + Integer.toString(position));
                 Intent intent = new Intent();
                 intent.putExtra(EXTRA_CURRENT_POSITION, position);
                 setResult(RESULT_OK, intent);
             }
             @Override
             public void onPageScrollStateChanged(int state) {
-                Log.d("tag","onPageScrollStateChanged: " + Integer.toString(state));
+
             }
             @Override
             public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
-                Log.d("tag","onPageScrolled: " + Integer.toString(position));
+
             }
         });
     }
+
     public static int getCurrentPosition(Intent intent) {
         int position = -1;
         position = (int)intent.getSerializableExtra(EXTRA_CURRENT_POSITION);

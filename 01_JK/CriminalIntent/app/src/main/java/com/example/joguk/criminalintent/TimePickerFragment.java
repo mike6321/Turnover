@@ -8,6 +8,7 @@ import android.support.annotation.Nullable;
 import android.support.v4.app.DialogFragment;
 import android.widget.TimePicker;
 
+import java.text.DateFormat;
 import java.util.Calendar;
 
 public class TimePickerFragment extends DialogFragment implements TimePickerDialog.OnTimeSetListener{
@@ -20,8 +21,10 @@ public class TimePickerFragment extends DialogFragment implements TimePickerDial
     @Override
     public Dialog onCreateDialog(@Nullable Bundle savedInstanceState) {
         Calendar mCalendar = Calendar.getInstance();
-        
+        int hour = mCalendar.get(Calendar.HOUR_OF_DAY);
+        int min = mCalendar.get(Calendar.MINUTE);
+        TimePickerDialog mTimePickerDialog = new TimePickerDialog(getContext(), this, hour, min, android.text.format.DateFormat.is24HourFormat(getContext()));
 
-        return super.onCreateDialog(savedInstanceState);
+        return mTimePickerDialog;
     }
 }

@@ -9,8 +9,9 @@ import java.util.Map;
 import java.util.UUID;
 
 public class CrimeLab {
-    private Map<UUID, Crime> mCrimes;
     private static CrimeLab sCrimeLab;
+
+    private Map<UUID, Crime> mCrimes;
 
     public static CrimeLab get(Context context) {
         if (sCrimeLab == null) {
@@ -24,7 +25,7 @@ public class CrimeLab {
         for (int i = 0 ; i < 100 ; i++) {
             Crime crime = new Crime();
             crime.setTitle("Crime #" + i);
-            crime.setSolved(i % 2 ==0);
+            crime.setSolved(i % 2 == 0);
             mCrimes.put(crime.getId(), crime);
         }
     }
@@ -37,9 +38,6 @@ public class CrimeLab {
         return mCrimes.get(id);
     }
 
-
-
-//    private static CrimeLab sCrimeLab;
 //    private List<Crime> mCrimes;
 //
 //    public static CrimeLab get(Context context) {
@@ -48,10 +46,8 @@ public class CrimeLab {
 //        }
 //        return sCrimeLab;
 //    }
-//
 //    private CrimeLab(Context context) {
 //        mCrimes = new ArrayList<>();
-//
 //        for (int i = 0; i < 100; i++) {
 //            Crime crime = new Crime();
 //            crime.setTitle("Crime #" + i);
@@ -60,11 +56,6 @@ public class CrimeLab {
 //        }
 //    }
 //
-//    public List<Crime> getCrimes() {
-//        return mCrimes;
-//    }
-//
-//    // crime get
 //    public Crime getCrime(UUID id) {
 //        for (Crime crime : mCrimes) {
 //            if (crime.getId().equals(id)) {
@@ -73,4 +64,14 @@ public class CrimeLab {
 //        }
 //        return null;
 //    }
+//
+//    public List<Crime> getCrimes() {
+//        return mCrimes;
+//    }
 }
+
+/**
+ * Singleton
+ * Crime x = new Crime();
+ * CrimeLab y = CrimeLab.get(this);
+ */
