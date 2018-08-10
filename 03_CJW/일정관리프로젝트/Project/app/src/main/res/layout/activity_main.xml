@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/main_image"
+    tools:context=".MainActivity">
+
+
+    <EditText
+        android:id="@+id/idInput"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="151dp"
+        android:layout_centerHorizontal="true"
+        android:hint="ID"
+        android:background="@drawable/back"
+        />
+
+
+    <EditText
+        android:id="@+id/passwordInput"
+        android:layout_marginTop="10dp"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/idInput"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/back"
+        android:hint="Password" />
+
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="55dp"
+        android:text="Log in"
+        android:id="@+id/loginButton"
+        android:textAllCaps="false"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/passwordInput"
+        android:layout_toStartOf="@+id/signupButton" />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="55dp"
+        android:text="Sign up"
+        android:id="@+id/signupButton"
+        android:textAllCaps="false"
+        android:layout_alignTop="@+id/loginButton"
+        android:layout_alignEnd="@+id/passwordInput" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Remember login"
+        android:id="@+id/checkBox"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/loginButton"
+        android:layout_centerHorizontal="true"
+        android:textColor="#ffffff"/>
+
+
+
+
+
+
+</RelativeLayout>
