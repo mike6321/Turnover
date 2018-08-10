@@ -5,38 +5,37 @@ import android.app.Dialog;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
+import android.support.annotation.Nullable;
 import android.support.v4.app.DialogFragment;
 import android.support.v7.app.AlertDialog;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.DatePicker;
 
+
+
 import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
 
 public class DatePickerFragment extends DialogFragment {
-
     public static final String EXTRA_DATE =
-            "com.bignerdranch.android.criminalintent.date";
-
-    private static final String ARG_DATE = "date";
-
+            "com.bignerdranch.android.criminalintent.date";    private static final String ARG_DATE = "date";
     private DatePicker mDatePicker;
 
     public static DatePickerFragment newInstance(Date date) {
         Bundle args = new Bundle();
         args.putSerializable(ARG_DATE, date);
-
         DatePickerFragment fragment = new DatePickerFragment();
         fragment.setArguments(args);
         return fragment;
     }
 
+    @NonNull
     @Override
-    public Dialog onCreateDialog(Bundle savedInstanceState) {
+    public Dialog onCreateDialog(@Nullable Bundle savedInstanceState) {
         Date date = (Date) getArguments().getSerializable(ARG_DATE);
-
         Calendar calendar = Calendar.getInstance();
         calendar.setTime(date);
         int year = calendar.get(Calendar.YEAR);
@@ -70,10 +69,8 @@ public class DatePickerFragment extends DialogFragment {
         if (getTargetFragment() == null) {
             return;
         }
-
         Intent intent = new Intent();
         intent.putExtra(EXTRA_DATE, date);
-
         getTargetFragment()
                 .onActivityResult(getTargetRequestCode(), resultCode, intent);
     }
