@@ -14,10 +14,8 @@ import java.util.List;
 import java.util.UUID;
 
 public class CrimePagerActivity extends AppCompatActivity {
-    private static final String EXTRA_CRIME_ID =
-            "com.bignerdranch.android.criminalintent.crime_id";
-    private static final String EXTRA_CURRENT_POSITION =
-            "com.bignerdranch.android.criminalintent.current_position";
+    private static final String EXTRA_CRIME_ID = "com.example.joguk.criminalintent.crime_id";
+    private static final String EXTRA_CURRENT_POSITION = "com.example.joguk.criminalintent.current_position";
 
     private ViewPager mViewPager;
     private List<Crime> mCrimes;
@@ -81,5 +79,9 @@ public class CrimePagerActivity extends AppCompatActivity {
         int position = -1;
         position = (int)intent.getSerializableExtra(EXTRA_CURRENT_POSITION);
         return position;
+    }
+
+    public void finishWithDelete() {
+        finish();
     }
 }

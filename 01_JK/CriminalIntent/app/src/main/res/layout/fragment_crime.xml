@@ -28,12 +28,6 @@
         android:id="@+id/crime_time"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
-    <TimePicker
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/crime_timepicker"
-        android:timePickerMode="spinner"
-        />
     <CheckBox
         android:id="@+id/crime_solved"
         android:layout_width="match_parent"

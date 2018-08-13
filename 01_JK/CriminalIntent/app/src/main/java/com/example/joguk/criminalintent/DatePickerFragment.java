@@ -18,10 +18,14 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 
 public class DatePickerFragment extends DialogFragment {
-    public static final String EXTRA_DATE =
-            "com.bignerdranch.android.criminalintent.date";    private static final String ARG_DATE = "date";
+    // Static Variable
+    private static final String ARG_DATE = "date";
     private DatePicker mDatePicker;
 
+    // Member Variable
+    public static final String EXTRA_DATE = "com.bignerdranch.android.criminalintent.date";
+
+    // Create NewInstance
     public static DatePickerFragment newInstance(Date date) {
         Bundle args = new Bundle();
         args.putSerializable(ARG_DATE, date);
@@ -34,11 +38,13 @@ public class DatePickerFragment extends DialogFragment {
     @Override
     public Dialog onCreateDialog(@Nullable Bundle savedInstanceState) {
         Date date = (Date) getArguments().getSerializable(ARG_DATE);
-        Calendar calendar = Calendar.getInstance();
+        final Calendar calendar = Calendar.getInstance();
         calendar.setTime(date);
         int year = calendar.get(Calendar.YEAR);
         int month = calendar.get(Calendar.MONTH);
         int day = calendar.get(Calendar.DAY_OF_MONTH);
+        final int hour = calendar.get(Calendar.HOUR);
+        final int minute = calendar.get(Calendar.MINUTE);
 
         View v = LayoutInflater.from(getActivity())
                 .inflate(R.layout.dialog_date, null);
@@ -57,6 +63,8 @@ public class DatePickerFragment extends DialogFragment {
                                 int month = mDatePicker.getMonth();
                                 int day = mDatePicker.getDayOfMonth();
                                 Date date = new GregorianCalendar(year, month, day).getTime();
+                                date.setHours(hour);
+                                date.setMinutes(minute);
                                 sendResult(Activity.RESULT_OK, date);
                             }
                         })
@@ -69,7 +77,6 @@ public class DatePickerFragment extends DialogFragment {
         }
         Intent intent = new Intent();
         intent.putExtra(EXTRA_DATE, date);
-        getTargetFragment()
-                .onActivityResult(getTargetRequestCode(), resultCode, intent);
+        getTargetFragment().onActivityResult(getTargetRequestCode(), resultCode, intent);
     }
 }

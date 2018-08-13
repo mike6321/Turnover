@@ -1,6 +1,9 @@
 package com.example.joguk.criminalintent;
 
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.Locale;
 import java.util.UUID;
 
 public class Crime {
@@ -44,5 +47,19 @@ public class Crime {
 
     public void setSolved(boolean solved) {
         mSolved = solved;
+    }
+
+    public static String getDateString(Date date) {
+        String dateFormat = "EEEyyyyMMMdd";
+        String datePattern = android.text.format.DateFormat.getBestDateTimePattern(Locale.getDefault(), dateFormat);
+        SimpleDateFormat formatDate = new SimpleDateFormat(datePattern, Locale.getDefault());
+        return  formatDate.format(date);
+    }
+
+    public static String getTimeString(Date date) {
+        String timeFormat = "hhmmss";
+        String timePattern = android.text.format.DateFormat.getBestDateTimePattern(Locale.getDefault(), timeFormat);
+        SimpleDateFormat formatTime = new SimpleDateFormat(timePattern, Locale.getDefault());
+        return  formatTime.format(date);
     }
 }
