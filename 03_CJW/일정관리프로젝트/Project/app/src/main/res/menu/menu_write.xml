@@ -3,15 +3,15 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- 액션 버튼으로써 나타나는 "서치" 아이템  -->
     <item android:id="@+id/action_search"
-        android:icon="@drawable/search"
+        android:icon="@drawable/check"
         android:title="@string/action_search"
         app:showAsAction="always" />
 
-    <!--액션바 없애기-->
     <item android:id="@+id/action_add"
         android:icon="@drawable/add"
         android:title="@string/action_search"
         app:showAsAction="always" />
+
 
     <!--http://recipes4dev.tistory.com/141-->
 

@@ -16,7 +16,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <activity android:name=".MainPage"></activity>
+
+        <activity android:name=".WriteNotePage"
+                  android:theme="@style/noActionBar"></activity>
     </application>
 
 </manifest>
