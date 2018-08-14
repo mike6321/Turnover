@@ -136,6 +136,7 @@ public class CrimeListFragment extends Fragment {
             mAdapter = new CrimeAdapter(crimes);
             mCrimeRecyclerView.setAdapter(mAdapter);
         } else {
+            mAdapter.setCrimes(crimes);
             mAdapter.notifyDataSetChanged();
         }
 
@@ -158,9 +159,15 @@ public class CrimeListFragment extends Fragment {
         }
 
         public void bind(Crime crime) {
-//            Log.d(TAG, crime.getTitle());
             mCrime = crime;
-            mTitleTextView.setText(mCrime.getTitle());
+            String title;
+
+            if (mCrime.getTitle() == null) {
+                title = getString(R.string.no_title);
+            } else {
+                title = mCrime.getTitle();
+            }
+            mTitleTextView.setText(title);
             mTitleTextView.setTextColor(crime.isSolved() ? Color.rgb(180, 180, 180) : Color.rgb(0, 0, 0));
             mDateTextView.setText(mCrime.getDate().toString());
             mSolvedImageView.setVisibility(crime.isSolved() ? View.VISIBLE : View.GONE);
@@ -176,7 +183,6 @@ public class CrimeListFragment extends Fragment {
     }
 
     private class CrimeAdapter extends RecyclerView.Adapter<CrimeHolder> {
-
         private List<Crime> mCrimes;
 
         public CrimeAdapter(List<Crime> crimes) {
@@ -204,6 +210,9 @@ public class CrimeListFragment extends Fragment {
             return mCrimes.size();
         }
 
+        public void setCrimes(List<Crime> crimes) {
+            mCrimes = crimes;
+        }
     }
 
     @Override

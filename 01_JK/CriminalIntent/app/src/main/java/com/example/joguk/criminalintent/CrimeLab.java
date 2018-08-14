@@ -1,7 +1,16 @@
 package com.example.joguk.criminalintent;
 
+import android.content.ContentValues;
 import android.content.Context;
+import android.database.Cursor;
+import android.database.sqlite.SQLiteDatabase;
 
+import com.example.joguk.criminalintent.database.CrimeBaseHelper;
+import com.example.joguk.criminalintent.database.CrimeCursorWrapper;
+import com.example.joguk.criminalintent.database.CrimeDbSchema;
+import com.example.joguk.criminalintent.database.CrimeDbSchema.CrimeTable;
+
+import java.io.File;
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
 import java.util.List;
@@ -10,8 +19,8 @@ import java.util.UUID;
 
 public class CrimeLab {
     private static CrimeLab sCrimeLab;
-
-    private Map<UUID, Crime> mCrimes;
+    private Context mContext;
+    private SQLiteDatabase mDatabase;
 
     public static CrimeLab get(Context context) {
         if (sCrimeLab == null) {
@@ -21,30 +30,97 @@ public class CrimeLab {
     }
 
     private CrimeLab(Context context) {
-        mCrimes = new LinkedHashMap<>();
-//        for (int i = 0; i < 100; i++) {
-//            Crime crime = new Crime();
-//            crime.setTitle("Crime #" + i);
-//            crime.setSolved(i % 2 == 0);
-//            mCrimes.put(crime.getId(), crime);
-//        }
+        // init work
+        mContext = context.getApplicationContext();
+        mDatabase = new CrimeBaseHelper(mContext).getWritableDatabase();
+    }
+
+    private static ContentValues getContentValues(Crime crime) {
+        // ContentValues: android DB mapper 라고 생각
+        ContentValues values = new ContentValues();
+        values.put(CrimeTable.Cols.UUID, crime.getId().toString());
+        values.put(CrimeTable.Cols.TITLE, crime.getTitle());
+        values.put(CrimeTable.Cols.DATE, crime.getDate().getTime());
+        values.put(CrimeTable.Cols.SOLVED, crime.isSolved() ? 1 : 0);
+        values.put(CrimeTable.Cols.SUSPECT, crime.getSuspect());
+
+        return values;
     }
 
     public void addCrime(Crime c) {
-//        mCrimes.add(c);
-        mCrimes.put(c.getId(), c);
+        // 이제는 Hashmap에 넣는 것이 아닌 DB에 넣어야함
+        ContentValues values = getContentValues(c);
+        mDatabase.insert(CrimeTable.NAME, null, values);
+    }
+
+    public void updateCrime(Crime crime) {
+        String uuidString = crime.getId().toString();
+        ContentValues values = getContentValues(crime);
+        mDatabase.update(CrimeTable.NAME, values,
+                CrimeTable.Cols.UUID + " = ?",
+                new String[]{uuidString} // uuid 값으로 update
+        );
+    }
+
+    public void deleteCrime(UUID id) { // Crime이 와도 되고 id만 넘겨도 됩니다~
+        String uuidString = id.toString();
+        mDatabase.delete(CrimeTable.NAME,
+                CrimeTable.Cols.UUID + " = ?",
+                new String[]{uuidString}
+        );
+    }
+
+    private CrimeCursorWrapper queryCrimes(String whereClause, String[] whereArgs) {
+        Cursor cursor = mDatabase.query(
+                CrimeTable.NAME,
+                null, // columns - null selects all columns
+                whereClause,
+                whereArgs,
+                null, // groupBy
+                null, // having
+                CrimeTable.Cols.DATE + " desc"  // orderBy
+        );
+        return new CrimeCursorWrapper(cursor);
     }
 
     public List<Crime> getCrimes() {
-        return new ArrayList<>(mCrimes.values());
+        List<Crime> crimes = new ArrayList<>();
+        CrimeCursorWrapper cursor = queryCrimes(null, null);
+
+        try {
+            cursor.moveToFirst();
+            while (!cursor.isAfterLast()) {
+                crimes.add(cursor.getCrime());
+                cursor.moveToNext();
+            }
+        } finally {
+            cursor.close();
+        }
+
+        return crimes;
     }
 
     public Crime getCrime(UUID id) {
-        return mCrimes.get(id);
+        CrimeCursorWrapper cursor = queryCrimes(
+                CrimeTable.Cols.UUID + " = ?",
+                new String[]{id.toString()}
+        );
+
+        try {
+            if (cursor.getCount() == 0) {
+                return null;
+            }
+            cursor.moveToFirst();
+
+            return cursor.getCrime();
+        } finally {
+            cursor.close();
+        }
     }
 
-    public void deleteCrime(Crime crime) {
-        this.mCrimes.remove(crime);
+    public File getPhotoFile(Crime crime) {
+        File filesDir = mContext.getFilesDir();
+        return new File(filesDir, crime.getPhotoFilename());
     }
 
 //    private List<Crime> mCrimes;
