@@ -13,7 +13,7 @@ import android.util.Log;
 import java.util.List;
 import java.util.UUID;
 
-public class CrimePagerActivity extends AppCompatActivity {
+public class CrimePagerActivity extends AppCompatActivity implements CrimeFragment.Callbacks {
     private static final String EXTRA_CRIME_ID = "com.example.joguk.criminalintent.crime_id";
     private static final String EXTRA_CURRENT_POSITION = "com.example.joguk.criminalintent.current_position";
 
@@ -43,6 +43,7 @@ public class CrimePagerActivity extends AppCompatActivity {
                 Crime crime = mCrimes.get(position);
                 return CrimeFragment.newInstance(crime.getId());
             }
+
             @Override
             public int getCount() {
                 return mCrimes.size();
@@ -64,10 +65,12 @@ public class CrimePagerActivity extends AppCompatActivity {
                 intent.putExtra(EXTRA_CURRENT_POSITION, position);
                 setResult(RESULT_OK, intent);
             }
+
             @Override
             public void onPageScrollStateChanged(int state) {
 
             }
+
             @Override
             public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
 
@@ -77,11 +80,15 @@ public class CrimePagerActivity extends AppCompatActivity {
 
     public static int getCurrentPosition(Intent intent) {
         int position = -1;
-        position = (int)intent.getSerializableExtra(EXTRA_CURRENT_POSITION);
+        position = (int) intent.getSerializableExtra(EXTRA_CURRENT_POSITION);
         return position;
     }
 
     public void finishWithDelete() {
         finish();
+    }
+
+    @Override
+    public void onCrimeUpdated(Crime crime) {
     }
 }

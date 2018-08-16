@@ -1,6 +1,7 @@
 package com.example.joguk.criminalintent;
 
 import android.app.Activity;
+import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.content.pm.ResolveInfo;
@@ -48,6 +49,7 @@ public class CrimeFragment extends Fragment {
     private static final int REQUEST_TIME = 1;
     private static final int REQUEST_CONTACT = 1;
     private static final int REQUEST_PHOTO = 2;
+    private static final int REQUEST_DELETE_CONFIRM = 3;
 
     // Member variable
     private Crime mCrime;
@@ -60,6 +62,26 @@ public class CrimeFragment extends Fragment {
     private Button mReportButton;
     private ImageButton mPhotoButton;
     private ImageView mPhotoView;
+    private Callbacks mCallbacks;
+
+    /**
+     * Required interface for hosting activities
+     */
+    public interface Callbacks {
+        void onCrimeUpdated(Crime crime);
+    }
+
+    @Override
+    public void onAttach(Context context) {
+        super.onAttach(context);
+        mCallbacks = (Callbacks) context;
+    }
+
+    @Override
+    public void onDetach() {
+        super.onDetach();
+        mCallbacks = null;
+    }
 
     // create newInstance
     public static CrimeFragment newInstance(UUID crimeId) {
@@ -105,6 +127,7 @@ public class CrimeFragment extends Fragment {
             public void onTextChanged(
                     CharSequence s, int start, int before, int count) {
                 mCrime.setTitle(s.toString());
+                updateCrime();
             }
 
             @Override
@@ -145,6 +168,7 @@ public class CrimeFragment extends Fragment {
             public void onCheckedChanged(CompoundButton buttonView,
                                          boolean isChecked) {
                 mCrime.setSolved(isChecked);
+                updateCrime();
             }
         });
 
@@ -195,6 +219,13 @@ public class CrimeFragment extends Fragment {
         });
 
         mPhotoView = (ImageView) v.findViewById(R.id.crime_photo);
+        mPhotoView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = FullImageActivity.newInstance(getActivity(), mCrime.getPhotoFilename());
+                startActivity(intent);
+            }
+        });
         updatePhotoView();
 
         return v;
@@ -211,12 +242,14 @@ public class CrimeFragment extends Fragment {
         switch (item.getItemId()) {
             case R.id.delete_button:
                 // Delete Crime
-                CrimeLab lab = CrimeLab.get(this.getContext());
-                lab.deleteCrime(mCrime.getId());
+                FragmentManager manager = getFragmentManager();
+                ActionConfirmFragment dialog = ActionConfirmFragment.newInstance(getString(R.string.crime_delete_confirm));
+                dialog.setTargetFragment(CrimeFragment.this, REQUEST_DATE);
+                dialog.show(manager, DIALOG_DATE);
 
                 // go List Activity
-                CrimePagerActivity parent = (CrimePagerActivity) getActivity();
-                parent.finishWithDelete();
+//                CrimePagerActivity parent = (CrimePagerActivity) getActivity();
+//                parent.finishWithDelete();
                 return true;
             default:
                 return super.onOptionsItemSelected(item);
@@ -231,15 +264,22 @@ public class CrimeFragment extends Fragment {
 
         switch (requestCode) {
             case REQUEST_DATE:
+                if (data == null) {
+                    return;
+                }
                 Date date = (Date) data
                         .getSerializableExtra(DatePickerFragment.EXTRA_DATE);
                 mCrime.setDate(date);
                 updateDate();
+                updateCrime();
                 break;
 
 //            case REQUEST_TIME:
 //                break;
             case REQUEST_CONTACT:
+                if (data == null) {
+                    return;
+                }
                 Uri contactUri = data.getData();
                 // Specify which fields you want your query to return
                 // values for
@@ -258,18 +298,43 @@ public class CrimeFragment extends Fragment {
                     String suspect = c.getString(0);
                     mCrime.setSuspect(suspect);
                     mSuspectButton.setText(suspect);
+                    updateCrime();
                 } finally {
                     c.close();
                 }
                 break;
             case REQUEST_PHOTO:
+                if (data == null) {
+                    return;
+                }
                 Uri uri = FileProvider.getUriForFile(getActivity(), "com.example.joguk.criminalintent.fileprovider", mPhotoFile);
                 getActivity().revokeUriPermission(uri, Intent.FLAG_GRANT_WRITE_URI_PERMISSION);
                 updatePhotoView();
+                updateCrime();
+                break;
+
+            case REQUEST_DELETE_CONFIRM:
+                CrimeLab lab = CrimeLab.get(this.getContext());
+                lab.deleteCrime(mCrime.getId());
+
+                if (mPhotoFile == null || !mPhotoFile.exists()) {
+                    mPhotoView.setImageDrawable(null);
+                } else {
+                    Bitmap bitmap = PictureUtils.getScaledBitmap(mPhotoFile.getPath(), getActivity());
+                    mPhotoView.setImageBitmap(bitmap);
+                }
+
+                CrimePagerActivity parent = (CrimePagerActivity) getActivity();
+                parent.finishWithDelete();
                 break;
             default:
                 break;
         }
+    }
+
+    private void updateCrime() {
+        CrimeLab.get(getActivity()).updateCrime(mCrime);
+        mCallbacks.onCrimeUpdated(mCrime);
     }
 
     private void updateDate() {
@@ -287,8 +352,6 @@ public class CrimeFragment extends Fragment {
 
         String dateString = Crime.getDateString(mCrime.getDate())
                 + " " + Crime.getTimeString(mCrime.getDate());
-//        String dateFormat = "EEE, MMM dd";
-//        String dateString = DateFormat.format(dateFormat, mCrime.getDate()).toString();
 
         String suspect = mCrime.getSuspect();
         if (suspect == null) {
