@@ -32,12 +32,13 @@ public class ActionConfirmFragment extends DialogFragment {
     public Dialog onCreateDialog(@Nullable Bundle savedInstanceState) {
         CharSequence msg = (String) getArguments().getSerializable(ARG_MESSAGE);
         return new AlertDialog.Builder(getActivity())
-                .setTitle(R.string.time_picker_title)
+                .setTitle(msg)
                 .setPositiveButton(android.R.string.ok,
                         new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-
+                                sendResult(Activity.RESULT_OK, null);
+//                                getTargetFragment().onActivityResult();
                             }
                         })
                 .setNegativeButton(android.R.string.cancel,

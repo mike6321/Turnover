@@ -45,9 +45,7 @@ public class CrimePagerActivity extends AppCompatActivity implements CrimeFragme
             }
 
             @Override
-            public int getCount() {
-                return mCrimes.size();
-            }
+            public int getCount() { return mCrimes.size(); }
         });
 
         for (int i = 0; i < mCrimes.size(); i++) {

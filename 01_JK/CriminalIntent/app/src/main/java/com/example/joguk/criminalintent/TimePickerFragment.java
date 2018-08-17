@@ -22,10 +22,10 @@ import java.util.GregorianCalendar;
 public class TimePickerFragment extends DialogFragment{
     // Static Variable
     private static final String ARG_TIME = "time";
-    private TimePicker mTimePicker;
+    public static final String EXTRA_TIME = "com.example.joguk.criminalintent.time";
 
     // Member Variable
-    public static final String EXTRA_TIME = "com.bignerdranch.android.criminalintent.time";
+    private TimePicker mTimePicker;
 
     // Create NewInstance
     public static TimePickerFragment newInstance(Date date) {

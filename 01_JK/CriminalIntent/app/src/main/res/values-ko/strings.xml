@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">범죄 기록</string>
+    <string name="crime_title_hint">범죄의 제목을 입력하세요.</string>
+    <string name="crime_title_label">제목</string>
+    <string name="crime_details_label">상세</string>
+    <string name="crime_solved_label">해결됨</string>
+    <string name="date_picker_title">일자:</string>
+    <string name="time_picker_title">시간:</string>
+    <string name="new_crime">새로운 범죄</string>
+    <string name="show_subtitle">부제목 표시</string>
+    <string name="hide_subtitle">부제목 숨기기</string>
+    <string name="subtitle_format">%1$d 범죄</string>
+    <string name="delete_crime_button">범죄 삭제</string>
+    <string name="no_title">제목 없음</string>
+    <string name="crime_suspect_text">Choose Suspect</string>
+    <string name="crime_report_text">범죄기록 보내기</string>
+    <string name="crime_report">%1$s!      The crime was discovered on %2$s. %3$s, and %4$s    </string>
+    <string name="crime_report_solved">The case is solved</string>
+    <string name="crime_report_unsolved">The case is not solved</string>
+    <string name="crime_report_no_suspect">there is no suspect.</string>
+    <string name="crime_report_suspect">the suspect is %s.</string>
+    <string name="crime_report_subject">CriminalIntent Crime Report</string>
+    <string name="send_report">Send crime report via</string>
+    <string name="crime_delete_confirm">Are you sure yo delete this crime</string>
+    <string name="paste_image">Paste Image</string>
+</resources>

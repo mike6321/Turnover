@@ -19,6 +19,7 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.content.FileProvider;
 import android.text.Editable;
 import android.text.TextWatcher;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuInflater;
@@ -33,6 +34,7 @@ import android.widget.EditText;
 import android.text.format.DateFormat;
 import android.widget.ImageButton;
 import android.widget.ImageView;
+import android.widget.Toast;
 
 import java.io.File;
 import java.text.SimpleDateFormat;
@@ -47,9 +49,9 @@ public class CrimeFragment extends Fragment {
     private static final String DIALOG_DATE = "DialogDate";
     private static final int REQUEST_DATE = 0;
     private static final int REQUEST_TIME = 1;
-    private static final int REQUEST_CONTACT = 1;
-    private static final int REQUEST_PHOTO = 2;
-    private static final int REQUEST_DELETE_CONFIRM = 3;
+    private static final int REQUEST_CONTACT = 2;
+    private static final int REQUEST_PHOTO = 3;
+    private static final int REQUEST_DELETE_CONFIRM = 4;
 
     // Member variable
     private Crime mCrime;
@@ -74,7 +76,9 @@ public class CrimeFragment extends Fragment {
     @Override
     public void onAttach(Context context) {
         super.onAttach(context);
-        mCallbacks = (Callbacks) context;
+        if( context instanceof CrimeFragment.Callbacks ) {
+            mCallbacks = (Callbacks) context;
+        }
     }
 
     @Override
@@ -118,14 +122,12 @@ public class CrimeFragment extends Fragment {
         mTitleField.setText(mCrime.getTitle());
         mTitleField.addTextChangedListener(new TextWatcher() {
             @Override
-            public void beforeTextChanged(
-                    CharSequence s, int start, int count, int after) {
+            public void beforeTextChanged(CharSequence s, int start, int count, int after) {
                 // This space intentionally left blank
             }
 
             @Override
-            public void onTextChanged(
-                    CharSequence s, int start, int before, int count) {
+            public void onTextChanged(CharSequence s, int start, int before, int count) {
                 mCrime.setTitle(s.toString());
                 updateCrime();
             }
@@ -153,8 +155,7 @@ public class CrimeFragment extends Fragment {
             @Override
             public void onClick(View view) {
                 FragmentManager manager = getFragmentManager();
-                TimePickerFragment dialog = TimePickerFragment
-                        .newInstance(mCrime.getDate());
+                TimePickerFragment dialog = TimePickerFragment.newInstance(mCrime.getDate());
                 dialog.setTargetFragment(CrimeFragment.this, REQUEST_TIME);
                 dialog.show(manager, DIALOG_DATE);
             }
@@ -244,7 +245,7 @@ public class CrimeFragment extends Fragment {
                 // Delete Crime
                 FragmentManager manager = getFragmentManager();
                 ActionConfirmFragment dialog = ActionConfirmFragment.newInstance(getString(R.string.crime_delete_confirm));
-                dialog.setTargetFragment(CrimeFragment.this, REQUEST_DATE);
+                dialog.setTargetFragment(CrimeFragment.this, REQUEST_DELETE_CONFIRM);
                 dialog.show(manager, DIALOG_DATE);
 
                 // go List Activity
@@ -274,8 +275,16 @@ public class CrimeFragment extends Fragment {
                 updateCrime();
                 break;
 
-//            case REQUEST_TIME:
-//                break;
+            case REQUEST_TIME:
+                if (data == null) {
+                    return;
+                }
+                date = (Date) data
+                        .getSerializableExtra(TimePickerFragment.EXTRA_TIME);
+                mCrime.setDate(date);
+                updateDate();
+                updateCrime();
+                break;
             case REQUEST_CONTACT:
                 if (data == null) {
                     return;
@@ -318,14 +327,17 @@ public class CrimeFragment extends Fragment {
                 lab.deleteCrime(mCrime.getId());
 
                 if (mPhotoFile == null || !mPhotoFile.exists()) {
-                    mPhotoView.setImageDrawable(null);
+
                 } else {
-                    Bitmap bitmap = PictureUtils.getScaledBitmap(mPhotoFile.getPath(), getActivity());
-                    mPhotoView.setImageBitmap(bitmap);
+                    mPhotoFile.delete();
                 }
 
-                CrimePagerActivity parent = (CrimePagerActivity) getActivity();
-                parent.finishWithDelete();
+                if (getActivity() instanceof CrimePagerActivity) {
+                    getActivity().finish();
+                } else if (getActivity() instanceof CrimeListActivity) {
+                    CrimeListFragment parent = (CrimeListFragment) getFragmentManager().getFragments().get(0);
+                    parent.applyCrimeDeleted();
+                }
                 break;
             default:
                 break;
@@ -366,9 +378,11 @@ public class CrimeFragment extends Fragment {
     private void updatePhotoView() {
         if (mPhotoFile == null || !mPhotoFile.exists()) {
             mPhotoView.setImageDrawable(null);
+//            mPhotoView.setContentDescription( getString(R.string.crime_photo_no_image_description));
         } else {
             Bitmap bitmap = PictureUtils.getScaledBitmap(mPhotoFile.getPath(), getActivity());
             mPhotoView.setImageBitmap(bitmap);
+//            mPhotoView.setContentDescription( getString(R.string.crime_photo_image_description));
         }
     }
 }
