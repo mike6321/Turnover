@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
         android:id="@+id/paste_image"
-        android:icon="@drawable/ic_crime_delete"
+        android:icon="@drawable/ic_crime_paste"
         android:title="@string/paste_image"
         app:showAsAction="ifRoom|withText" />
 </menu>

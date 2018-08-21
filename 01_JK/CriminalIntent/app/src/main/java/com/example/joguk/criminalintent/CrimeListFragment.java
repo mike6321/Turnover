@@ -45,6 +45,7 @@ public class CrimeListFragment extends Fragment {
      */
     public interface Callbacks {
         void onCrimeSelected(Crime crime);
+
         boolean isDetailAvail();
     }
 
@@ -86,13 +87,13 @@ public class CrimeListFragment extends Fragment {
         // initailize mDetailId, mSelectedIndex
         CrimeLab crimeLab = CrimeLab.get(getActivity());
         List<Crime> crimes = crimeLab.getCrimes();
-        if(mSelectedIndex < 0 || mSelectedIndex >= crimes.size()){
+        if (mSelectedIndex < 0 || mSelectedIndex >= crimes.size()) {
 //        if(mDetailId == null){
-            if(crimes.size() > 0) {
+            if (crimes.size() > 0) {
                 mSelectedIndex = 0;
                 Crime crime = crimes.get(0);
                 mDetailId = crime.getId();
-                if(mCallbacks.isDetailAvail()){
+                if (mCallbacks.isDetailAvail()) {
                     mCallbacks.onCrimeSelected(crime);
                 }
             }
@@ -149,17 +150,17 @@ public class CrimeListFragment extends Fragment {
         }
 
         // check mDetailId validity
-        if(mDetailId != null) {
+        if (mDetailId != null) {
             CrimeLab crimeLab = CrimeLab.get(getActivity());
             List<Crime> crimes = crimeLab.getCrimes();
             boolean validDetailId = false;
-            for (Crime oneCrime : crimes){
-                if(oneCrime.getId().equals(mDetailId)){
+            for (Crime oneCrime : crimes) {
+                if (oneCrime.getId().equals(mDetailId)) {
                     validDetailId = true;
                     break;
                 }
             }
-            if(!validDetailId && crimes.size()>0){
+            if (!validDetailId && crimes.size() > 0) {
                 mDetailId = crimes.get(0).getId();
             }
         }
@@ -171,7 +172,7 @@ public class CrimeListFragment extends Fragment {
     public void onSaveInstanceState(Bundle outState) {
         super.onSaveInstanceState(outState);
         outState.putBoolean(SAVED_SUBTITLE_VISIBLE, mSubtitleVisible);
-        if (mDetailId != null){
+        if (mDetailId != null) {
             outState.putString(SAVED_DETAIL_ID, mDetailId.toString());
         } else {
             outState.putString(SAVED_DETAIL_ID, null);
@@ -244,16 +245,16 @@ public class CrimeListFragment extends Fragment {
         updateSubtitle();
     }
 
-    public void applyCrimeDeleted(){
+    public void applyCrimeDeleted() {
         CrimeLab crimeLab = CrimeLab.get(getActivity());
         List<Crime> crimes = crimeLab.getCrimes();
         Crime crime = null;
-        if (crimes.size() > 0 ) {
+        if (crimes.size() > 0) {
             crime = crimes.get(0);
             mDetailId = crimes.get(0).getId();
         }
         updateUI();
-        if(crime != null) {
+        if (crime != null) {
             mCallbacks.onCrimeSelected(crime);
         }
     }
@@ -288,7 +289,7 @@ public class CrimeListFragment extends Fragment {
             mSolvedImageView.setVisibility(crime.isSolved() ? View.VISIBLE : View.GONE);
 
             // Click item set Background Color
-            if(mCallbacks.isDetailAvail()){
+            if (mCallbacks.isDetailAvail()) {
                 itemView.setBackgroundColor((mCrime.getId().equals(mDetailId)) ?
                         Color.rgb(210, 210, 210) :
                         Color.rgb(255, 255, 255)

@@ -4,6 +4,7 @@ import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
+import android.util.Log;
 
 import com.example.joguk.criminalintent.database.CrimeBaseHelper;
 import com.example.joguk.criminalintent.database.CrimeCursorWrapper;
@@ -50,7 +51,8 @@ public class CrimeLab {
     public void addCrime(Crime c) {
         // 이제는 Hashmap에 넣는 것이 아닌 DB에 넣어야함
         ContentValues values = getContentValues(c);
-        mDatabase.insert(CrimeTable.NAME, null, values);
+        long row = mDatabase.insert(CrimeTable.NAME, null, values);
+        Log.d("DB", Long.toString(row));
     }
 
     public void updateCrime(Crime crime) {

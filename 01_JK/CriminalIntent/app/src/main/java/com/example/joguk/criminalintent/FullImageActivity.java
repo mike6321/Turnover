@@ -12,6 +12,7 @@ import android.support.annotation.Nullable;
 import android.support.v4.app.FragmentManager;
 import android.support.v7.app.AppCompatActivity;
 import android.util.AttributeSet;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -32,11 +33,18 @@ public class FullImageActivity extends AppCompatActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setContentView(R.layout.full_image);
 
         mPhotoFile = (File) getIntent().getSerializableExtra(EXTRA_FILE_ID);
-
         mPhotoView = (ImageView) findViewById(R.id.full_image_view);
+
         updatePhotoView();
+    }
+
+    public static Intent newInstance(Context packageContext, File photoFile) {
+        Intent intent = new Intent(packageContext, FullImageActivity.class);
+        intent.putExtra(EXTRA_FILE_ID, photoFile);
+        return intent;
     }
 
     private void updatePhotoView() {
@@ -44,14 +52,9 @@ public class FullImageActivity extends AppCompatActivity {
             mPhotoView.setImageDrawable(null);
         } else {
             Bitmap bitmap = PictureUtils.getScaledBitmap(mPhotoFile.getPath(), this);
+            Log.d("bitmap: ", bitmap.toString());
             mPhotoView.setImageBitmap(bitmap);
         }
-    }
-
-    public static Intent newInstance(Context packageContext, String photoFileName) {
-        Intent intent = new Intent(packageContext, FullImageActivity.class);
-        intent.putExtra(EXTRA_FILE_ID, mPhotoFile);
-        return intent;
     }
 
     @Override

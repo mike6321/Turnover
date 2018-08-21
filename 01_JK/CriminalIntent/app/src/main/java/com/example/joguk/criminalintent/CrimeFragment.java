@@ -166,8 +166,7 @@ public class CrimeFragment extends Fragment {
         mSolvedCheckBox.setChecked(mCrime.isSolved());
         mSolvedCheckBox.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
-            public void onCheckedChanged(CompoundButton buttonView,
-                                         boolean isChecked) {
+            public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
                 mCrime.setSolved(isChecked);
                 updateCrime();
             }
@@ -223,7 +222,8 @@ public class CrimeFragment extends Fragment {
         mPhotoView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = FullImageActivity.newInstance(getActivity(), mCrime.getPhotoFilename());
+                Log.d("photoFileName: ", mCrime.getPhotoFilename());
+                Intent intent = FullImageActivity.newInstance(getActivity(), CrimeLab.get(getContext()).getPhotoFile(mCrime));
                 startActivity(intent);
             }
         });
@@ -327,7 +327,6 @@ public class CrimeFragment extends Fragment {
                 lab.deleteCrime(mCrime.getId());
 
                 if (mPhotoFile == null || !mPhotoFile.exists()) {
-
                 } else {
                     mPhotoFile.delete();
                 }
@@ -378,11 +377,9 @@ public class CrimeFragment extends Fragment {
     private void updatePhotoView() {
         if (mPhotoFile == null || !mPhotoFile.exists()) {
             mPhotoView.setImageDrawable(null);
-//            mPhotoView.setContentDescription( getString(R.string.crime_photo_no_image_description));
         } else {
             Bitmap bitmap = PictureUtils.getScaledBitmap(mPhotoFile.getPath(), getActivity());
             mPhotoView.setImageBitmap(bitmap);
-//            mPhotoView.setContentDescription( getString(R.string.crime_photo_image_description));
         }
     }
 }
