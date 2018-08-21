@@ -1,0 +1,1000 @@
+﻿1	:	포기하다, 버리다	:	abandon	:	anomalous	:	benevolent	:	stately	:	1	:	*abandon(포기하다, 버리다) *anomalous(이례(예외)적인)	:	*benevolent(자비로운, 인정많은) *stately(당당한; 위엄 있는)	:	0
+2	:	(지위,평판 등을)낮추다	:	abase	:	anonymous	:	benign	:	collide	:	1	:	*abase((지위,평판 등을)낮추다) *anonymous(익명(가명)의)	:	*benign(친절한, 자비로운) *collide(충돌하다, 상충되다)	:	0
+3	:	…를 가로질러	:	abate	:	antagonist	:	bequeath	:	colloquial	:	1	:	*abate(…를 가로질러) *antagonist(적대자, 반대자)	:	*bequeath((재산 등을)물려 주다) *colloquial(일상 회화의,구어(체)의)	:	0
+4	:	(글자,이야기를)단축하다	:	abbreviate	:	antecedent	:	berate	:	collude	:	1	:	*abbreviate((글자,이야기를)단축하다) *antecedent(앞서는,선례,선행자)	:	*berate(호되게 꾸짖다) *collude(공모(결탁)하다)	:	0
+5	:	퇴위하다,포기하다	:	abdicate	:	anterior	:	bereave	:	colossal	:	1	:	*abdicate(퇴위하다,포기하다) *anterior((시간적으로)앞의,이전의)	:	*bereave((생명, 희망을)빼앗다) *colossal(거대한)	:	0
+6	:	(특히 여성을)유괴하다	:	abduct	:	antibiotic	:	beseech	:	combustion	:	1	:	*abduct((특히 여성을)유괴하다) *antibiotic(항생제)	:	*beseech(간절히 원하다(요청하다)) *combustion(연소)	:	0
+7	:	정도를 벗어난, 변태적인	:	aberrant	:	anticipate	:	beset	:	commemorate	:	1	:	*aberrant(정도를 벗어난, 변태적인) *anticipate(예상(예측)하다)	:	*beset(포위(공격)하다) *commemorate((특히 의식을 통해)기념하다)	:	0
+8	:	부추기다, 선동하다	:	abet	:	antidote	:	besiege	:	commence	:	1	:	*abet(부추기다, 선동하다) *antidote(해독제)	:	*besiege(포위(공격)하다) *commence(시작하다, 학위를 받다)	:	0
+9	:	정지, 중단 (상태)	:	abeyance	:	antipathy	:	bethink	:	commend	:	1	:	*abeyance(정지, 중단 (상태)) *antipathy(협오, 반감)	:	*bethink(숙고하다, ~을 생각해내다) *commend(칭찬하다, 위탁하다)	:	0
+10	:	(매우)혐오하다	:	abhor	:	antique	:	betroth	:	commensurate	:	1	:	*abhor((매우)혐오하다) *antique(고풍스러운,골동품)	:	*betroth(약혼시키다) *commensurate(같은 양의, 균형이 잡힌)	:	0
+11	:	비참한, 비굴한	:	abject	:	antiseptic	:	bewail	:	commiserate	:	1	:	*abject(비참한, 비굴한) *antiseptic(방부제(의))	:	*bewail(몹시 슬퍼하다) *commiserate(동정하다, 가엾게 여기다)	:	0
+12	:	침전물	:	sediment	:	apathy	:	bewitch	:	commodious	:	1	:	*sediment(침전물) *apathy(냉담,무관심)	:	*bewitch(마법을 걸다, 매혹하다) *commodious((방 따위가)널찍한)	:	0
+13	:	혐오하다,중오하다	:	abominate	:	aplomb	:	biennial	:	commonplace	:	1	:	*abominate(혐오하다,중오하다) *aplomb(침착, 평정)	:	*biennial(2년마다의,2년생인) *commonplace(흔한, 평범(진부)한)	:	0
+14	:	원시의,토착의	:	aboriginal	:	apostle	:	bigotry	:	commotion	:	1	:	*aboriginal(원시의,토착의) *apostle(그리스도의 12제자,사도)	:	*bigotry(편협(완고)(함)) *commotion(소요, 소동)	:	0
+15	:	낙태	:	abortion	:	apotheosis	:	bilateral	:	compact	:	1	:	*abortion(낙태) *apotheosis(신격화)	:	*bilateral(양쪽의 ,상호간의) *compact(계약, 협정)	:	0
+16	:	닳게 하는, 연마용의	:	abrasive	:	appall	:	binary	:	compassion	:	1	:	*abrasive(닳게 하는, 연마용의) *appall(소름끼치게(섬뜩하게)하다)	:	*binary(둘로 이루어진) *compassion(연민, 동정)	:	0
+17	:	폐지하다	:	abrogate	:	apparatus	:	bizarre	:	compatible	:	1	:	*abrogate(폐지하다) *apparatus(기구, 장치)	:	*bizarre(좀별난, 기괴한) *compatible(양립할수있는, 호환되는)	:	0
+18	:	갑작스러운, 무뚝꾹한	:	abrupt	:	apparel	:	bland	:	compensate	:	1	:	*abrupt(갑작스러운, 무뚝꾹한) *apparel(옷, 복장, (옷을)입히다)	:	*bland((태도가)부드러운) *compensate(보상하다, 보충(상쇄)하다)	:	0
+19	:	(나쁜짓을하고)도망하다	:	abscond	:	apparition	:	blaspheme	:	compile	:	1	:	*abscond((나쁜짓을하고)도망하다) *apparition(환영, 유령)	:	*blaspheme((신성한 것을)모독하다) *compile((자료를)모으다, 편찬하다)	:	0
+20	:	면제(용서)하다	:	absolve	:	appease	:	blatant	:	complacent	:	1	:	*absolve(면제(용서)하다) *appease(달래다, 진정시키다)	:	*blatant(뻔한, 뻔뻔스러운) *complacent(만족해 하는, 자기 만족의)	:	0
+21	:	삼가다, 그만두다	:	abstain	:	append	:	bliss	:	complaisant	:	1	:	*abstain(삼가다, 그만두다) *append((말,글을)추가하다)	:	*bliss((더없는)행복) *complaisant(고분고분한, 공손한)	:	0
+22	:	심오한, 난해한	:	abstruse	:	applaud	:	blithe	:	complement	:	1	:	*abstruse(심오한, 난해한) *applaud(박수갈채하다)	:	*blithe(즐거운, 명랑한) *complement(보충물, 보어, 보충하다)	:	0
+23	:	모으다, 축적하다	:	accumulate	:	apposite	:	blunder	:	complexion	:	1	:	*accumulate(모으다, 축적하다) *apposite(적합(적절)한)	:	*blunder(큰실수를 저지르다) *complexion(안색,용모,(사태의)양상)	:	0
+24	:	인정하다	:	acknowledge	:	appraise	:	bogus	:	complicate	:	1	:	*acknowledge(인정하다) *appraise(평가하다)	:	*bogus(가짜의) *complicate(복잡하게 하다)	:	0
+25	:	묵인하다,(마지못해)따르다	:	acquiesce	:	apprehend	:	bolster	:	compliment	:	1	:	*acquiesce(묵인하다,(마지못해)따르다) *apprehend(붙잡다,염려하다,이해하다)	:	*bolster(지지하다) *compliment(칭찬(찬사)를 보내다)	:	0
+26	:	도제,견습(수습)생	:	acquit	:	apprentice	:	bombastic	:	component	:	2	:	*acquit(석방하다, 무죄로 하다) *apprentice(도제,견습(수습)생)	:	*bombastic(과장된) *component(성분, 구성요소)	:	0
+27	:	~에게 알리다, 통지하다	:	acrid	:	apprise	:	bounteous	:	comprehend	:	2	:	*acrid((냄새 등이)콕 쏘는) *apprise(~에게 알리다, 통지하다)	:	*bounteous(후한, 풍부한) *comprehend(이해(파악)하다, 포함하다)	:	0
+28	:	(공식적인)승인, 인가	:	acrimonious	:	approbation	:	bountiful	:	compress	:	2	:	*acrimonious(신랄한) *approbation((공식적인)승인, 인가)	:	*bountiful(아까워 하지 않는, 후한) *compress(압축(요약)하다, 압박 붕대)	:	0
+29	:	(허가없이)도용하다, 적절한	:	adamant	:	appropriate	:	bravado	:	comprise	:	2	:	*adamant((의지가)단호한) *appropriate((허가없이)도용하다, 적절한)	:	*bravado(허세) *comprise(포함하다, 이루어지다)	:	0
+30	:	근접하다, 대략적인	:	addict	:	approximate	:	brazen	:	compunction	:	2	:	*addict(~에 빠지다, 중독자) *approximate(근접하다, 대략적인)	:	*brazen(오만한) *compunction(양심의 가책)	:	0
+31	:	소질, 적성	:	adept	:	aptitude	:	breach	:	compute	:	2	:	*adept(숙련된, 능숙한,전문가) *aptitude(소질, 적성)	:	*breach(어김, 위반) *compute(계산(산출)하다)	:	0
+32	:	경작에 적합한	:	adhere	:	arable	:	brevity	:	concave	:	2	:	*adhere(들러붙다, 고수하다) *arable(경작에 적합한)	:	*brevity(간결함) *concave(오목한)	:	0
+33	:	제멋데로인, 임의의	:	adjacent	:	arbitrary	:	bristle	:	concede	:	2	:	*adjacent(근접(인접)한) *arbitrary(제멋데로인, 임의의)	:	*bristle(격분하다, (털이)곤두서다) *concede(인정(양보)하다)	:	0
+34	:	고고학	:	adjourn	:	archaeology	:	outlandish	:	conciliate	:	2	:	*adjourn((회의를)휴회(연기)하다) *archaeology(고고학)	:	*outlandish(이국풍의, 기이한) *conciliate(달래다, 진정시키다)	:	0
+35	:	고대의,고풍의	:	adjunct	:	archaic	:	brusque	:	concoct	:	2	:	*adjunct(부수물, 수식어구) *archaic(고대의,고풍의)	:	*brusque((말,행동 등이)무뚝뚝한) *concoct(섞어서 만들다,(음모를)꾸미다)	:	0
+36	:	공문서(보관소)	:	administer	:	archive	:	buttress	:	concourse	:	2	:	*administer(관리하다,(약을)복용시키다) *archive(공문서(보관소))	:	*buttress(지지(물), 지지하다) *concourse(군중, 광장)	:	0
+37	:	힘든	:	admonish	:	arduous	:	buxom	:	concur	:	2	:	*admonish(훈계하다, 경고하다) *arduous(힘든)	:	*buxom((여자가)건강하고 쾌활한) *concur(일치하다, 동시에 일어나다)	:	0
+38	:	기소(고발)하다	:	adopt	:	arraign	:	by pass	:	condemn	:	2	:	*adopt(채택(채용)하다, 양자로 삼다) *arraign(기소(고발)하다)	:	*by pass(우회로,~을 우회하다) *condemn(비난하다, 유죄 판결하다)	:	0
+39	:	(군대를)정렬시키다	:	adore	:	array	:	bygone	:	condense	:	2	:	*adore(숭배하다, 존경하다) *array((군대를)정렬시키다)	:	*bygone(과거의,지나간) *condense(압축하다, 고체화되다)	:	0
+40	:	거만(오만)한	:	adorn	:	arrogant	:	by-product	:	condescend	:	2	:	*adorn(꾸미다, 장식하다) *arrogant(거만(오만)한)	:	*by-product(부산물) *condescend(겸손하게 굴다)	:	0
+41	:	기능공	:	adroit	:	artisan	:	bystander	:	condole	:	2	:	*adroit(능숙한, 재치있는) *artisan(기능공)	:	*bystander(방관자,구경꾼) *condole((죽음을)애도하다)	:	0
+42	:	확인하다, 알아내다	:	adulation	:	ascertain	:	cadaverous	:	condone	:	2	:	*adulation(아첨,칭찬) *ascertain(확인하다, 알아내다)	:	*cadaverous(시체 같은, 창백한) *condone(용서하다)	:	0
+43	:	~의 탓으로 생각하다	:	adulterate	:	ascribe	:	cajole	:	confederate	:	2	:	*adulterate((불순물을)섞다) *ascribe(~의 탓으로 생각하다)	:	*cajole(감언으로 속이다) *confederate(동맹하다)	:	0
+44	:	무균의,방부성의	:	adumbrate	:	aseptic	:	callous	:	confer	:	2	:	*adumbrate((어렴풋이) 윤곽을 드러내다) *aseptic(무균의,방부성의)	:	*callous((피부 등이)굳어진, 무감각한) *confer(주다,수여하다,상담(협의)하다)	:	0
+45	:	악담을 퍼붓다, 비방하다	:	advent	:	asperse	:	callow	:	confine	:	2	:	*advent((중요한 사건)도래, 재림) *asperse(악담을 퍼붓다, 비방하다)	:	*callow(경험이 없는) *confine(한정(제한)하다,~을 가두다)	:	0
+46	:	열망하다	:	adventitious	:	aspire	:	calumny	:	confiscate	:	2	:	*adventitious(우연한) *aspire(열망하다)	:	*calumny(비방) *confiscate(몰수(압수)하다)	:	0
+47	:	공격하다, 괴롭히다	:	adverse	:	assail	:	candor	:	conform	:	2	:	*adverse(반대의, 불리한) *assail(공격하다, 괴롭히다)	:	*candor(솔직) *conform((법률에)따르다, 순응하다)	:	0
+48	:	공격, 폭행하다	:	advert	:	assault	:	canvass	:	confound	:	2	:	*advert(언급하다, 주목하다) *assault(공격, 폭행하다)	:	*canvass(선거 운동하다) *confound(혼동하다, 난처하게하다)	:	0
+49	:	동의하다,동의, 찬성	:	advocate	:	assent	:	capacious	:	confront	:	2	:	*advocate(지지하다, 옹호하다) *assent(동의하다,동의, 찬성)	:	*capacious(많이 들어가는) *confront((어려움에)맞서다, 대항하다)	:	0
+50	:	가치있는 것, 자산	:	affable	:	asset	:	capitulate	:	congenial	:	2	:	*affable(상냥한, 붙임성 있는) *asset(가치있는 것, 자산)	:	*capitulate(항복하다) *congenial(같은 성질의, 마음이 맞는)	:	0
+51	:	변덕	:	affiance	:	assiduous	:	caprice	:	congenital	:	3	:	*affiance(계약, 약혼) *assiduous(근면한, 주도 면밀한)	:	*caprice(변덕) *congenital(선천적인)	:	0
+52	:	뒤집(히)다	:	affiliate	:	assimilate	:	capsize	:	congest	:	3	:	*affiliate(가입시키다, 합병시키다) *assimilate(동화하다,(음식)소화하다)	:	*capsize(뒤집(히)다) *congest(넘치게하다,충혈시키다)	:	0
+53	:	(신문, 기사 등의)제목, 자막	:	affinity	:	assuage	:	caption	:	conglomerate	:	3	:	*affinity(유사성,(강한)호감,애정) *assuage(누그러뜨리다, 가라앉히다)	:	*caption((신문, 기사 등의)제목, 자막) *conglomerate(집단, (거대한)복합 기업)	:	0
+54	:	(전쟁터) 대학살	:	affluent	:	astound	:	carnage	:	congregate	:	3	:	*affluent(풍요(부유)한) *astound(깜짝 놀라게 하다)	:	*carnage((전쟁터) 대학살) *congregate(모이다,집합시키다)	:	0
+55	:	육식성의	:	affront	:	astral	:	carnivorous	:	conjecture	:	3	:	*affront(모욕를 주다, 창피) *astral(별의)	:	*carnivorous(육식성의) *conjecture(추측하다, 추측, 짐작)	:	0
+56	:	죽음 동물의 고기	:	afloat	:	astray	:	carrion	:	conjure	:	3	:	*afloat((물에)떠 있는) *astray(잘못된 길에 빠져)	:	*carrion(죽음 동물의 고기) *conjure(마술로 좌우하다)	:	0
+57	:	폭포(처럼 떨어지다)	:	aftermath	:	astute	:	cascade	:	connubial	:	3	:	*aftermath(결과,여파) *astute(빈틈없는)	:	*cascade(폭포(처럼 떨어지다)) *connubial(결혼(부부)의)	:	0
+58	:	사상자	:	agenda	:	asunder	:	casualty	:	conscript	:	3	:	*agenda(의제) *asunder(낱낱으로, 흩어져)	:	*casualty(사상자) *conscript(징집(징병)하다)	:	0
+59	:	큰 재해	:	aggravate	:	atheist	:	catastrophe	:	consecrate	:	3	:	*aggravate(악화시키다) *atheist(무신론자)	:	*catastrophe(큰 재해) *consecrate(신성하게 하다, 바치다)	:	0
+60	:	천주교의, 카톨릭교회의	:	aggregate	:	atone	:	catholic	:	consecutive	:	3	:	*aggregate(합계가 ~이 되다, 합계) *atone((죄를)보상하다, 갚다)	:	*catholic(천주교의, 카톨릭교회의) *consecutive(연속적인,일관된)	:	0
+61	:	하늘의	:	aggressive	:	atrocious	:	celestial	:	consensus	:	3	:	*aggressive(공격적인, 적극적인) *atrocious(극악한)	:	*celestial(하늘의) *consensus((의견 등의)일치, 합의, 여론)	:	0
+62	:	비난(하다)	:	aggrieve	:	atrophy	:	censure	:	crate	:	3	:	*aggrieve(괴롭히다) *atrophy(발육 불능, 약화시키다)	:	*censure(비난(하다)) *crate(나무상자, 틀상자)	:	0
+63	:	원통함, 억울함, 분함	:	agile	:	attest	:	chagrin	:	consign	:	3	:	*agile(민첩한) *attest(입증(증명)하다)	:	*chagrin(원통함, 억울함, 분함) *consign(맡기다, (판매를)위탁하다)	:	0
+64	:	혼돈된	:	agitate	:	attire	:	chaotic	:	console	:	3	:	*agitate(자극하다, 동요하게 하다) *attire((옷을 차려)입히다, 복장)	:	*chaotic(혼돈된) *console((슬픔,고통을)위로하다)	:	0
+65	:	아는 체하는 사람	:	agnostic	:	attorney	:	charlatan	:	consolidate	:	3	:	*agnostic(불가지론자(의)) *attorney(대리인, 변호사)	:	*charlatan(아는 체하는 사람) *consolidate(합병(강화)하다)	:	0
+66	:	(암석,의견 등의 갈라진) 틈	:	akin	:	attribute	:	chasm	:	consort	:	3	:	*akin(친척의, 유사한) *attribute(~의 탓으로 돌리다, 속성)	:	*chasm((암석,의견 등의 갈라진) 틈) *consort((나쁜 사람들과)사귀다)	:	0
+67	:	정숙한	:	alacrity	:	atypical	:	chaste	:	conspire	:	3	:	*alacrity(민활함) *atypical(비정형(불규칙)의)	:	*chaste(정숙한) *conspire(음모를 꾸미다, 공모하다)	:	0
+68	:	속임수	:	alienate	:	audacity	:	chicanery	:	constellation	:	3	:	*alienate(소외(멀리)하다, 양도하다 ) *audacity(대담, 안하무인)	:	*chicanery(속임수) *constellation(별자리)	:	0
+69	:	꾸짖다	:	allay	:	augment	:	chide	:	constrict	:	3	:	*allay((공포,고통따위를)가라앉히다) *augment(증가시키다(하다))	:	*chide(꾸짖다) *constrict(조이다, 압축(수축)하다)	:	0
+70	:	화를 잘 내는	:	allege	:	auspicious	:	choleric	:	construe	:	3	:	*allege((증거없이)주장하다) *auspicious(길조의, 성공을 예고하는)	:	*choleric(화를 잘 내는) *construe((말,행동 등을)해석하다)	:	0
+71	:	(병이)만성인, 상습적인	:	alleviate	:	austerity	:	chronic	:	consummate	:	3	:	*alleviate((고통을)완화시키다) *austerity(엄격(함))	:	*chronic((병이)만성인, 상습적인) *consummate(성취하다, 완성하다)	:	0
+72	:	회전, 배선, 회로, 리그	:	allocate	:	authenticate	:	circuit	:	contaminate	:	3	:	*allocate(할당하다, 배분하다) *authenticate(진짜임을 증명하다)	:	*circuit(회전, 배선, 회로, 리그) *contaminate(더럽히다,오염시키다)	:	0
+73	:	원주,둘레	:	alloy	:	autobiography	:	circumference	:	contemn	:	3	:	*alloy(합금하다,(질을)떨어뜨리다) *autobiography(자서전)	:	*circumference(원주,둘레) *contemn(~을 경멸하다)	:	0
+74	:	둘러 말하기, 완곡어법	:	allude	:	autocracy	:	circumlocution	:	context	:	3	:	*allude((넌지시)암시하다) *autocracy(전제정치,독재정부)	:	*circumlocution(둘러 말하기, 완곡어법) *context((글의) 전후 관계, 문맥)	:	0
+75	:	둘레에 선을 긋다, 가두다	:	allure	:	autograph	:	circumscribe	:	contiguous	:	3	:	*allure(유혹(매혹)하다, 유혹) *autograph(자필서명,서명하다)	:	*circumscribe(둘레에 선을 긋다, 가두다) *contiguous(인접한(to), 접촉해 있는)	:	0
+76	:	우발적인, 우연의	:	alluvial	:	autonomy	:	circumspect	:	contingent	:	4	:	*alluvial(충적의) *autonomy(자치권)	:	*circumspect(조심성 있는, 신중한) *contingent(우발적인, 우연의)	:	0
+77	:	비틀다,(얼굴을)찡그리다	:	aloof	:	autopsy	:	circumvent	:	contort	:	4	:	*aloof(떨어져서, 멀어져서,내성적인) *autopsy(부검,시체 해부)	:	*circumvent(함정에 빠뜨리다) *contort(비틀다,(얼굴을)찡그리다)	:	0
+78	:	윤곽, 지형선, 등고선	:	altruistic	:	avarice	:	citadel	:	contour	:	4	:	*altruistic(이타적인) *avarice((돈,재산, 등에 대한)탐욕)	:	*citadel((시,시민을 지키는)성) *contour(윤곽, 지형선, 등고선)	:	0
+79	:	밀수(품), 금지된	:	amalgamate	:	avenge	:	sovereign	:	contraband	:	4	:	*amalgamate(결합(합병)하다) *avenge(보복(복수)하다)	:	*sovereign(군주, 국왕, 주권이 있는) *contraband(밀수(품), 금지된)	:	0
+80	:	피임	:	amaze	:	avenue	:	clairvoyant	:	contraception	:	4	:	*amaze(깜작 놀라게 하다) *avenue(가로수길,  큰거리)	:	*clairvoyant(통찰력이 있는) *contraception(피임)	:	0
+81	:	반박하다, 모순되다	:	ambiguous	:	avert	:	clamber	:	contradict	:	4	:	*ambiguous(불확실한,모호한) *avert(돌리다, 피하다)	:	*clamber((손,발로)기어오르다) *contradict(반박하다, 모순되다)	:	0
+82	:	모순되다, (법을)어기다	:	ambush	:	avid	:	clandestine	:	contravene	:	4	:	*ambush(매복,잠복,매복 공격) *avid(탐내는, 열렬한)	:	*clandestine(비밀의, 은밀한) *contravene(모순되다, (법을)어기다)	:	0
+83	:	(죄를)깊이 뉘우치는	:	ameliorate	:	avow	:	cleave	:	contrite	:	4	:	*ameliorate(개선(향상)시키다) *avow(공언(인정)하다)	:	*cleave(조개다, 달라붙다) *contrite((죄를)깊이 뉘우치는)	:	0
+84	:	논쟁하기 좋아하는	:	amenable	:	avowal	:	clemency	:	controversial	:	4	:	*amenable(유순한, 순종하는) *avowal(공언, 인정)	:	*clemency((성격,성질 등의)관대(함)) *controversial(논쟁하기 좋아하는)	:	0
+85	:	모이다, 소집하다	:	amenity	:	awe	:	cliché	:	convene	:	4	:	*amenity(예의) *awe(경외, 두려워하다)	:	*cliché((진부한)상투 어구) *convene(모이다, 소집하다)	:	0
+86	:	역의, 반대의, 대화하다	:	amiable	:	awry	:	climax	:	converse	:	4	:	*amiable(상냥한) *awry(구부러져, 비틀려서, 잘못되어)	:	*climax(절정) *converse(역의, 반대의, 대화하다)	:	0
+87	:	전환시키다, 개종시키다	:	amicable	:	baffle	:	clique	:	convert	:	4	:	*amicable(우호적인) *baffle(당황하게 하다)	:	*clique((배타적인)파벌) *convert(전환시키다, 개종시키다)	:	0
+88	:	유죄를 입증(선고)하다, 죄인	:	amnesty	:	banal	:	cloister	:	convict	:	4	:	*amnesty(특사,사면) *banal(진부한)	:	*cloister(수도원) *convict(유죄를 입증(선고)하다, 죄인)	:	0
+89	:	연회의	:	amorphous	:	baneful	:	coalition	:	convivial	:	4	:	*amorphous(무정형의) *baneful(해로운)	:	*coalition(연합, 제휴) *convivial(연회의)	:	0
+90	:	불러 모으다, 소집하다	:	ample	:	beatific	:	coerce	:	convoke	:	4	:	*ample((남을 만큼)충분한) *beatific(행복에 넘친)	:	*coerce(강요하다, 억압하다) *convoke(불러 모으다, 소집하다)	:	0
+91	:	(특히 해상으로)호송하다	:	anachronism	:	befall	:	cogent	:	convoy	:	4	:	*anachronism(시대 착오) *befall((~의 신상에)일어나다, 생기다)	:	*cogent(설득력있는) *convoy((특히 해상으로)호송하다)	:	0
+92	:	조화시키다, 동등한	:	analogy	:	beguile	:	cogitate	:	coordinate	:	4	:	*analogy(유사함,비교,비유) *beguile(속이다)	:	*cogitate(곰곰히 생각하다, 숙고하다) *coordinate(조화시키다, 동등한)	:	0
+93	:	많은, 풍부한	:	anarchy	:	behold	:	cognate	:	copious	:	4	:	*anarchy(무정부 상태) *behold(~을 보다)	:	*cognate(조상이 깊은, 혈족의, 친족) *copious(많은, 풍부한)	:	0
+94	:	뚱뚱한	:	anathema	:	belated	:	cognition	:	corpulent	:	4	:	*anathema(저주, 혐오(스러운 것)) *belated(늦은, 뒤늦은)	:	*cognition(인식, 인식된 것) *corpulent(뚱뚱한)	:	0
+95	:	상호 관련시키다	:	anecdote	:	belittle	:	cohere	:	correlate	:	4	:	*anecdote(일화) *belittle(,,를 헐뜯다, 작게하다)	:	*cohere(일관성있다, 어울리다) *correlate(상호 관련시키다)	:	0
+96	:	(증거를 통해)입증하다	:	animated	:	bellicose	:	coincide	:	corroborate	:	4	:	*animated(활기찬, 활발한) *bellicose(호전적인)	:	*coincide(동시에 일어나다, 일치하다) *corroborate((증거를 통해)입증하다)	:	0
+97	:	거꾸로(의), 반대하다	:	animosity	:	bemoan	:	collaborate	:	counter	:	4	:	*animosity(적의) *bemoan(슬퍼(애도)하다)	:	*collaborate(공동으로 일하다) *counter(거꾸로(의), 반대하다)	:	0
+98	:	(~에)반대로 행동하다	:	annals	:	benediction	:	collapse	:	counteract	:	4	:	*annals(연대기) *benediction(감사기도,축복)	:	*collapse(무너지다, 폭락) *counteract((~에)반대로 행동하다)	:	0
+99	:	가짜의, 모조품, 위조하다	:	annex	:	benefactor	:	collate	:	counterfeit	:	4	:	*annex(추가하다, 부속 건물) *benefactor(자선가, 후원자)	:	*collate(대조하다,페이지를 맞추다) *counterfeit(가짜의, 모조품, 위조하다)	:	0
+100	:	(완전히)파괴(폐지)하다	:	annihilate	:	beneficent	:	collateral	:	counterpart	:	4.371057514	:	*annihilate((완전히)파괴(폐지)하다) *beneficent(선행을 베푸는)	:	*collateral( 평행한, 부수적인,담보로 한) *counterpart(복사물, 동등한 것)	:	0
+101	:	욕심많은	:	covetous	:	discourse	:	enmity	:	foible	:	1	:	*covetous(욕심많은) *discourse(말하다, 담화하다, 담화)	:	*enmity(증오, 적의) *foible((성격의)결점, 약점)	:	0
+102	:	수줍어하는	:	coy	:	discredit	:	ennoble	:	foment	:	1	:	*coy(수줍어하는) *discredit(신용을 떨어뜨리다)	:	*ennoble(품위를 높이다) *foment((반란 등을)선동하다)	:	0
+103	:	믿음	:	credence	:	discreet	:	ennui	:	foreboding	:	1	:	*credence(믿음) *discreet(신중한)	:	*ennui(권태, 지루함) *foreboding(예감,불길한,전조가 되는)	:	0
+104	:	쉽게 믿는	:	credulous	:	discrepancy	:	enrage	:	forerunner	:	1	:	*credulous(쉽게 믿는) *discrepancy(차이, 불일치)	:	*enrage(격노(분개)하게 하다) *forerunner(선구자,전조 조짐)	:	0
+105	:	신조	:	creed	:	discrete	:	frisk	:	foresight	:	1	:	*creed(신조) *discrete(분리된, 별개의)	:	*frisk(뛰놀다, 몸수색하다) *foresight(예견 ,선견지명)	:	0
+106	:	표준,기준	:	criterion	:	discriminate	:	ensemble	:	forestall	:	1	:	*criterion(표준,기준) *discriminate(구별하다,차별 대우하다)	:	*ensemble(종합적 효과, 앙상블) *forestall(~을 미리 막다)	:	0
+107	:	숨은, 비밀의	:	cryptic	:	disdain	:	ensign	:	foretell	:	1	:	*cryptic(숨은, 비밀의) *disdain(경멸하다, 멸시하다)	:	*ensign((국)기, 상징) *foretell(예언하다)	:	0
+108	:	절정에 이르다	:	culminate	:	disentangle	:	enslave	:	forfeit	:	1	:	*culminate(절정에 이르다) *disentangle(엉킨 것을 풀다)	:	*enslave(노예로 만들다) *forfeit(잃다,몰수되다,벌금)	:	0
+109	:	비난할 만한	:	culpable	:	disfigure	:	ensue	:	forgo	:	1	:	*culpable(비난할 만한) *disfigure(망가뜨리다, 흉하게 하다)	:	*ensue(계속해서 일어나다) *forgo(포기하다,그만두다)	:	0
+110	:	탐욕	:	cupidity	:	disillusion	:	disruptive	:	forlorn	:	1	:	*cupidity(탐욕) *disillusion(환상에서 깨어나게 하다, 각성)	:	*disruptive(분열시키는, 파괴하는) *forlorn(버려진,버림받은,고독한)	:	0
+111	:	대충의	:	cursory	:	disinterested	:	entail	:	formidable	:	1	:	*cursory(대충의) *disinterested(공정한, 객관적인)	:	*entail((필연적인 결과로서)수반하다) *formidable(무서운, 겁나는)	:	0
+112	:	줄이다	:	curtail	:	dismal	:	entangle	:	forsake	:	1	:	*curtail(줄이다) *dismal(음침한)	:	*entangle(엉클어지게 하다) *forsake(벗 가족을 버리다,떠나다)	:	0
+113	:	냉소적인	:	cynical	:	dismay	:	pliable	:	forte	:	1	:	*cynical(냉소적인) *dismay(당황, 낙심)	:	*pliable(유연한, 융통성있는) *forte(특기, 잠정)	:	0
+114	:	비겁한(비열한)사람	:	dastard	:	disorient	:	enthrall	:	fortitude	:	1	:	*dastard(비겁한(비열한)사람) *disorient(혼란스럽게하다)	:	*enthrall(마음을 사로잡다) *fortitude(용기, 인내, 강함)	:	0
+115	:	겁을 모르는, 불굴의	:	dauntless	:	disparage	:	enthrone	:	fortuitous	:	1	:	*dauntless(겁을 모르는, 불굴의) *disparage(비난하다, 헐뜯다)	:	*enthrone(왕위에 앉히다, 즉위시키다) *fortuitous(우연한)	:	0
+116	:	부족	:	dearth	:	disparity	:	entice	:	forwear	:	1	:	*dearth(부족) *disparity((본질적,절대적)차이, 상이함)	:	*entice(꾀다, 유혹하다) *forwear(맹세코 그만두다)	:	0
+117	:	(품질을)저하시키다	:	debase	:	dispatch	:	entitle	:	foster	:	1	:	*debase((품질을)저하시키다) *dispatch(급송하다, 급파)	:	*entitle(제목을 붙이다, 자격을 부여하다) *foster(촉진(증진)하다)	:	0
+118	:	(성적으로)타락시키다	:	debauch	:	dispel	:	entreat	:	fractious	:	1	:	*debauch((성적으로)타락시키다) *dispel((생각 따위를)떨쳐버리다)	:	*entreat(탄원하다, 부탁하다) *fractious(까다로운)	:	0
+119	:	쇠약하게 하다	:	debilitate	:	dispense	:	entrench	:	frail	:	1	:	*debilitate(쇠약하게 하다) *dispense(분배하다, (약을)조제하다)	:	*entrench(참호로 에워싸다) *frail(연약한 깨지기 쉬운)	:	0
+120	:	(특히 최근에)죽은, 고인	:	deceased	:	disperse	:	entrust	:	fraternal	:	1	:	*deceased((특히 최근에)죽은, 고인) *disperse(흩뜨리다, 퍼뜨리다)	:	*entrust(맡기다, 위탁하다) *fraternal(형제의)	:	0
+121	:	(글, 암호 따위를)해독하다	:	decipher	:	displace	:	enumerate	:	exhilarate	:	1	:	*decipher((글, 암호 따위를)해독하다) *displace((바꾸어 놓다, 옮기다)	:	*enumerate((일일이)열거하다) *exhilarate(원기(기운)을 돋우다)	:	0
+122	:	분해하다, 썩다, 부패하다	:	decompose	:	dispose	:	envoy	:	fraught	:	1	:	*decompose(분해하다, 썩다, 부패하다) *dispose(배치, 처분하다(of))	:	*envoy((외교) 사절, 특사) *fraught(~으로 가득 찬)	:	0
+123	:	유인하다, 미끼	:	decoy	:	disproportionate	:	ephemeral	:	fray	:	1	:	*decoy(유인하다, 미끼) *disproportionate(어울리지 않는, 불균형한)	:	*ephemeral(일시적인) *fray(닳(아빠지)게 하다)	:	0
+124	:	감소하다, 감소	:	decrease	:	disregard	:	epidemic	:	dabble	:	1	:	*decrease(감소하다, 감소) *disregard(무시하다, 무시, 소홀)	:	*epidemic(전염병, 유행, 확산) *dabble(장나삼아 하다, 물을 튀기다)	:	0
+125	:	노쇠한, 노후한	:	decrepit	:	disrupt	:	epigram	:	frigid	:	1	:	*decrepit(노쇠한, 노후한) *disrupt(붕괴(분열)시키다)	:	*epigram(경구, 짧은시) *frigid(매우추운 , 흑한의)	:	0
+126	:	해부하다	:	deduce	:	dissect	:	epilogue	:	frolicsome	:	2	:	*deduce((아는 것으로부터)연역하다) *dissect(해부하다)	:	*epilogue(맺음말, 결어) *frolicsome(까불며 뛰노는)	:	0
+127	:	(감정 등을)숨기다, 가장하다	:	defer	:	dissemble	:	epitome	:	frugal	:	2	:	*defer(미루다, 연기하다) *dissemble((감정 등을)숨기다, 가장하다)	:	*epitome(개략, 요약, 표본) *frugal(검소한)	:	0
+128	:	(사상,소식을)퍼뜨리다	:	defraud	:	disseminate	:	epoch	:	frustrate	:	2	:	*defraud((재산을)속여 빼앗다) *disseminate((사상,소식을)퍼뜨리다)	:	*epoch((획기적인)시대) *frustrate(좌절(실패)시키다)	:	0
+129	:	의견을 달리하다	:	defunct	:	dissent	:	equanimity	:	fulsome	:	2	:	*defunct(죽은, 현존하지 않는) *dissent(의견을 달리하다)	:	*equanimity((마음의)평정) *fulsome(지나친)	:	0
+130	:	불찬성자, 의견을 달리하는	:	degenerate	:	dissident	:	equivocal	:	funereal	:	2	:	*degenerate(퇴화(퇴보)하다) *dissident(불찬성자, 의견을 달리하는)	:	*equivocal(애매한) *funereal(장례식의)	:	0
+131	:	흩뜨리다, (군중을)해산하다	:	degrade	:	dissipate	:	eradicate	:	furtive	:	2	:	*degrade(강등시키다, 타락시키다) *dissipate(흩뜨리다, (군중을)해산하다)	:	*eradicate(뿌리째 뽑다, 근절하다) *furtive(몰래하는)	:	0
+132	:	(설득하여)단념시키다	:	dejected	:	dissuade	:	erode	:	gainsay	:	2	:	*dejected(기가죽은, 낙심한) *dissuade((설득하여)단념시키다)	:	*erode((병 따위가)좀먹다, 침식하다) *gainsay(반박(부인)하다)	:	0
+133	:	비틀다, 왜곡하다	:	delegate	:	distort	:	erudite	:	galvanize,-ise	:	2	:	*delegate(대표로 파견하다, 대리인) *distort(비틀다, 왜곡하다)	:	*erudite(박식한, 학식있는) *galvanize,-ise(갑자기 활기 띠게 하다)	:	0
+134	:	(마음,주의를)딴 데로 돌리다	:	deleterious	:	distract	:	erupt	:	gamut	:	2	:	*deleterious(유해한) *distract((마음,주의를)딴 데로 돌리다)	:	*erupt((화산 등이)분출(폭발)하다) *gamut(전 범위 전역)	:	0
+135	:	(심신의)고통, 고민	:	deliberate	:	distress	:	eschew	:	gape	:	2	:	*deliberate(신중한, 숙고하다) *distress((심신의)고통, 고민)	:	*eschew(피하다) *gape(넋을 잃고 보다)	:	0
+136	:	매일(낮 동안)의	:	delinquent	:	diurnal	:	escort	:	garrulous	:	2	:	*delinquent(비행의, 태만한, 체납된) *diurnal(매일(낮 동안)의)	:	*escort(호위자, 호송하다) *garrulous(수다스러운)	:	0
+137	:	갈라지다, (의견)다르다	:	delude	:	diverge	:	ethnic	:	genial	:	2	:	*delude(현혹하다, 속이다) *diverge(갈라지다, (의견)다르다)	:	*ethnic(민족의, 소수민족) *genial(온난한, 다정한)	:	0
+138	:	다양한	:	deluge	:	diverse	:	eulogy	:	genteel	:	2	:	*deluge(대홍수, 범람하게 하다) *diverse(다양한)	:	*eulogy(찬사,칭송) *genteel(상류사회의,품위 있는)	:	0
+139	:	(비밀 따위를)누설하다	:	demeanor	:	divulge	:	euphoria	:	germane	:	2	:	*demeanor(행실, 태도) *divulge((비밀 따위를)누설하다)	:	*euphoria(행복감,쾌감) *germane(밀접한 관계가 있는)	:	0
+140	:	지도하기 쉬운	:	demolish	:	docile	:	euthanasia	:	gesticulation	:	2	:	*demolish(파괴하다) *docile(지도하기 쉬운)	:	*euthanasia(안락사) *gesticulation(몸짓손짓)	:	0
+141	:	독단적인	:	demonstrate	:	dogmatic	:	evacuate	:	ghastly	:	2	:	*demonstrate(증명(설명,시위)하다) *dogmatic(독단적인)	:	*evacuate(대피(철수)시키다) *ghastly(무서운)	:	0
+142	:	비통한, 슬픈	:	demur	:	dolorous	:	evade	:	gist	:	2	:	*demur(이의를 제기하다, 이의제기) *dolorous(비통한, 슬픈)	:	*evade((교묘히)피하다, 벗어나다) *gist(여점)	:	0
+143	:	잠자는	:	demure	:	dormant	:	evaluate	:	glib	:	2	:	*demure(얌전한, 얀전한 체하는) *dormant(잠자는)	:	*evaluate(평가하다) *glib(입심 좋은)	:	0
+144	:	시무룩한	:	denote	:	dour	:	evaporate	:	glossy	:	2	:	*denote(~을 표시하다) *dour(시무룩한)	:	*evaporate(증발하다, (희망)사라지다) *glossy(윤이나는)	:	0
+145	:	힘든 일	:	denounce	:	drudgery	:	evoke	:	gluttonous	:	2	:	*denounce(비난하다) *drudgery(힘든 일)	:	*evoke((기억,감정)불러 일으키다) *gluttonous(게걸스러운)	:	0
+146	:	의심하는	:	depict	:	dubious	:	dowry	:	goad	:	2	:	*depict(묘사(서술)하다) *dubious(의심하는)	:	*dowry(지참금) *goad(자극 선동하다)	:	0
+147	:	결투	:	deplete	:	duel	:	exalt	:	gorge	:	2	:	*deplete(고갈시키다) *duel(결투)	:	*exalt(높이다, 칭찬하다) *gorge(배불리 먹다)	:	0
+148	:	이중의	:	deplore	:	duplicate	:	exasperate	:	grandiloquent	:	2	:	*deplore(한탄하다, 개탄하다) *duplicate(이중의)	:	*exasperate(몹시 화나게 하다) *grandiloquent(과장된)	:	0
+149	:	상스러운,흙의	:	deport	:	earthy	:	excavate	:	grandiose	:	2	:	*deport((국외로)추방하다) *earthy(상스러운,흙의)	:	*excavate(구멍을 파다(뚫다)) *grandiose(웅대장엄한)	:	0
+150	:	괴짜의, 보통과 다른	:	depose	:	eccentric	:	excerpt	:	gratuitous	:	2	:	*depose((고위직에서)물러나게 하다) *eccentric(괴짜의, 보통과 다른)	:	*excerpt(발췌, 인용, 발췌하다) *gratuitous(공짜의,무료의)	:	0
+151	:	면제하다,면세된	:	deposit	:	eclipse	:	exempt	:	gregarious	:	3	:	*deposit(놓다, 퇴적, 계약금으로 지불하다) *eclipse((해, 달의)식, 가리다)	:	*exempt(면제하다,면세된) *gregarious(군집성의 사교적인)	:	0
+152	:	(숨을)내쉬다, 발산하다	:	depravity	:	ecstasy	:	exhale	:	grisly	:	3	:	*depravity(탁락) *ecstasy(무아지경, 황홀)	:	*exhale((숨을)내쉬다, 발산하다) *grisly(무서운)	:	0
+153	:	~에게 열심히 타이르다	:	deprecate	:	edify	:	exhort	:	gruesome	:	3	:	*deprecate(불찬성하다, 비난하다) *edify(교화하다)	:	*exhort(~에게 열심히 타이르다) *gruesome(소름 끼치는)	:	0
+154	:	추방, 추방된 자, 추방하다	:	depreciate	:	eerie	:	exile	:	gruff	:	3	:	*depreciate(가치가 떨어지다) *eerie(섬뜩한)	:	*exile(추방, 추방된 자, 추방하다) *gruff(퉁명스러운)	:	0
+155	:	터무니 없는, 과도한	:	depress	:	efface	:	exorbitant	:	guile	:	3	:	*depress(낙담시키다, 약화시키다) *efface(지우다, 말살하다)	:	*exorbitant(터무니 없는, 과도한) *guile(교활)	:	0
+156	:	이국풍의, 외국산의	:	deputy	:	efficacy	:	exotic	:	gullible	:	3	:	*deputy(대리,보좌관, 하원의원) *efficacy(효력)	:	*exotic(이국풍의, 외국산의) *gullible(속기 쉬운)	:	0
+157	:	도움이 되는, 수단, 방편	:	deranged	:	elaborate	:	expedient	:	hackneyed	:	3	:	*deranged(발광한, 미친, 혼란된) *elaborate(정성들인, 정성들여 만들다)	:	*expedient(도움이 되는, 수단, 방편) *hackneyed(진부한)	:	0
+158	:	재촉(촉진)하다	:	derelict	:	elapse	:	expedite	:	halcyon	:	3	:	*derelict(유기된,직무에 태만한) *elapse((때가)경과하다)	:	*expedite(재촉(촉진)하다) *halcyon(평온한)	:	0
+159	:	쫓아내다, (가스를) 분출하다	:	deride	:	elate	:	expel	:	hallowed	:	3	:	*deride(비웃다, 조롱하다) *elate(의기 양양하게 하다)	:	*expel(쫓아내다, (가스를) 분출하다) *hallowed(신성한)	:	0
+160	:	(시간,노력을)들이다,소비하다	:	derive	:	elicit	:	expend	:	hallucination	:	3	:	*derive(끌어내다, 유래하다) *elicit((대답, 웃음 따위)이끌어내다)	:	*expend((시간,노력을)들이다,소비하다) *hallucination(환각)	:	0
+161	:	(기한이)끝나다, 만료되다	:	descry	:	obscure	:	expire	:	hamper	:	3	:	*descry(~을 찾아내다) *obscure(분명하지 않은, 애매한)	:	*expire((기한이)끝나다, 만료되다) *hamper(방해하다)	:	0
+162	:	명백(분명)한, 숨김없는	:	designate	:	elucidate	:	explicit	:	haphazard	:	3	:	*designate(가리키다, 임명하다) *elucidate(명료하게 설명하다)	:	*explicit(명백(분명)한, 숨김없는) *haphazard(우연의)	:	0
+163	:	견책(하다), 비난	:	desolate	:	elude	:	reprimand	:	harass	:	3	:	*desolate(사람이 살지 않는, 황폐한) *elude(교묘히 피하다)	:	*reprimand(견책(하다), 비난) *harass(괴롭히다)	:	0
+164	:	상세히 설명(해설)하다	:	despise	:	emancipate	:	expound	:	harbinger	:	3	:	*despise(경멸하다) *emancipate(해방시키다)	:	*expound(상세히 설명(해설)하다) *harbinger(선구자 전조)	:	0
+165	:	지우다, 삭제하다	:	despondent	:	embargo	:	expunge	:	harry	:	3	:	*despondent(낙담한, 풀이 죽은) *embargo((통상을) 금지하다)	:	*expunge(지우다, 삭제하다) *harry(악탈침략하다)	:	0
+166	:	즉석에서 하다	:	despotism	:	embark	:	extemporize	:	haughty	:	3	:	*despotism(독재정치) *embark(숭선하다, 착수하다)	:	*extemporize(즉석에서 하다) *haughty(건방진 )	:	0
+167	:	(잡초,해충 등을)박멸하다	:	destitute	:	embellish	:	exterminate	:	hazardous	:	3	:	*destitute(빈궁한, 빈곤한, ~이 없는) *embellish(아름답게하다, 장식하다)	:	*exterminate((잡초,해충 등을)박멸하다) *hazardous(위험이 많은)	:	0
+168	:	(불이)꺼진, 멸종한	:	desuetude	:	embezzle	:	extinct	:	hazy	:	3	:	*desuetude(폐지(상태)) *embezzle((공금을)횡령하다)	:	*extinct((불이)꺼진, 멸종한) *hazy(흐릿한)	:	0
+169	:	칭찬(칭송)하다	:	desultory	:	emblem	:	extol	:	hedonism	:	3	:	*desultory(종잡을 수 없는, 산만한) *emblem(상징, 표상)	:	*extol(칭찬(칭송)하다) *hedonism(쾌락주의)	:	0
+170	:	외래의 외부에서	:	detach	:	embody	:	extraneous	:	heedless	:	3	:	*detach(분리시키다) *embody(구체(유형)화 하다, 포함하다)	:	*extraneous(외래의 외부에서) *heedless(부주의한, 고의가 아닌, 우연의)	:	0
+171	:	돈을 낭비하는,과도한	:	detain	:	emboss	:	extravagant	:	heinous	:	3	:	*detain(기다리게 하다, 감금하다) *emboss(튀어나오게 하다)	:	*extravagant(돈을 낭비하는,과도한) *heinous(극악한 가증스러운)	:	0
+172	:	밀어 내다, 내밀다	:	deter	:	embroider	:	extrude	:	heresy	:	3	:	*deter(~을 그만두게 하다) *embroider(수를 놓다, 자수하다)	:	*extrude(밀어 내다, 내밀다) *heresy(이단)	:	0
+173	:	열의가 넘치는	:	deteriorate	:	embryo	:	exuberant	:	heterodox	:	3	:	*deteriorate((가치, 품질 따위)떨어뜨리다) *embryo(태아,(발달의)초기)	:	*exuberant(열의가 넘치는) *heterodox(비정통적인,이단의)	:	0
+174	:	크게 기뻐하다	:	detest	:	emerge	:	exult	:	heterogeneous	:	3	:	*detest(몹시 싫어하다) *emerge(나타나다, 출현하다)	:	*exult(크게 기뻐하다) *heterogeneous(이종의, 이질의)	:	0
+175	:	제작하다, (문서를)위조하다	:	detrimental	:	emigrate	:	fabricate	:	hibernate	:	3	:	*detrimental(해로운) *emigrate((외국으로)이민하다)	:	*fabricate(제작하다, (문서를)위조하다) *hibernate(겨울잠을 자다 동면하다)	:	0
+176	:	소름이 끼치는	:	devastate	:	eminent	:	facetious	:	hideous	:	4	:	*devastate(황폐화하다) *eminent(뛰어난, 탁월한)	:	*facetious(익살맞은) *hideous(소름이 끼치는)	:	0
+177	:	즐거운	:	deviate	:	emit	:	facilitate	:	hilarious	:	4	:	*deviate(빗나가다, 벗어나다) *emit((빛,열 따위를)방출하다)	:	*facilitate((일을)용이하게 하다) *hilarious(즐거운)	:	0
+178	:	태워 죽임, 대학살	:	devoid	:	empower	:	hectic	:	holocaust	:	4	:	*devoid(~이 빠진, 전혀 없는) *empower(~에게 권한(능력)을 주다)	:	*hectic(매우 바쁜, 매우 흥분한) *holocaust(태워 죽임, 대학살)	:	0
+179	:	원예의	:	devour	:	emulate	:	factitious	:	horticultural	:	4	:	*devour(게걸스레 먹다, 삼켜버리다) *emulate(경쟁하다, 본뜨다)	:	*factitious(인위적인) *horticultural(원예의)	:	0
+180	:	담보물,인질	:	devout	:	enact	:	fallacious	:	hostage	:	4	:	*devout(독실한, 경건한, 열렬한) *enact((법률을)제정하다)	:	*fallacious(그릇된) *hostage(담보물,인질)	:	0
+181	:	인정있는	:	diagnosis	:	enchant	:	famish	:	humane	:	4	:	*diagnosis(진단법) *enchant(마법을 걸다, 매혹시키다)	:	*famish(~을 굶주리게 하다) *humane(인정있는)	:	0
+182	:	지루한	:	diagonal	:	encircle	:	fanaticism	:	humdrum	:	4	:	*diagonal(대각석(의)) *encircle(에워(둘러)싸다)	:	*fanaticism(열광) *humdrum(지루한)	:	0
+183	:	습한	:	dialect	:	encompass	:	fancy	:	humid	:	4	:	*dialect(방언,사투리) *encompass(둘러(에워)싸다, 포함하다)	:	*fancy(상상하다, 좋아하다) *humid(습한)	:	0
+184	:	겸손	:	dialectic	:	encounter	:	fastidious	:	humility	:	4	:	*dialectic(변증법,문답식의) *encounter(우연히 만나다)	:	*fastidious(까다로운) *humility(겸손)	:	0
+185	:	잡종	:	diffident	:	encroach	:	fatuous	:	hybrid	:	4	:	*diffident(자신없는, 겁많은) *encroach((재산,권리를)침해하다)	:	*fatuous(어리섞은) *hybrid(잡종)	:	0
+186	:	과장(법)	:	digress	:	encumber	:	fealty	:	hyperbole	:	4	:	*digress((본론에서) 벗어나다) *encumber(방해하다,막다)	:	*fealty(충성) *hyperbole(과장(법))	:	0
+187	:	흑평적인	:	dilapidated	:	encyclopedia	:	feasible	:	hypercritical	:	4	:	*dilapidated(황폐한) *encyclopedia(백과사전)	:	*feasible(실행할 수 있는) *hypercritical(흑평적인)	:	0
+188	:	특징 특이성	:	dilate	:	contemplate	:	fecund	:	idiosyncrasy	:	4	:	*dilate(팽창시키다, 넓히다) *contemplate(심사숙고하다)	:	*fecund(다산의, 비옥한) *idiosyncrasy(특징 특이성)	:	0
+189	:	(태생,신분이)비천한	:	dilatory	:	endear	:	feign	:	ignoble	:	4	:	*dilatory(느린, 시간을 끄는) *endear(애정을 느끼게 하다)	:	*feign(~인 체하다) *ignoble((태생,신분이)비천한)	:	0
+190	:	수치스러운, 치욕적인	:	dilemma	:	endemic	:	felicitous	:	ignominious	:	4	:	*dilemma(딜레마,진퇴양난) *endemic((지방의)고유의,토종의)	:	*felicitous((행동,표현 등이)적절한) *ignominious(수치스러운, 치욕적인)	:	0
+191	:	읽기(판독하기) 어려운	:	dilettante	:	orbit	:	fictitious	:	illegible	:	4	:	*dilettante(아마추어 예술가) *orbit(궤도)	:	*fictitious(가짜의) *illegible(읽기(판독하기) 어려운)	:	0
+192	:	합법적인, 적합한	:	dilute	:	enervate	:	fidelity	:	legitimate	:	4	:	*dilute((물을 타서)묽게 하다) *enervate(기력을 빼앗다, 약화시키다)	:	*fidelity(충실, 충성) *legitimate(합법적인, 적합한)	:	0
+193	:	불법(위법)의	:	dimension	:	engender	:	finesse	:	illicit	:	4	:	*dimension(치수, 크기, 차원) *engender(발생(야기)시키다)	:	*finesse(교묘한 솜씨, 술책 ) *illicit(불법(위법)의)	:	0
+194	:	문맹의, 교양이 없는	:	diminish	:	engrave	:	flagrant	:	illiterate	:	4	:	*diminish(줄다, 축소하다) *engrave(조각하다, (마음 속에)새기다)	:	*flagrant(극악한) *illiterate(문맹의, 교양이 없는)	:	0
+195	:	밝게하다, 계몽하다	:	disable	:	engross	:	flamboyant	:	illuminate	:	4	:	*disable(불구로 만들다) *engross((마음을) 빼앗다, 몰두시키다)	:	*flamboyant(화려한) *illuminate(밝게하다, 계몽하다)	:	0
+196	:	설명하다	:	disband	:	eloquent	:	fledgling	:	illustrate	:	4	:	*disband(해산하다) *eloquent(웅변의, 능변인)	:	*fledgling(애송이, 풋내기) *illustrate(설명하다)	:	0
+197	:	마시다 받아들이다	:	discard	:	enigma	:	flimsy	:	imbibe	:	4	:	*discard(버리다, 포기하다) *enigma(수수께기(같은 사람))	:	*flimsy((얇고)부서지기 쉬운) *imbibe(마시다 받아들이다)	:	0
+198	:	깨끗한, 순결한	:	disciple	:	enjoin	:	flout	:	immaculate	:	4	:	*disciple(제자, 12사도) *enjoin(~에게 명령하다, ~을 금하다)	:	*flout(비웃다) *immaculate(깨끗한, 순결한)	:	0
+199	:	미숙한, 미성년의	:	disconcert	:	enlist	:	fluctuation	:	immature	:	4	:	*disconcert(당황케 하다) *enlist(병적에 넣다, 입대하다)	:	*fluctuation(변동) *immature(미숙한, 미성년의)	:	0
+200	:	태고의, 먼 옛날의	:	discord	:	enliven	:	flux	:	immemorial	:	4	:	*discord(의견차이, 불화) *enliven(활기있게 하다)	:	*flux((끊임없는)변화) *immemorial(태고의, 먼 옛날의)	:	0
+201	:	이례(예외)적인	:	anomalous	:	bombastic	:	congenital	:	discourse	:	1	:	*anomalous(이례(예외)적인) *bombastic(과장된)	:	*congenital(선천적인) *discourse(말하다, 담화하다, 담화)	:	0
+202	:	익명(가명)의	:	anonymous	:	bounteous	:	congest	:	discredit	:	1	:	*anonymous(익명(가명)의) *bounteous(후한, 풍부한)	:	*congest(넘치게하다,충혈시키다) *discredit(신용을 떨어뜨리다)	:	0
+203	:	적대자, 반대자	:	antagonist	:	bountiful	:	conglomerate	:	discreet	:	1	:	*antagonist(적대자, 반대자) *bountiful(아까워 하지 않는, 후한)	:	*conglomerate(집단, (거대한)복합 기업) *discreet(신중한)	:	0
+204	:	앞서는,선례,선행자	:	antecedent	:	bravado	:	congregate	:	discrepancy	:	1	:	*antecedent(앞서는,선례,선행자) *bravado(허세)	:	*congregate(모이다,집합시키다) *discrepancy(차이, 불일치)	:	0
+205	:	(시간적으로)앞의,이전의	:	anterior	:	brazen	:	conjecture	:	discrete	:	1	:	*anterior((시간적으로)앞의,이전의) *brazen(오만한)	:	*conjecture(추측하다, 추측, 짐작) *discrete(분리된, 별개의)	:	0
+206	:	항생제	:	antibiotic	:	breach	:	conjure	:	discriminate	:	1	:	*antibiotic(항생제) *breach(어김, 위반)	:	*conjure(마술로 좌우하다) *discriminate(구별하다,차별 대우하다)	:	0
+207	:	예상(예측)하다	:	anticipate	:	brevity	:	connubial	:	disdain	:	1	:	*anticipate(예상(예측)하다) *brevity(간결함)	:	*connubial(결혼(부부)의) *disdain(경멸하다, 멸시하다)	:	0
+208	:	해독제	:	antidote	:	bristle	:	conscript	:	disentangle	:	1	:	*antidote(해독제) *bristle(격분하다, (털이)곤두서다)	:	*conscript(징집(징병)하다) *disentangle(엉킨 것을 풀다)	:	0
+209	:	협오, 반감	:	antipathy	:	outlandish	:	consecrate	:	disfigure	:	1	:	*antipathy(협오, 반감) *outlandish(이국풍의, 기이한)	:	*consecrate(신성하게 하다, 바치다) *disfigure(망가뜨리다, 흉하게 하다)	:	0
+210	:	고풍스러운,골동품	:	antique	:	brusque	:	consecutive	:	disillusion	:	1	:	*antique(고풍스러운,골동품) *brusque((말,행동 등이)무뚝뚝한)	:	*consecutive(연속적인,일관된) *disillusion(환상에서 깨어나게 하다, 각성)	:	0
+211	:	방부제(의)	:	antiseptic	:	buttress	:	consensus	:	disinterested	:	1	:	*antiseptic(방부제(의)) *buttress(지지(물), 지지하다)	:	*consensus((의견 등의)일치, 합의, 여론) *disinterested(공정한, 객관적인)	:	0
+212	:	냉담,무관심	:	apathy	:	buxom	:	crate	:	dismal	:	1	:	*apathy(냉담,무관심) *buxom((여자가)건강하고 쾌활한)	:	*crate(나무상자, 틀상자) *dismal(음침한)	:	0
+213	:	침착, 평정	:	aplomb	:	by pass	:	consign	:	dismay	:	1	:	*aplomb(침착, 평정) *by pass(우회로,~을 우회하다)	:	*consign(맡기다, (판매를)위탁하다) *dismay(당황, 낙심)	:	0
+214	:	그리스도의 12제자,사도	:	apostle	:	bygone	:	console	:	disorient	:	1	:	*apostle(그리스도의 12제자,사도) *bygone(과거의,지나간)	:	*console((슬픔,고통을)위로하다) *disorient(혼란스럽게하다)	:	0
+215	:	신격화	:	apotheosis	:	by-product	:	consolidate	:	disparage	:	1	:	*apotheosis(신격화) *by-product(부산물)	:	*consolidate(합병(강화)하다) *disparage(비난하다, 헐뜯다)	:	0
+216	:	소름끼치게(섬뜩하게)하다	:	appall	:	bystander	:	consort	:	disparity	:	1	:	*appall(소름끼치게(섬뜩하게)하다) *bystander(방관자,구경꾼)	:	*consort((나쁜 사람들과)사귀다) *disparity((본질적,절대적)차이, 상이함)	:	0
+217	:	기구, 장치	:	apparatus	:	cadaverous	:	conspire	:	dispatch	:	1	:	*apparatus(기구, 장치) *cadaverous(시체 같은, 창백한)	:	*conspire(음모를 꾸미다, 공모하다) *dispatch(급송하다, 급파)	:	0
+218	:	옷, 복장, (옷을)입히다	:	apparel	:	cajole	:	constellation	:	dispel	:	1	:	*apparel(옷, 복장, (옷을)입히다) *cajole(감언으로 속이다)	:	*constellation(별자리) *dispel((생각 따위를)떨쳐버리다)	:	0
+219	:	환영, 유령	:	apparition	:	callous	:	constrict	:	dispense	:	1	:	*apparition(환영, 유령) *callous((피부 등이)굳어진, 무감각한)	:	*constrict(조이다, 압축(수축)하다) *dispense(분배하다, (약을)조제하다)	:	0
+220	:	달래다, 진정시키다	:	appease	:	callow	:	construe	:	disperse	:	1	:	*appease(달래다, 진정시키다) *callow(경험이 없는)	:	*construe((말,행동 등을)해석하다) *disperse(흩뜨리다, 퍼뜨리다)	:	0
+221	:	(말,글을)추가하다	:	append	:	calumny	:	consummate	:	displace	:	1	:	*append((말,글을)추가하다) *calumny(비방)	:	*consummate(성취하다, 완성하다) *displace((바꾸어 놓다, 옮기다)	:	0
+222	:	박수갈채하다	:	applaud	:	candor	:	contaminate	:	dispose	:	1	:	*applaud(박수갈채하다) *candor(솔직)	:	*contaminate(더럽히다,오염시키다) *dispose(배치, 처분하다(of))	:	0
+223	:	적합(적절)한	:	apposite	:	canvass	:	contemn	:	disproportionate	:	1	:	*apposite(적합(적절)한) *canvass(선거 운동하다)	:	*contemn(~을 경멸하다) *disproportionate(어울리지 않는, 불균형한)	:	0
+224	:	평가하다	:	appraise	:	capacious	:	context	:	disregard	:	1	:	*appraise(평가하다) *capacious(많이 들어가는)	:	*context((글의) 전후 관계, 문맥) *disregard(무시하다, 무시, 소홀)	:	0
+225	:	붙잡다,염려하다,이해하다	:	apprehend	:	capitulate	:	contiguous	:	disrupt	:	1	:	*apprehend(붙잡다,염려하다,이해하다) *capitulate(항복하다)	:	*contiguous(인접한(to), 접촉해 있는) *disrupt(붕괴(분열)시키다)	:	0
+226	:	성분, 구성요소	:	benevolent	:	component	:	alluvial	:	enmity	:	2	:	*benevolent(자비로운, 인정많은) *component(성분, 구성요소)	:	*alluvial(충적의) *enmity(증오, 적의)	:	0
+227	:	이해(파악)하다, 포함하다	:	benign	:	comprehend	:	aloof	:	ennoble	:	2	:	*benign(친절한, 자비로운) *comprehend(이해(파악)하다, 포함하다)	:	*aloof(떨어져서, 멀어져서,내성적인) *ennoble(품위를 높이다)	:	0
+228	:	압축(요약)하다, 압박 붕대	:	bequeath	:	compress	:	altruistic	:	ennui	:	2	:	*bequeath((재산 등을)물려 주다) *compress(압축(요약)하다, 압박 붕대)	:	*altruistic(이타적인) *ennui(권태, 지루함)	:	0
+229	:	포함하다, 이루어지다	:	berate	:	comprise	:	amalgamate	:	enrage	:	2	:	*berate(호되게 꾸짖다) *comprise(포함하다, 이루어지다)	:	*amalgamate(결합(합병)하다) *enrage(격노(분개)하게 하다)	:	0
+230	:	양심의 가책	:	bereave	:	compunction	:	amaze	:	frisk	:	2	:	*bereave((생명, 희망을)빼앗다) *compunction(양심의 가책)	:	*amaze(깜작 놀라게 하다) *frisk(뛰놀다, 몸수색하다)	:	0
+231	:	계산(산출)하다	:	beseech	:	compute	:	ambiguous	:	ensemble	:	2	:	*beseech(간절히 원하다(요청하다)) *compute(계산(산출)하다)	:	*ambiguous(불확실한,모호한) *ensemble(종합적 효과, 앙상블)	:	0
+232	:	오목한	:	beset	:	concave	:	ambush	:	ensign	:	2	:	*beset(포위(공격)하다) *concave(오목한)	:	*ambush(매복,잠복,매복 공격) *ensign((국)기, 상징)	:	0
+233	:	인정(양보)하다	:	besiege	:	concede	:	ameliorate	:	enslave	:	2	:	*besiege(포위(공격)하다) *concede(인정(양보)하다)	:	*ameliorate(개선(향상)시키다) *enslave(노예로 만들다)	:	0
+234	:	달래다, 진정시키다	:	bethink	:	conciliate	:	amenable	:	ensue	:	2	:	*bethink(숙고하다, ~을 생각해내다) *conciliate(달래다, 진정시키다)	:	*amenable(유순한, 순종하는) *ensue(계속해서 일어나다)	:	0
+235	:	섞어서 만들다,(음모를)꾸미다	:	betroth	:	concoct	:	amenity	:	disruptive	:	2	:	*betroth(약혼시키다) *concoct(섞어서 만들다,(음모를)꾸미다)	:	*amenity(예의) *disruptive(분열시키는, 파괴하는)	:	0
+236	:	군중, 광장	:	bewail	:	concourse	:	amiable	:	entail	:	2	:	*bewail(몹시 슬퍼하다) *concourse(군중, 광장)	:	*amiable(상냥한) *entail((필연적인 결과로서)수반하다)	:	0
+237	:	일치하다, 동시에 일어나다	:	bewitch	:	concur	:	amicable	:	entangle	:	2	:	*bewitch(마법을 걸다, 매혹하다) *concur(일치하다, 동시에 일어나다)	:	*amicable(우호적인) *entangle(엉클어지게 하다)	:	0
+238	:	비난하다, 유죄 판결하다	:	biennial	:	condemn	:	amnesty	:	pliable	:	2	:	*biennial(2년마다의,2년생인) *condemn(비난하다, 유죄 판결하다)	:	*amnesty(특사,사면) *pliable(유연한, 융통성있는)	:	0
+239	:	압축하다, 고체화되다	:	bigotry	:	condense	:	amorphous	:	enthrall	:	2	:	*bigotry(편협(완고)(함)) *condense(압축하다, 고체화되다)	:	*amorphous(무정형의) *enthrall(마음을 사로잡다)	:	0
+240	:	겸손하게 굴다	:	bilateral	:	condescend	:	ample	:	enthrone	:	2	:	*bilateral(양쪽의 ,상호간의) *condescend(겸손하게 굴다)	:	*ample((남을 만큼)충분한) *enthrone(왕위에 앉히다, 즉위시키다)	:	0
+241	:	(죽음을)애도하다	:	binary	:	condole	:	anachronism	:	entice	:	2	:	*binary(둘로 이루어진) *condole((죽음을)애도하다)	:	*anachronism(시대 착오) *entice(꾀다, 유혹하다)	:	0
+242	:	용서하다	:	bizarre	:	condone	:	analogy	:	entitle	:	2	:	*bizarre(좀별난, 기괴한) *condone(용서하다)	:	*analogy(유사함,비교,비유) *entitle(제목을 붙이다, 자격을 부여하다)	:	0
+243	:	동맹하다	:	bland	:	confederate	:	anarchy	:	entreat	:	2	:	*bland((태도가)부드러운) *confederate(동맹하다)	:	*anarchy(무정부 상태) *entreat(탄원하다, 부탁하다)	:	0
+244	:	주다,수여하다,상담(협의)하다	:	blaspheme	:	confer	:	anathema	:	entrench	:	2	:	*blaspheme((신성한 것을)모독하다) *confer(주다,수여하다,상담(협의)하다)	:	*anathema(저주, 혐오(스러운 것)) *entrench(참호로 에워싸다)	:	0
+245	:	한정(제한)하다,~을 가두다	:	blatant	:	confine	:	anecdote	:	entrust	:	2	:	*blatant(뻔한, 뻔뻔스러운) *confine(한정(제한)하다,~을 가두다)	:	*anecdote(일화) *entrust(맡기다, 위탁하다)	:	0
+246	:	몰수(압수)하다	:	bliss	:	confiscate	:	animated	:	enumerate	:	2	:	*bliss((더없는)행복) *confiscate(몰수(압수)하다)	:	*animated(활기찬, 활발한) *enumerate((일일이)열거하다)	:	0
+247	:	(법률에)따르다, 순응하다	:	blithe	:	conform	:	animosity	:	envoy	:	2	:	*blithe(즐거운, 명랑한) *conform((법률에)따르다, 순응하다)	:	*animosity(적의) *envoy((외교) 사절, 특사)	:	0
+248	:	혼동하다, 난처하게하다	:	blunder	:	confound	:	annals	:	ephemeral	:	2	:	*blunder(큰실수를 저지르다) *confound(혼동하다, 난처하게하다)	:	*annals(연대기) *ephemeral(일시적인)	:	0
+249	:	(어려움에)맞서다, 대항하다	:	bogus	:	confront	:	annex	:	epidemic	:	2	:	*bogus(가짜의) *confront((어려움에)맞서다, 대항하다)	:	*annex(추가하다, 부속 건물) *epidemic(전염병, 유행, 확산)	:	0
+250	:	같은 성질의, 마음이 맞는	:	bolster	:	congenial	:	annihilate	:	epigram	:	2	:	*bolster(지지하다) *congenial(같은 성질의, 마음이 맞는)	:	*annihilate((완전히)파괴(폐지)하다) *epigram(경구, 짧은시)	:	0
+251	:	자치권	:	stately	:	affiance	:	autonomy	:	foible	:	3	:	*stately(당당한; 위엄 있는) *affiance(계약, 약혼)	:	*autonomy(자치권) *foible((성격의)결점, 약점)	:	0
+252	:	부검,시체 해부	:	collide	:	affiliate	:	autopsy	:	foment	:	3	:	*collide(충돌하다, 상충되다) *affiliate(가입시키다, 합병시키다)	:	*autopsy(부검,시체 해부) *foment((반란 등을)선동하다)	:	0
+253	:	(돈,재산, 등에 대한)탐욕	:	colloquial	:	affinity	:	avarice	:	foreboding	:	3	:	*colloquial(일상 회화의,구어(체)의) *affinity(유사성,(강한)호감,애정)	:	*avarice((돈,재산, 등에 대한)탐욕) *foreboding(예감,불길한,전조가 되는)	:	0
+254	:	보복(복수)하다	:	collude	:	affluent	:	avenge	:	forerunner	:	3	:	*collude(공모(결탁)하다) *affluent(풍요(부유)한)	:	*avenge(보복(복수)하다) *forerunner(선구자,전조 조짐)	:	0
+255	:	가로수길,  큰거리	:	colossal	:	affront	:	avenue	:	foresight	:	3	:	*colossal(거대한) *affront(모욕를 주다, 창피)	:	*avenue(가로수길,  큰거리) *foresight(예견 ,선견지명)	:	0
+256	:	돌리다, 피하다	:	combustion	:	afloat	:	avert	:	forestall	:	3	:	*combustion(연소) *afloat((물에)떠 있는)	:	*avert(돌리다, 피하다) *forestall(~을 미리 막다)	:	0
+257	:	탐내는, 열렬한	:	commemorate	:	aftermath	:	avid	:	foretell	:	3	:	*commemorate((특히 의식을 통해)기념하다) *aftermath(결과,여파)	:	*avid(탐내는, 열렬한) *foretell(예언하다)	:	0
+258	:	공언(인정)하다	:	commence	:	agenda	:	avow	:	forfeit	:	3	:	*commence(시작하다, 학위를 받다) *agenda(의제)	:	*avow(공언(인정)하다) *forfeit(잃다,몰수되다,벌금)	:	0
+259	:	공언, 인정	:	commend	:	aggravate	:	avowal	:	forgo	:	3	:	*commend(칭찬하다, 위탁하다) *aggravate(악화시키다)	:	*avowal(공언, 인정) *forgo(포기하다,그만두다)	:	0
+260	:	경외, 두려워하다	:	commensurate	:	aggregate	:	awe	:	forlorn	:	3	:	*commensurate(같은 양의, 균형이 잡힌) *aggregate(합계가 ~이 되다, 합계)	:	*awe(경외, 두려워하다) *forlorn(버려진,버림받은,고독한)	:	0
+261	:	구부러져, 비틀려서, 잘못되어	:	commiserate	:	aggressive	:	awry	:	formidable	:	3	:	*commiserate(동정하다, 가엾게 여기다) *aggressive(공격적인, 적극적인)	:	*awry(구부러져, 비틀려서, 잘못되어) *formidable(무서운, 겁나는)	:	0
+262	:	당황하게 하다	:	commodious	:	aggrieve	:	baffle	:	forsake	:	3	:	*commodious((방 따위가)널찍한) *aggrieve(괴롭히다)	:	*baffle(당황하게 하다) *forsake(벗 가족을 버리다,떠나다)	:	0
+263	:	진부한	:	commonplace	:	agile	:	banal	:	forte	:	3	:	*commonplace(흔한, 평범(진부)한) *agile(민첩한)	:	*banal(진부한) *forte(특기, 잠정)	:	0
+264	:	해로운	:	commotion	:	agitate	:	baneful	:	fortitude	:	3	:	*commotion(소요, 소동) *agitate(자극하다, 동요하게 하다)	:	*baneful(해로운) *fortitude(용기, 인내, 강함)	:	0
+265	:	행복에 넘친	:	compact	:	agnostic	:	beatific	:	fortuitous	:	3	:	*compact(계약, 협정) *agnostic(불가지론자(의))	:	*beatific(행복에 넘친) *fortuitous(우연한)	:	0
+266	:	(~의 신상에)일어나다, 생기다	:	compassion	:	akin	:	befall	:	forwear	:	3	:	*compassion(연민, 동정) *akin(친척의, 유사한)	:	*befall((~의 신상에)일어나다, 생기다) *forwear(맹세코 그만두다)	:	0
+267	:	속이다	:	compatible	:	alacrity	:	beguile	:	foster	:	3	:	*compatible(양립할수있는, 호환되는) *alacrity(민활함)	:	*beguile(속이다) *foster(촉진(증진)하다)	:	0
+268	:	~을 보다	:	compensate	:	alienate	:	behold	:	fractious	:	3	:	*compensate(보상하다, 보충(상쇄)하다) *alienate(소외(멀리)하다, 양도하다 )	:	*behold(~을 보다) *fractious(까다로운)	:	0
+269	:	늦은, 뒤늦은	:	compile	:	allay	:	belated	:	frail	:	3	:	*compile((자료를)모으다, 편찬하다) *allay((공포,고통따위를)가라앉히다)	:	*belated(늦은, 뒤늦은) *frail(연약한 깨지기 쉬운)	:	0
+270	:	,,를 헐뜯다, 작게하다	:	complacent	:	allege	:	belittle	:	fraternal	:	3	:	*complacent(만족해 하는, 자기 만족의) *allege((증거없이)주장하다)	:	*belittle(,,를 헐뜯다, 작게하다) *fraternal(형제의)	:	0
+271	:	호전적인	:	complaisant	:	alleviate	:	bellicose	:	exhilarate	:	3	:	*complaisant(고분고분한, 공손한) *alleviate((고통을)완화시키다)	:	*bellicose(호전적인) *exhilarate(원기(기운)을 돋우다)	:	0
+272	:	슬퍼(애도)하다	:	complement	:	allocate	:	bemoan	:	fraught	:	3	:	*complement(보충물, 보어, 보충하다) *allocate(할당하다, 배분하다)	:	*bemoan(슬퍼(애도)하다) *fraught(~으로 가득 찬)	:	0
+273	:	감사기도,축복	:	complexion	:	alloy	:	benediction	:	fray	:	3	:	*complexion(안색,용모,(사태의)양상) *alloy(합금하다,(질을)떨어뜨리다)	:	*benediction(감사기도,축복) *fray(닳(아빠지)게 하다)	:	0
+274	:	자선가, 후원자	:	complicate	:	allude	:	benefactor	:	dabble	:	3	:	*complicate(복잡하게 하다) *allude((넌지시)암시하다)	:	*benefactor(자선가, 후원자) *dabble(장나삼아 하다, 물을 튀기다)	:	0
+275	:	선행을 베푸는	:	compliment	:	allure	:	beneficent	:	frigid	:	3	:	*compliment(칭찬(찬사)를 보내다) *allure(유혹(매혹)하다, 유혹)	:	*beneficent(선행을 베푸는) *frigid(매우추운 , 흑한의)	:	0
+276	:	(아는 것으로부터)연역하다	:	acquit	:	assiduous	:	circumspect	:	deduce	:	4	:	*acquit(석방하다, 무죄로 하다) *assiduous(근면한, 주도 면밀한)	:	*circumspect(조심성 있는, 신중한) *deduce((아는 것으로부터)연역하다)	:	0
+277	:	미루다, 연기하다	:	acrid	:	assimilate	:	circumvent	:	defer	:	4	:	*acrid((냄새 등이)콕 쏘는) *assimilate(동화하다,(음식)소화하다)	:	*circumvent(함정에 빠뜨리다) *defer(미루다, 연기하다)	:	0
+278	:	(재산을)속여 빼앗다	:	acrimonious	:	assuage	:	citadel	:	defraud	:	4	:	*acrimonious(신랄한) *assuage(누그러뜨리다, 가라앉히다)	:	*citadel((시,시민을 지키는)성) *defraud((재산을)속여 빼앗다)	:	0
+279	:	죽은, 현존하지 않는	:	adamant	:	astound	:	sovereign	:	defunct	:	4	:	*adamant((의지가)단호한) *astound(깜짝 놀라게 하다)	:	*sovereign(군주, 국왕, 주권이 있는) *defunct(죽은, 현존하지 않는)	:	0
+280	:	퇴화(퇴보)하다	:	addict	:	astral	:	clairvoyant	:	degenerate	:	4	:	*addict(~에 빠지다, 중독자) *astral(별의)	:	*clairvoyant(통찰력이 있는) *degenerate(퇴화(퇴보)하다)	:	0
+281	:	강등시키다, 타락시키다	:	adept	:	astray	:	clamber	:	degrade	:	4	:	*adept(숙련된, 능숙한,전문가) *astray(잘못된 길에 빠져)	:	*clamber((손,발로)기어오르다) *degrade(강등시키다, 타락시키다)	:	0
+282	:	기가죽은, 낙심한	:	adhere	:	astute	:	clandestine	:	dejected	:	4	:	*adhere(들러붙다, 고수하다) *astute(빈틈없는)	:	*clandestine(비밀의, 은밀한) *dejected(기가죽은, 낙심한)	:	0
+283	:	대표로 파견하다, 대리인	:	adjacent	:	asunder	:	cleave	:	delegate	:	4	:	*adjacent(근접(인접)한) *asunder(낱낱으로, 흩어져)	:	*cleave(조개다, 달라붙다) *delegate(대표로 파견하다, 대리인)	:	0
+284	:	유해한	:	adjourn	:	atheist	:	clemency	:	deleterious	:	4	:	*adjourn((회의를)휴회(연기)하다) *atheist(무신론자)	:	*clemency((성격,성질 등의)관대(함)) *deleterious(유해한)	:	0
+285	:	신중한, 숙고하다	:	adjunct	:	atone	:	cliché	:	deliberate	:	4	:	*adjunct(부수물, 수식어구) *atone((죄를)보상하다, 갚다)	:	*cliché((진부한)상투 어구) *deliberate(신중한, 숙고하다)	:	0
+286	:	비행의, 태만한, 체납된	:	administer	:	atrocious	:	climax	:	delinquent	:	4	:	*administer(관리하다,(약을)복용시키다) *atrocious(극악한)	:	*climax(절정) *delinquent(비행의, 태만한, 체납된)	:	0
+287	:	현혹하다, 속이다	:	admonish	:	atrophy	:	clique	:	delude	:	4	:	*admonish(훈계하다, 경고하다) *atrophy(발육 불능, 약화시키다)	:	*clique((배타적인)파벌) *delude(현혹하다, 속이다)	:	0
+288	:	대홍수, 범람하게 하다	:	adopt	:	attest	:	cloister	:	deluge	:	4	:	*adopt(채택(채용)하다, 양자로 삼다) *attest(입증(증명)하다)	:	*cloister(수도원) *deluge(대홍수, 범람하게 하다)	:	0
+289	:	행실, 태도	:	adore	:	attire	:	coalition	:	demeanor	:	4	:	*adore(숭배하다, 존경하다) *attire((옷을 차려)입히다, 복장)	:	*coalition(연합, 제휴) *demeanor(행실, 태도)	:	0
+290	:	파괴하다	:	adorn	:	attorney	:	coerce	:	demolish	:	4	:	*adorn(꾸미다, 장식하다) *attorney(대리인, 변호사)	:	*coerce(강요하다, 억압하다) *demolish(파괴하다)	:	0
+291	:	증명(설명,시위)하다	:	adroit	:	attribute	:	cogent	:	demonstrate	:	4	:	*adroit(능숙한, 재치있는) *attribute(~의 탓으로 돌리다, 속성)	:	*cogent(설득력있는) *demonstrate(증명(설명,시위)하다)	:	0
+292	:	이의를 제기하다, 이의제기	:	adulation	:	atypical	:	cogitate	:	demur	:	4	:	*adulation(아첨,칭찬) *atypical(비정형(불규칙)의)	:	*cogitate(곰곰히 생각하다, 숙고하다) *demur(이의를 제기하다, 이의제기)	:	0
+293	:	얌전한, 얀전한 체하는	:	adulterate	:	audacity	:	cognate	:	demure	:	4	:	*adulterate((불순물을)섞다) *audacity(대담, 안하무인)	:	*cognate(조상이 깊은, 혈족의, 친족) *demure(얌전한, 얀전한 체하는)	:	0
+294	:	~을 표시하다	:	adumbrate	:	augment	:	cognition	:	denote	:	4	:	*adumbrate((어렴풋이) 윤곽을 드러내다) *augment(증가시키다(하다))	:	*cognition(인식, 인식된 것) *denote(~을 표시하다)	:	0
+295	:	비난하다	:	advent	:	auspicious	:	cohere	:	denounce	:	4	:	*advent((중요한 사건)도래, 재림) *auspicious(길조의, 성공을 예고하는)	:	*cohere(일관성있다, 어울리다) *denounce(비난하다)	:	0
+296	:	묘사(서술)하다	:	adventitious	:	austerity	:	coincide	:	depict	:	4	:	*adventitious(우연한) *austerity(엄격(함))	:	*coincide(동시에 일어나다, 일치하다) *depict(묘사(서술)하다)	:	0
+297	:	고갈시키다	:	adverse	:	authenticate	:	collaborate	:	deplete	:	4	:	*adverse(반대의, 불리한) *authenticate(진짜임을 증명하다)	:	*collaborate(공동으로 일하다) *deplete(고갈시키다)	:	0
+298	:	한탄하다, 개탄하다	:	advert	:	autobiography	:	collapse	:	deplore	:	4	:	*advert(언급하다, 주목하다) *autobiography(자서전)	:	*collapse(무너지다, 폭락) *deplore(한탄하다, 개탄하다)	:	0
+299	:	(국외로)추방하다	:	advocate	:	autocracy	:	collate	:	deport	:	4	:	*advocate(지지하다, 옹호하다) *autocracy(전제정치,독재정부)	:	*collate(대조하다,페이지를 맞추다) *deport((국외로)추방하다)	:	0
+300	:	(고위직에서)물러나게 하다	:	affable	:	autograph	:	collateral	:	depose	:	4	:	*affable(상냥한, 붙임성 있는) *autograph(자필서명,서명하다)	:	*collateral( 평행한, 부수적인,담보로 한) *depose((고위직에서)물러나게 하다)	:	0
+301	:	맺음말, 결어	:	epilogue	:	frolicsome	:	deposit	:	eclipse	:	1	:	*epilogue(맺음말, 결어) *frolicsome(까불며 뛰노는)	:	*deposit(놓다, 퇴적, 계약금으로 지불하다) *eclipse((해, 달의)식, 가리다)	:	0
+302	:	개략, 요약, 표본	:	epitome	:	frugal	:	depravity	:	ecstasy	:	1	:	*epitome(개략, 요약, 표본) *frugal(검소한)	:	*depravity(탁락) *ecstasy(무아지경, 황홀)	:	0
+303	:	(획기적인)시대	:	epoch	:	frustrate	:	deprecate	:	edify	:	1	:	*epoch((획기적인)시대) *frustrate(좌절(실패)시키다)	:	*deprecate(불찬성하다, 비난하다) *edify(교화하다)	:	0
+304	:	(마음의)평정	:	equanimity	:	fulsome	:	depreciate	:	eerie	:	1	:	*equanimity((마음의)평정) *fulsome(지나친)	:	*depreciate(가치가 떨어지다) *eerie(섬뜩한)	:	0
+305	:	애매한	:	equivocal	:	funereal	:	depress	:	efface	:	1	:	*equivocal(애매한) *funereal(장례식의)	:	*depress(낙담시키다, 약화시키다) *efface(지우다, 말살하다)	:	0
+306	:	뿌리째 뽑다, 근절하다	:	eradicate	:	furtive	:	deputy	:	efficacy	:	1	:	*eradicate(뿌리째 뽑다, 근절하다) *furtive(몰래하는)	:	*deputy(대리,보좌관, 하원의원) *efficacy(효력)	:	0
+307	:	(병 따위가)좀먹다, 침식하다	:	erode	:	gainsay	:	deranged	:	elaborate	:	1	:	*erode((병 따위가)좀먹다, 침식하다) *gainsay(반박(부인)하다)	:	*deranged(발광한, 미친, 혼란된) *elaborate(정성들인, 정성들여 만들다)	:	0
+308	:	박식한, 학식있는	:	erudite	:	galvanize,-ise	:	derelict	:	elapse	:	1	:	*erudite(박식한, 학식있는) *galvanize,-ise(갑자기 활기 띠게 하다)	:	*derelict(유기된,직무에 태만한) *elapse((때가)경과하다)	:	0
+309	:	(화산 등이)분출(폭발)하다	:	erupt	:	gamut	:	deride	:	elate	:	1	:	*erupt((화산 등이)분출(폭발)하다) *gamut(전 범위 전역)	:	*deride(비웃다, 조롱하다) *elate(의기 양양하게 하다)	:	0
+310	:	피하다	:	eschew	:	gape	:	derive	:	elicit	:	1	:	*eschew(피하다) *gape(넋을 잃고 보다)	:	*derive(끌어내다, 유래하다) *elicit((대답, 웃음 따위)이끌어내다)	:	0
+311	:	호위자, 호송하다	:	escort	:	garrulous	:	descry	:	obscure	:	1	:	*escort(호위자, 호송하다) *garrulous(수다스러운)	:	*descry(~을 찾아내다) *obscure(분명하지 않은, 애매한)	:	0
+312	:	민족의, 소수민족	:	ethnic	:	genial	:	designate	:	elucidate	:	1	:	*ethnic(민족의, 소수민족) *genial(온난한, 다정한)	:	*designate(가리키다, 임명하다) *elucidate(명료하게 설명하다)	:	0
+313	:	찬사,칭송	:	eulogy	:	genteel	:	desolate	:	elude	:	1	:	*eulogy(찬사,칭송) *genteel(상류사회의,품위 있는)	:	*desolate(사람이 살지 않는, 황폐한) *elude(교묘히 피하다)	:	0
+314	:	행복감,쾌감	:	euphoria	:	germane	:	despise	:	emancipate	:	1	:	*euphoria(행복감,쾌감) *germane(밀접한 관계가 있는)	:	*despise(경멸하다) *emancipate(해방시키다)	:	0
+315	:	안락사	:	euthanasia	:	gesticulation	:	despondent	:	embargo	:	1	:	*euthanasia(안락사) *gesticulation(몸짓손짓)	:	*despondent(낙담한, 풀이 죽은) *embargo((통상을) 금지하다)	:	0
+316	:	대피(철수)시키다	:	evacuate	:	ghastly	:	despotism	:	embark	:	1	:	*evacuate(대피(철수)시키다) *ghastly(무서운)	:	*despotism(독재정치) *embark(숭선하다, 착수하다)	:	0
+317	:	(교묘히)피하다, 벗어나다	:	evade	:	gist	:	destitute	:	embellish	:	1	:	*evade((교묘히)피하다, 벗어나다) *gist(여점)	:	*destitute(빈궁한, 빈곤한, ~이 없는) *embellish(아름답게하다, 장식하다)	:	0
+318	:	평가하다	:	evaluate	:	glib	:	desuetude	:	embezzle	:	1	:	*evaluate(평가하다) *glib(입심 좋은)	:	*desuetude(폐지(상태)) *embezzle((공금을)횡령하다)	:	0
+319	:	증발하다, (희망)사라지다	:	evaporate	:	glossy	:	desultory	:	emblem	:	1	:	*evaporate(증발하다, (희망)사라지다) *glossy(윤이나는)	:	*desultory(종잡을 수 없는, 산만한) *emblem(상징, 표상)	:	0
+320	:	(기억,감정)불러 일으키다	:	evoke	:	gluttonous	:	detach	:	embody	:	1	:	*evoke((기억,감정)불러 일으키다) *gluttonous(게걸스러운)	:	*detach(분리시키다) *embody(구체(유형)화 하다, 포함하다)	:	0
+321	:	지참금	:	dowry	:	goad	:	detain	:	emboss	:	1	:	*dowry(지참금) *goad(자극 선동하다)	:	*detain(기다리게 하다, 감금하다) *emboss(튀어나오게 하다)	:	0
+322	:	높이다, 칭찬하다	:	exalt	:	gorge	:	deter	:	embroider	:	1	:	*exalt(높이다, 칭찬하다) *gorge(배불리 먹다)	:	*deter(~을 그만두게 하다) *embroider(수를 놓다, 자수하다)	:	0
+323	:	몹시 화나게 하다	:	exasperate	:	grandiloquent	:	deteriorate	:	embryo	:	1	:	*exasperate(몹시 화나게 하다) *grandiloquent(과장된)	:	*deteriorate((가치, 품질 따위)떨어뜨리다) *embryo(태아,(발달의)초기)	:	0
+324	:	구멍을 파다(뚫다)	:	excavate	:	grandiose	:	detest	:	emerge	:	1	:	*excavate(구멍을 파다(뚫다)) *grandiose(웅대장엄한)	:	*detest(몹시 싫어하다) *emerge(나타나다, 출현하다)	:	0
+325	:	발췌, 인용, 발췌하다	:	excerpt	:	gratuitous	:	detrimental	:	emigrate	:	1	:	*excerpt(발췌, 인용, 발췌하다) *gratuitous(공짜의,무료의)	:	*detrimental(해로운) *emigrate((외국으로)이민하다)	:	0
+326	:	황폐화하다	:	gregarious	:	devastate	:	eminent	:	facetious	:	2	:	*gregarious(군집성의 사교적인) *devastate(황폐화하다)	:	*eminent(뛰어난, 탁월한) *facetious(익살맞은)	:	0
+327	:	빗나가다, 벗어나다	:	grisly	:	deviate	:	emit	:	facilitate	:	2	:	*grisly(무서운) *deviate(빗나가다, 벗어나다)	:	*emit((빛,열 따위를)방출하다) *facilitate((일을)용이하게 하다)	:	0
+328	:	~이 빠진, 전혀 없는	:	gruesome	:	devoid	:	empower	:	hectic	:	2	:	*gruesome(소름 끼치는) *devoid(~이 빠진, 전혀 없는)	:	*empower(~에게 권한(능력)을 주다) *hectic(매우 바쁜, 매우 흥분한)	:	0
+329	:	게걸스레 먹다, 삼켜버리다	:	gruff	:	devour	:	emulate	:	factitious	:	2	:	*gruff(퉁명스러운) *devour(게걸스레 먹다, 삼켜버리다)	:	*emulate(경쟁하다, 본뜨다) *factitious(인위적인)	:	0
+330	:	독실한, 경건한, 열렬한	:	guile	:	devout	:	enact	:	fallacious	:	2	:	*guile(교활) *devout(독실한, 경건한, 열렬한)	:	*enact((법률을)제정하다) *fallacious(그릇된)	:	0
+331	:	진단법	:	gullible	:	diagnosis	:	enchant	:	famish	:	2	:	*gullible(속기 쉬운) *diagnosis(진단법)	:	*enchant(마법을 걸다, 매혹시키다) *famish(~을 굶주리게 하다)	:	0
+332	:	대각석(의)	:	hackneyed	:	diagonal	:	encircle	:	fanaticism	:	2	:	*hackneyed(진부한) *diagonal(대각석(의))	:	*encircle(에워(둘러)싸다) *fanaticism(열광)	:	0
+333	:	방언,사투리	:	halcyon	:	dialect	:	encompass	:	fancy	:	2	:	*halcyon(평온한) *dialect(방언,사투리)	:	*encompass(둘러(에워)싸다, 포함하다) *fancy(상상하다, 좋아하다)	:	0
+334	:	변증법,문답식의	:	hallowed	:	dialectic	:	encounter	:	fastidious	:	2	:	*hallowed(신성한) *dialectic(변증법,문답식의)	:	*encounter(우연히 만나다) *fastidious(까다로운)	:	0
+335	:	자신없는, 겁많은	:	hallucination	:	diffident	:	encroach	:	fatuous	:	2	:	*hallucination(환각) *diffident(자신없는, 겁많은)	:	*encroach((재산,권리를)침해하다) *fatuous(어리섞은)	:	0
+336	:	(본론에서) 벗어나다	:	hamper	:	digress	:	encumber	:	fealty	:	2	:	*hamper(방해하다) *digress((본론에서) 벗어나다)	:	*encumber(방해하다,막다) *fealty(충성)	:	0
+337	:	황폐한	:	haphazard	:	dilapidated	:	encyclopedia	:	feasible	:	2	:	*haphazard(우연의) *dilapidated(황폐한)	:	*encyclopedia(백과사전) *feasible(실행할 수 있는)	:	0
+338	:	팽창시키다, 넓히다	:	harass	:	dilate	:	contemplate	:	fecund	:	2	:	*harass(괴롭히다) *dilate(팽창시키다, 넓히다)	:	*contemplate(심사숙고하다) *fecund(다산의, 비옥한)	:	0
+339	:	느린, 시간을 끄는	:	harbinger	:	dilatory	:	endear	:	feign	:	2	:	*harbinger(선구자 전조) *dilatory(느린, 시간을 끄는)	:	*endear(애정을 느끼게 하다) *feign(~인 체하다)	:	0
+340	:	딜레마,진퇴양난	:	harry	:	dilemma	:	endemic	:	felicitous	:	2	:	*harry(악탈침략하다) *dilemma(딜레마,진퇴양난)	:	*endemic((지방의)고유의,토종의) *felicitous((행동,표현 등이)적절한)	:	0
+341	:	아마추어 예술가	:	haughty	:	dilettante	:	orbit	:	fictitious	:	2	:	*haughty(건방진 ) *dilettante(아마추어 예술가)	:	*orbit(궤도) *fictitious(가짜의)	:	0
+342	:	(물을 타서)묽게 하다	:	hazardous	:	dilute	:	enervate	:	fidelity	:	2	:	*hazardous(위험이 많은) *dilute((물을 타서)묽게 하다)	:	*enervate(기력을 빼앗다, 약화시키다) *fidelity(충실, 충성)	:	0
+343	:	치수, 크기, 차원	:	hazy	:	dimension	:	engender	:	finesse	:	2	:	*hazy(흐릿한) *dimension(치수, 크기, 차원)	:	*engender(발생(야기)시키다) *finesse(교묘한 솜씨, 술책 )	:	0
+344	:	줄다, 축소하다	:	hedonism	:	diminish	:	engrave	:	flagrant	:	2	:	*hedonism(쾌락주의) *diminish(줄다, 축소하다)	:	*engrave(조각하다, (마음 속에)새기다) *flagrant(극악한)	:	0
+345	:	불구로 만들다	:	heedless	:	disable	:	engross	:	flamboyant	:	2	:	*heedless(부주의한, 고의가 아닌, 우연의) *disable(불구로 만들다)	:	*engross((마음을) 빼앗다, 몰두시키다) *flamboyant(화려한)	:	0
+346	:	해산하다	:	heinous	:	disband	:	eloquent	:	fledgling	:	2	:	*heinous(극악한 가증스러운) *disband(해산하다)	:	*eloquent(웅변의, 능변인) *fledgling(애송이, 풋내기)	:	0
+347	:	버리다, 포기하다	:	heresy	:	discard	:	enigma	:	flimsy	:	2	:	*heresy(이단) *discard(버리다, 포기하다)	:	*enigma(수수께기(같은 사람)) *flimsy((얇고)부서지기 쉬운)	:	0
+348	:	제자, 12사도	:	heterodox	:	disciple	:	enjoin	:	flout	:	2	:	*heterodox(비정통적인,이단의) *disciple(제자, 12사도)	:	*enjoin(~에게 명령하다, ~을 금하다) *flout(비웃다)	:	0
+349	:	당황케 하다	:	heterogeneous	:	disconcert	:	enlist	:	fluctuation	:	2	:	*heterogeneous(이종의, 이질의) *disconcert(당황케 하다)	:	*enlist(병적에 넣다, 입대하다) *fluctuation(변동)	:	0
+350	:	의견차이, 불화	:	hibernate	:	discord	:	enliven	:	flux	:	2	:	*hibernate(겨울잠을 자다 동면하다) *discord(의견차이, 불화)	:	*enliven(활기있게 하다) *flux((끊임없는)변화)	:	0
+351	:	말하다, 담화하다, 담화	:	bombastic	:	congenital	:	discourse	:	alluvial	:	3	:	*bombastic(과장된) *congenital(선천적인)	:	*discourse(말하다, 담화하다, 담화) *alluvial(충적의)	:	0
+352	:	신용을 떨어뜨리다	:	bounteous	:	congest	:	discredit	:	aloof	:	3	:	*bounteous(후한, 풍부한) *congest(넘치게하다,충혈시키다)	:	*discredit(신용을 떨어뜨리다) *aloof(떨어져서, 멀어져서,내성적인)	:	0
+353	:	신중한	:	bountiful	:	conglomerate	:	discreet	:	altruistic	:	3	:	*bountiful(아까워 하지 않는, 후한) *conglomerate(집단, (거대한)복합 기업)	:	*discreet(신중한) *altruistic(이타적인)	:	0
+354	:	차이, 불일치	:	bravado	:	congregate	:	discrepancy	:	amalgamate	:	3	:	*bravado(허세) *congregate(모이다,집합시키다)	:	*discrepancy(차이, 불일치) *amalgamate(결합(합병)하다)	:	0
+355	:	분리된, 별개의	:	brazen	:	conjecture	:	discrete	:	amaze	:	3	:	*brazen(오만한) *conjecture(추측하다, 추측, 짐작)	:	*discrete(분리된, 별개의) *amaze(깜작 놀라게 하다)	:	0
+356	:	구별하다,차별 대우하다	:	breach	:	conjure	:	discriminate	:	ambiguous	:	3	:	*breach(어김, 위반) *conjure(마술로 좌우하다)	:	*discriminate(구별하다,차별 대우하다) *ambiguous(불확실한,모호한)	:	0
+357	:	경멸하다, 멸시하다	:	brevity	:	connubial	:	disdain	:	ambush	:	3	:	*brevity(간결함) *connubial(결혼(부부)의)	:	*disdain(경멸하다, 멸시하다) *ambush(매복,잠복,매복 공격)	:	0
+358	:	엉킨 것을 풀다	:	bristle	:	conscript	:	disentangle	:	ameliorate	:	3	:	*bristle(격분하다, (털이)곤두서다) *conscript(징집(징병)하다)	:	*disentangle(엉킨 것을 풀다) *ameliorate(개선(향상)시키다)	:	0
+359	:	망가뜨리다, 흉하게 하다	:	outlandish	:	consecrate	:	disfigure	:	amenable	:	3	:	*outlandish(이국풍의, 기이한) *consecrate(신성하게 하다, 바치다)	:	*disfigure(망가뜨리다, 흉하게 하다) *amenable(유순한, 순종하는)	:	0
+360	:	환상에서 깨어나게 하다, 각성	:	brusque	:	consecutive	:	disillusion	:	amenity	:	3	:	*brusque((말,행동 등이)무뚝뚝한) *consecutive(연속적인,일관된)	:	*disillusion(환상에서 깨어나게 하다, 각성) *amenity(예의)	:	0
+361	:	공정한, 객관적인	:	buttress	:	consensus	:	disinterested	:	amiable	:	3	:	*buttress(지지(물), 지지하다) *consensus((의견 등의)일치, 합의, 여론)	:	*disinterested(공정한, 객관적인) *amiable(상냥한)	:	0
+362	:	음침한	:	buxom	:	crate	:	dismal	:	amicable	:	3	:	*buxom((여자가)건강하고 쾌활한) *crate(나무상자, 틀상자)	:	*dismal(음침한) *amicable(우호적인)	:	0
+363	:	당황, 낙심	:	by pass	:	consign	:	dismay	:	amnesty	:	3	:	*by pass(우회로,~을 우회하다) *consign(맡기다, (판매를)위탁하다)	:	*dismay(당황, 낙심) *amnesty(특사,사면)	:	0
+364	:	혼란스럽게하다	:	bygone	:	console	:	disorient	:	amorphous	:	3	:	*bygone(과거의,지나간) *console((슬픔,고통을)위로하다)	:	*disorient(혼란스럽게하다) *amorphous(무정형의)	:	0
+365	:	비난하다, 헐뜯다	:	by-product	:	consolidate	:	disparage	:	ample	:	3	:	*by-product(부산물) *consolidate(합병(강화)하다)	:	*disparage(비난하다, 헐뜯다) *ample((남을 만큼)충분한)	:	0
+366	:	(본질적,절대적)차이, 상이함	:	bystander	:	consort	:	disparity	:	anachronism	:	3	:	*bystander(방관자,구경꾼) *consort((나쁜 사람들과)사귀다)	:	*disparity((본질적,절대적)차이, 상이함) *anachronism(시대 착오)	:	0
+367	:	급송하다, 급파	:	cadaverous	:	conspire	:	dispatch	:	analogy	:	3	:	*cadaverous(시체 같은, 창백한) *conspire(음모를 꾸미다, 공모하다)	:	*dispatch(급송하다, 급파) *analogy(유사함,비교,비유)	:	0
+368	:	(생각 따위를)떨쳐버리다	:	cajole	:	constellation	:	dispel	:	anarchy	:	3	:	*cajole(감언으로 속이다) *constellation(별자리)	:	*dispel((생각 따위를)떨쳐버리다) *anarchy(무정부 상태)	:	0
+369	:	분배하다, (약을)조제하다	:	callous	:	constrict	:	dispense	:	anathema	:	3	:	*callous((피부 등이)굳어진, 무감각한) *constrict(조이다, 압축(수축)하다)	:	*dispense(분배하다, (약을)조제하다) *anathema(저주, 혐오(스러운 것))	:	0
+370	:	흩뜨리다, 퍼뜨리다	:	callow	:	construe	:	disperse	:	anecdote	:	3	:	*callow(경험이 없는) *construe((말,행동 등을)해석하다)	:	*disperse(흩뜨리다, 퍼뜨리다) *anecdote(일화)	:	0
+371	:	(바꾸어 놓다, 옮기다	:	calumny	:	consummate	:	displace	:	animated	:	3	:	*calumny(비방) *consummate(성취하다, 완성하다)	:	*displace((바꾸어 놓다, 옮기다) *animated(활기찬, 활발한)	:	0
+372	:	배치, 처분하다(of)	:	candor	:	contaminate	:	dispose	:	animosity	:	3	:	*candor(솔직) *contaminate(더럽히다,오염시키다)	:	*dispose(배치, 처분하다(of)) *animosity(적의)	:	0
+373	:	어울리지 않는, 불균형한	:	canvass	:	contemn	:	disproportionate	:	annals	:	3	:	*canvass(선거 운동하다) *contemn(~을 경멸하다)	:	*disproportionate(어울리지 않는, 불균형한) *annals(연대기)	:	0
+374	:	무시하다, 무시, 소홀	:	capacious	:	context	:	disregard	:	annex	:	3	:	*capacious(많이 들어가는) *context((글의) 전후 관계, 문맥)	:	*disregard(무시하다, 무시, 소홀) *annex(추가하다, 부속 건물)	:	0
+375	:	붕괴(분열)시키다	:	capitulate	:	contiguous	:	disrupt	:	annihilate	:	3	:	*capitulate(항복하다) *contiguous(인접한(to), 접촉해 있는)	:	*disrupt(붕괴(분열)시키다) *annihilate((완전히)파괴(폐지)하다)	:	0
+376	:	(성격의)결점, 약점	:	enmity	:	stately	:	affiance	:	foible	:	4	:	*enmity(증오, 적의) *stately(당당한; 위엄 있는)	:	*affiance(계약, 약혼) *foible((성격의)결점, 약점)	:	0
+377	:	(반란 등을)선동하다	:	ennoble	:	collide	:	affiliate	:	foment	:	4	:	*ennoble(품위를 높이다) *collide(충돌하다, 상충되다)	:	*affiliate(가입시키다, 합병시키다) *foment((반란 등을)선동하다)	:	0
+378	:	예감,불길한,전조가 되는	:	ennui	:	colloquial	:	affinity	:	foreboding	:	4	:	*ennui(권태, 지루함) *colloquial(일상 회화의,구어(체)의)	:	*affinity(유사성,(강한)호감,애정) *foreboding(예감,불길한,전조가 되는)	:	0
+379	:	선구자,전조 조짐	:	enrage	:	collude	:	affluent	:	forerunner	:	4	:	*enrage(격노(분개)하게 하다) *collude(공모(결탁)하다)	:	*affluent(풍요(부유)한) *forerunner(선구자,전조 조짐)	:	0
+380	:	예견 ,선견지명	:	frisk	:	colossal	:	affront	:	foresight	:	4	:	*frisk(뛰놀다, 몸수색하다) *colossal(거대한)	:	*affront(모욕를 주다, 창피) *foresight(예견 ,선견지명)	:	0
+381	:	~을 미리 막다	:	ensemble	:	combustion	:	afloat	:	forestall	:	4	:	*ensemble(종합적 효과, 앙상블) *combustion(연소)	:	*afloat((물에)떠 있는) *forestall(~을 미리 막다)	:	0
+382	:	예언하다	:	ensign	:	commemorate	:	aftermath	:	foretell	:	4	:	*ensign((국)기, 상징) *commemorate((특히 의식을 통해)기념하다)	:	*aftermath(결과,여파) *foretell(예언하다)	:	0
+383	:	잃다,몰수되다,벌금	:	enslave	:	commence	:	agenda	:	forfeit	:	4	:	*enslave(노예로 만들다) *commence(시작하다, 학위를 받다)	:	*agenda(의제) *forfeit(잃다,몰수되다,벌금)	:	0
+384	:	포기하다,그만두다	:	ensue	:	commend	:	aggravate	:	forgo	:	4	:	*ensue(계속해서 일어나다) *commend(칭찬하다, 위탁하다)	:	*aggravate(악화시키다) *forgo(포기하다,그만두다)	:	0
+385	:	버려진,버림받은,고독한	:	disruptive	:	commensurate	:	aggregate	:	forlorn	:	4	:	*disruptive(분열시키는, 파괴하는) *commensurate(같은 양의, 균형이 잡힌)	:	*aggregate(합계가 ~이 되다, 합계) *forlorn(버려진,버림받은,고독한)	:	0
+386	:	무서운, 겁나는	:	entail	:	commiserate	:	aggressive	:	formidable	:	4	:	*entail((필연적인 결과로서)수반하다) *commiserate(동정하다, 가엾게 여기다)	:	*aggressive(공격적인, 적극적인) *formidable(무서운, 겁나는)	:	0
+387	:	벗 가족을 버리다,떠나다	:	entangle	:	commodious	:	aggrieve	:	forsake	:	4	:	*entangle(엉클어지게 하다) *commodious((방 따위가)널찍한)	:	*aggrieve(괴롭히다) *forsake(벗 가족을 버리다,떠나다)	:	0
+388	:	특기, 잠정	:	pliable	:	commonplace	:	agile	:	forte	:	4	:	*pliable(유연한, 융통성있는) *commonplace(흔한, 평범(진부)한)	:	*agile(민첩한) *forte(특기, 잠정)	:	0
+389	:	용기, 인내, 강함	:	enthrall	:	commotion	:	agitate	:	fortitude	:	4	:	*enthrall(마음을 사로잡다) *commotion(소요, 소동)	:	*agitate(자극하다, 동요하게 하다) *fortitude(용기, 인내, 강함)	:	0
+390	:	우연한	:	enthrone	:	compact	:	agnostic	:	fortuitous	:	4	:	*enthrone(왕위에 앉히다, 즉위시키다) *compact(계약, 협정)	:	*agnostic(불가지론자(의)) *fortuitous(우연한)	:	0
+391	:	맹세코 그만두다	:	entice	:	compassion	:	akin	:	forwear	:	4	:	*entice(꾀다, 유혹하다) *compassion(연민, 동정)	:	*akin(친척의, 유사한) *forwear(맹세코 그만두다)	:	0
+392	:	촉진(증진)하다	:	entitle	:	compatible	:	alacrity	:	foster	:	4	:	*entitle(제목을 붙이다, 자격을 부여하다) *compatible(양립할수있는, 호환되는)	:	*alacrity(민활함) *foster(촉진(증진)하다)	:	0
+393	:	까다로운	:	entreat	:	compensate	:	alienate	:	fractious	:	4	:	*entreat(탄원하다, 부탁하다) *compensate(보상하다, 보충(상쇄)하다)	:	*alienate(소외(멀리)하다, 양도하다 ) *fractious(까다로운)	:	0
+394	:	연약한 깨지기 쉬운	:	entrench	:	compile	:	allay	:	frail	:	4	:	*entrench(참호로 에워싸다) *compile((자료를)모으다, 편찬하다)	:	*allay((공포,고통따위를)가라앉히다) *frail(연약한 깨지기 쉬운)	:	0
+395	:	형제의	:	entrust	:	complacent	:	allege	:	fraternal	:	4	:	*entrust(맡기다, 위탁하다) *complacent(만족해 하는, 자기 만족의)	:	*allege((증거없이)주장하다) *fraternal(형제의)	:	0
+396	:	원기(기운)을 돋우다	:	enumerate	:	complaisant	:	alleviate	:	exhilarate	:	4	:	*enumerate((일일이)열거하다) *complaisant(고분고분한, 공손한)	:	*alleviate((고통을)완화시키다) *exhilarate(원기(기운)을 돋우다)	:	0
+397	:	~으로 가득 찬	:	envoy	:	complement	:	allocate	:	fraught	:	4	:	*envoy((외교) 사절, 특사) *complement(보충물, 보어, 보충하다)	:	*allocate(할당하다, 배분하다) *fraught(~으로 가득 찬)	:	0
+398	:	닳(아빠지)게 하다	:	ephemeral	:	complexion	:	alloy	:	fray	:	4	:	*ephemeral(일시적인) *complexion(안색,용모,(사태의)양상)	:	*alloy(합금하다,(질을)떨어뜨리다) *fray(닳(아빠지)게 하다)	:	0
+399	:	장나삼아 하다, 물을 튀기다	:	epidemic	:	complicate	:	allude	:	dabble	:	4	:	*epidemic(전염병, 유행, 확산) *complicate(복잡하게 하다)	:	*allude((넌지시)암시하다) *dabble(장나삼아 하다, 물을 튀기다)	:	0
+400	:	매우추운 , 흑한의	:	epigram	:	compliment	:	allure	:	frigid	:	4	:	*epigram(경구, 짧은시) *compliment(칭찬(찬사)를 보내다)	:	*allure(유혹(매혹)하다, 유혹) *frigid(매우추운 , 흑한의)	:	0
+401	:	석방하다, 무죄로 하다	:	acquit	:	assiduous	:	circumspect	:	frolicsome	:	1	:	*acquit(석방하다, 무죄로 하다) *assiduous(근면한, 주도 면밀한)	:	*circumspect(조심성 있는, 신중한) *frolicsome(까불며 뛰노는)	:	0
+402	:	(냄새 등이)콕 쏘는	:	acrid	:	assimilate	:	circumvent	:	frugal	:	1	:	*acrid((냄새 등이)콕 쏘는) *assimilate(동화하다,(음식)소화하다)	:	*circumvent(함정에 빠뜨리다) *frugal(검소한)	:	0
+403	:	신랄한	:	acrimonious	:	assuage	:	citadel	:	frustrate	:	1	:	*acrimonious(신랄한) *assuage(누그러뜨리다, 가라앉히다)	:	*citadel((시,시민을 지키는)성) *frustrate(좌절(실패)시키다)	:	0
+404	:	(의지가)단호한	:	adamant	:	astound	:	sovereign	:	fulsome	:	1	:	*adamant((의지가)단호한) *astound(깜짝 놀라게 하다)	:	*sovereign(군주, 국왕, 주권이 있는) *fulsome(지나친)	:	0
+405	:	~에 빠지다, 중독자	:	addict	:	astral	:	clairvoyant	:	funereal	:	1	:	*addict(~에 빠지다, 중독자) *astral(별의)	:	*clairvoyant(통찰력이 있는) *funereal(장례식의)	:	0
+406	:	숙련된, 능숙한,전문가	:	adept	:	astray	:	clamber	:	furtive	:	1	:	*adept(숙련된, 능숙한,전문가) *astray(잘못된 길에 빠져)	:	*clamber((손,발로)기어오르다) *furtive(몰래하는)	:	0
+407	:	들러붙다, 고수하다	:	adhere	:	astute	:	clandestine	:	gainsay	:	1	:	*adhere(들러붙다, 고수하다) *astute(빈틈없는)	:	*clandestine(비밀의, 은밀한) *gainsay(반박(부인)하다)	:	0
+408	:	근접(인접)한	:	adjacent	:	asunder	:	cleave	:	galvanize,-ise	:	1	:	*adjacent(근접(인접)한) *asunder(낱낱으로, 흩어져)	:	*cleave(조개다, 달라붙다) *galvanize,-ise(갑자기 활기 띠게 하다)	:	0
+409	:	(회의를)휴회(연기)하다	:	adjourn	:	atheist	:	clemency	:	gamut	:	1	:	*adjourn((회의를)휴회(연기)하다) *atheist(무신론자)	:	*clemency((성격,성질 등의)관대(함)) *gamut(전 범위 전역)	:	0
+410	:	부수물, 수식어구	:	adjunct	:	atone	:	cliché	:	gape	:	1	:	*adjunct(부수물, 수식어구) *atone((죄를)보상하다, 갚다)	:	*cliché((진부한)상투 어구) *gape(넋을 잃고 보다)	:	0
+411	:	관리하다,(약을)복용시키다	:	administer	:	atrocious	:	climax	:	garrulous	:	1	:	*administer(관리하다,(약을)복용시키다) *atrocious(극악한)	:	*climax(절정) *garrulous(수다스러운)	:	0
+412	:	훈계하다, 경고하다	:	admonish	:	atrophy	:	clique	:	genial	:	1	:	*admonish(훈계하다, 경고하다) *atrophy(발육 불능, 약화시키다)	:	*clique((배타적인)파벌) *genial(온난한, 다정한)	:	0
+413	:	채택(채용)하다, 양자로 삼다	:	adopt	:	attest	:	cloister	:	genteel	:	1	:	*adopt(채택(채용)하다, 양자로 삼다) *attest(입증(증명)하다)	:	*cloister(수도원) *genteel(상류사회의,품위 있는)	:	0
+414	:	숭배하다, 존경하다	:	adore	:	attire	:	coalition	:	germane	:	1	:	*adore(숭배하다, 존경하다) *attire((옷을 차려)입히다, 복장)	:	*coalition(연합, 제휴) *germane(밀접한 관계가 있는)	:	0
+415	:	꾸미다, 장식하다	:	adorn	:	attorney	:	coerce	:	gesticulation	:	1	:	*adorn(꾸미다, 장식하다) *attorney(대리인, 변호사)	:	*coerce(강요하다, 억압하다) *gesticulation(몸짓손짓)	:	0
+416	:	능숙한, 재치있는	:	adroit	:	attribute	:	cogent	:	ghastly	:	1	:	*adroit(능숙한, 재치있는) *attribute(~의 탓으로 돌리다, 속성)	:	*cogent(설득력있는) *ghastly(무서운)	:	0
+417	:	아첨,칭찬	:	adulation	:	atypical	:	cogitate	:	gist	:	1	:	*adulation(아첨,칭찬) *atypical(비정형(불규칙)의)	:	*cogitate(곰곰히 생각하다, 숙고하다) *gist(여점)	:	0
+418	:	(불순물을)섞다	:	adulterate	:	audacity	:	cognate	:	glib	:	1	:	*adulterate((불순물을)섞다) *audacity(대담, 안하무인)	:	*cognate(조상이 깊은, 혈족의, 친족) *glib(입심 좋은)	:	0
+419	:	(어렴풋이) 윤곽을 드러내다	:	adumbrate	:	augment	:	cognition	:	glossy	:	1	:	*adumbrate((어렴풋이) 윤곽을 드러내다) *augment(증가시키다(하다))	:	*cognition(인식, 인식된 것) *glossy(윤이나는)	:	0
+420	:	(중요한 사건)도래, 재림	:	advent	:	auspicious	:	cohere	:	gluttonous	:	1	:	*advent((중요한 사건)도래, 재림) *auspicious(길조의, 성공을 예고하는)	:	*cohere(일관성있다, 어울리다) *gluttonous(게걸스러운)	:	0
+421	:	우연한	:	adventitious	:	austerity	:	coincide	:	goad	:	1	:	*adventitious(우연한) *austerity(엄격(함))	:	*coincide(동시에 일어나다, 일치하다) *goad(자극 선동하다)	:	0
+422	:	반대의, 불리한	:	adverse	:	authenticate	:	collaborate	:	gorge	:	1	:	*adverse(반대의, 불리한) *authenticate(진짜임을 증명하다)	:	*collaborate(공동으로 일하다) *gorge(배불리 먹다)	:	0
+423	:	언급하다, 주목하다	:	advert	:	autobiography	:	collapse	:	grandiloquent	:	1	:	*advert(언급하다, 주목하다) *autobiography(자서전)	:	*collapse(무너지다, 폭락) *grandiloquent(과장된)	:	0
+424	:	지지하다, 옹호하다	:	advocate	:	autocracy	:	collate	:	grandiose	:	1	:	*advocate(지지하다, 옹호하다) *autocracy(전제정치,독재정부)	:	*collate(대조하다,페이지를 맞추다) *grandiose(웅대장엄한)	:	0
+425	:	상냥한, 붙임성 있는	:	affable	:	autograph	:	collateral	:	gratuitous	:	1	:	*affable(상냥한, 붙임성 있는) *autograph(자필서명,서명하다)	:	*collateral( 평행한, 부수적인,담보로 한) *gratuitous(공짜의,무료의)	:	0
+426	:	(해, 달의)식, 가리다	:	deposit	:	eclipse	:	gregarious	:	eminent	:	2	:	*deposit(놓다, 퇴적, 계약금으로 지불하다) *eclipse((해, 달의)식, 가리다)	:	*gregarious(군집성의 사교적인) *eminent(뛰어난, 탁월한)	:	0
+427	:	무아지경, 황홀	:	depravity	:	ecstasy	:	grisly	:	emit	:	2	:	*depravity(탁락) *ecstasy(무아지경, 황홀)	:	*grisly(무서운) *emit((빛,열 따위를)방출하다)	:	0
+428	:	교화하다	:	deprecate	:	edify	:	gruesome	:	empower	:	2	:	*deprecate(불찬성하다, 비난하다) *edify(교화하다)	:	*gruesome(소름 끼치는) *empower(~에게 권한(능력)을 주다)	:	0
+429	:	섬뜩한	:	depreciate	:	eerie	:	gruff	:	emulate	:	2	:	*depreciate(가치가 떨어지다) *eerie(섬뜩한)	:	*gruff(퉁명스러운) *emulate(경쟁하다, 본뜨다)	:	0
+430	:	지우다, 말살하다	:	depress	:	efface	:	guile	:	enact	:	2	:	*depress(낙담시키다, 약화시키다) *efface(지우다, 말살하다)	:	*guile(교활) *enact((법률을)제정하다)	:	0
+431	:	효력	:	deputy	:	efficacy	:	gullible	:	enchant	:	2	:	*deputy(대리,보좌관, 하원의원) *efficacy(효력)	:	*gullible(속기 쉬운) *enchant(마법을 걸다, 매혹시키다)	:	0
+432	:	정성들인, 정성들여 만들다	:	deranged	:	elaborate	:	hackneyed	:	encircle	:	2	:	*deranged(발광한, 미친, 혼란된) *elaborate(정성들인, 정성들여 만들다)	:	*hackneyed(진부한) *encircle(에워(둘러)싸다)	:	0
+433	:	(때가)경과하다	:	derelict	:	elapse	:	halcyon	:	encompass	:	2	:	*derelict(유기된,직무에 태만한) *elapse((때가)경과하다)	:	*halcyon(평온한) *encompass(둘러(에워)싸다, 포함하다)	:	0
+434	:	의기 양양하게 하다	:	deride	:	elate	:	hallowed	:	encounter	:	2	:	*deride(비웃다, 조롱하다) *elate(의기 양양하게 하다)	:	*hallowed(신성한) *encounter(우연히 만나다)	:	0
+435	:	(대답, 웃음 따위)이끌어내다	:	derive	:	elicit	:	hallucination	:	encroach	:	2	:	*derive(끌어내다, 유래하다) *elicit((대답, 웃음 따위)이끌어내다)	:	*hallucination(환각) *encroach((재산,권리를)침해하다)	:	0
+436	:	분명하지 않은, 애매한	:	descry	:	obscure	:	hamper	:	encumber	:	2	:	*descry(~을 찾아내다) *obscure(분명하지 않은, 애매한)	:	*hamper(방해하다) *encumber(방해하다,막다)	:	0
+437	:	명료하게 설명하다	:	designate	:	elucidate	:	haphazard	:	encyclopedia	:	2	:	*designate(가리키다, 임명하다) *elucidate(명료하게 설명하다)	:	*haphazard(우연의) *encyclopedia(백과사전)	:	0
+438	:	교묘히 피하다	:	desolate	:	elude	:	harass	:	contemplate	:	2	:	*desolate(사람이 살지 않는, 황폐한) *elude(교묘히 피하다)	:	*harass(괴롭히다) *contemplate(심사숙고하다)	:	0
+439	:	해방시키다	:	despise	:	emancipate	:	harbinger	:	endear	:	2	:	*despise(경멸하다) *emancipate(해방시키다)	:	*harbinger(선구자 전조) *endear(애정을 느끼게 하다)	:	0
+440	:	(통상을) 금지하다	:	despondent	:	embargo	:	harry	:	endemic	:	2	:	*despondent(낙담한, 풀이 죽은) *embargo((통상을) 금지하다)	:	*harry(악탈침략하다) *endemic((지방의)고유의,토종의)	:	0
+441	:	숭선하다, 착수하다	:	despotism	:	embark	:	haughty	:	orbit	:	2	:	*despotism(독재정치) *embark(숭선하다, 착수하다)	:	*haughty(건방진 ) *orbit(궤도)	:	0
+442	:	아름답게하다, 장식하다	:	destitute	:	embellish	:	hazardous	:	enervate	:	2	:	*destitute(빈궁한, 빈곤한, ~이 없는) *embellish(아름답게하다, 장식하다)	:	*hazardous(위험이 많은) *enervate(기력을 빼앗다, 약화시키다)	:	0
+443	:	(공금을)횡령하다	:	desuetude	:	embezzle	:	hazy	:	engender	:	2	:	*desuetude(폐지(상태)) *embezzle((공금을)횡령하다)	:	*hazy(흐릿한) *engender(발생(야기)시키다)	:	0
+444	:	상징, 표상	:	desultory	:	emblem	:	hedonism	:	engrave	:	2	:	*desultory(종잡을 수 없는, 산만한) *emblem(상징, 표상)	:	*hedonism(쾌락주의) *engrave(조각하다, (마음 속에)새기다)	:	0
+445	:	구체(유형)화 하다, 포함하다	:	detach	:	embody	:	heedless	:	engross	:	2	:	*detach(분리시키다) *embody(구체(유형)화 하다, 포함하다)	:	*heedless(부주의한, 고의가 아닌, 우연의) *engross((마음을) 빼앗다, 몰두시키다)	:	0
+446	:	튀어나오게 하다	:	detain	:	emboss	:	heinous	:	eloquent	:	2	:	*detain(기다리게 하다, 감금하다) *emboss(튀어나오게 하다)	:	*heinous(극악한 가증스러운) *eloquent(웅변의, 능변인)	:	0
+447	:	수를 놓다, 자수하다	:	deter	:	embroider	:	heresy	:	enigma	:	2	:	*deter(~을 그만두게 하다) *embroider(수를 놓다, 자수하다)	:	*heresy(이단) *enigma(수수께기(같은 사람))	:	0
+448	:	태아,(발달의)초기	:	deteriorate	:	embryo	:	heterodox	:	enjoin	:	2	:	*deteriorate((가치, 품질 따위)떨어뜨리다) *embryo(태아,(발달의)초기)	:	*heterodox(비정통적인,이단의) *enjoin(~에게 명령하다, ~을 금하다)	:	0
+449	:	나타나다, 출현하다	:	detest	:	emerge	:	heterogeneous	:	enlist	:	2	:	*detest(몹시 싫어하다) *emerge(나타나다, 출현하다)	:	*heterogeneous(이종의, 이질의) *enlist(병적에 넣다, 입대하다)	:	0
+450	:	(외국으로)이민하다	:	detrimental	:	emigrate	:	hibernate	:	enliven	:	2	:	*detrimental(해로운) *emigrate((외국으로)이민하다)	:	*hibernate(겨울잠을 자다 동면하다) *enliven(활기있게 하다)	:	0
+451	:	선천적인	:	facetious	:	bombastic	:	congenital	:	alluvial	:	3	:	*facetious(익살맞은) *bombastic(과장된)	:	*congenital(선천적인) *alluvial(충적의)	:	0
+452	:	넘치게하다,충혈시키다	:	facilitate	:	bounteous	:	congest	:	aloof	:	3	:	*facilitate((일을)용이하게 하다) *bounteous(후한, 풍부한)	:	*congest(넘치게하다,충혈시키다) *aloof(떨어져서, 멀어져서,내성적인)	:	0
+453	:	집단, (거대한)복합 기업	:	hectic	:	bountiful	:	conglomerate	:	altruistic	:	3	:	*hectic(매우 바쁜, 매우 흥분한) *bountiful(아까워 하지 않는, 후한)	:	*conglomerate(집단, (거대한)복합 기업) *altruistic(이타적인)	:	0
+454	:	모이다,집합시키다	:	factitious	:	bravado	:	congregate	:	amalgamate	:	3	:	*factitious(인위적인) *bravado(허세)	:	*congregate(모이다,집합시키다) *amalgamate(결합(합병)하다)	:	0
+455	:	추측하다, 추측, 짐작	:	fallacious	:	brazen	:	conjecture	:	amaze	:	3	:	*fallacious(그릇된) *brazen(오만한)	:	*conjecture(추측하다, 추측, 짐작) *amaze(깜작 놀라게 하다)	:	0
+456	:	마술로 좌우하다	:	famish	:	breach	:	conjure	:	ambiguous	:	3	:	*famish(~을 굶주리게 하다) *breach(어김, 위반)	:	*conjure(마술로 좌우하다) *ambiguous(불확실한,모호한)	:	0
+457	:	결혼(부부)의	:	fanaticism	:	brevity	:	connubial	:	ambush	:	3	:	*fanaticism(열광) *brevity(간결함)	:	*connubial(결혼(부부)의) *ambush(매복,잠복,매복 공격)	:	0
+458	:	징집(징병)하다	:	fancy	:	bristle	:	conscript	:	ameliorate	:	3	:	*fancy(상상하다, 좋아하다) *bristle(격분하다, (털이)곤두서다)	:	*conscript(징집(징병)하다) *ameliorate(개선(향상)시키다)	:	0
+459	:	신성하게 하다, 바치다	:	fastidious	:	outlandish	:	consecrate	:	amenable	:	3	:	*fastidious(까다로운) *outlandish(이국풍의, 기이한)	:	*consecrate(신성하게 하다, 바치다) *amenable(유순한, 순종하는)	:	0
+460	:	연속적인,일관된	:	fatuous	:	brusque	:	consecutive	:	amenity	:	3	:	*fatuous(어리섞은) *brusque((말,행동 등이)무뚝뚝한)	:	*consecutive(연속적인,일관된) *amenity(예의)	:	0
+461	:	(의견 등의)일치, 합의, 여론	:	fealty	:	buttress	:	consensus	:	amiable	:	3	:	*fealty(충성) *buttress(지지(물), 지지하다)	:	*consensus((의견 등의)일치, 합의, 여론) *amiable(상냥한)	:	0
+462	:	나무상자, 틀상자	:	feasible	:	buxom	:	crate	:	amicable	:	3	:	*feasible(실행할 수 있는) *buxom((여자가)건강하고 쾌활한)	:	*crate(나무상자, 틀상자) *amicable(우호적인)	:	0
+463	:	맡기다, (판매를)위탁하다	:	fecund	:	by pass	:	consign	:	amnesty	:	3	:	*fecund(다산의, 비옥한) *by pass(우회로,~을 우회하다)	:	*consign(맡기다, (판매를)위탁하다) *amnesty(특사,사면)	:	0
+464	:	(슬픔,고통을)위로하다	:	feign	:	bygone	:	console	:	amorphous	:	3	:	*feign(~인 체하다) *bygone(과거의,지나간)	:	*console((슬픔,고통을)위로하다) *amorphous(무정형의)	:	0
+465	:	합병(강화)하다	:	felicitous	:	by-product	:	consolidate	:	ample	:	3	:	*felicitous((행동,표현 등이)적절한) *by-product(부산물)	:	*consolidate(합병(강화)하다) *ample((남을 만큼)충분한)	:	0
+466	:	(나쁜 사람들과)사귀다	:	fictitious	:	bystander	:	consort	:	anachronism	:	3	:	*fictitious(가짜의) *bystander(방관자,구경꾼)	:	*consort((나쁜 사람들과)사귀다) *anachronism(시대 착오)	:	0
+467	:	음모를 꾸미다, 공모하다	:	fidelity	:	cadaverous	:	conspire	:	analogy	:	3	:	*fidelity(충실, 충성) *cadaverous(시체 같은, 창백한)	:	*conspire(음모를 꾸미다, 공모하다) *analogy(유사함,비교,비유)	:	0
+468	:	별자리	:	finesse	:	cajole	:	constellation	:	anarchy	:	3	:	*finesse(교묘한 솜씨, 술책 ) *cajole(감언으로 속이다)	:	*constellation(별자리) *anarchy(무정부 상태)	:	0
+469	:	조이다, 압축(수축)하다	:	flagrant	:	callous	:	constrict	:	anathema	:	3	:	*flagrant(극악한) *callous((피부 등이)굳어진, 무감각한)	:	*constrict(조이다, 압축(수축)하다) *anathema(저주, 혐오(스러운 것))	:	0
+470	:	(말,행동 등을)해석하다	:	flamboyant	:	callow	:	construe	:	anecdote	:	3	:	*flamboyant(화려한) *callow(경험이 없는)	:	*construe((말,행동 등을)해석하다) *anecdote(일화)	:	0
+471	:	성취하다, 완성하다	:	fledgling	:	calumny	:	consummate	:	animated	:	3	:	*fledgling(애송이, 풋내기) *calumny(비방)	:	*consummate(성취하다, 완성하다) *animated(활기찬, 활발한)	:	0
+472	:	더럽히다,오염시키다	:	flimsy	:	candor	:	contaminate	:	animosity	:	3	:	*flimsy((얇고)부서지기 쉬운) *candor(솔직)	:	*contaminate(더럽히다,오염시키다) *animosity(적의)	:	0
+473	:	~을 경멸하다	:	flout	:	canvass	:	contemn	:	annals	:	3	:	*flout(비웃다) *canvass(선거 운동하다)	:	*contemn(~을 경멸하다) *annals(연대기)	:	0
+474	:	(글의) 전후 관계, 문맥	:	fluctuation	:	capacious	:	context	:	annex	:	3	:	*fluctuation(변동) *capacious(많이 들어가는)	:	*context((글의) 전후 관계, 문맥) *annex(추가하다, 부속 건물)	:	0
+475	:	인접한(to), 접촉해 있는	:	flux	:	capitulate	:	contiguous	:	annihilate	:	3	:	*flux((끊임없는)변화) *capitulate(항복하다)	:	*contiguous(인접한(to), 접촉해 있는) *annihilate((완전히)파괴(폐지)하다)	:	0
+476	:	계약, 약혼	:	enmity	:	stately	:	calumny	:	affiance	:	4	:	*enmity(증오, 적의) *stately(당당한; 위엄 있는)	:	*calumny(비방) *affiance(계약, 약혼)	:	0
+477	:	가입시키다, 합병시키다	:	ennoble	:	collide	:	forte	:	affiliate	:	4	:	*ennoble(품위를 높이다) *collide(충돌하다, 상충되다)	:	*forte(특기, 잠정) *affiliate(가입시키다, 합병시키다)	:	0
+478	:	유사성,(강한)호감,애정	:	ennui	:	colloquial	:	astray	:	affinity	:	4	:	*ennui(권태, 지루함) *colloquial(일상 회화의,구어(체)의)	:	*astray(잘못된 길에 빠져) *affinity(유사성,(강한)호감,애정)	:	0
+479	:	풍요(부유)한	:	enrage	:	collude	:	discredit	:	affluent	:	4	:	*enrage(격노(분개)하게 하다) *collude(공모(결탁)하다)	:	*discredit(신용을 떨어뜨리다) *affluent(풍요(부유)한)	:	0
+480	:	모욕를 주다, 창피	:	frisk	:	colossal	:	combustion	:	affront	:	4	:	*frisk(뛰놀다, 몸수색하다) *colossal(거대한)	:	*combustion(연소) *affront(모욕를 주다, 창피)	:	0
+481	:	(물에)떠 있는	:	ensemble	:	combustion	:	fastidious	:	afloat	:	4	:	*ensemble(종합적 효과, 앙상블) *combustion(연소)	:	*fastidious(까다로운) *afloat((물에)떠 있는)	:	0
+482	:	결과,여파	:	ensign	:	commemorate	:	complement	:	aftermath	:	4	:	*ensign((국)기, 상징) *commemorate((특히 의식을 통해)기념하다)	:	*complement(보충물, 보어, 보충하다) *aftermath(결과,여파)	:	0
+483	:	의제	:	enslave	:	commence	:	disrupt	:	agenda	:	4	:	*enslave(노예로 만들다) *commence(시작하다, 학위를 받다)	:	*disrupt(붕괴(분열)시키다) *agenda(의제)	:	0
+484	:	악화시키다	:	ensue	:	commend	:	agnostic	:	aggravate	:	4	:	*ensue(계속해서 일어나다) *commend(칭찬하다, 위탁하다)	:	*agnostic(불가지론자(의)) *aggravate(악화시키다)	:	0
+485	:	합계가 ~이 되다, 합계	:	disruptive	:	commensurate	:	commodious	:	aggregate	:	4	:	*disruptive(분열시키는, 파괴하는) *commensurate(같은 양의, 균형이 잡힌)	:	*commodious((방 따위가)널찍한) *aggregate(합계가 ~이 되다, 합계)	:	0
+486	:	공격적인, 적극적인	:	entail	:	commiserate	:	amnesty	:	aggressive	:	4	:	*entail((필연적인 결과로서)수반하다) *commiserate(동정하다, 가엾게 여기다)	:	*amnesty(특사,사면) *aggressive(공격적인, 적극적인)	:	0
+487	:	괴롭히다	:	entangle	:	commodious	:	authenticate	:	aggrieve	:	4	:	*entangle(엉클어지게 하다) *commodious((방 따위가)널찍한)	:	*authenticate(진짜임을 증명하다) *aggrieve(괴롭히다)	:	0
+488	:	민첩한	:	pliable	:	commonplace	:	cajole	:	agile	:	4	:	*pliable(유연한, 융통성있는) *commonplace(흔한, 평범(진부)한)	:	*cajole(감언으로 속이다) *agile(민첩한)	:	0
+489	:	자극하다, 동요하게 하다	:	enthrall	:	commotion	:	affiance	:	agitate	:	4	:	*enthrall(마음을 사로잡다) *commotion(소요, 소동)	:	*affiance(계약, 약혼) *agitate(자극하다, 동요하게 하다)	:	0
+490	:	불가지론자(의)	:	enthrone	:	compact	:	ameliorate	:	agnostic	:	4	:	*enthrone(왕위에 앉히다, 즉위시키다) *compact(계약, 협정)	:	*ameliorate(개선(향상)시키다) *agnostic(불가지론자(의))	:	0
+491	:	친척의, 유사한	:	entice	:	compassion	:	envoy	:	akin	:	4	:	*entice(꾀다, 유혹하다) *compassion(연민, 동정)	:	*envoy((외교) 사절, 특사) *akin(친척의, 유사한)	:	0
+492	:	민활함	:	entitle	:	compatible	:	embezzle	:	alacrity	:	4	:	*entitle(제목을 붙이다, 자격을 부여하다) *compatible(양립할수있는, 호환되는)	:	*embezzle((공금을)횡령하다) *alacrity(민활함)	:	0
+493	:	소외(멀리)하다, 양도하다 	:	entreat	:	compensate	:	ecstasy	:	alienate	:	4	:	*entreat(탄원하다, 부탁하다) *compensate(보상하다, 보충(상쇄)하다)	:	*ecstasy(무아지경, 황홀) *alienate(소외(멀리)하다, 양도하다 )	:	0
+494	:	(공포,고통따위를)가라앉히다	:	entrench	:	compile	:	callow	:	allay	:	4	:	*entrench(참호로 에워싸다) *compile((자료를)모으다, 편찬하다)	:	*callow(경험이 없는) *allay((공포,고통따위를)가라앉히다)	:	0
+495	:	(증거없이)주장하다	:	entrust	:	complacent	:	consecrate	:	allege	:	4	:	*entrust(맡기다, 위탁하다) *complacent(만족해 하는, 자기 만족의)	:	*consecrate(신성하게 하다, 바치다) *allege((증거없이)주장하다)	:	0
+496	:	(고통을)완화시키다	:	enumerate	:	complaisant	:	animated	:	alleviate	:	4	:	*enumerate((일일이)열거하다) *complaisant(고분고분한, 공손한)	:	*animated(활기찬, 활발한) *alleviate((고통을)완화시키다)	:	0
+497	:	할당하다, 배분하다	:	envoy	:	complement	:	brusque	:	allocate	:	4	:	*envoy((외교) 사절, 특사) *complement(보충물, 보어, 보충하다)	:	*brusque((말,행동 등이)무뚝뚝한) *allocate(할당하다, 배분하다)	:	0
+498	:	합금하다,(질을)떨어뜨리다	:	ephemeral	:	complexion	:	engender	:	alloy	:	4	:	*ephemeral(일시적인) *complexion(안색,용모,(사태의)양상)	:	*engender(발생(야기)시키다) *alloy(합금하다,(질을)떨어뜨리다)	:	0
+499	:	(넌지시)암시하다	:	epidemic	:	complicate	:	acrid	:	allude	:	4	:	*epidemic(전염병, 유행, 확산) *complicate(복잡하게 하다)	:	*acrid((냄새 등이)콕 쏘는) *allude((넌지시)암시하다)	:	0
+500	:	유혹(매혹)하다, 유혹	:	epigram	:	compliment	:	adamant	:	allure	:	4	:	*epigram(경구, 짧은시) *compliment(칭찬(찬사)를 보내다)	:	*adamant((의지가)단호한) *allure(유혹(매혹)하다, 유혹)	:	0
+501	:	근면한, 주도 면밀한	:	assiduous	:	circumspect	:	frolicsome	:	deposit	:	1	:	*assiduous(근면한, 주도 면밀한) *circumspect(조심성 있는, 신중한)	:	*frolicsome(까불며 뛰노는) *deposit(놓다, 퇴적, 계약금으로 지불하다)	:	0
+502	:	동화하다,(음식)소화하다	:	assimilate	:	circumvent	:	frugal	:	depravity	:	1	:	*assimilate(동화하다,(음식)소화하다) *circumvent(함정에 빠뜨리다)	:	*frugal(검소한) *depravity(탁락)	:	0
+503	:	누그러뜨리다, 가라앉히다	:	assuage	:	citadel	:	frustrate	:	deprecate	:	1	:	*assuage(누그러뜨리다, 가라앉히다) *citadel((시,시민을 지키는)성)	:	*frustrate(좌절(실패)시키다) *deprecate(불찬성하다, 비난하다)	:	0
+504	:	깜짝 놀라게 하다	:	astound	:	sovereign	:	fulsome	:	depreciate	:	1	:	*astound(깜짝 놀라게 하다) *sovereign(군주, 국왕, 주권이 있는)	:	*fulsome(지나친) *depreciate(가치가 떨어지다)	:	0
+505	:	별의	:	astral	:	clairvoyant	:	funereal	:	depress	:	1	:	*astral(별의) *clairvoyant(통찰력이 있는)	:	*funereal(장례식의) *depress(낙담시키다, 약화시키다)	:	0
+506	:	잘못된 길에 빠져	:	astray	:	clamber	:	furtive	:	deputy	:	1	:	*astray(잘못된 길에 빠져) *clamber((손,발로)기어오르다)	:	*furtive(몰래하는) *deputy(대리,보좌관, 하원의원)	:	0
+507	:	빈틈없는	:	astute	:	clandestine	:	gainsay	:	deranged	:	1	:	*astute(빈틈없는) *clandestine(비밀의, 은밀한)	:	*gainsay(반박(부인)하다) *deranged(발광한, 미친, 혼란된)	:	0
+508	:	낱낱으로, 흩어져	:	asunder	:	cleave	:	galvanize,-ise	:	derelict	:	1	:	*asunder(낱낱으로, 흩어져) *cleave(조개다, 달라붙다)	:	*galvanize,-ise(갑자기 활기 띠게 하다) *derelict(유기된,직무에 태만한)	:	0
+509	:	무신론자	:	atheist	:	clemency	:	gamut	:	deride	:	1	:	*atheist(무신론자) *clemency((성격,성질 등의)관대(함))	:	*gamut(전 범위 전역) *deride(비웃다, 조롱하다)	:	0
+510	:	(죄를)보상하다, 갚다	:	atone	:	cliché	:	gape	:	derive	:	1	:	*atone((죄를)보상하다, 갚다) *cliché((진부한)상투 어구)	:	*gape(넋을 잃고 보다) *derive(끌어내다, 유래하다)	:	0
+511	:	극악한	:	atrocious	:	climax	:	garrulous	:	descry	:	1	:	*atrocious(극악한) *climax(절정)	:	*garrulous(수다스러운) *descry(~을 찾아내다)	:	0
+512	:	발육 불능, 약화시키다	:	atrophy	:	clique	:	genial	:	designate	:	1	:	*atrophy(발육 불능, 약화시키다) *clique((배타적인)파벌)	:	*genial(온난한, 다정한) *designate(가리키다, 임명하다)	:	0
+513	:	입증(증명)하다	:	attest	:	cloister	:	genteel	:	desolate	:	1	:	*attest(입증(증명)하다) *cloister(수도원)	:	*genteel(상류사회의,품위 있는) *desolate(사람이 살지 않는, 황폐한)	:	0
+514	:	(옷을 차려)입히다, 복장	:	attire	:	coalition	:	germane	:	despise	:	1	:	*attire((옷을 차려)입히다, 복장) *coalition(연합, 제휴)	:	*germane(밀접한 관계가 있는) *despise(경멸하다)	:	0
+515	:	대리인, 변호사	:	attorney	:	coerce	:	gesticulation	:	despondent	:	1	:	*attorney(대리인, 변호사) *coerce(강요하다, 억압하다)	:	*gesticulation(몸짓손짓) *despondent(낙담한, 풀이 죽은)	:	0
+516	:	~의 탓으로 돌리다, 속성	:	attribute	:	cogent	:	ghastly	:	despotism	:	1	:	*attribute(~의 탓으로 돌리다, 속성) *cogent(설득력있는)	:	*ghastly(무서운) *despotism(독재정치)	:	0
+517	:	비정형(불규칙)의	:	atypical	:	cogitate	:	gist	:	destitute	:	1	:	*atypical(비정형(불규칙)의) *cogitate(곰곰히 생각하다, 숙고하다)	:	*gist(여점) *destitute(빈궁한, 빈곤한, ~이 없는)	:	0
+518	:	대담, 안하무인	:	audacity	:	cognate	:	glib	:	desuetude	:	1	:	*audacity(대담, 안하무인) *cognate(조상이 깊은, 혈족의, 친족)	:	*glib(입심 좋은) *desuetude(폐지(상태))	:	0
+519	:	증가시키다(하다)	:	augment	:	cognition	:	glossy	:	desultory	:	1	:	*augment(증가시키다(하다)) *cognition(인식, 인식된 것)	:	*glossy(윤이나는) *desultory(종잡을 수 없는, 산만한)	:	0
+520	:	길조의, 성공을 예고하는	:	auspicious	:	cohere	:	gluttonous	:	detach	:	1	:	*auspicious(길조의, 성공을 예고하는) *cohere(일관성있다, 어울리다)	:	*gluttonous(게걸스러운) *detach(분리시키다)	:	0
+521	:	엄격(함)	:	austerity	:	coincide	:	goad	:	detain	:	1	:	*austerity(엄격(함)) *coincide(동시에 일어나다, 일치하다)	:	*goad(자극 선동하다) *detain(기다리게 하다, 감금하다)	:	0
+522	:	진짜임을 증명하다	:	authenticate	:	collaborate	:	gorge	:	deter	:	1	:	*authenticate(진짜임을 증명하다) *collaborate(공동으로 일하다)	:	*gorge(배불리 먹다) *deter(~을 그만두게 하다)	:	0
+523	:	자서전	:	autobiography	:	collapse	:	grandiloquent	:	deteriorate	:	1	:	*autobiography(자서전) *collapse(무너지다, 폭락)	:	*grandiloquent(과장된) *deteriorate((가치, 품질 따위)떨어뜨리다)	:	0
+524	:	전제정치,독재정부	:	autocracy	:	collate	:	grandiose	:	detest	:	1	:	*autocracy(전제정치,독재정부) *collate(대조하다,페이지를 맞추다)	:	*grandiose(웅대장엄한) *detest(몹시 싫어하다)	:	0
+525	:	자필서명,서명하다	:	autograph	:	collateral	:	gratuitous	:	detrimental	:	1	:	*autograph(자필서명,서명하다) *collateral( 평행한, 부수적인,담보로 한)	:	*gratuitous(공짜의,무료의) *detrimental(해로운)	:	0
+526	:	뛰어난, 탁월한	:	gregarious	:	eminent	:	facetious	:	bombastic	:	2	:	*gregarious(군집성의 사교적인) *eminent(뛰어난, 탁월한)	:	*facetious(익살맞은) *bombastic(과장된)	:	0
+527	:	(빛,열 따위를)방출하다	:	grisly	:	emit	:	facilitate	:	bounteous	:	2	:	*grisly(무서운) *emit((빛,열 따위를)방출하다)	:	*facilitate((일을)용이하게 하다) *bounteous(후한, 풍부한)	:	0
+528	:	~에게 권한(능력)을 주다	:	gruesome	:	empower	:	hectic	:	bountiful	:	2	:	*gruesome(소름 끼치는) *empower(~에게 권한(능력)을 주다)	:	*hectic(매우 바쁜, 매우 흥분한) *bountiful(아까워 하지 않는, 후한)	:	0
+529	:	경쟁하다, 본뜨다	:	gruff	:	emulate	:	factitious	:	bravado	:	2	:	*gruff(퉁명스러운) *emulate(경쟁하다, 본뜨다)	:	*factitious(인위적인) *bravado(허세)	:	0
+530	:	(법률을)제정하다	:	guile	:	enact	:	fallacious	:	brazen	:	2	:	*guile(교활) *enact((법률을)제정하다)	:	*fallacious(그릇된) *brazen(오만한)	:	0
+531	:	마법을 걸다, 매혹시키다	:	gullible	:	enchant	:	famish	:	breach	:	2	:	*gullible(속기 쉬운) *enchant(마법을 걸다, 매혹시키다)	:	*famish(~을 굶주리게 하다) *breach(어김, 위반)	:	0
+532	:	에워(둘러)싸다	:	hackneyed	:	encircle	:	fanaticism	:	brevity	:	2	:	*hackneyed(진부한) *encircle(에워(둘러)싸다)	:	*fanaticism(열광) *brevity(간결함)	:	0
+533	:	둘러(에워)싸다, 포함하다	:	halcyon	:	encompass	:	fancy	:	bristle	:	2	:	*halcyon(평온한) *encompass(둘러(에워)싸다, 포함하다)	:	*fancy(상상하다, 좋아하다) *bristle(격분하다, (털이)곤두서다)	:	0
+534	:	우연히 만나다	:	hallowed	:	encounter	:	fastidious	:	outlandish	:	2	:	*hallowed(신성한) *encounter(우연히 만나다)	:	*fastidious(까다로운) *outlandish(이국풍의, 기이한)	:	0
+535	:	(재산,권리를)침해하다	:	hallucination	:	encroach	:	fatuous	:	brusque	:	2	:	*hallucination(환각) *encroach((재산,권리를)침해하다)	:	*fatuous(어리섞은) *brusque((말,행동 등이)무뚝뚝한)	:	0
+536	:	방해하다,막다	:	hamper	:	encumber	:	fealty	:	buttress	:	2	:	*hamper(방해하다) *encumber(방해하다,막다)	:	*fealty(충성) *buttress(지지(물), 지지하다)	:	0
+537	:	백과사전	:	haphazard	:	encyclopedia	:	feasible	:	buxom	:	2	:	*haphazard(우연의) *encyclopedia(백과사전)	:	*feasible(실행할 수 있는) *buxom((여자가)건강하고 쾌활한)	:	0
+538	:	심사숙고하다	:	harass	:	contemplate	:	fecund	:	by pass	:	2	:	*harass(괴롭히다) *contemplate(심사숙고하다)	:	*fecund(다산의, 비옥한) *by pass(우회로,~을 우회하다)	:	0
+539	:	애정을 느끼게 하다	:	harbinger	:	endear	:	feign	:	bygone	:	2	:	*harbinger(선구자 전조) *endear(애정을 느끼게 하다)	:	*feign(~인 체하다) *bygone(과거의,지나간)	:	0
+540	:	(지방의)고유의,토종의	:	harry	:	endemic	:	felicitous	:	by-product	:	2	:	*harry(악탈침략하다) *endemic((지방의)고유의,토종의)	:	*felicitous((행동,표현 등이)적절한) *by-product(부산물)	:	0
+541	:	궤도	:	haughty	:	orbit	:	fictitious	:	bystander	:	2	:	*haughty(건방진 ) *orbit(궤도)	:	*fictitious(가짜의) *bystander(방관자,구경꾼)	:	0
+542	:	기력을 빼앗다, 약화시키다	:	hazardous	:	enervate	:	fidelity	:	cadaverous	:	2	:	*hazardous(위험이 많은) *enervate(기력을 빼앗다, 약화시키다)	:	*fidelity(충실, 충성) *cadaverous(시체 같은, 창백한)	:	0
+543	:	발생(야기)시키다	:	hazy	:	engender	:	finesse	:	cajole	:	2	:	*hazy(흐릿한) *engender(발생(야기)시키다)	:	*finesse(교묘한 솜씨, 술책 ) *cajole(감언으로 속이다)	:	0
+544	:	조각하다, (마음 속에)새기다	:	hedonism	:	engrave	:	flagrant	:	callous	:	2	:	*hedonism(쾌락주의) *engrave(조각하다, (마음 속에)새기다)	:	*flagrant(극악한) *callous((피부 등이)굳어진, 무감각한)	:	0
+545	:	(마음을) 빼앗다, 몰두시키다	:	heedless	:	engross	:	flamboyant	:	callow	:	2	:	*heedless(부주의한, 고의가 아닌, 우연의) *engross((마음을) 빼앗다, 몰두시키다)	:	*flamboyant(화려한) *callow(경험이 없는)	:	0
+546	:	웅변의, 능변인	:	heinous	:	eloquent	:	fledgling	:	calumny	:	2	:	*heinous(극악한 가증스러운) *eloquent(웅변의, 능변인)	:	*fledgling(애송이, 풋내기) *calumny(비방)	:	0
+547	:	수수께기(같은 사람)	:	heresy	:	enigma	:	flimsy	:	candor	:	2	:	*heresy(이단) *enigma(수수께기(같은 사람))	:	*flimsy((얇고)부서지기 쉬운) *candor(솔직)	:	0
+548	:	~에게 명령하다, ~을 금하다	:	heterodox	:	enjoin	:	flout	:	canvass	:	2	:	*heterodox(비정통적인,이단의) *enjoin(~에게 명령하다, ~을 금하다)	:	*flout(비웃다) *canvass(선거 운동하다)	:	0
+549	:	병적에 넣다, 입대하다	:	heterogeneous	:	enlist	:	fluctuation	:	capacious	:	2	:	*heterogeneous(이종의, 이질의) *enlist(병적에 넣다, 입대하다)	:	*fluctuation(변동) *capacious(많이 들어가는)	:	0
+550	:	활기있게 하다	:	hibernate	:	enliven	:	flux	:	capitulate	:	2	:	*hibernate(겨울잠을 자다 동면하다) *enliven(활기있게 하다)	:	*flux((끊임없는)변화) *capitulate(항복하다)	:	0
+551	:	증오, 적의	:	alluvial	:	congenital	:	enmity	:	collapse	:	3	:	*alluvial(충적의) *congenital(증오, 적의)	:	*enmity(증오, 적의) *collapse(무너지다, 폭락)	:	0
+552	:	품위를 높이다	:	aloof	:	congest	:	ennoble	:	alleviate	:	3	:	*aloof(떨어져서, 멀어져서,내성적인) *congest(품위를 높이다)	:	*ennoble(품위를 높이다) *alleviate((고통을)완화시키다)	:	0
+553	:	권태, 지루함	:	altruistic	:	conglomerate	:	ennui	:	dilapidated	:	3	:	*altruistic(이타적인) *conglomerate(권태, 지루함)	:	*ennui(권태, 지루함) *dilapidated(황폐한)	:	0
+554	:	격노(분개)하게 하다	:	amalgamate	:	congregate	:	enrage	:	adverse	:	3	:	*amalgamate(결합(합병)하다) *congregate(격노(분개)하게 하다)	:	*enrage(격노(분개)하게 하다) *adverse(반대의, 불리한)	:	0
+555	:	뛰놀다, 몸수색하다	:	amaze	:	conjecture	:	frisk	:	gullible	:	3	:	*amaze(깜작 놀라게 하다) *conjecture(뛰놀다, 몸수색하다)	:	*frisk(뛰놀다, 몸수색하다) *gullible(속기 쉬운)	:	0
+556	:	종합적 효과, 앙상블	:	ambiguous	:	conjure	:	ensemble	:	climax	:	3	:	*ambiguous(불확실한,모호한) *conjure(종합적 효과, 앙상블)	:	*ensemble(종합적 효과, 앙상블) *climax(절정)	:	0
+557	:	(국)기, 상징	:	ambush	:	connubial	:	ensign	:	flagrant	:	3	:	*ambush(매복,잠복,매복 공격) *connubial((국)기, 상징)	:	*ensign((국)기, 상징) *flagrant(극악한)	:	0
+558	:	노예로 만들다	:	ameliorate	:	conscript	:	enslave	:	autobiography	:	3	:	*ameliorate(개선(향상)시키다) *conscript(노예로 만들다)	:	*enslave(노예로 만들다) *autobiography(자서전)	:	0
+559	:	계속해서 일어나다	:	amenable	:	consecrate	:	ensue	:	guile	:	3	:	*amenable(유순한, 순종하는) *consecrate(계속해서 일어나다)	:	*ensue(계속해서 일어나다) *guile(교활)	:	0
+560	:	분열시키는, 파괴하는	:	amenity	:	consecutive	:	disruptive	:	annihilate	:	3	:	*amenity(예의) *consecutive(분열시키는, 파괴하는)	:	*disruptive(분열시키는, 파괴하는) *annihilate((완전히)파괴(폐지)하다)	:	0
+561	:	(필연적인 결과로서)수반하다	:	amiable	:	consensus	:	entail	:	blaspheme	:	3	:	*amiable(상냥한) *consensus((필연적인 결과로서)수반하다)	:	*entail((필연적인 결과로서)수반하다) *blaspheme((신성한 것을)모독하다)	:	0
+562	:	엉클어지게 하다	:	amicable	:	crate	:	entangle	:	fortuitous	:	3	:	*amicable(우호적인) *crate(엉클어지게 하다)	:	*entangle(엉클어지게 하다) *fortuitous(우연한)	:	0
+563	:	유연한, 융통성있는	:	amnesty	:	consign	:	pliable	:	detest	:	3	:	*amnesty(특사,사면) *consign(유연한, 융통성있는)	:	*pliable(유연한, 융통성있는) *detest(몹시 싫어하다)	:	0
+564	:	마음을 사로잡다	:	amorphous	:	console	:	enthrall	:	advent	:	3	:	*amorphous(무정형의) *console(마음을 사로잡다)	:	*enthrall(마음을 사로잡다) *advent((중요한 사건)도래, 재림)	:	0
+565	:	왕위에 앉히다, 즉위시키다	:	ample	:	consolidate	:	enthrone	:	aggressive	:	3	:	*ample((남을 만큼)충분한) *consolidate(왕위에 앉히다, 즉위시키다)	:	*enthrone(왕위에 앉히다, 즉위시키다) *aggressive(공격적인, 적극적인)	:	0
+566	:	꾀다, 유혹하다	:	anachronism	:	consort	:	entice	:	encyclopedia	:	3	:	*anachronism(시대 착오) *consort(꾀다, 유혹하다)	:	*entice(꾀다, 유혹하다) *encyclopedia(백과사전)	:	0
+567	:	제목을 붙이다, 자격을 부여하다	:	analogy	:	conspire	:	entitle	:	funereal	:	3	:	*analogy(유사함,비교,비유) *conspire(제목을 붙이다, 자격을 부여하다)	:	*entitle(제목을 붙이다, 자격을 부여하다) *funereal(장례식의)	:	0
+568	:	탄원하다, 부탁하다	:	anarchy	:	constellation	:	entreat	:	excerpt	:	3	:	*anarchy(무정부 상태) *constellation(탄원하다, 부탁하다)	:	*entreat(탄원하다, 부탁하다) *excerpt(발췌, 인용, 발췌하다)	:	0
+569	:	참호로 에워싸다	:	anathema	:	constrict	:	entrench	:	affinity	:	3	:	*anathema(저주, 혐오(스러운 것)) *constrict(참호로 에워싸다)	:	*entrench(참호로 에워싸다) *affinity(유사성,(강한)호감,애정)	:	0
+570	:	맡기다, 위탁하다	:	anecdote	:	construe	:	entrust	:	conglomerate	:	3	:	*anecdote(일화) *construe(맡기다, 위탁하다)	:	*entrust(맡기다, 위탁하다) *conglomerate(집단, (거대한)복합 기업)	:	0
+571	:	(일일이)열거하다	:	animated	:	consummate	:	enumerate	:	capitulate	:	3	:	*animated(활기찬, 활발한) *consummate((일일이)열거하다)	:	*enumerate((일일이)열거하다) *capitulate(항복하다)	:	0
+572	:	(외교) 사절, 특사	:	animosity	:	contaminate	:	envoy	:	bewitch	:	3	:	*animosity(적의) *contaminate((외교) 사절, 특사)	:	*envoy((외교) 사절, 특사) *bewitch(마법을 걸다, 매혹하다)	:	0
+573	:	일시적인	:	annals	:	contemn	:	ephemeral	:	conspire	:	3	:	*annals(연대기) *contemn(일시적인)	:	*ephemeral(일시적인) *conspire(음모를 꾸미다, 공모하다)	:	0
+574	:	전염병, 유행, 확산	:	annex	:	context	:	epidemic	:	antibiotic	:	3	:	*annex(추가하다, 부속 건물) *context(전염병, 유행, 확산)	:	*epidemic(전염병, 유행, 확산) *antibiotic(항생제)	:	0
+575	:	경구, 짧은시	:	annihilate	:	contiguous	:	epigram	:	gullible	:	3	:	*annihilate((완전히)파괴(폐지)하다) *contiguous(경구, 짧은시)	:	*epigram(경구, 짧은시) *gullible(속기 쉬운)	:	0
+576	:	당당한; 위엄 있는	:	ephemeral	:	forestall	:	acquit	:	stately	:	4	:	*ephemeral(일시적인) *forestall(~을 미리 막다)	:	*acquit(석방하다, 무죄로 하다) *stately(당당한; 위엄 있는)	:	0
+577	:	충돌하다, 상충되다	:	buttress	:	encounter	:	acrid	:	collide	:	4	:	*buttress(지지(물), 지지하다) *encounter(우연히 만나다)	:	*acrid((냄새 등이)콕 쏘는) *collide(충돌하다, 상충되다)	:	0
+578	:	일상 회화의,구어(체)의	:	eradicate	:	devoid	:	acrimonious	:	colloquial	:	4	:	*eradicate(뿌리째 뽑다, 근절하다) *devoid(~이 빠진, 전혀 없는)	:	*acrimonious(신랄한) *colloquial(일상 회화의,구어(체)의)	:	0
+579	:	공모(결탁)하다	:	efface	:	hazardous	:	adamant	:	collude	:	4	:	*efface(지우다, 말살하다) *hazardous(위험이 많은)	:	*adamant((의지가)단호한) *collude(공모(결탁)하다)	:	0
+580	:	거대한	:	deter	:	harry	:	addict	:	colossal	:	4	:	*deter(~을 그만두게 하다) *harry(악탈침략하다)	:	*addict(~에 빠지다, 중독자) *colossal(거대한)	:	0
+581	:	연소	:	eulogy	:	gratuitous	:	adept	:	combustion	:	4	:	*eulogy(찬사,칭송) *gratuitous(공짜의,무료의)	:	*adept(숙련된, 능숙한,전문가) *combustion(연소)	:	0
+582	:	(특히 의식을 통해)기념하다	:	elaborate	:	embroider	:	adhere	:	commemorate	:	4	:	*elaborate(정성들인, 정성들여 만들다) *embroider(수를 놓다, 자수하다)	:	*adhere(들러붙다, 고수하다) *commemorate((특히 의식을 통해)기념하다)	:	0
+583	:	시작하다, 학위를 받다	:	demure	:	fluctuation	:	adjacent	:	commence	:	4	:	*demure(얌전한, 얀전한 체하는) *fluctuation(변동)	:	*adjacent(근접(인접)한) *commence(시작하다, 학위를 받다)	:	0
+584	:	칭찬하다, 위탁하다	:	avarice	:	consort	:	adjourn	:	commend	:	4	:	*avarice((돈,재산, 등에 대한)탐욕) *consort((나쁜 사람들과)사귀다)	:	*adjourn((회의를)휴회(연기)하다) *commend(칭찬하다, 위탁하다)	:	0
+585	:	같은 양의, 균형이 잡힌	:	apparition	:	ensemble	:	adjunct	:	commensurate	:	4	:	*apparition(환영, 유령) *ensemble(종합적 효과, 앙상블)	:	*adjunct(부수물, 수식어구) *commensurate(같은 양의, 균형이 잡힌)	:	0
+586	:	동정하다, 가엾게 여기다	:	heresy	:	blithe	:	administer	:	commiserate	:	4	:	*heresy(이단) *blithe(즐거운, 명랑한)	:	*administer(관리하다,(약을)복용시키다) *commiserate(동정하다, 가엾게 여기다)	:	0
+587	:	(방 따위가)널찍한	:	harass	:	amicable	:	admonish	:	commodious	:	4	:	*harass(괴롭히다) *amicable(우호적인)	:	*admonish(훈계하다, 경고하다) *commodious((방 따위가)널찍한)	:	0
+588	:	흔한, 평범(진부)한	:	fledgling	:	facetious	:	adopt	:	commonplace	:	4	:	*fledgling(애송이, 풋내기) *facetious(익살맞은)	:	*adopt(채택(채용)하다, 양자로 삼다) *commonplace(흔한, 평범(진부)한)	:	0
+589	:	소요, 소동	:	enigma	:	enslave	:	adore	:	commotion	:	4	:	*enigma(수수께기(같은 사람)) *enslave(노예로 만들다)	:	*adore(숭배하다, 존경하다) *commotion(소요, 소동)	:	0
+590	:	계약, 협정	:	frisk	:	dispense	:	adorn	:	compact	:	4	:	*frisk(뛰놀다, 몸수색하다) *dispense(분배하다, (약을)조제하다)	:	*adorn(꾸미다, 장식하다) *compact(계약, 협정)	:	0
+591	:	연민, 동정	:	bland	:	degrade	:	adroit	:	compassion	:	4	:	*bland((태도가)부드러운) *degrade(강등시키다, 타락시키다)	:	*adroit(능숙한, 재치있는) *compassion(연민, 동정)	:	0
+592	:	양립할수있는, 호환되는	:	complicate	:	grandiloquent	:	adulation	:	compatible	:	4	:	*complicate(복잡하게 하다) *grandiloquent(과장된)	:	*adulation(아첨,칭찬) *compatible(양립할수있는, 호환되는)	:	0
+593	:	보상하다, 보충(상쇄)하다	:	ennoble	:	deputy	:	adulterate	:	compensate	:	4	:	*ennoble(품위를 높이다) *deputy(대리,보좌관, 하원의원)	:	*adulterate((불순물을)섞다) *compensate(보상하다, 보충(상쇄)하다)	:	0
+594	:	(자료를)모으다, 편찬하다	:	addict	:	animated	:	adumbrate	:	compile	:	4	:	*addict(~에 빠지다, 중독자) *animated(활기찬, 활발한)	:	*adumbrate((어렴풋이) 윤곽을 드러내다) *compile((자료를)모으다, 편찬하다)	:	0
+595	:	만족해 하는, 자기 만족의	:	hectic	:	cognate	:	advent	:	complacent	:	4	:	*hectic(매우 바쁜, 매우 흥분한) *cognate(조상이 깊은, 혈족의, 친족)	:	*advent((중요한 사건)도래, 재림) *complacent(만족해 하는, 자기 만족의)	:	0
+596	:	고분고분한, 공손한	:	condemn	:	agitate	:	adventitious	:	complaisant	:	4	:	*condemn(비난하다, 유죄 판결하다) *agitate(자극하다, 동요하게 하다)	:	*adventitious(우연한) *complaisant(고분고분한, 공손한)	:	0
+597	:	보충물, 보어, 보충하다	:	endemic	:	agile	:	adverse	:	complement	:	4	:	*endemic((지방의)고유의,토종의) *agile(민첩한)	:	*adverse(반대의, 불리한) *complement(보충물, 보어, 보충하다)	:	0
+598	:	안색,용모,(사태의)양상	:	canvass	:	elicit	:	advert	:	complexion	:	4	:	*canvass(선거 운동하다) *elicit((대답, 웃음 따위)이끌어내다)	:	*advert(언급하다, 주목하다) *complexion(안색,용모,(사태의)양상)	:	0
+599	:	복잡하게 하다	:	harry	:	displace	:	advocate	:	complicate	:	4	:	*harry(악탈침략하다) *displace((바꾸어 놓다, 옮기다)	:	*advocate(지지하다, 옹호하다) *complicate(복잡하게 하다)	:	0
+600	:	칭찬(찬사)를 보내다	:	apparatus	:	bravado	:	affable	:	compliment	:	4	:	*apparatus(기구, 장치) *bravado(허세)	:	*affable(상냥한, 붙임성 있는) *compliment(칭찬(찬사)를 보내다)	:	0
+601	:	조심성 있는, 신중한	:	circumspect	:	clemency	:	commemorate	:	agnostic	:	1	:	*circumspect(조심성 있는, 신중한) *clemency((성격,성질 등의)관대(함))	:	*commemorate((특히 의식을 통해)기념하다) *agnostic(불가지론자(의))	:	0
+602	:	함정에 빠뜨리다	:	circumvent	:	envoy	:	despise	:	benefactor	:	1	:	*circumvent(함정에 빠뜨리다) *envoy((외교) 사절, 특사)	:	*despise(경멸하다) *benefactor(자선가, 후원자)	:	0
+603	:	(시,시민을 지키는)성	:	citadel	:	dismal	:	allure	:	engrave	:	1	:	*citadel((시,시민을 지키는)성) *dismal(음침한)	:	*allure(유혹(매혹)하다, 유혹) *engrave(조각하다, (마음 속에)새기다)	:	0
+604	:	군주, 국왕, 주권이 있는	:	sovereign	:	bequeath	:	collude	:	aggressive	:	1	:	*sovereign(군주, 국왕, 주권이 있는) *bequeath((재산 등을)물려 주다)	:	*collude(공모(결탁)하다) *aggressive(공격적인, 적극적인)	:	0
+605	:	통찰력이 있는	:	clairvoyant	:	allude	:	coerce	:	breach	:	1	:	*clairvoyant(통찰력이 있는) *allude((넌지시)암시하다)	:	*coerce(강요하다, 억압하다) *breach(어김, 위반)	:	0
+606	:	(손,발로)기어오르다	:	clamber	:	dispel	:	attest	:	ambiguous	:	1	:	*clamber((손,발로)기어오르다) *dispel((생각 따위를)떨쳐버리다)	:	*attest(입증(증명)하다) *ambiguous(불확실한,모호한)	:	0
+607	:	비밀의, 은밀한	:	clandestine	:	consensus	:	brevity	:	entrench	:	1	:	*clandestine(비밀의, 은밀한) *consensus((의견 등의)일치, 합의, 여론)	:	*brevity(간결함) *entrench(참호로 에워싸다)	:	0
+608	:	조개다, 달라붙다	:	cleave	:	astray	:	biennial	:	consort	:	1	:	*cleave(조개다, 달라붙다) *astray(잘못된 길에 빠져)	:	*biennial(2년마다의,2년생인) *consort((나쁜 사람들과)사귀다)	:	0
+609	:	(성격,성질 등의)관대(함)	:	clemency	:	descry	:	foster	:	epidemic	:	1	:	*clemency((성격,성질 등의)관대(함)) *descry(~을 찾아내다)	:	*foster(촉진(증진)하다) *epidemic(전염병, 유행, 확산)	:	0
+610	:	(진부한)상투 어구	:	cliché	:	altruistic	:	deteriorate	:	compliment	:	1	:	*cliché((진부한)상투 어구) *altruistic(이타적인)	:	*deteriorate((가치, 품질 따위)떨어뜨리다) *compliment(칭찬(찬사)를 보내다)	:	0
+611	:	절정	:	climax	:	colloquial	:	altruistic	:	candor	:	1	:	*climax(절정) *colloquial(일상 회화의,구어(체)의)	:	*altruistic(이타적인) *candor(솔직)	:	0
+612	:	(배타적인)파벌	:	clique	:	evade	:	fancy	:	assimilate	:	1	:	*clique((배타적인)파벌) *evade((교묘히)피하다, 벗어나다)	:	*fancy(상상하다, 좋아하다) *assimilate(동화하다,(음식)소화하다)	:	0
+613	:	수도원	:	cloister	:	emit	:	aggregate	:	cognition	:	1	:	*cloister(수도원) *emit((빛,열 따위를)방출하다)	:	*aggregate(합계가 ~이 되다, 합계) *cognition(인식, 인식된 것)	:	0
+614	:	연합, 제휴	:	coalition	:	blaspheme	:	galvanize,-ise	:	disproportionate	:	1	:	*coalition(연합, 제휴) *blaspheme((신성한 것을)모독하다)	:	*galvanize,-ise(갑자기 활기 띠게 하다) *disproportionate(어울리지 않는, 불균형한)	:	0
+615	:	강요하다, 억압하다	:	coerce	:	congest	:	forerunner	:	pliable	:	1	:	*coerce(강요하다, 억압하다) *congest(넘치게하다,충혈시키다)	:	*forerunner(선구자,전조 조짐) *pliable(유연한, 융통성있는)	:	0
+616	:	설득력있는	:	cogent	:	diminish	:	anomalous	:	dilettante	:	1	:	*cogent(설득력있는) *diminish(줄다, 축소하다)	:	*anomalous(이례(예외)적인) *dilettante(아마추어 예술가)	:	0
+617	:	곰곰히 생각하다, 숙고하다	:	cogitate	:	gorge	:	applaud	:	derive	:	1	:	*cogitate(곰곰히 생각하다, 숙고하다) *gorge(배불리 먹다)	:	*applaud(박수갈채하다) *derive(끌어내다, 유래하다)	:	0
+618	:	조상이 깊은, 혈족의, 친족	:	cognate	:	bristle	:	clairvoyant	:	antecedent	:	1	:	*cognate(조상이 깊은, 혈족의, 친족) *bristle(격분하다, (털이)곤두서다)	:	*clairvoyant(통찰력이 있는) *antecedent(앞서는,선례,선행자)	:	0
+619	:	인식, 인식된 것	:	cognition	:	amenable	:	diagonal	:	goad	:	1	:	*cognition(인식, 인식된 것) *amenable(유순한, 순종하는)	:	*diagonal(대각석(의)) *goad(자극 선동하다)	:	0
+620	:	일관성있다, 어울리다	:	cohere	:	cleave	:	bland	:	enrage	:	1	:	*cohere(일관성있다, 어울리다) *cleave(조개다, 달라붙다)	:	*bland((태도가)부드러운) *enrage(격노(분개)하게 하다)	:	0
+621	:	동시에 일어나다, 일치하다	:	coincide	:	demonstrate	:	enrage	:	conspire	:	1	:	*coincide(동시에 일어나다, 일치하다) *demonstrate(증명(설명,시위)하다)	:	*enrage(격노(분개)하게 하다) *conspire(음모를 꾸미다, 공모하다)	:	0
+622	:	공동으로 일하다	:	collaborate	:	disinterested	:	factitious	:	assuage	:	1	:	*collaborate(공동으로 일하다) *disinterested(공정한, 객관적인)	:	*factitious(인위적인) *assuage(누그러뜨리다, 가라앉히다)	:	0
+623	:	무너지다, 폭락	:	collapse	:	elaborate	:	brevity	:	anathema	:	1	:	*collapse(무너지다, 폭락) *elaborate(정성들인, 정성들여 만들다)	:	*brevity(간결함) *anathema(저주, 혐오(스러운 것))	:	0
+624	:	대조하다,페이지를 맞추다	:	collate	:	ample	:	compact	:	entrench	:	1	:	*collate(대조하다,페이지를 맞추다) *ample((남을 만큼)충분한)	:	*compact(계약, 협정) *entrench(참호로 에워싸다)	:	0
+625	:	 평행한, 부수적인,담보로 한	:	collateral	:	delegate	:	alienate	:	disillusion	:	1	:	*collateral( 평행한, 부수적인,담보로 한) *delegate(대표로 파견하다, 대리인)	:	*alienate(소외(멀리)하다, 양도하다 ) *disillusion(환상에서 깨어나게 하다, 각성)	:	0
+626	:	까불며 뛰노는	:	demeanor	:	frolicsome	:	cajole	:	desolate	:	2	:	*demeanor(행실, 태도) *frolicsome(까불며 뛰노는)	:	*cajole(감언으로 속이다) *desolate(사람이 살지 않는, 황폐한)	:	0
+627	:	검소한	:	forwear	:	frugal	:	forlorn	:	demur	:	2	:	*forwear(맹세코 그만두다) *frugal(검소한)	:	*forlorn(버려진,버림받은,고독한) *demur(이의를 제기하다, 이의제기)	:	0
+628	:	좌절(실패)시키다	:	adroit	:	frustrate	:	complaisant	:	colossal	:	2	:	*adroit(능숙한, 재치있는) *frustrate(좌절(실패)시키다)	:	*complaisant(고분고분한, 공손한) *colossal(거대한)	:	0
+629	:	지나친	:	collaborate	:	fulsome	:	circumspect	:	emancipate	:	2	:	*collaborate(공동으로 일하다) *fulsome(지나친)	:	*circumspect(조심성 있는, 신중한) *emancipate(해방시키다)	:	0
+630	:	장례식의	:	entail	:	funereal	:	deteriorate	:	outlandish	:	2	:	*entail((필연적인 결과로서)수반하다) *funereal(장례식의)	:	*deteriorate((가치, 품질 따위)떨어뜨리다) *outlandish(이국풍의, 기이한)	:	0
+631	:	몰래하는	:	buxom	:	furtive	:	enchant	:	commend	:	2	:	*buxom((여자가)건강하고 쾌활한) *furtive(몰래하는)	:	*enchant(마법을 걸다, 매혹시키다) *commend(칭찬하다, 위탁하다)	:	0
+632	:	반박(부인)하다	:	cadaverous	:	gainsay	:	gluttonous	:	hackneyed	:	2	:	*cadaverous(시체 같은, 창백한) *gainsay(반박(부인)하다)	:	*gluttonous(게걸스러운) *hackneyed(진부한)	:	0
+633	:	갑자기 활기 띠게 하다	:	enjoin	:	galvanize,-ise	:	hallucination	:	conciliate	:	2	:	*enjoin(~에게 명령하다, ~을 금하다) *galvanize,-ise(갑자기 활기 띠게 하다)	:	*hallucination(환각) *conciliate(달래다, 진정시키다)	:	0
+634	:	전 범위 전역	:	congregate	:	gamut	:	elate	:	enact	:	2	:	*congregate(모이다,집합시키다) *gamut(전 범위 전역)	:	*elate(의기 양양하게 하다) *enact((법률을)제정하다)	:	0
+635	:	넋을 잃고 보다	:	benign	:	gape	:	by-product	:	discourse	:	2	:	*benign(친절한, 자비로운) *gape(넋을 잃고 보다)	:	*by-product(부산물) *discourse(말하다, 담화하다, 담화)	:	0
+636	:	수다스러운	:	aggregate	:	garrulous	:	anecdote	:	embroider	:	2	:	*aggregate(합계가 ~이 되다, 합계) *garrulous(수다스러운)	:	*anecdote(일화) *embroider(수를 놓다, 자수하다)	:	0
+637	:	온난한, 다정한	:	breach	:	genial	:	frolicsome	:	aggrieve	:	2	:	*breach(어김, 위반) *genial(온난한, 다정한)	:	*frolicsome(까불며 뛰노는) *aggrieve(괴롭히다)	:	0
+638	:	상류사회의,품위 있는	:	depict	:	genteel	:	enthrone	:	attribute	:	2	:	*depict(묘사(서술)하다) *genteel(상류사회의,품위 있는)	:	*enthrone(왕위에 앉히다, 즉위시키다) *attribute(~의 탓으로 돌리다, 속성)	:	0
+639	:	밀접한 관계가 있는	:	cohere	:	germane	:	autograph	:	capacious	:	2	:	*cohere(일관성있다, 어울리다) *germane(밀접한 관계가 있는)	:	*autograph(자필서명,서명하다) *capacious(많이 들어가는)	:	0
+640	:	몸짓손짓	:	amicable	:	gesticulation	:	adulation	:	forerunner	:	2	:	*amicable(우호적인) *gesticulation(몸짓손짓)	:	*adulation(아첨,칭찬) *forerunner(선구자,전조 조짐)	:	0
+641	:	무서운	:	genteel	:	ghastly	:	dispel	:	encircle	:	2	:	*genteel(상류사회의,품위 있는) *ghastly(무서운)	:	*dispel((생각 따위를)떨쳐버리다) *encircle(에워(둘러)싸다)	:	0
+642	:	여점	:	agitate	:	gist	:	detrimental	:	dismay	:	2	:	*agitate(자극하다, 동요하게 하다) *gist(여점)	:	*detrimental(해로운) *dismay(당황, 낙심)	:	0
+643	:	입심 좋은	:	antique	:	glib	:	commence	:	adjacent	:	2	:	*antique(고풍스러운,골동품) *glib(입심 좋은)	:	*commence(시작하다, 학위를 받다) *adjacent(근접(인접)한)	:	0
+644	:	윤이나는	:	embark	:	glossy	:	concur	:	bliss	:	2	:	*embark(숭선하다, 착수하다) *glossy(윤이나는)	:	*concur(일치하다, 동시에 일어나다) *bliss((더없는)행복)	:	0
+645	:	게걸스러운	:	adorn	:	gluttonous	:	crate	:	consign	:	2	:	*adorn(꾸미다, 장식하다) *gluttonous(게걸스러운)	:	*crate(나무상자, 틀상자) *consign(맡기다, (판매를)위탁하다)	:	0
+646	:	자극 선동하다	:	emigrate	:	goad	:	ephemeral	:	bristle	:	2	:	*emigrate((외국으로)이민하다) *goad(자극 선동하다)	:	*ephemeral(일시적인) *bristle(격분하다, (털이)곤두서다)	:	0
+647	:	배불리 먹다	:	discard	:	gorge	:	dilatory	:	attorney	:	2	:	*discard(버리다, 포기하다) *gorge(배불리 먹다)	:	*dilatory(느린, 시간을 끄는) *attorney(대리인, 변호사)	:	0
+648	:	과장된	:	circumspect	:	grandiloquent	:	compensate	:	deprecate	:	2	:	*circumspect(조심성 있는, 신중한) *grandiloquent(과장된)	:	*compensate(보상하다, 보충(상쇄)하다) *deprecate(불찬성하다, 비난하다)	:	0
+649	:	웅대장엄한	:	consolidate	:	grandiose	:	depress	:	engrave	:	2	:	*consolidate(합병(강화)하다) *grandiose(웅대장엄한)	:	*depress(낙담시키다, 약화시키다) *engrave(조각하다, (마음 속에)새기다)	:	0
+650	:	공짜의,무료의	:	eminent	:	gratuitous	:	ennoble	:	discrete	:	2	:	*eminent(뛰어난, 탁월한) *gratuitous(공짜의,무료의)	:	*ennoble(품위를 높이다) *discrete(분리된, 별개의)	:	0
+651	:	놓다, 퇴적, 계약금으로 지불하다	:	buttress	:	disruptive	:	deposit	:	diffident	:	3	:	*buttress(지지(물), 지지하다) *disruptive(분열시키는, 파괴하는)	:	*deposit(놓다, 퇴적, 계약금으로 지불하다) *diffident(자신없는, 겁많은)	:	0
+652	:	탁락	:	foible	:	annals	:	depravity	:	audacity	:	3	:	*foible((성격의)결점, 약점) *annals(연대기)	:	*depravity(탁락) *audacity(대담, 안하무인)	:	0
+653	:	불찬성하다, 비난하다	:	astute	:	annex	:	deprecate	:	autograph	:	3	:	*astute(빈틈없는) *annex(추가하다, 부속 건물)	:	*deprecate(불찬성하다, 비난하다) *autograph(자필서명,서명하다)	:	0
+654	:	가치가 떨어지다	:	collide	:	construe	:	depreciate	:	agenda	:	3	:	*collide(충돌하다, 상충되다) *construe((말,행동 등을)해석하다)	:	*depreciate(가치가 떨어지다) *agenda(의제)	:	0
+655	:	낙담시키다, 약화시키다	:	disentangle	:	deliberate	:	depress	:	hectic	:	3	:	*disentangle(엉킨 것을 풀다) *deliberate(신중한, 숙고하다)	:	*depress(낙담시키다, 약화시키다) *hectic(매우 바쁜, 매우 흥분한)	:	0
+656	:	대리,보좌관, 하원의원	:	complaisant	:	buxom	:	deputy	:	embargo	:	3	:	*complaisant(고분고분한, 공손한) *buxom((여자가)건강하고 쾌활한)	:	*deputy(대리,보좌관, 하원의원) *embargo((통상을) 금지하다)	:	0
+657	:	발광한, 미친, 혼란된	:	callow	:	complement	:	deranged	:	compatible	:	3	:	*callow(경험이 없는) *complement(보충물, 보어, 보충하다)	:	*deranged(발광한, 미친, 혼란된) *compatible(양립할수있는, 호환되는)	:	0
+658	:	유기된,직무에 태만한	:	emblem	:	collateral	:	derelict	:	emboss	:	3	:	*emblem(상징, 표상) *collateral( 평행한, 부수적인,담보로 한)	:	*derelict(유기된,직무에 태만한) *emboss(튀어나오게 하다)	:	0
+659	:	비웃다, 조롱하다	:	combustion	:	advocate	:	deride	:	entail	:	3	:	*combustion(연소) *advocate(지지하다, 옹호하다)	:	*deride(비웃다, 조롱하다) *entail((필연적인 결과로서)수반하다)	:	0
+660	:	끌어내다, 유래하다	:	adopt	:	aloof	:	derive	:	attire	:	3	:	*adopt(채택(채용)하다, 양자로 삼다) *aloof(떨어져서, 멀어져서,내성적인)	:	*derive(끌어내다, 유래하다) *attire((옷을 차려)입히다, 복장)	:	0
+661	:	~을 찾아내다	:	assuage	:	exasperate	:	descry	:	equivocal	:	3	:	*assuage(누그러뜨리다, 가라앉히다) *exasperate(몹시 화나게 하다)	:	*descry(~을 찾아내다) *equivocal(애매한)	:	0
+662	:	가리키다, 임명하다	:	advert	:	detain	:	designate	:	benevolent	:	3	:	*advert(언급하다, 주목하다) *detain(기다리게 하다, 감금하다)	:	*designate(가리키다, 임명하다) *benevolent(자비로운, 인정많은)	:	0
+663	:	사람이 살지 않는, 황폐한	:	clairvoyant	:	console	:	desolate	:	famish	:	3	:	*clairvoyant(통찰력이 있는) *console((슬픔,고통을)위로하다)	:	*desolate(사람이 살지 않는, 황폐한) *famish(~을 굶주리게 하다)	:	0
+664	:	경멸하다	:	facetious	:	fractious	:	despise	:	acquit	:	3	:	*facetious(익살맞은) *fractious(까다로운)	:	*despise(경멸하다) *acquit(석방하다, 무죄로 하다)	:	0
+665	:	낙담한, 풀이 죽은	:	alluvial	:	formidable	:	despondent	:	discreet	:	3	:	*alluvial(충적의) *formidable(무서운, 겁나는)	:	*despondent(낙담한, 풀이 죽은) *discreet(신중한)	:	0
+666	:	독재정치	:	animosity	:	biennial	:	despotism	:	devout	:	3	:	*animosity(적의) *biennial(2년마다의,2년생인)	:	*despotism(독재정치) *devout(독실한, 경건한, 열렬한)	:	0
+667	:	빈궁한, 빈곤한, ~이 없는	:	capitulate	:	adverse	:	destitute	:	bilateral	:	3	:	*capitulate(항복하다) *adverse(반대의, 불리한)	:	*destitute(빈궁한, 빈곤한, ~이 없는) *bilateral(양쪽의 ,상호간의)	:	0
+668	:	폐지(상태)	:	consecutive	:	fecund	:	desuetude	:	escort	:	3	:	*consecutive(연속적인,일관된) *fecund(다산의, 비옥한)	:	*desuetude(폐지(상태)) *escort(호위자, 호송하다)	:	0
+669	:	종잡을 수 없는, 산만한	:	enumerate	:	deranged	:	desultory	:	alloy	:	3	:	*enumerate((일일이)열거하다) *deranged(발광한, 미친, 혼란된)	:	*desultory(종잡을 수 없는, 산만한) *alloy(합금하다,(질을)떨어뜨리다)	:	0
+670	:	분리시키다	:	amenity	:	heterogeneous	:	detach	:	conscript	:	3	:	*amenity(예의) *heterogeneous(이종의, 이질의)	:	*detach(분리시키다) *conscript(징집(징병)하다)	:	0
+671	:	기다리게 하다, 감금하다	:	sovereign	:	embargo	:	detain	:	foment	:	3	:	*sovereign(군주, 국왕, 주권이 있는) *embargo((통상을) 금지하다)	:	*detain(기다리게 하다, 감금하다) *foment((반란 등을)선동하다)	:	0
+672	:	~을 그만두게 하다	:	depreciate	:	hedonism	:	deter	:	endemic	:	3	:	*depreciate(가치가 떨어지다) *hedonism(쾌락주의)	:	*deter(~을 그만두게 하다) *endemic((지방의)고유의,토종의)	:	0
+673	:	(가치, 품질 따위)떨어뜨리다	:	anachronism	:	grandiose	:	deteriorate	:	cadaverous	:	3	:	*anachronism(시대 착오) *grandiose(웅대장엄한)	:	*deteriorate((가치, 품질 따위)떨어뜨리다) *cadaverous(시체 같은, 창백한)	:	0
+674	:	몹시 싫어하다	:	forfeit	:	atrocious	:	detest	:	enmity	:	3	:	*forfeit(잃다,몰수되다,벌금) *atrocious(극악한)	:	*detest(몹시 싫어하다) *enmity(증오, 적의)	:	0
+675	:	해로운	:	condole	:	aggravate	:	detrimental	:	deplore	:	3	:	*condole((죽음을)애도하다) *aggravate(악화시키다)	:	*detrimental(해로운) *deplore(한탄하다, 개탄하다)	:	0
+676	:	군집성의 사교적인	:	deport	:	allocate	:	coalition	:	gregarious	:	4	:	*deport((국외로)추방하다) *allocate(할당하다, 배분하다)	:	*coalition(연합, 제휴) *gregarious(군집성의 사교적인)	:	0
+677	:	무서운	:	crate	:	allocate	:	commiserate	:	grisly	:	4	:	*crate(나무상자, 틀상자) *allocate(할당하다, 배분하다)	:	*commiserate(동정하다, 가엾게 여기다) *grisly(무서운)	:	0
+678	:	소름 끼치는	:	belated	:	eerie	:	allude	:	gruesome	:	4	:	*belated(늦은, 뒤늦은) *eerie(섬뜩한)	:	*allude((넌지시)암시하다) *gruesome(소름 끼치는)	:	0
+679	:	퉁명스러운	:	discord	:	dispose	:	congest	:	gruff	:	4	:	*discord(의견차이, 불화) *dispose(배치, 처분하다(of))	:	*congest(넘치게하다,충혈시키다) *gruff(퉁명스러운)	:	0
+680	:	교활	:	eclipse	:	embark	:	grandiloquent	:	guile	:	4	:	*eclipse((해, 달의)식, 가리다) *embark(숭선하다, 착수하다)	:	*grandiloquent(과장된) *guile(교활)	:	0
+681	:	속기 쉬운	:	candor	:	construe	:	complexion	:	gullible	:	4	:	*candor(솔직) *construe((말,행동 등을)해석하다)	:	*complexion(안색,용모,(사태의)양상) *gullible(속기 쉬운)	:	0
+682	:	진부한	:	disregard	:	euphoria	:	deter	:	hackneyed	:	4	:	*disregard(무시하다, 무시, 소홀) *euphoria(행복감,쾌감)	:	*deter(~을 그만두게 하다) *hackneyed(진부한)	:	0
+683	:	평온한	:	adjunct	:	consecutive	:	dispatch	:	halcyon	:	4	:	*adjunct(부수물, 수식어구) *consecutive(연속적인,일관된)	:	*dispatch(급송하다, 급파) *halcyon(평온한)	:	0
+684	:	신성한	:	entreat	:	devour	:	compile	:	hallowed	:	4	:	*entreat(탄원하다, 부탁하다) *devour(게걸스레 먹다, 삼켜버리다)	:	*compile((자료를)모으다, 편찬하다) *hallowed(신성한)	:	0
+685	:	환각	:	collate	:	entice	:	amiable	:	hallucination	:	4	:	*collate(대조하다,페이지를 맞추다) *entice(꾀다, 유혹하다)	:	*amiable(상냥한) *hallucination(환각)	:	0
+686	:	방해하다	:	apprehend	:	entangle	:	ample	:	hamper	:	4	:	*apprehend(붙잡다,염려하다,이해하다) *entangle(엉클어지게 하다)	:	*ample((남을 만큼)충분한) *hamper(방해하다)	:	0
+687	:	우연의	:	confederate	:	atypical	:	pliable	:	haphazard	:	4	:	*confederate(동맹하다) *atypical(비정형(불규칙)의)	:	*pliable(유연한, 융통성있는) *haphazard(우연의)	:	0
+688	:	괴롭히다	:	bristle	:	glossy	:	anathema	:	harass	:	4	:	*bristle(격분하다, (털이)곤두서다) *glossy(윤이나는)	:	*anathema(저주, 혐오(스러운 것)) *harass(괴롭히다)	:	0
+689	:	선구자 전조	:	enervate	:	hazy	:	foment	:	harbinger	:	4	:	*enervate(기력을 빼앗다, 약화시키다) *hazy(흐릿한)	:	*foment((반란 등을)선동하다) *harbinger(선구자 전조)	:	0
+690	:	악탈침략하다	:	encompass	:	dismay	:	commensurate	:	harry	:	4	:	*encompass(둘러(에워)싸다, 포함하다) *dismay(당황, 낙심)	:	*commensurate(같은 양의, 균형이 잡힌) *harry(악탈침략하다)	:	0
+691	:	건방진 	:	epigram	:	compassion	:	aggrieve	:	haughty	:	4	:	*epigram(경구, 짧은시) *compassion(연민, 동정)	:	*aggrieve(괴롭히다) *haughty(건방진 )	:	0
+692	:	위험이 많은	:	adopt	:	aloof	:	callow	:	hazardous	:	4	:	*adopt(채택(채용)하다, 양자로 삼다) *aloof(떨어져서, 멀어져서,내성적인)	:	*callow(경험이 없는) *hazardous(위험이 많은)	:	0
+693	:	흐릿한	:	disruptive	:	ambush	:	compute	:	hazy	:	4	:	*disruptive(분열시키는, 파괴하는) *ambush(매복,잠복,매복 공격)	:	*compute(계산(산출)하다) *hazy(흐릿한)	:	0
+694	:	쾌락주의	:	obscure	:	eloquent	:	adulation	:	hedonism	:	4	:	*obscure(분명하지 않은, 애매한) *eloquent(웅변의, 능변인)	:	*adulation(아첨,칭찬) *hedonism(쾌락주의)	:	0
+695	:	부주의한, 고의가 아닌, 우연의	:	adjourn	:	evaluate	:	encumber	:	heedless	:	4	:	*adjourn((회의를)휴회(연기)하다) *evaluate(평가하다)	:	*encumber(방해하다,막다) *heedless(부주의한, 고의가 아닌, 우연의)	:	0
+696	:	극악한 가증스러운	:	appease	:	feasible	:	console	:	heinous	:	4	:	*appease(달래다, 진정시키다) *feasible(실행할 수 있는)	:	*console((슬픔,고통을)위로하다) *heinous(극악한 가증스러운)	:	0
+697	:	이단	:	concave	:	disruptive	:	felicitous	:	heresy	:	4	:	*concave(오목한) *disruptive(분열시키는, 파괴하는)	:	*felicitous((행동,표현 등이)적절한) *heresy(이단)	:	0
+698	:	비정통적인,이단의	:	heedless	:	embellish	:	demolish	:	heterodox	:	4	:	*heedless(부주의한, 고의가 아닌, 우연의) *embellish(아름답게하다, 장식하다)	:	*demolish(파괴하다) *heterodox(비정통적인,이단의)	:	0
+699	:	이종의, 이질의	:	fidelity	:	enmity	:	emulate	:	heterogeneous	:	4	:	*fidelity(충실, 충성) *enmity(증오, 적의)	:	*emulate(경쟁하다, 본뜨다) *heterogeneous(이종의, 이질의)	:	0
+700	:	겨울잠을 자다 동면하다	:	enigma	:	compensate	:	discredit	:	hibernate	:	4	:	*enigma(수수께기(같은 사람)) *compensate(보상하다, 보충(상쇄)하다)	:	*discredit(신용을 떨어뜨리다) *hibernate(겨울잠을 자다 동면하다)	:	0
+701	:	익살맞은	:	facetious	:	gregarious	:	alluvial	:	circumspect	:	1	:	*facetious(익살맞은) *gregarious(군집성의 사교적인)	:	*alluvial(충적의) *circumspect(조심성 있는, 신중한)	:	0
+702	:	(일을)용이하게 하다	:	facilitate	:	grisly	:	aloof	:	circumvent	:	1	:	*facilitate((일을)용이하게 하다) *grisly(무서운)	:	*aloof(떨어져서, 멀어져서,내성적인) *circumvent(함정에 빠뜨리다)	:	0
+703	:	매우 바쁜, 매우 흥분한	:	hectic	:	gruesome	:	altruistic	:	citadel	:	1	:	*hectic(매우 바쁜, 매우 흥분한) *gruesome(소름 끼치는)	:	*altruistic(이타적인) *citadel((시,시민을 지키는)성)	:	0
+704	:	인위적인	:	factitious	:	gruff	:	amalgamate	:	sovereign	:	1	:	*factitious(인위적인) *gruff(퉁명스러운)	:	*amalgamate(결합(합병)하다) *sovereign(군주, 국왕, 주권이 있는)	:	0
+705	:	그릇된	:	fallacious	:	guile	:	amaze	:	clairvoyant	:	1	:	*fallacious(그릇된) *guile(교활)	:	*amaze(깜작 놀라게 하다) *clairvoyant(통찰력이 있는)	:	0
+706	:	~을 굶주리게 하다	:	famish	:	gullible	:	ambiguous	:	clamber	:	1	:	*famish(~을 굶주리게 하다) *gullible(속기 쉬운)	:	*ambiguous(불확실한,모호한) *clamber((손,발로)기어오르다)	:	0
+707	:	열광	:	fanaticism	:	hackneyed	:	ambush	:	clandestine	:	1	:	*fanaticism(열광) *hackneyed(진부한)	:	*ambush(매복,잠복,매복 공격) *clandestine(비밀의, 은밀한)	:	0
+708	:	상상하다, 좋아하다	:	fancy	:	halcyon	:	ameliorate	:	cleave	:	1	:	*fancy(상상하다, 좋아하다) *halcyon(평온한)	:	*ameliorate(개선(향상)시키다) *cleave(조개다, 달라붙다)	:	0
+709	:	까다로운	:	fastidious	:	hallowed	:	amenable	:	clemency	:	1	:	*fastidious(까다로운) *hallowed(신성한)	:	*amenable(유순한, 순종하는) *clemency((성격,성질 등의)관대(함))	:	0
+710	:	어리섞은	:	fatuous	:	hallucination	:	amenity	:	cliché	:	1	:	*fatuous(어리섞은) *hallucination(환각)	:	*amenity(예의) *cliché((진부한)상투 어구)	:	0
+711	:	충성	:	fealty	:	hamper	:	amiable	:	climax	:	1	:	*fealty(충성) *hamper(방해하다)	:	*amiable(상냥한) *climax(절정)	:	0
+712	:	실행할 수 있는	:	feasible	:	haphazard	:	amicable	:	clique	:	1	:	*feasible(실행할 수 있는) *haphazard(우연의)	:	*amicable(우호적인) *clique((배타적인)파벌)	:	0
+713	:	다산의, 비옥한	:	fecund	:	harass	:	amnesty	:	cloister	:	1	:	*fecund(다산의, 비옥한) *harass(괴롭히다)	:	*amnesty(특사,사면) *cloister(수도원)	:	0
+714	:	~인 체하다	:	feign	:	harbinger	:	amorphous	:	coalition	:	1	:	*feign(~인 체하다) *harbinger(선구자 전조)	:	*amorphous(무정형의) *coalition(연합, 제휴)	:	0
+715	:	(행동,표현 등이)적절한	:	felicitous	:	harry	:	ample	:	coerce	:	1	:	*felicitous((행동,표현 등이)적절한) *harry(악탈침략하다)	:	*ample((남을 만큼)충분한) *coerce(강요하다, 억압하다)	:	0
+716	:	가짜의	:	fictitious	:	haughty	:	anachronism	:	cogent	:	1	:	*fictitious(가짜의) *haughty(건방진 )	:	*anachronism(시대 착오) *cogent(설득력있는)	:	0
+717	:	충실, 충성	:	fidelity	:	hazardous	:	analogy	:	cogitate	:	1	:	*fidelity(충실, 충성) *hazardous(위험이 많은)	:	*analogy(유사함,비교,비유) *cogitate(곰곰히 생각하다, 숙고하다)	:	0
+718	:	교묘한 솜씨, 술책 	:	finesse	:	hazy	:	anarchy	:	cognate	:	1	:	*finesse(교묘한 솜씨, 술책 ) *hazy(흐릿한)	:	*anarchy(무정부 상태) *cognate(조상이 깊은, 혈족의, 친족)	:	0
+719	:	극악한	:	flagrant	:	hedonism	:	anathema	:	cognition	:	1	:	*flagrant(극악한) *hedonism(쾌락주의)	:	*anathema(저주, 혐오(스러운 것)) *cognition(인식, 인식된 것)	:	0
+720	:	화려한	:	flamboyant	:	heedless	:	anecdote	:	cohere	:	1	:	*flamboyant(화려한) *heedless(부주의한, 고의가 아닌, 우연의)	:	*anecdote(일화) *cohere(일관성있다, 어울리다)	:	0
+721	:	애송이, 풋내기	:	fledgling	:	heinous	:	animated	:	coincide	:	1	:	*fledgling(애송이, 풋내기) *heinous(극악한 가증스러운)	:	*animated(활기찬, 활발한) *coincide(동시에 일어나다, 일치하다)	:	0
+722	:	(얇고)부서지기 쉬운	:	flimsy	:	heresy	:	animosity	:	collaborate	:	1	:	*flimsy((얇고)부서지기 쉬운) *heresy(이단)	:	*animosity(적의) *collaborate(공동으로 일하다)	:	0
+723	:	비웃다	:	flout	:	heterodox	:	annals	:	collapse	:	1	:	*flout(비웃다) *heterodox(비정통적인,이단의)	:	*annals(연대기) *collapse(무너지다, 폭락)	:	0
+724	:	변동	:	fluctuation	:	heterogeneous	:	annex	:	collate	:	1	:	*fluctuation(변동) *heterogeneous(이종의, 이질의)	:	*annex(추가하다, 부속 건물) *collate(대조하다,페이지를 맞추다)	:	0
+725	:	(끊임없는)변화	:	flux	:	hibernate	:	annihilate	:	collateral	:	1	:	*flux((끊임없는)변화) *hibernate(겨울잠을 자다 동면하다)	:	*annihilate((완전히)파괴(폐지)하다) *collateral( 평행한, 부수적인,담보로 한)	:	0
+726	:	과장된	:	circumspect	:	bombastic	:	enmity	:	frolicsome	:	2	:	*circumspect(조심성 있는, 신중한) *bombastic(과장된)	:	*enmity(증오, 적의) *frolicsome(까불며 뛰노는)	:	0
+727	:	후한, 풍부한	:	circumvent	:	bounteous	:	ennoble	:	frugal	:	2	:	*circumvent(함정에 빠뜨리다) *bounteous(후한, 풍부한)	:	*ennoble(품위를 높이다) *frugal(검소한)	:	0
+728	:	아까워 하지 않는, 후한	:	citadel	:	bountiful	:	ennui	:	frustrate	:	2	:	*citadel((시,시민을 지키는)성) *bountiful(아까워 하지 않는, 후한)	:	*ennui(권태, 지루함) *frustrate(좌절(실패)시키다)	:	0
+729	:	허세	:	sovereign	:	bravado	:	enrage	:	fulsome	:	2	:	*sovereign(군주, 국왕, 주권이 있는) *bravado(허세)	:	*enrage(격노(분개)하게 하다) *fulsome(지나친)	:	0
+730	:	오만한	:	clairvoyant	:	brazen	:	frisk	:	funereal	:	2	:	*clairvoyant(통찰력이 있는) *brazen(오만한)	:	*frisk(뛰놀다, 몸수색하다) *funereal(장례식의)	:	0
+731	:	어김, 위반	:	clamber	:	breach	:	ensemble	:	furtive	:	2	:	*clamber((손,발로)기어오르다) *breach(어김, 위반)	:	*ensemble(종합적 효과, 앙상블) *furtive(몰래하는)	:	0
+732	:	간결함	:	clandestine	:	brevity	:	ensign	:	gainsay	:	2	:	*clandestine(비밀의, 은밀한) *brevity(간결함)	:	*ensign((국)기, 상징) *gainsay(반박(부인)하다)	:	0
+733	:	격분하다, (털이)곤두서다	:	cleave	:	bristle	:	enslave	:	galvanize,-ise	:	2	:	*cleave(조개다, 달라붙다) *bristle(격분하다, (털이)곤두서다)	:	*enslave(노예로 만들다) *galvanize,-ise(갑자기 활기 띠게 하다)	:	0
+734	:	이국풍의, 기이한	:	clemency	:	outlandish	:	ensue	:	gamut	:	2	:	*clemency((성격,성질 등의)관대(함)) *outlandish(이국풍의, 기이한)	:	*ensue(계속해서 일어나다) *gamut(전 범위 전역)	:	0
+735	:	(말,행동 등이)무뚝뚝한	:	cliché	:	brusque	:	disruptive	:	gape	:	2	:	*cliché((진부한)상투 어구) *brusque((말,행동 등이)무뚝뚝한)	:	*disruptive(분열시키는, 파괴하는) *gape(넋을 잃고 보다)	:	0
+736	:	지지(물), 지지하다	:	climax	:	buttress	:	entail	:	garrulous	:	2	:	*climax(절정) *buttress(지지(물), 지지하다)	:	*entail((필연적인 결과로서)수반하다) *garrulous(수다스러운)	:	0
+737	:	(여자가)건강하고 쾌활한	:	clique	:	buxom	:	entangle	:	genial	:	2	:	*clique((배타적인)파벌) *buxom((여자가)건강하고 쾌활한)	:	*entangle(엉클어지게 하다) *genial(온난한, 다정한)	:	0
+738	:	우회로,~을 우회하다	:	cloister	:	by pass	:	pliable	:	genteel	:	2	:	*cloister(수도원) *by pass(우회로,~을 우회하다)	:	*pliable(유연한, 융통성있는) *genteel(상류사회의,품위 있는)	:	0
+739	:	과거의,지나간	:	coalition	:	bygone	:	enthrall	:	germane	:	2	:	*coalition(연합, 제휴) *bygone(과거의,지나간)	:	*enthrall(마음을 사로잡다) *germane(밀접한 관계가 있는)	:	0
+740	:	부산물	:	coerce	:	by-product	:	enthrone	:	gesticulation	:	2	:	*coerce(강요하다, 억압하다) *by-product(부산물)	:	*enthrone(왕위에 앉히다, 즉위시키다) *gesticulation(몸짓손짓)	:	0
+741	:	방관자,구경꾼	:	cogent	:	bystander	:	entice	:	ghastly	:	2	:	*cogent(설득력있는) *bystander(방관자,구경꾼)	:	*entice(꾀다, 유혹하다) *ghastly(무서운)	:	0
+742	:	시체 같은, 창백한	:	cogitate	:	cadaverous	:	entitle	:	gist	:	2	:	*cogitate(곰곰히 생각하다, 숙고하다) *cadaverous(시체 같은, 창백한)	:	*entitle(제목을 붙이다, 자격을 부여하다) *gist(여점)	:	0
+743	:	감언으로 속이다	:	cognate	:	cajole	:	entreat	:	glib	:	2	:	*cognate(조상이 깊은, 혈족의, 친족) *cajole(감언으로 속이다)	:	*entreat(탄원하다, 부탁하다) *glib(입심 좋은)	:	0
+744	:	(피부 등이)굳어진, 무감각한	:	cognition	:	callous	:	entrench	:	glossy	:	2	:	*cognition(인식, 인식된 것) *callous((피부 등이)굳어진, 무감각한)	:	*entrench(참호로 에워싸다) *glossy(윤이나는)	:	0
+745	:	경험이 없는	:	cohere	:	callow	:	entrust	:	gluttonous	:	2	:	*cohere(일관성있다, 어울리다) *callow(경험이 없는)	:	*entrust(맡기다, 위탁하다) *gluttonous(게걸스러운)	:	0
+746	:	비방	:	coincide	:	calumny	:	enumerate	:	goad	:	2	:	*coincide(동시에 일어나다, 일치하다) *calumny(비방)	:	*enumerate((일일이)열거하다) *goad(자극 선동하다)	:	0
+747	:	솔직	:	collaborate	:	candor	:	envoy	:	gorge	:	2	:	*collaborate(공동으로 일하다) *candor(솔직)	:	*envoy((외교) 사절, 특사) *gorge(배불리 먹다)	:	0
+748	:	선거 운동하다	:	collapse	:	canvass	:	ephemeral	:	grandiloquent	:	2	:	*collapse(무너지다, 폭락) *canvass(선거 운동하다)	:	*ephemeral(일시적인) *grandiloquent(과장된)	:	0
+749	:	많이 들어가는	:	collate	:	capacious	:	epidemic	:	grandiose	:	2	:	*collate(대조하다,페이지를 맞추다) *capacious(많이 들어가는)	:	*epidemic(전염병, 유행, 확산) *grandiose(웅대장엄한)	:	0
+750	:	항복하다	:	collateral	:	capitulate	:	epigram	:	gratuitous	:	2	:	*collateral( 평행한, 부수적인,담보로 한) *capitulate(항복하다)	:	*epigram(경구, 짧은시) *gratuitous(공짜의,무료의)	:	0
+751	:	충적의	:	frolicsome	:	facetious	:	alluvial	:	deposit	:	3	:	*frolicsome(까불며 뛰노는) *facetious(익살맞은)	:	*alluvial(충적의) *deposit(놓다, 퇴적, 계약금으로 지불하다)	:	0
+752	:	떨어져서, 멀어져서,내성적인	:	frugal	:	facilitate	:	aloof	:	depravity	:	3	:	*frugal(검소한) *facilitate((일을)용이하게 하다)	:	*aloof(떨어져서, 멀어져서,내성적인) *depravity(탁락)	:	0
+753	:	이타적인	:	frustrate	:	hectic	:	altruistic	:	deprecate	:	3	:	*frustrate(좌절(실패)시키다) *hectic(매우 바쁜, 매우 흥분한)	:	*altruistic(이타적인) *deprecate(불찬성하다, 비난하다)	:	0
+754	:	결합(합병)하다	:	fulsome	:	factitious	:	amalgamate	:	depreciate	:	3	:	*fulsome(지나친) *factitious(인위적인)	:	*amalgamate(결합(합병)하다) *depreciate(가치가 떨어지다)	:	0
+755	:	깜작 놀라게 하다	:	funereal	:	fallacious	:	amaze	:	depress	:	3	:	*funereal(장례식의) *fallacious(그릇된)	:	*amaze(깜작 놀라게 하다) *depress(낙담시키다, 약화시키다)	:	0
+756	:	불확실한,모호한	:	furtive	:	famish	:	ambiguous	:	deputy	:	3	:	*furtive(몰래하는) *famish(~을 굶주리게 하다)	:	*ambiguous(불확실한,모호한) *deputy(대리,보좌관, 하원의원)	:	0
+757	:	매복,잠복,매복 공격	:	gainsay	:	fanaticism	:	ambush	:	deranged	:	3	:	*gainsay(반박(부인)하다) *fanaticism(열광)	:	*ambush(매복,잠복,매복 공격) *deranged(발광한, 미친, 혼란된)	:	0
+758	:	개선(향상)시키다	:	galvanize,-ise	:	fancy	:	ameliorate	:	derelict	:	3	:	*galvanize,-ise(갑자기 활기 띠게 하다) *fancy(상상하다, 좋아하다)	:	*ameliorate(개선(향상)시키다) *derelict(유기된,직무에 태만한)	:	0
+759	:	유순한, 순종하는	:	gamut	:	fastidious	:	amenable	:	deride	:	3	:	*gamut(전 범위 전역) *fastidious(까다로운)	:	*amenable(유순한, 순종하는) *deride(비웃다, 조롱하다)	:	0
+760	:	예의	:	gape	:	fatuous	:	amenity	:	derive	:	3	:	*gape(넋을 잃고 보다) *fatuous(어리섞은)	:	*amenity(예의) *derive(끌어내다, 유래하다)	:	0
+761	:	상냥한	:	garrulous	:	fealty	:	amiable	:	descry	:	3	:	*garrulous(수다스러운) *fealty(충성)	:	*amiable(상냥한) *descry(~을 찾아내다)	:	0
+762	:	우호적인	:	genial	:	feasible	:	amicable	:	designate	:	3	:	*genial(온난한, 다정한) *feasible(실행할 수 있는)	:	*amicable(우호적인) *designate(가리키다, 임명하다)	:	0
+763	:	특사,사면	:	genteel	:	fecund	:	amnesty	:	desolate	:	3	:	*genteel(상류사회의,품위 있는) *fecund(다산의, 비옥한)	:	*amnesty(특사,사면) *desolate(사람이 살지 않는, 황폐한)	:	0
+764	:	무정형의	:	germane	:	feign	:	amorphous	:	despise	:	3	:	*germane(밀접한 관계가 있는) *feign(~인 체하다)	:	*amorphous(무정형의) *despise(경멸하다)	:	0
+765	:	(남을 만큼)충분한	:	gesticulation	:	felicitous	:	ample	:	despondent	:	3	:	*gesticulation(몸짓손짓) *felicitous((행동,표현 등이)적절한)	:	*ample((남을 만큼)충분한) *despondent(낙담한, 풀이 죽은)	:	0
+766	:	시대 착오	:	ghastly	:	fictitious	:	anachronism	:	despotism	:	3	:	*ghastly(무서운) *fictitious(가짜의)	:	*anachronism(시대 착오) *despotism(독재정치)	:	0
+767	:	유사함,비교,비유	:	gist	:	fidelity	:	analogy	:	destitute	:	3	:	*gist(여점) *fidelity(충실, 충성)	:	*analogy(유사함,비교,비유) *destitute(빈궁한, 빈곤한, ~이 없는)	:	0
+768	:	무정부 상태	:	glib	:	finesse	:	anarchy	:	desuetude	:	3	:	*glib(입심 좋은) *finesse(교묘한 솜씨, 술책 )	:	*anarchy(무정부 상태) *desuetude(폐지(상태))	:	0
+769	:	저주, 혐오(스러운 것)	:	glossy	:	flagrant	:	anathema	:	desultory	:	3	:	*glossy(윤이나는) *flagrant(극악한)	:	*anathema(저주, 혐오(스러운 것)) *desultory(종잡을 수 없는, 산만한)	:	0
+770	:	일화	:	gluttonous	:	flamboyant	:	anecdote	:	detach	:	3	:	*gluttonous(게걸스러운) *flamboyant(화려한)	:	*anecdote(일화) *detach(분리시키다)	:	0
+771	:	활기찬, 활발한	:	goad	:	fledgling	:	animated	:	detain	:	3	:	*goad(자극 선동하다) *fledgling(애송이, 풋내기)	:	*animated(활기찬, 활발한) *detain(기다리게 하다, 감금하다)	:	0
+772	:	적의	:	gorge	:	flimsy	:	animosity	:	deter	:	3	:	*gorge(배불리 먹다) *flimsy((얇고)부서지기 쉬운)	:	*animosity(적의) *deter(~을 그만두게 하다)	:	0
+773	:	연대기	:	grandiloquent	:	flout	:	annals	:	deteriorate	:	3	:	*grandiloquent(과장된) *flout(비웃다)	:	*annals(연대기) *deteriorate((가치, 품질 따위)떨어뜨리다)	:	0
+774	:	추가하다, 부속 건물	:	grandiose	:	fluctuation	:	annex	:	detest	:	3	:	*grandiose(웅대장엄한) *fluctuation(변동)	:	*annex(추가하다, 부속 건물) *detest(몹시 싫어하다)	:	0
+775	:	(완전히)파괴(폐지)하다	:	gratuitous	:	flux	:	annihilate	:	detrimental	:	3	:	*gratuitous(공짜의,무료의) *flux((끊임없는)변화)	:	*annihilate((완전히)파괴(폐지)하다) *detrimental(해로운)	:	0
+776	:	당당한; 위엄 있는	:	deposit	:	bombastic	:	calumny	:	stately	:	4	:	*deposit(놓다, 퇴적, 계약금으로 지불하다) *bombastic(과장된)	:	*calumny(비방) *stately(당당한; 위엄 있는)	:	0
+777	:	충돌하다, 상충되다	:	depravity	:	bounteous	:	forte	:	collide	:	4	:	*depravity(탁락) *bounteous(후한, 풍부한)	:	*forte(특기, 잠정) *collide(충돌하다, 상충되다)	:	0
+778	:	일상 회화의,구어(체)의	:	deprecate	:	bountiful	:	astray	:	colloquial	:	4	:	*deprecate(불찬성하다, 비난하다) *bountiful(아까워 하지 않는, 후한)	:	*astray(잘못된 길에 빠져) *colloquial(일상 회화의,구어(체)의)	:	0
+779	:	공모(결탁)하다	:	depreciate	:	bravado	:	discredit	:	collude	:	4	:	*depreciate(가치가 떨어지다) *bravado(허세)	:	*discredit(신용을 떨어뜨리다) *collude(공모(결탁)하다)	:	0
+780	:	거대한	:	depress	:	brazen	:	combustion	:	colossal	:	4	:	*depress(낙담시키다, 약화시키다) *brazen(오만한)	:	*combustion(연소) *colossal(거대한)	:	0
+781	:	연소	:	deputy	:	breach	:	fastidious	:	combustion	:	4	:	*deputy(대리,보좌관, 하원의원) *breach(어김, 위반)	:	*fastidious(까다로운) *combustion(연소)	:	0
+782	:	(특히 의식을 통해)기념하다	:	deranged	:	brevity	:	complement	:	commemorate	:	4	:	*deranged(발광한, 미친, 혼란된) *brevity(간결함)	:	*complement(보충물, 보어, 보충하다) *commemorate((특히 의식을 통해)기념하다)	:	0
+783	:	시작하다, 학위를 받다	:	derelict	:	bristle	:	disrupt	:	commence	:	4	:	*derelict(유기된,직무에 태만한) *bristle(격분하다, (털이)곤두서다)	:	*disrupt(붕괴(분열)시키다) *commence(시작하다, 학위를 받다)	:	0
+784	:	칭찬하다, 위탁하다	:	deride	:	outlandish	:	agnostic	:	commend	:	4	:	*deride(비웃다, 조롱하다) *outlandish(이국풍의, 기이한)	:	*agnostic(불가지론자(의)) *commend(칭찬하다, 위탁하다)	:	0
+785	:	같은 양의, 균형이 잡힌	:	derive	:	brusque	:	commodious	:	commensurate	:	4	:	*derive(끌어내다, 유래하다) *brusque((말,행동 등이)무뚝뚝한)	:	*commodious((방 따위가)널찍한) *commensurate(같은 양의, 균형이 잡힌)	:	0
+786	:	동정하다, 가엾게 여기다	:	descry	:	buttress	:	amnesty	:	commiserate	:	4	:	*descry(~을 찾아내다) *buttress(지지(물), 지지하다)	:	*amnesty(특사,사면) *commiserate(동정하다, 가엾게 여기다)	:	0
+787	:	(방 따위가)널찍한	:	designate	:	buxom	:	authenticate	:	commodious	:	4	:	*designate(가리키다, 임명하다) *buxom((여자가)건강하고 쾌활한)	:	*authenticate(진짜임을 증명하다) *commodious((방 따위가)널찍한)	:	0
+788	:	흔한, 평범(진부)한	:	desolate	:	by pass	:	cajole	:	commonplace	:	4	:	*desolate(사람이 살지 않는, 황폐한) *by pass(우회로,~을 우회하다)	:	*cajole(감언으로 속이다) *commonplace(흔한, 평범(진부)한)	:	0
+789	:	소요, 소동	:	despise	:	bygone	:	affiance	:	commotion	:	4	:	*despise(경멸하다) *bygone(과거의,지나간)	:	*affiance(계약, 약혼) *commotion(소요, 소동)	:	0
+790	:	계약, 협정	:	despondent	:	by-product	:	ameliorate	:	compact	:	4	:	*despondent(낙담한, 풀이 죽은) *by-product(부산물)	:	*ameliorate(개선(향상)시키다) *compact(계약, 협정)	:	0
+791	:	연민, 동정	:	despotism	:	bystander	:	envoy	:	compassion	:	4	:	*despotism(독재정치) *bystander(방관자,구경꾼)	:	*envoy((외교) 사절, 특사) *compassion(연민, 동정)	:	0
+792	:	양립할수있는, 호환되는	:	destitute	:	cadaverous	:	embezzle	:	compatible	:	4	:	*destitute(빈궁한, 빈곤한, ~이 없는) *cadaverous(시체 같은, 창백한)	:	*embezzle((공금을)횡령하다) *compatible(양립할수있는, 호환되는)	:	0
+793	:	보상하다, 보충(상쇄)하다	:	desuetude	:	cajole	:	ecstasy	:	compensate	:	4	:	*desuetude(폐지(상태)) *cajole(감언으로 속이다)	:	*ecstasy(무아지경, 황홀) *compensate(보상하다, 보충(상쇄)하다)	:	0
+794	:	(자료를)모으다, 편찬하다	:	desultory	:	callous	:	callow	:	compile	:	4	:	*desultory(종잡을 수 없는, 산만한) *callous((피부 등이)굳어진, 무감각한)	:	*callow(경험이 없는) *compile((자료를)모으다, 편찬하다)	:	0
+795	:	만족해 하는, 자기 만족의	:	detach	:	callow	:	consecrate	:	complacent	:	4	:	*detach(분리시키다) *callow(경험이 없는)	:	*consecrate(신성하게 하다, 바치다) *complacent(만족해 하는, 자기 만족의)	:	0
+796	:	고분고분한, 공손한	:	detain	:	calumny	:	animated	:	complaisant	:	4	:	*detain(기다리게 하다, 감금하다) *calumny(비방)	:	*animated(활기찬, 활발한) *complaisant(고분고분한, 공손한)	:	0
+797	:	보충물, 보어, 보충하다	:	deter	:	candor	:	brusque	:	complement	:	4	:	*deter(~을 그만두게 하다) *candor(솔직)	:	*brusque((말,행동 등이)무뚝뚝한) *complement(보충물, 보어, 보충하다)	:	0
+798	:	안색,용모,(사태의)양상	:	deteriorate	:	canvass	:	engender	:	complexion	:	4	:	*deteriorate((가치, 품질 따위)떨어뜨리다) *canvass(선거 운동하다)	:	*engender(발생(야기)시키다) *complexion(안색,용모,(사태의)양상)	:	0
+799	:	복잡하게 하다	:	detest	:	capacious	:	acrid	:	complicate	:	4	:	*detest(몹시 싫어하다) *capacious(많이 들어가는)	:	*acrid((냄새 등이)콕 쏘는) *complicate(복잡하게 하다)	:	0
+800	:	칭찬(찬사)를 보내다	:	detrimental	:	capitulate	:	adamant	:	compliment	:	4	:	*detrimental(해로운) *capitulate(항복하다)	:	*adamant((의지가)단호한) *compliment(칭찬(찬사)를 보내다)	:	0
+801	:	맺음말, 결어	:	epilogue	:	frolicsome	:	deposit	:	eclipse	:	1	:	*epilogue(맺음말, 결어) *frolicsome(까불며 뛰노는)	:	*deposit(놓다, 퇴적, 계약금으로 지불하다) *eclipse((해, 달의)식, 가리다)	:	0
+802	:	개략, 요약, 표본	:	epitome	:	frugal	:	depravity	:	ecstasy	:	1	:	*epitome(개략, 요약, 표본) *frugal(검소한)	:	*depravity(탁락) *ecstasy(무아지경, 황홀)	:	0
+803	:	(획기적인)시대	:	epoch	:	frustrate	:	deprecate	:	edify	:	1	:	*epoch((획기적인)시대) *frustrate(좌절(실패)시키다)	:	*deprecate(불찬성하다, 비난하다) *edify(교화하다)	:	0
+804	:	(마음의)평정	:	equanimity	:	fulsome	:	depreciate	:	eerie	:	1	:	*equanimity((마음의)평정) *fulsome(지나친)	:	*depreciate(가치가 떨어지다) *eerie(섬뜩한)	:	0
+805	:	애매한	:	equivocal	:	funereal	:	depress	:	efface	:	1	:	*equivocal(애매한) *funereal(장례식의)	:	*depress(낙담시키다, 약화시키다) *efface(지우다, 말살하다)	:	0
+806	:	뿌리째 뽑다, 근절하다	:	eradicate	:	furtive	:	deputy	:	efficacy	:	1	:	*eradicate(뿌리째 뽑다, 근절하다) *furtive(몰래하는)	:	*deputy(대리,보좌관, 하원의원) *efficacy(효력)	:	0
+807	:	(병 따위가)좀먹다, 침식하다	:	erode	:	gainsay	:	deranged	:	elaborate	:	1	:	*erode((병 따위가)좀먹다, 침식하다) *gainsay(반박(부인)하다)	:	*deranged(발광한, 미친, 혼란된) *elaborate(정성들인, 정성들여 만들다)	:	0
+808	:	박식한, 학식있는	:	erudite	:	galvanize,-ise	:	derelict	:	elapse	:	1	:	*erudite(박식한, 학식있는) *galvanize,-ise(갑자기 활기 띠게 하다)	:	*derelict(유기된,직무에 태만한) *elapse((때가)경과하다)	:	0
+809	:	(화산 등이)분출(폭발)하다	:	erupt	:	gamut	:	deride	:	elate	:	1	:	*erupt((화산 등이)분출(폭발)하다) *gamut(전 범위 전역)	:	*deride(비웃다, 조롱하다) *elate(의기 양양하게 하다)	:	0
+810	:	피하다	:	eschew	:	gape	:	derive	:	elicit	:	1	:	*eschew(피하다) *gape(넋을 잃고 보다)	:	*derive(끌어내다, 유래하다) *elicit((대답, 웃음 따위)이끌어내다)	:	0
+811	:	호위자, 호송하다	:	escort	:	garrulous	:	descry	:	obscure	:	1	:	*escort(호위자, 호송하다) *garrulous(수다스러운)	:	*descry(~을 찾아내다) *obscure(분명하지 않은, 애매한)	:	0
+812	:	민족의, 소수민족	:	ethnic	:	genial	:	designate	:	elucidate	:	1	:	*ethnic(민족의, 소수민족) *genial(온난한, 다정한)	:	*designate(가리키다, 임명하다) *elucidate(명료하게 설명하다)	:	0
+813	:	찬사,칭송	:	eulogy	:	genteel	:	desolate	:	elude	:	1	:	*eulogy(찬사,칭송) *genteel(상류사회의,품위 있는)	:	*desolate(사람이 살지 않는, 황폐한) *elude(교묘히 피하다)	:	0
+814	:	행복감,쾌감	:	euphoria	:	germane	:	despise	:	emancipate	:	1	:	*euphoria(행복감,쾌감) *germane(밀접한 관계가 있는)	:	*despise(경멸하다) *emancipate(해방시키다)	:	0
+815	:	안락사	:	euthanasia	:	gesticulation	:	despondent	:	embargo	:	1	:	*euthanasia(안락사) *gesticulation(몸짓손짓)	:	*despondent(낙담한, 풀이 죽은) *embargo((통상을) 금지하다)	:	0
+816	:	대피(철수)시키다	:	evacuate	:	ghastly	:	despotism	:	embark	:	1	:	*evacuate(대피(철수)시키다) *ghastly(무서운)	:	*despotism(독재정치) *embark(숭선하다, 착수하다)	:	0
+817	:	(교묘히)피하다, 벗어나다	:	evade	:	gist	:	destitute	:	embellish	:	1	:	*evade((교묘히)피하다, 벗어나다) *gist(여점)	:	*destitute(빈궁한, 빈곤한, ~이 없는) *embellish(아름답게하다, 장식하다)	:	0
+818	:	평가하다	:	evaluate	:	glib	:	desuetude	:	embezzle	:	1	:	*evaluate(평가하다) *glib(입심 좋은)	:	*desuetude(폐지(상태)) *embezzle((공금을)횡령하다)	:	0
+819	:	증발하다, (희망)사라지다	:	evaporate	:	glossy	:	desultory	:	emblem	:	1	:	*evaporate(증발하다, (희망)사라지다) *glossy(윤이나는)	:	*desultory(종잡을 수 없는, 산만한) *emblem(상징, 표상)	:	0
+820	:	(기억,감정)불러 일으키다	:	evoke	:	gluttonous	:	detach	:	embody	:	1	:	*evoke((기억,감정)불러 일으키다) *gluttonous(게걸스러운)	:	*detach(분리시키다) *embody(구체(유형)화 하다, 포함하다)	:	0
+821	:	지참금	:	dowry	:	goad	:	detain	:	emboss	:	1	:	*dowry(지참금) *goad(자극 선동하다)	:	*detain(기다리게 하다, 감금하다) *emboss(튀어나오게 하다)	:	0
+822	:	높이다, 칭찬하다	:	exalt	:	gorge	:	deter	:	embroider	:	1	:	*exalt(높이다, 칭찬하다) *gorge(배불리 먹다)	:	*deter(~을 그만두게 하다) *embroider(수를 놓다, 자수하다)	:	0
+823	:	몹시 화나게 하다	:	exasperate	:	grandiloquent	:	deteriorate	:	embryo	:	1	:	*exasperate(몹시 화나게 하다) *grandiloquent(과장된)	:	*deteriorate((가치, 품질 따위)떨어뜨리다) *embryo(태아,(발달의)초기)	:	0
+824	:	구멍을 파다(뚫다)	:	excavate	:	grandiose	:	detest	:	emerge	:	1	:	*excavate(구멍을 파다(뚫다)) *grandiose(웅대장엄한)	:	*detest(몹시 싫어하다) *emerge(나타나다, 출현하다)	:	0
+825	:	발췌, 인용, 발췌하다	:	excerpt	:	gratuitous	:	detrimental	:	emigrate	:	1	:	*excerpt(발췌, 인용, 발췌하다) *gratuitous(공짜의,무료의)	:	*detrimental(해로운) *emigrate((외국으로)이민하다)	:	0
+826	:	황폐화하다	:	gregarious	:	devastate	:	eminent	:	facetious	:	2	:	*gregarious(군집성의 사교적인) *devastate(황폐화하다)	:	*eminent(뛰어난, 탁월한) *facetious(익살맞은)	:	0
+827	:	빗나가다, 벗어나다	:	grisly	:	deviate	:	emit	:	facilitate	:	2	:	*grisly(무서운) *deviate(빗나가다, 벗어나다)	:	*emit((빛,열 따위를)방출하다) *facilitate((일을)용이하게 하다)	:	0
+828	:	~이 빠진, 전혀 없는	:	gruesome	:	devoid	:	empower	:	hectic	:	2	:	*gruesome(소름 끼치는) *devoid(~이 빠진, 전혀 없는)	:	*empower(~에게 권한(능력)을 주다) *hectic(매우 바쁜, 매우 흥분한)	:	0
+829	:	게걸스레 먹다, 삼켜버리다	:	gruff	:	devour	:	emulate	:	factitious	:	2	:	*gruff(퉁명스러운) *devour(게걸스레 먹다, 삼켜버리다)	:	*emulate(경쟁하다, 본뜨다) *factitious(인위적인)	:	0
+830	:	독실한, 경건한, 열렬한	:	guile	:	devout	:	enact	:	fallacious	:	2	:	*guile(교활) *devout(독실한, 경건한, 열렬한)	:	*enact((법률을)제정하다) *fallacious(그릇된)	:	0
+831	:	진단법	:	gullible	:	diagnosis	:	enchant	:	famish	:	2	:	*gullible(속기 쉬운) *diagnosis(진단법)	:	*enchant(마법을 걸다, 매혹시키다) *famish(~을 굶주리게 하다)	:	0
+832	:	대각석(의)	:	hackneyed	:	diagonal	:	encircle	:	fanaticism	:	2	:	*hackneyed(진부한) *diagonal(대각석(의))	:	*encircle(에워(둘러)싸다) *fanaticism(열광)	:	0
+833	:	방언,사투리	:	halcyon	:	dialect	:	encompass	:	fancy	:	2	:	*halcyon(평온한) *dialect(방언,사투리)	:	*encompass(둘러(에워)싸다, 포함하다) *fancy(상상하다, 좋아하다)	:	0
+834	:	변증법,문답식의	:	hallowed	:	dialectic	:	encounter	:	fastidious	:	2	:	*hallowed(신성한) *dialectic(변증법,문답식의)	:	*encounter(우연히 만나다) *fastidious(까다로운)	:	0
+835	:	자신없는, 겁많은	:	hallucination	:	diffident	:	encroach	:	fatuous	:	2	:	*hallucination(환각) *diffident(자신없는, 겁많은)	:	*encroach((재산,권리를)침해하다) *fatuous(어리섞은)	:	0
+836	:	(본론에서) 벗어나다	:	hamper	:	digress	:	encumber	:	fealty	:	2	:	*hamper(방해하다) *digress((본론에서) 벗어나다)	:	*encumber(방해하다,막다) *fealty(충성)	:	0
+837	:	황폐한	:	haphazard	:	dilapidated	:	encyclopedia	:	feasible	:	2	:	*haphazard(우연의) *dilapidated(황폐한)	:	*encyclopedia(백과사전) *feasible(실행할 수 있는)	:	0
+838	:	팽창시키다, 넓히다	:	harass	:	dilate	:	contemplate	:	fecund	:	2	:	*harass(괴롭히다) *dilate(팽창시키다, 넓히다)	:	*contemplate(심사숙고하다) *fecund(다산의, 비옥한)	:	0
+839	:	느린, 시간을 끄는	:	harbinger	:	dilatory	:	endear	:	feign	:	2	:	*harbinger(선구자 전조) *dilatory(느린, 시간을 끄는)	:	*endear(애정을 느끼게 하다) *feign(~인 체하다)	:	0
+840	:	딜레마,진퇴양난	:	harry	:	dilemma	:	endemic	:	felicitous	:	2	:	*harry(악탈침략하다) *dilemma(딜레마,진퇴양난)	:	*endemic((지방의)고유의,토종의) *felicitous((행동,표현 등이)적절한)	:	0
+841	:	아마추어 예술가	:	haughty	:	dilettante	:	orbit	:	fictitious	:	2	:	*haughty(건방진 ) *dilettante(아마추어 예술가)	:	*orbit(궤도) *fictitious(가짜의)	:	0
+842	:	(물을 타서)묽게 하다	:	hazardous	:	dilute	:	enervate	:	fidelity	:	2	:	*hazardous(위험이 많은) *dilute((물을 타서)묽게 하다)	:	*enervate(기력을 빼앗다, 약화시키다) *fidelity(충실, 충성)	:	0
+843	:	치수, 크기, 차원	:	hazy	:	dimension	:	engender	:	finesse	:	2	:	*hazy(흐릿한) *dimension(치수, 크기, 차원)	:	*engender(발생(야기)시키다) *finesse(교묘한 솜씨, 술책 )	:	0
+844	:	줄다, 축소하다	:	hedonism	:	diminish	:	engrave	:	flagrant	:	2	:	*hedonism(쾌락주의) *diminish(줄다, 축소하다)	:	*engrave(조각하다, (마음 속에)새기다) *flagrant(극악한)	:	0
+845	:	불구로 만들다	:	heedless	:	disable	:	engross	:	flamboyant	:	2	:	*heedless(부주의한, 고의가 아닌, 우연의) *disable(불구로 만들다)	:	*engross((마음을) 빼앗다, 몰두시키다) *flamboyant(화려한)	:	0
+846	:	해산하다	:	heinous	:	disband	:	eloquent	:	fledgling	:	2	:	*heinous(극악한 가증스러운) *disband(해산하다)	:	*eloquent(웅변의, 능변인) *fledgling(애송이, 풋내기)	:	0
+847	:	버리다, 포기하다	:	heresy	:	discard	:	enigma	:	flimsy	:	2	:	*heresy(이단) *discard(버리다, 포기하다)	:	*enigma(수수께기(같은 사람)) *flimsy((얇고)부서지기 쉬운)	:	0
+848	:	제자, 12사도	:	heterodox	:	disciple	:	enjoin	:	flout	:	2	:	*heterodox(비정통적인,이단의) *disciple(제자, 12사도)	:	*enjoin(~에게 명령하다, ~을 금하다) *flout(비웃다)	:	0
+849	:	당황케 하다	:	heterogeneous	:	disconcert	:	enlist	:	fluctuation	:	2	:	*heterogeneous(이종의, 이질의) *disconcert(당황케 하다)	:	*enlist(병적에 넣다, 입대하다) *fluctuation(변동)	:	0
+850	:	의견차이, 불화	:	hibernate	:	discord	:	enliven	:	flux	:	2	:	*hibernate(겨울잠을 자다 동면하다) *discord(의견차이, 불화)	:	*enliven(활기있게 하다) *flux((끊임없는)변화)	:	0
+851	:	말하다, 담화하다, 담화	:	bombastic	:	congenital	:	discourse	:	alluvial	:	3	:	*bombastic(과장된) *congenital(선천적인)	:	*discourse(말하다, 담화하다, 담화) *alluvial(충적의)	:	0
+852	:	신용을 떨어뜨리다	:	bounteous	:	congest	:	discredit	:	aloof	:	3	:	*bounteous(후한, 풍부한) *congest(넘치게하다,충혈시키다)	:	*discredit(신용을 떨어뜨리다) *aloof(떨어져서, 멀어져서,내성적인)	:	0
+853	:	신중한	:	bountiful	:	conglomerate	:	discreet	:	altruistic	:	3	:	*bountiful(아까워 하지 않는, 후한) *conglomerate(집단, (거대한)복합 기업)	:	*discreet(신중한) *altruistic(이타적인)	:	0
+854	:	차이, 불일치	:	bravado	:	congregate	:	discrepancy	:	amalgamate	:	3	:	*bravado(허세) *congregate(모이다,집합시키다)	:	*discrepancy(차이, 불일치) *amalgamate(결합(합병)하다)	:	0
+855	:	분리된, 별개의	:	brazen	:	conjecture	:	discrete	:	amaze	:	3	:	*brazen(오만한) *conjecture(추측하다, 추측, 짐작)	:	*discrete(분리된, 별개의) *amaze(깜작 놀라게 하다)	:	0
+856	:	구별하다,차별 대우하다	:	breach	:	conjure	:	discriminate	:	ambiguous	:	3	:	*breach(어김, 위반) *conjure(마술로 좌우하다)	:	*discriminate(구별하다,차별 대우하다) *ambiguous(불확실한,모호한)	:	0
+857	:	경멸하다, 멸시하다	:	brevity	:	connubial	:	disdain	:	ambush	:	3	:	*brevity(간결함) *connubial(결혼(부부)의)	:	*disdain(경멸하다, 멸시하다) *ambush(매복,잠복,매복 공격)	:	0
+858	:	엉킨 것을 풀다	:	bristle	:	conscript	:	disentangle	:	ameliorate	:	3	:	*bristle(격분하다, (털이)곤두서다) *conscript(징집(징병)하다)	:	*disentangle(엉킨 것을 풀다) *ameliorate(개선(향상)시키다)	:	0
+859	:	망가뜨리다, 흉하게 하다	:	outlandish	:	consecrate	:	disfigure	:	amenable	:	3	:	*outlandish(이국풍의, 기이한) *consecrate(신성하게 하다, 바치다)	:	*disfigure(망가뜨리다, 흉하게 하다) *amenable(유순한, 순종하는)	:	0
+860	:	환상에서 깨어나게 하다, 각성	:	brusque	:	consecutive	:	disillusion	:	amenity	:	3	:	*brusque((말,행동 등이)무뚝뚝한) *consecutive(연속적인,일관된)	:	*disillusion(환상에서 깨어나게 하다, 각성) *amenity(예의)	:	0
+861	:	공정한, 객관적인	:	buttress	:	consensus	:	disinterested	:	amiable	:	3	:	*buttress(지지(물), 지지하다) *consensus((의견 등의)일치, 합의, 여론)	:	*disinterested(공정한, 객관적인) *amiable(상냥한)	:	0
+862	:	음침한	:	buxom	:	crate	:	dismal	:	amicable	:	3	:	*buxom((여자가)건강하고 쾌활한) *crate(나무상자, 틀상자)	:	*dismal(음침한) *amicable(우호적인)	:	0
+863	:	당황, 낙심	:	by pass	:	consign	:	dismay	:	amnesty	:	3	:	*by pass(우회로,~을 우회하다) *consign(맡기다, (판매를)위탁하다)	:	*dismay(당황, 낙심) *amnesty(특사,사면)	:	0
+864	:	혼란스럽게하다	:	bygone	:	console	:	disorient	:	amorphous	:	3	:	*bygone(과거의,지나간) *console((슬픔,고통을)위로하다)	:	*disorient(혼란스럽게하다) *amorphous(무정형의)	:	0
+865	:	비난하다, 헐뜯다	:	by-product	:	consolidate	:	disparage	:	ample	:	3	:	*by-product(부산물) *consolidate(합병(강화)하다)	:	*disparage(비난하다, 헐뜯다) *ample((남을 만큼)충분한)	:	0
+866	:	(본질적,절대적)차이, 상이함	:	bystander	:	consort	:	disparity	:	anachronism	:	3	:	*bystander(방관자,구경꾼) *consort((나쁜 사람들과)사귀다)	:	*disparity((본질적,절대적)차이, 상이함) *anachronism(시대 착오)	:	0
+867	:	급송하다, 급파	:	cadaverous	:	conspire	:	dispatch	:	analogy	:	3	:	*cadaverous(시체 같은, 창백한) *conspire(음모를 꾸미다, 공모하다)	:	*dispatch(급송하다, 급파) *analogy(유사함,비교,비유)	:	0
+868	:	(생각 따위를)떨쳐버리다	:	cajole	:	constellation	:	dispel	:	anarchy	:	3	:	*cajole(감언으로 속이다) *constellation(별자리)	:	*dispel((생각 따위를)떨쳐버리다) *anarchy(무정부 상태)	:	0
+869	:	분배하다, (약을)조제하다	:	callous	:	constrict	:	dispense	:	anathema	:	3	:	*callous((피부 등이)굳어진, 무감각한) *constrict(조이다, 압축(수축)하다)	:	*dispense(분배하다, (약을)조제하다) *anathema(저주, 혐오(스러운 것))	:	0
+870	:	흩뜨리다, 퍼뜨리다	:	callow	:	construe	:	disperse	:	anecdote	:	3	:	*callow(경험이 없는) *construe((말,행동 등을)해석하다)	:	*disperse(흩뜨리다, 퍼뜨리다) *anecdote(일화)	:	0
+871	:	(바꾸어 놓다, 옮기다	:	calumny	:	consummate	:	displace	:	animated	:	3	:	*calumny(비방) *consummate(성취하다, 완성하다)	:	*displace((바꾸어 놓다, 옮기다) *animated(활기찬, 활발한)	:	0
+872	:	배치, 처분하다(of)	:	candor	:	contaminate	:	dispose	:	animosity	:	3	:	*candor(솔직) *contaminate(더럽히다,오염시키다)	:	*dispose(배치, 처분하다(of)) *animosity(적의)	:	0
+873	:	어울리지 않는, 불균형한	:	canvass	:	contemn	:	disproportionate	:	annals	:	3	:	*canvass(선거 운동하다) *contemn(~을 경멸하다)	:	*disproportionate(어울리지 않는, 불균형한) *annals(연대기)	:	0
+874	:	무시하다, 무시, 소홀	:	capacious	:	context	:	disregard	:	annex	:	3	:	*capacious(많이 들어가는) *context((글의) 전후 관계, 문맥)	:	*disregard(무시하다, 무시, 소홀) *annex(추가하다, 부속 건물)	:	0
+875	:	붕괴(분열)시키다	:	capitulate	:	contiguous	:	disrupt	:	annihilate	:	3	:	*capitulate(항복하다) *contiguous(인접한(to), 접촉해 있는)	:	*disrupt(붕괴(분열)시키다) *annihilate((완전히)파괴(폐지)하다)	:	0
+876	:	(성격의)결점, 약점	:	enmity	:	stately	:	affiance	:	foible	:	4	:	*enmity(증오, 적의) *stately(당당한; 위엄 있는)	:	*affiance(계약, 약혼) *foible((성격의)결점, 약점)	:	0
+877	:	(반란 등을)선동하다	:	ennoble	:	collide	:	affiliate	:	foment	:	4	:	*ennoble(품위를 높이다) *collide(충돌하다, 상충되다)	:	*affiliate(가입시키다, 합병시키다) *foment((반란 등을)선동하다)	:	0
+878	:	예감,불길한,전조가 되는	:	ennui	:	colloquial	:	affinity	:	foreboding	:	4	:	*ennui(권태, 지루함) *colloquial(일상 회화의,구어(체)의)	:	*affinity(유사성,(강한)호감,애정) *foreboding(예감,불길한,전조가 되는)	:	0
+879	:	선구자,전조 조짐	:	enrage	:	collude	:	affluent	:	forerunner	:	4	:	*enrage(격노(분개)하게 하다) *collude(공모(결탁)하다)	:	*affluent(풍요(부유)한) *forerunner(선구자,전조 조짐)	:	0
+880	:	예견 ,선견지명	:	frisk	:	colossal	:	affront	:	foresight	:	4	:	*frisk(뛰놀다, 몸수색하다) *colossal(거대한)	:	*affront(모욕를 주다, 창피) *foresight(예견 ,선견지명)	:	0
+881	:	~을 미리 막다	:	ensemble	:	combustion	:	afloat	:	forestall	:	4	:	*ensemble(종합적 효과, 앙상블) *combustion(연소)	:	*afloat((물에)떠 있는) *forestall(~을 미리 막다)	:	0
+882	:	예언하다	:	ensign	:	commemorate	:	aftermath	:	foretell	:	4	:	*ensign((국)기, 상징) *commemorate((특히 의식을 통해)기념하다)	:	*aftermath(결과,여파) *foretell(예언하다)	:	0
+883	:	잃다,몰수되다,벌금	:	enslave	:	commence	:	agenda	:	forfeit	:	4	:	*enslave(노예로 만들다) *commence(시작하다, 학위를 받다)	:	*agenda(의제) *forfeit(잃다,몰수되다,벌금)	:	0
+884	:	포기하다,그만두다	:	ensue	:	commend	:	aggravate	:	forgo	:	4	:	*ensue(계속해서 일어나다) *commend(칭찬하다, 위탁하다)	:	*aggravate(악화시키다) *forgo(포기하다,그만두다)	:	0
+885	:	버려진,버림받은,고독한	:	disruptive	:	commensurate	:	aggregate	:	forlorn	:	4	:	*disruptive(분열시키는, 파괴하는) *commensurate(같은 양의, 균형이 잡힌)	:	*aggregate(합계가 ~이 되다, 합계) *forlorn(버려진,버림받은,고독한)	:	0
+886	:	무서운, 겁나는	:	entail	:	commiserate	:	aggressive	:	formidable	:	4	:	*entail((필연적인 결과로서)수반하다) *commiserate(동정하다, 가엾게 여기다)	:	*aggressive(공격적인, 적극적인) *formidable(무서운, 겁나는)	:	0
+887	:	벗 가족을 버리다,떠나다	:	entangle	:	commodious	:	aggrieve	:	forsake	:	4	:	*entangle(엉클어지게 하다) *commodious((방 따위가)널찍한)	:	*aggrieve(괴롭히다) *forsake(벗 가족을 버리다,떠나다)	:	0
+888	:	특기, 잠정	:	pliable	:	commonplace	:	agile	:	forte	:	4	:	*pliable(유연한, 융통성있는) *commonplace(흔한, 평범(진부)한)	:	*agile(민첩한) *forte(특기, 잠정)	:	0
+889	:	용기, 인내, 강함	:	enthrall	:	commotion	:	agitate	:	fortitude	:	4	:	*enthrall(마음을 사로잡다) *commotion(소요, 소동)	:	*agitate(자극하다, 동요하게 하다) *fortitude(용기, 인내, 강함)	:	0
+890	:	우연한	:	enthrone	:	compact	:	agnostic	:	fortuitous	:	4	:	*enthrone(왕위에 앉히다, 즉위시키다) *compact(계약, 협정)	:	*agnostic(불가지론자(의)) *fortuitous(우연한)	:	0
+891	:	맹세코 그만두다	:	entice	:	compassion	:	akin	:	forwear	:	4	:	*entice(꾀다, 유혹하다) *compassion(연민, 동정)	:	*akin(친척의, 유사한) *forwear(맹세코 그만두다)	:	0
+892	:	촉진(증진)하다	:	entitle	:	compatible	:	alacrity	:	foster	:	4	:	*entitle(제목을 붙이다, 자격을 부여하다) *compatible(양립할수있는, 호환되는)	:	*alacrity(민활함) *foster(촉진(증진)하다)	:	0
+893	:	까다로운	:	entreat	:	compensate	:	alienate	:	fractious	:	4	:	*entreat(탄원하다, 부탁하다) *compensate(보상하다, 보충(상쇄)하다)	:	*alienate(소외(멀리)하다, 양도하다 ) *fractious(까다로운)	:	0
+894	:	연약한 깨지기 쉬운	:	entrench	:	compile	:	allay	:	frail	:	4	:	*entrench(참호로 에워싸다) *compile((자료를)모으다, 편찬하다)	:	*allay((공포,고통따위를)가라앉히다) *frail(연약한 깨지기 쉬운)	:	0
+895	:	형제의	:	entrust	:	complacent	:	allege	:	fraternal	:	4	:	*entrust(맡기다, 위탁하다) *complacent(만족해 하는, 자기 만족의)	:	*allege((증거없이)주장하다) *fraternal(형제의)	:	0
+896	:	원기(기운)을 돋우다	:	enumerate	:	complaisant	:	alleviate	:	exhilarate	:	4	:	*enumerate((일일이)열거하다) *complaisant(고분고분한, 공손한)	:	*alleviate((고통을)완화시키다) *exhilarate(원기(기운)을 돋우다)	:	0
+897	:	~으로 가득 찬	:	envoy	:	complement	:	allocate	:	fraught	:	4	:	*envoy((외교) 사절, 특사) *complement(보충물, 보어, 보충하다)	:	*allocate(할당하다, 배분하다) *fraught(~으로 가득 찬)	:	0
+898	:	닳(아빠지)게 하다	:	ephemeral	:	complexion	:	alloy	:	fray	:	4	:	*ephemeral(일시적인) *complexion(안색,용모,(사태의)양상)	:	*alloy(합금하다,(질을)떨어뜨리다) *fray(닳(아빠지)게 하다)	:	0
+899	:	장나삼아 하다, 물을 튀기다	:	epidemic	:	complicate	:	allude	:	dabble	:	4	:	*epidemic(전염병, 유행, 확산) *complicate(복잡하게 하다)	:	*allude((넌지시)암시하다) *dabble(장나삼아 하다, 물을 튀기다)	:	0
+900	:	매우추운 , 흑한의	:	epigram	:	compliment	:	allure	:	frigid	:	4	:	*epigram(경구, 짧은시) *compliment(칭찬(찬사)를 보내다)	:	*allure(유혹(매혹)하다, 유혹) *frigid(매우추운 , 흑한의)	:	0
+901	:	욕심많은	:	covetous	:	discourse	:	enmity	:	foible	:	1	:	*covetous(욕심많은) *discourse(말하다, 담화하다, 담화)	:	*enmity(증오, 적의) *foible((성격의)결점, 약점)	:	0
+902	:	수줍어하는	:	coy	:	discredit	:	ennoble	:	foment	:	1	:	*coy(수줍어하는) *discredit(신용을 떨어뜨리다)	:	*ennoble(품위를 높이다) *foment((반란 등을)선동하다)	:	0
+903	:	믿음	:	credence	:	discreet	:	ennui	:	foreboding	:	1	:	*credence(믿음) *discreet(신중한)	:	*ennui(권태, 지루함) *foreboding(예감,불길한,전조가 되는)	:	0
+904	:	쉽게 믿는	:	credulous	:	discrepancy	:	enrage	:	forerunner	:	1	:	*credulous(쉽게 믿는) *discrepancy(차이, 불일치)	:	*enrage(격노(분개)하게 하다) *forerunner(선구자,전조 조짐)	:	0
+905	:	신조	:	creed	:	discrete	:	frisk	:	foresight	:	1	:	*creed(신조) *discrete(분리된, 별개의)	:	*frisk(뛰놀다, 몸수색하다) *foresight(예견 ,선견지명)	:	0
+906	:	표준,기준	:	criterion	:	discriminate	:	ensemble	:	forestall	:	1	:	*criterion(표준,기준) *discriminate(구별하다,차별 대우하다)	:	*ensemble(종합적 효과, 앙상블) *forestall(~을 미리 막다)	:	0
+907	:	숨은, 비밀의	:	cryptic	:	disdain	:	ensign	:	foretell	:	1	:	*cryptic(숨은, 비밀의) *disdain(경멸하다, 멸시하다)	:	*ensign((국)기, 상징) *foretell(예언하다)	:	0
+908	:	절정에 이르다	:	culminate	:	disentangle	:	enslave	:	forfeit	:	1	:	*culminate(절정에 이르다) *disentangle(엉킨 것을 풀다)	:	*enslave(노예로 만들다) *forfeit(잃다,몰수되다,벌금)	:	0
+909	:	비난할 만한	:	culpable	:	disfigure	:	ensue	:	forgo	:	1	:	*culpable(비난할 만한) *disfigure(망가뜨리다, 흉하게 하다)	:	*ensue(계속해서 일어나다) *forgo(포기하다,그만두다)	:	0
+910	:	탐욕	:	cupidity	:	disillusion	:	disruptive	:	forlorn	:	1	:	*cupidity(탐욕) *disillusion(환상에서 깨어나게 하다, 각성)	:	*disruptive(분열시키는, 파괴하는) *forlorn(버려진,버림받은,고독한)	:	0
+911	:	대충의	:	cursory	:	disinterested	:	entail	:	formidable	:	1	:	*cursory(대충의) *disinterested(공정한, 객관적인)	:	*entail((필연적인 결과로서)수반하다) *formidable(무서운, 겁나는)	:	0
+912	:	줄이다	:	curtail	:	dismal	:	entangle	:	forsake	:	1	:	*curtail(줄이다) *dismal(음침한)	:	*entangle(엉클어지게 하다) *forsake(벗 가족을 버리다,떠나다)	:	0
+913	:	냉소적인	:	cynical	:	dismay	:	pliable	:	forte	:	1	:	*cynical(냉소적인) *dismay(당황, 낙심)	:	*pliable(유연한, 융통성있는) *forte(특기, 잠정)	:	0
+914	:	비겁한(비열한)사람	:	dastard	:	disorient	:	enthrall	:	fortitude	:	1	:	*dastard(비겁한(비열한)사람) *disorient(혼란스럽게하다)	:	*enthrall(마음을 사로잡다) *fortitude(용기, 인내, 강함)	:	0
+915	:	겁을 모르는, 불굴의	:	dauntless	:	disparage	:	enthrone	:	fortuitous	:	1	:	*dauntless(겁을 모르는, 불굴의) *disparage(비난하다, 헐뜯다)	:	*enthrone(왕위에 앉히다, 즉위시키다) *fortuitous(우연한)	:	0
+916	:	부족	:	dearth	:	disparity	:	entice	:	forwear	:	1	:	*dearth(부족) *disparity((본질적,절대적)차이, 상이함)	:	*entice(꾀다, 유혹하다) *forwear(맹세코 그만두다)	:	0
+917	:	(품질을)저하시키다	:	debase	:	dispatch	:	entitle	:	foster	:	1	:	*debase((품질을)저하시키다) *dispatch(급송하다, 급파)	:	*entitle(제목을 붙이다, 자격을 부여하다) *foster(촉진(증진)하다)	:	0
+918	:	(성적으로)타락시키다	:	debauch	:	dispel	:	entreat	:	fractious	:	1	:	*debauch((성적으로)타락시키다) *dispel((생각 따위를)떨쳐버리다)	:	*entreat(탄원하다, 부탁하다) *fractious(까다로운)	:	0
+919	:	쇠약하게 하다	:	debilitate	:	dispense	:	entrench	:	frail	:	1	:	*debilitate(쇠약하게 하다) *dispense(분배하다, (약을)조제하다)	:	*entrench(참호로 에워싸다) *frail(연약한 깨지기 쉬운)	:	0
+920	:	(특히 최근에)죽은, 고인	:	deceased	:	disperse	:	entrust	:	fraternal	:	1	:	*deceased((특히 최근에)죽은, 고인) *disperse(흩뜨리다, 퍼뜨리다)	:	*entrust(맡기다, 위탁하다) *fraternal(형제의)	:	0
+921	:	(글, 암호 따위를)해독하다	:	decipher	:	displace	:	enumerate	:	exhilarate	:	1	:	*decipher((글, 암호 따위를)해독하다) *displace((바꾸어 놓다, 옮기다)	:	*enumerate((일일이)열거하다) *exhilarate(원기(기운)을 돋우다)	:	0
+922	:	분해하다, 썩다, 부패하다	:	decompose	:	dispose	:	envoy	:	fraught	:	1	:	*decompose(분해하다, 썩다, 부패하다) *dispose(배치, 처분하다(of))	:	*envoy((외교) 사절, 특사) *fraught(~으로 가득 찬)	:	0
+923	:	유인하다, 미끼	:	decoy	:	disproportionate	:	ephemeral	:	fray	:	1	:	*decoy(유인하다, 미끼) *disproportionate(어울리지 않는, 불균형한)	:	*ephemeral(일시적인) *fray(닳(아빠지)게 하다)	:	0
+924	:	감소하다, 감소	:	decrease	:	disregard	:	epidemic	:	dabble	:	1	:	*decrease(감소하다, 감소) *disregard(무시하다, 무시, 소홀)	:	*epidemic(전염병, 유행, 확산) *dabble(장나삼아 하다, 물을 튀기다)	:	0
+925	:	노쇠한, 노후한	:	decrepit	:	disrupt	:	epigram	:	frigid	:	1	:	*decrepit(노쇠한, 노후한) *disrupt(붕괴(분열)시키다)	:	*epigram(경구, 짧은시) *frigid(매우추운 , 흑한의)	:	0
+926	:	해부하다	:	deduce	:	dissect	:	epilogue	:	frolicsome	:	2	:	*deduce((아는 것으로부터)연역하다) *dissect(해부하다)	:	*epilogue(맺음말, 결어) *frolicsome(까불며 뛰노는)	:	0
+927	:	(감정 등을)숨기다, 가장하다	:	defer	:	dissemble	:	epitome	:	frugal	:	2	:	*defer(미루다, 연기하다) *dissemble((감정 등을)숨기다, 가장하다)	:	*epitome(개략, 요약, 표본) *frugal(검소한)	:	0
+928	:	(사상,소식을)퍼뜨리다	:	defraud	:	disseminate	:	epoch	:	frustrate	:	2	:	*defraud((재산을)속여 빼앗다) *disseminate((사상,소식을)퍼뜨리다)	:	*epoch((획기적인)시대) *frustrate(좌절(실패)시키다)	:	0
+929	:	의견을 달리하다	:	defunct	:	dissent	:	equanimity	:	fulsome	:	2	:	*defunct(죽은, 현존하지 않는) *dissent(의견을 달리하다)	:	*equanimity((마음의)평정) *fulsome(지나친)	:	0
+930	:	불찬성자, 의견을 달리하는	:	degenerate	:	dissident	:	equivocal	:	funereal	:	2	:	*degenerate(퇴화(퇴보)하다) *dissident(불찬성자, 의견을 달리하는)	:	*equivocal(애매한) *funereal(장례식의)	:	0
+931	:	흩뜨리다, (군중을)해산하다	:	degrade	:	dissipate	:	eradicate	:	furtive	:	2	:	*degrade(강등시키다, 타락시키다) *dissipate(흩뜨리다, (군중을)해산하다)	:	*eradicate(뿌리째 뽑다, 근절하다) *furtive(몰래하는)	:	0
+932	:	(설득하여)단념시키다	:	dejected	:	dissuade	:	erode	:	gainsay	:	2	:	*dejected(기가죽은, 낙심한) *dissuade((설득하여)단념시키다)	:	*erode((병 따위가)좀먹다, 침식하다) *gainsay(반박(부인)하다)	:	0
+933	:	비틀다, 왜곡하다	:	delegate	:	distort	:	erudite	:	galvanize,-ise	:	2	:	*delegate(대표로 파견하다, 대리인) *distort(비틀다, 왜곡하다)	:	*erudite(박식한, 학식있는) *galvanize,-ise(갑자기 활기 띠게 하다)	:	0
+934	:	(마음,주의를)딴 데로 돌리다	:	deleterious	:	distract	:	erupt	:	gamut	:	2	:	*deleterious(유해한) *distract((마음,주의를)딴 데로 돌리다)	:	*erupt((화산 등이)분출(폭발)하다) *gamut(전 범위 전역)	:	0
+935	:	(심신의)고통, 고민	:	deliberate	:	distress	:	eschew	:	gape	:	2	:	*deliberate(신중한, 숙고하다) *distress((심신의)고통, 고민)	:	*eschew(피하다) *gape(넋을 잃고 보다)	:	0
+936	:	매일(낮 동안)의	:	delinquent	:	diurnal	:	escort	:	garrulous	:	2	:	*delinquent(비행의, 태만한, 체납된) *diurnal(매일(낮 동안)의)	:	*escort(호위자, 호송하다) *garrulous(수다스러운)	:	0
+937	:	갈라지다, (의견)다르다	:	delude	:	diverge	:	ethnic	:	genial	:	2	:	*delude(현혹하다, 속이다) *diverge(갈라지다, (의견)다르다)	:	*ethnic(민족의, 소수민족) *genial(온난한, 다정한)	:	0
+938	:	다양한	:	deluge	:	diverse	:	eulogy	:	genteel	:	2	:	*deluge(대홍수, 범람하게 하다) *diverse(다양한)	:	*eulogy(찬사,칭송) *genteel(상류사회의,품위 있는)	:	0
+939	:	(비밀 따위를)누설하다	:	demeanor	:	divulge	:	euphoria	:	germane	:	2	:	*demeanor(행실, 태도) *divulge((비밀 따위를)누설하다)	:	*euphoria(행복감,쾌감) *germane(밀접한 관계가 있는)	:	0
+940	:	지도하기 쉬운	:	demolish	:	docile	:	euthanasia	:	gesticulation	:	2	:	*demolish(파괴하다) *docile(지도하기 쉬운)	:	*euthanasia(안락사) *gesticulation(몸짓손짓)	:	0
+941	:	독단적인	:	demonstrate	:	dogmatic	:	evacuate	:	ghastly	:	2	:	*demonstrate(증명(설명,시위)하다) *dogmatic(독단적인)	:	*evacuate(대피(철수)시키다) *ghastly(무서운)	:	0
+942	:	비통한, 슬픈	:	demur	:	dolorous	:	evade	:	gist	:	2	:	*demur(이의를 제기하다, 이의제기) *dolorous(비통한, 슬픈)	:	*evade((교묘히)피하다, 벗어나다) *gist(여점)	:	0
+943	:	잠자는	:	demure	:	dormant	:	evaluate	:	glib	:	2	:	*demure(얌전한, 얀전한 체하는) *dormant(잠자는)	:	*evaluate(평가하다) *glib(입심 좋은)	:	0
+944	:	시무룩한	:	denote	:	dour	:	evaporate	:	glossy	:	2	:	*denote(~을 표시하다) *dour(시무룩한)	:	*evaporate(증발하다, (희망)사라지다) *glossy(윤이나는)	:	0
+945	:	힘든 일	:	denounce	:	drudgery	:	evoke	:	gluttonous	:	2	:	*denounce(비난하다) *drudgery(힘든 일)	:	*evoke((기억,감정)불러 일으키다) *gluttonous(게걸스러운)	:	0
+946	:	의심하는	:	depict	:	dubious	:	dowry	:	goad	:	2	:	*depict(묘사(서술)하다) *dubious(의심하는)	:	*dowry(지참금) *goad(자극 선동하다)	:	0
+947	:	결투	:	deplete	:	duel	:	exalt	:	gorge	:	2	:	*deplete(고갈시키다) *duel(결투)	:	*exalt(높이다, 칭찬하다) *gorge(배불리 먹다)	:	0
+948	:	이중의	:	deplore	:	duplicate	:	exasperate	:	grandiloquent	:	2	:	*deplore(한탄하다, 개탄하다) *duplicate(이중의)	:	*exasperate(몹시 화나게 하다) *grandiloquent(과장된)	:	0
+949	:	상스러운,흙의	:	deport	:	earthy	:	excavate	:	grandiose	:	2	:	*deport((국외로)추방하다) *earthy(상스러운,흙의)	:	*excavate(구멍을 파다(뚫다)) *grandiose(웅대장엄한)	:	0
+950	:	괴짜의, 보통과 다른	:	depose	:	eccentric	:	excerpt	:	gratuitous	:	2	:	*depose((고위직에서)물러나게 하다) *eccentric(괴짜의, 보통과 다른)	:	*excerpt(발췌, 인용, 발췌하다) *gratuitous(공짜의,무료의)	:	0
+951	:	면제하다,면세된	:	deposit	:	eclipse	:	exempt	:	gregarious	:	3	:	*deposit(놓다, 퇴적, 계약금으로 지불하다) *eclipse((해, 달의)식, 가리다)	:	*exempt(면제하다,면세된) *gregarious(군집성의 사교적인)	:	0
+952	:	(숨을)내쉬다, 발산하다	:	depravity	:	ecstasy	:	exhale	:	grisly	:	3	:	*depravity(탁락) *ecstasy(무아지경, 황홀)	:	*exhale((숨을)내쉬다, 발산하다) *grisly(무서운)	:	0
+953	:	~에게 열심히 타이르다	:	deprecate	:	edify	:	exhort	:	gruesome	:	3	:	*deprecate(불찬성하다, 비난하다) *edify(교화하다)	:	*exhort(~에게 열심히 타이르다) *gruesome(소름 끼치는)	:	0
+954	:	추방, 추방된 자, 추방하다	:	depreciate	:	eerie	:	exile	:	gruff	:	3	:	*depreciate(가치가 떨어지다) *eerie(섬뜩한)	:	*exile(추방, 추방된 자, 추방하다) *gruff(퉁명스러운)	:	0
+955	:	터무니 없는, 과도한	:	depress	:	efface	:	exorbitant	:	guile	:	3	:	*depress(낙담시키다, 약화시키다) *efface(지우다, 말살하다)	:	*exorbitant(터무니 없는, 과도한) *guile(교활)	:	0
+956	:	이국풍의, 외국산의	:	deputy	:	efficacy	:	exotic	:	gullible	:	3	:	*deputy(대리,보좌관, 하원의원) *efficacy(효력)	:	*exotic(이국풍의, 외국산의) *gullible(속기 쉬운)	:	0
+957	:	도움이 되는, 수단, 방편	:	deranged	:	elaborate	:	expedient	:	hackneyed	:	3	:	*deranged(발광한, 미친, 혼란된) *elaborate(정성들인, 정성들여 만들다)	:	*expedient(도움이 되는, 수단, 방편) *hackneyed(진부한)	:	0
+958	:	재촉(촉진)하다	:	derelict	:	elapse	:	expedite	:	halcyon	:	3	:	*derelict(유기된,직무에 태만한) *elapse((때가)경과하다)	:	*expedite(재촉(촉진)하다) *halcyon(평온한)	:	0
+959	:	쫓아내다, (가스를) 분출하다	:	deride	:	elate	:	expel	:	hallowed	:	3	:	*deride(비웃다, 조롱하다) *elate(의기 양양하게 하다)	:	*expel(쫓아내다, (가스를) 분출하다) *hallowed(신성한)	:	0
+960	:	(시간,노력을)들이다,소비하다	:	derive	:	elicit	:	expend	:	hallucination	:	3	:	*derive(끌어내다, 유래하다) *elicit((대답, 웃음 따위)이끌어내다)	:	*expend((시간,노력을)들이다,소비하다) *hallucination(환각)	:	0
+961	:	(기한이)끝나다, 만료되다	:	descry	:	obscure	:	expire	:	hamper	:	3	:	*descry(~을 찾아내다) *obscure(분명하지 않은, 애매한)	:	*expire((기한이)끝나다, 만료되다) *hamper(방해하다)	:	0
+962	:	명백(분명)한, 숨김없는	:	designate	:	elucidate	:	explicit	:	haphazard	:	3	:	*designate(가리키다, 임명하다) *elucidate(명료하게 설명하다)	:	*explicit(명백(분명)한, 숨김없는) *haphazard(우연의)	:	0
+963	:	견책(하다), 비난	:	desolate	:	elude	:	reprimand	:	harass	:	3	:	*desolate(사람이 살지 않는, 황폐한) *elude(교묘히 피하다)	:	*reprimand(견책(하다), 비난) *harass(괴롭히다)	:	0
+964	:	상세히 설명(해설)하다	:	despise	:	emancipate	:	expound	:	harbinger	:	3	:	*despise(경멸하다) *emancipate(해방시키다)	:	*expound(상세히 설명(해설)하다) *harbinger(선구자 전조)	:	0
+965	:	지우다, 삭제하다	:	despondent	:	embargo	:	expunge	:	harry	:	3	:	*despondent(낙담한, 풀이 죽은) *embargo((통상을) 금지하다)	:	*expunge(지우다, 삭제하다) *harry(악탈침략하다)	:	0
+966	:	즉석에서 하다	:	despotism	:	embark	:	extemporize	:	haughty	:	3	:	*despotism(독재정치) *embark(숭선하다, 착수하다)	:	*extemporize(즉석에서 하다) *haughty(건방진 )	:	0
+967	:	(잡초,해충 등을)박멸하다	:	destitute	:	embellish	:	exterminate	:	hazardous	:	3	:	*destitute(빈궁한, 빈곤한, ~이 없는) *embellish(아름답게하다, 장식하다)	:	*exterminate((잡초,해충 등을)박멸하다) *hazardous(위험이 많은)	:	0
+968	:	(불이)꺼진, 멸종한	:	desuetude	:	embezzle	:	extinct	:	hazy	:	3	:	*desuetude(폐지(상태)) *embezzle((공금을)횡령하다)	:	*extinct((불이)꺼진, 멸종한) *hazy(흐릿한)	:	0
+969	:	칭찬(칭송)하다	:	desultory	:	emblem	:	extol	:	hedonism	:	3	:	*desultory(종잡을 수 없는, 산만한) *emblem(상징, 표상)	:	*extol(칭찬(칭송)하다) *hedonism(쾌락주의)	:	0
+970	:	외래의 외부에서	:	detach	:	embody	:	extraneous	:	heedless	:	3	:	*detach(분리시키다) *embody(구체(유형)화 하다, 포함하다)	:	*extraneous(외래의 외부에서) *heedless(부주의한, 고의가 아닌, 우연의)	:	0
+971	:	돈을 낭비하는,과도한	:	detain	:	emboss	:	extravagant	:	heinous	:	3	:	*detain(기다리게 하다, 감금하다) *emboss(튀어나오게 하다)	:	*extravagant(돈을 낭비하는,과도한) *heinous(극악한 가증스러운)	:	0
+972	:	밀어 내다, 내밀다	:	deter	:	embroider	:	extrude	:	heresy	:	3	:	*deter(~을 그만두게 하다) *embroider(수를 놓다, 자수하다)	:	*extrude(밀어 내다, 내밀다) *heresy(이단)	:	0
+973	:	열의가 넘치는	:	deteriorate	:	embryo	:	exuberant	:	heterodox	:	3	:	*deteriorate((가치, 품질 따위)떨어뜨리다) *embryo(태아,(발달의)초기)	:	*exuberant(열의가 넘치는) *heterodox(비정통적인,이단의)	:	0
+974	:	크게 기뻐하다	:	detest	:	emerge	:	exult	:	heterogeneous	:	3	:	*detest(몹시 싫어하다) *emerge(나타나다, 출현하다)	:	*exult(크게 기뻐하다) *heterogeneous(이종의, 이질의)	:	0
+975	:	제작하다, (문서를)위조하다	:	detrimental	:	emigrate	:	fabricate	:	hibernate	:	3	:	*detrimental(해로운) *emigrate((외국으로)이민하다)	:	*fabricate(제작하다, (문서를)위조하다) *hibernate(겨울잠을 자다 동면하다)	:	0
+976	:	소름이 끼치는	:	devastate	:	eminent	:	facetious	:	hideous	:	4	:	*devastate(황폐화하다) *eminent(뛰어난, 탁월한)	:	*facetious(익살맞은) *hideous(소름이 끼치는)	:	0
+977	:	즐거운	:	deviate	:	emit	:	facilitate	:	hilarious	:	4	:	*deviate(빗나가다, 벗어나다) *emit((빛,열 따위를)방출하다)	:	*facilitate((일을)용이하게 하다) *hilarious(즐거운)	:	0
+978	:	태워 죽임, 대학살	:	devoid	:	empower	:	hectic	:	holocaust	:	4	:	*devoid(~이 빠진, 전혀 없는) *empower(~에게 권한(능력)을 주다)	:	*hectic(매우 바쁜, 매우 흥분한) *holocaust(태워 죽임, 대학살)	:	0
+979	:	원예의	:	devour	:	emulate	:	factitious	:	horticultural	:	4	:	*devour(게걸스레 먹다, 삼켜버리다) *emulate(경쟁하다, 본뜨다)	:	*factitious(인위적인) *horticultural(원예의)	:	0
+980	:	담보물,인질	:	devout	:	enact	:	fallacious	:	hostage	:	4	:	*devout(독실한, 경건한, 열렬한) *enact((법률을)제정하다)	:	*fallacious(그릇된) *hostage(담보물,인질)	:	0
+981	:	인정있는	:	diagnosis	:	enchant	:	famish	:	humane	:	4	:	*diagnosis(진단법) *enchant(마법을 걸다, 매혹시키다)	:	*famish(~을 굶주리게 하다) *humane(인정있는)	:	0
+982	:	지루한	:	diagonal	:	encircle	:	fanaticism	:	humdrum	:	4	:	*diagonal(대각석(의)) *encircle(에워(둘러)싸다)	:	*fanaticism(열광) *humdrum(지루한)	:	0
+983	:	습한	:	dialect	:	encompass	:	fancy	:	humid	:	4	:	*dialect(방언,사투리) *encompass(둘러(에워)싸다, 포함하다)	:	*fancy(상상하다, 좋아하다) *humid(습한)	:	0
+984	:	겸손	:	dialectic	:	encounter	:	fastidious	:	humility	:	4	:	*dialectic(변증법,문답식의) *encounter(우연히 만나다)	:	*fastidious(까다로운) *humility(겸손)	:	0
+985	:	잡종	:	diffident	:	encroach	:	fatuous	:	hybrid	:	4	:	*diffident(자신없는, 겁많은) *encroach((재산,권리를)침해하다)	:	*fatuous(어리섞은) *hybrid(잡종)	:	0
+986	:	과장(법)	:	digress	:	encumber	:	fealty	:	hyperbole	:	4	:	*digress((본론에서) 벗어나다) *encumber(방해하다,막다)	:	*fealty(충성) *hyperbole(과장(법))	:	0
+987	:	흑평적인	:	dilapidated	:	encyclopedia	:	feasible	:	hypercritical	:	4	:	*dilapidated(황폐한) *encyclopedia(백과사전)	:	*feasible(실행할 수 있는) *hypercritical(흑평적인)	:	0
+988	:	특징 특이성	:	dilate	:	contemplate	:	fecund	:	idiosyncrasy	:	4	:	*dilate(팽창시키다, 넓히다) *contemplate(심사숙고하다)	:	*fecund(다산의, 비옥한) *idiosyncrasy(특징 특이성)	:	0
+989	:	(태생,신분이)비천한	:	dilatory	:	endear	:	feign	:	ignoble	:	4	:	*dilatory(느린, 시간을 끄는) *endear(애정을 느끼게 하다)	:	*feign(~인 체하다) *ignoble((태생,신분이)비천한)	:	0
+990	:	수치스러운, 치욕적인	:	dilemma	:	endemic	:	felicitous	:	ignominious	:	4	:	*dilemma(딜레마,진퇴양난) *endemic((지방의)고유의,토종의)	:	*felicitous((행동,표현 등이)적절한) *ignominious(수치스러운, 치욕적인)	:	0
+991	:	읽기(판독하기) 어려운	:	dilettante	:	orbit	:	fictitious	:	illegible	:	4	:	*dilettante(아마추어 예술가) *orbit(궤도)	:	*fictitious(가짜의) *illegible(읽기(판독하기) 어려운)	:	0
+992	:	합법적인, 적합한	:	dilute	:	enervate	:	fidelity	:	legitimate	:	4	:	*dilute((물을 타서)묽게 하다) *enervate(기력을 빼앗다, 약화시키다)	:	*fidelity(충실, 충성) *legitimate(합법적인, 적합한)	:	0
+993	:	불법(위법)의	:	dimension	:	engender	:	finesse	:	illicit	:	4	:	*dimension(치수, 크기, 차원) *engender(발생(야기)시키다)	:	*finesse(교묘한 솜씨, 술책 ) *illicit(불법(위법)의)	:	0
+994	:	문맹의, 교양이 없는	:	diminish	:	engrave	:	flagrant	:	illiterate	:	4	:	*diminish(줄다, 축소하다) *engrave(조각하다, (마음 속에)새기다)	:	*flagrant(극악한) *illiterate(문맹의, 교양이 없는)	:	0
+995	:	밝게하다, 계몽하다	:	disable	:	engross	:	flamboyant	:	illuminate	:	4	:	*disable(불구로 만들다) *engross((마음을) 빼앗다, 몰두시키다)	:	*flamboyant(화려한) *illuminate(밝게하다, 계몽하다)	:	0
+996	:	설명하다	:	disband	:	eloquent	:	fledgling	:	illustrate	:	4	:	*disband(해산하다) *eloquent(웅변의, 능변인)	:	*fledgling(애송이, 풋내기) *illustrate(설명하다)	:	0
+997	:	마시다 받아들이다	:	discard	:	enigma	:	flimsy	:	imbibe	:	4	:	*discard(버리다, 포기하다) *enigma(수수께기(같은 사람))	:	*flimsy((얇고)부서지기 쉬운) *imbibe(마시다 받아들이다)	:	0
+998	:	깨끗한, 순결한	:	disciple	:	enjoin	:	flout	:	immaculate	:	4	:	*disciple(제자, 12사도) *enjoin(~에게 명령하다, ~을 금하다)	:	*flout(비웃다) *immaculate(깨끗한, 순결한)	:	0
+999	:	미숙한, 미성년의	:	disconcert	:	enlist	:	fluctuation	:	immature	:	4	:	*disconcert(당황케 하다) *enlist(병적에 넣다, 입대하다)	:	*fluctuation(변동) *immature(미숙한, 미성년의)	:	0
+1000	:	태고의, 먼 옛날의	:	discord	:	enliven	:	flux	:	immemorial	:	4	:	*discord(의견차이, 불화) *enliven(활기있게 하다)	:	*flux((끊임없는)변화) *immemorial(태고의, 먼 옛날의)	:	0

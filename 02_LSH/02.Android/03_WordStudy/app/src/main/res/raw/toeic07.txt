@@ -1,0 +1,100 @@
+﻿1	:	애정이 깊은	:	tube 	:	mess 	:	affectionate 	:	ingenious	:	3	:	*tube   튜브, 지하철(영국) *mess   지저분함, 더러운 것	:	*affectionate   애정이 깊은 *ingenious  재주 있는	:	0
+2	:	빈, 공허한	:	empty	:	excessive 	:	synonymous	:	inferior 	:	1	:	*empty  빈, 공허한 *excessive   과도한, 지나친	:	*synonymous  동의어의 *inferior   열등한	:	0
+3	:	발생기	:	generator 	:	relax	:	female 	:	glorious 	:	1	:	*generator   발생기 *relax  이완시키다, 쉬다	:	*female   여성의 *glorious   영광스러운	:	0
+4	:	발랄하게, 힘차게	:	vigorously 	:	hurry 	:	analysis 	:	terminal patient	:	1	:	*vigorously   발랄하게, 힘차게 *hurry   서두르다, 서두름	:	*analysis   분석, 분해 *terminal patient  말기환자	:	0
+5	:	포함하여	:	routine	:	contentment 	:	preparation	:	inclusively 	:	4	:	*routine  정해진 일, 일과 *contentment   만족	:	*preparation  준비 *inclusively   포함하여	:	0
+6	:	꼭 껴안고 싶은, 귀여운	:	petroleum	:	cuddly	:	cite	:	inconvenience	:	2	:	*petroleum  석유 *cuddly  꼭 껴안고 싶은, 귀여운	:	*cite  인용하다 *inconvenience  불편함	:	0
+7	:	위성	:	field	:	progressive	:	satellite	:	tangible 	:	3	:	*field  분야, 현장, 현지 *progressive  진보적인	:	*satellite  위성 *tangible   유형의, 실제의	:	0
+8	:	경치,풍경	:	landscape	:	intention 	:	ambiguous	:	spread	:	1	:	*landscape  경치,풍경 *intention   의도	:	*ambiguous  애매한, 분명치 않은 *spread  퍼지다, 분포하다	:	0
+9	:	정보를 알리는, 유익한	:	informative	:	refrain	:	increase	:	anticipation	:	1	:	*informative  정보를 알리는, 유익한 *refrain  그만두다, 삼가다	:	*increase  증가하다 *anticipation  기대, 예상	:	0
+10	:	매력, 만유 인력	:	narrow	:	commuting 	:	co-education	:	attraction 	:	4	:	*narrow  좁은, 좁히다 *commuting   통근하기	:	*co-education  남녀공학 *attraction   매력, 만유 인력	:	0
+11	:	게다가	:	lower 	:	furthermore	:	approach	:	customized	:	2	:	*lower   낮은, 낮추다 *furthermore  게다가	:	*approach  접근하다 *customized  맞춤 제작된	:	0
+12	:	산업의	:	clerk	:	fatality	:	immensity	:	industrial 	:	4	:	*clerk  사무원 *fatality  죽음, 참사	:	*immensity  광대함 *industrial   산업의	:	0
+13	:	만화	:	evolution 	:	comic strip	:	resort	:	noticeably	:	2	:	*evolution   진화, 발전 *comic strip  만화	:	*resort  휴양지 *noticeably  눈에 띄게, 이목을 끄는	:	0
+14	:	기대하다, 예상하다	:	problem	:	announcement	:	supporter 	:	expect	:	4	:	*problem  문제 *announcement  발표, 공표	:	*supporter   부양자, 지지자 *expect  기대하다, 예상하다	:	0
+15	:	전망, 경치	:	handicapped	:	waive	:	prospect	:	morale	:	3	:	*handicapped  불구의 *waive  면제(포기)하다	:	*prospect  전망, 경치 *morale  사기, 근로의욕	:	0
+16	:	응답	:	individualism	:	response 	:	tremendous	:	familiarize 	:	2	:	*individualism  개인주의 *response   응답	:	*tremendous  거대한, 무서운, 굉장한 *familiarize   알다, 친숙하게 하다	:	0
+17	:	질, 자질	:	rental	:	obediently	:	quality 	:	shell	:	3	:	*rental  대여, 임대 *obediently  순종적으로	:	*quality   질, 자질 *shell  껍질	:	0
+18	:	예리한, 열망하는	:	several	:	keen	:	update	:	imagination 	:	2	:	*several  여러 가지의 *keen  예리한, 열망하는	:	*update  갱신하다, 새롭게 하다 *imagination   상상	:	0
+19	:	따뜻한, 온정이 있는	:	precise	:	postpone	:	warm	:	infant 	:	3	:	*precise  정확한 *postpone  연기하다	:	*warm  따뜻한, 온정이 있는 *infant   유아	:	0
+20	:	사회	:	challenging	:	trial	:	mountain	:	society 	:	4	:	*challenging  도전적인 *trial  시도, 시련, 공판, 재판	:	*mountain  산 *society   사회	:	0
+21	:	떠나다, 남겨두다, 휴가	:	leave	:	intellect	:	contract	:	bankrupt	:	1	:	*leave  떠나다, 남겨두다, 휴가 *intellect  지성, 지력, 지능	:	*contract  계약, 계약서 *bankrupt  파산자, 지불 불능자	:	0
+22	:	다가오는	:	upcoming	:	ruinous 	:	painkiller	:	call on	:	1	:	*upcoming  다가오는 *ruinous   파괴적인	:	*painkiller  진통제 *call on  요구하다	:	0
+23	:	구레나룻 수염	:	dictator	:	whisker	:	fame 	:	circulation	:	2	:	*dictator  독재자, 명령자 *whisker  구레나룻 수염	:	*fame   명성, 평판 *circulation  순환, 대출, 보급	:	0
+24	:	불공평한	:	unfair	:	slim	:	revise	:	textbook	:	1	:	*unfair  불공평한 *slim  날씬한	:	*revise  변경(개정)하다 *textbook  교재	:	0
+25	:	자아, 주체, 동일	:	nutrient	:	identity	:	regrettably	:	statistics	:	2	:	*nutrient  영양분, 자양분 *identity  자아, 주체, 동일	:	*regrettably  유감이지만 *statistics  통계	:	0
+26	:	나누어 주다	:	consent	:	dole	:	attendant	:	analyst	:	2	:	*consent  동의하다, 동의 *dole  나누어 주다	:	*attendant  수행원 *analyst  분석가, 분해자	:	0
+27	:	증거의	:	evidential 	:	political	:	relate 	:	weather forecast 	:	1	:	*evidential   증거의 *political  정치의	:	*relate   이야기하다, 관계시키다 *weather forecast   일기예보	:	0
+28	:	전자의	:	array	:	innocence 	:	forbid	:	electronic 	:	4	:	*array  배열, 배열하다 *innocence   무죄, 결백	:	*forbid  금지하다 *electronic   전자의	:	0
+29	:	엄한, 엄격한	:	rigorous	:	individuation 	:	creator 	:	remedy	:	1	:	*rigorous  엄한, 엄격한 *individuation   개성	:	*creator   창조자 *remedy  치료, 치유, 치료하다	:	0
+30	:	처음의, 시작의, 머리글자	:	misuse	:	guarantee	:	allot	:	initial 	:	4	:	*misuse  오용하다, 남용하다 *guarantee  보장하다	:	*allot  할당하다 *initial   처음의, 시작의, 머리글자	:	0
+31	:	뒤집어엎다	:	struggle 	:	polity 	:	malfunction	:	overthrow	:	4	:	*struggle   격투하다, 싸우다 *polity   정치	:	*malfunction  오작동, 기능불량 *overthrow  뒤집어엎다	:	0
+32	:	표면	:	surface	:	one size fits all	:	possession	:	weakness	:	1	:	*surface  표면 *one size fits all  프리 사이즈의	:	*possession  소유, 소지, 점유 *weakness  약함	:	0
+33	:	~과는 달리	:	patent theft 	:	errand	:	unlike 	:	addiction	:	3	:	*patent theft   특허 표절 *errand  심부름	:	*unlike   ~과는 달리 *addiction  (약물등의) 중독	:	0
+34	:	윙윙하며 날다	:	digest	:	whizz	:	products 	:	throughout	:	2	:	*digest  소화하다, 요약하다 *whizz  윙윙하며 날다	:	*products   상품, 생산품 *throughout  ~을 통틀어서, 전부	:	0
+35	:	편리한	:	convenient 	:	fuss	:	aircraft	:	variable 	:	1	:	*convenient   편리한 *fuss  공연한 소란, 야단법석	:	*aircraft  항공기, 비행기 *variable   변수	:	0
+36	:	방송중인	:	cheer	:	nearby	:	condition	:	on the air	:	4	:	*cheer  환호, 갈채, 성원 *nearby  근처의	:	*condition  상태, 조건 *on the air  방송중인	:	0
+37	:	코를 골다	:	snore	:	newsletter	:	inheritance 	:	directly	:	1	:	*snore  코를 골다 *newsletter  (회사·단체 등의) 회보	:	*inheritance   상속 *directly  곧장, 직접	:	0
+38	:	맛있는 것	:	adversely	:	goody	:	advertisement 	:	survivor	:	2	:	*adversely  부정적으로 *goody  맛있는 것	:	*advertisement   광고, 선전 *survivor  생존자	:	0
+39	:	늦게 하다, 연착하다	:	beneficiary	:	delay	:	count on	:	imitation 	:	2	:	*beneficiary  수익자 *delay  늦게 하다, 연착하다	:	*count on  믿다 *imitation   모방	:	0
+40	:	결석한, 결석하다	:	administrative	:	absent 	:	matter	:	explanation 	:	2	:	*administrative  행정의, 경영의 *absent   결석한, 결석하다	:	*matter  일, 문제, 중요하다 *explanation   설명	:	0
+41	:	죄	:	crime 	:	pirated	:	rest on 	:	inclusive 	:	1	:	*crime   죄 *pirated  해적의	:	*rest on   의존하다 *inclusive   포함하는	:	0
+42	:	번역	:	imminent	:	ages	:	translation 	:	heavy traffic	:	3	:	*imminent  절박한 *ages  연령, 시대, 시절	:	*translation   번역 *heavy traffic  교통혼잡	:	0
+43	:	참고, 조회, 언급	:	let alone 	:	reference	:	clearly	:	obedience 	:	2	:	*let alone   ~은 말할것도 없이 *reference  참고, 조회, 언급	:	*clearly  명백하게, 분명하게 *obedience   순종, 복종	:	0
+44	:	폭발의, 폭발물	:	serious	:	greed	:	explosive 	:	unpack	:	3	:	*serious  심각한 *greed  탐욕	:	*explosive   폭발의, 폭발물 *unpack  (짐을) 풀다	:	0
+45	:	신부	:	rigor 	:	bride 	:	underweight 	:	imaginative	:	2	:	*rigor   엄함, 엄격 *bride   신부	:	*underweight   체중 미달 *imaginative  상상의, 상상력이 풍부한	:	0
+46	:	감사해하는	:	grateful	:	brief	:	analyst	:	settle 	:	1	:	*grateful  감사해하는 *brief  짧은, 단시간의	:	*analyst  분석가, 분해자 *settle   정착하다, 해결하다	:	0
+47	:	젊은, 청소년	:	identification 	:	unfold 	:	private	:	juvenile	:	4	:	*identification   신분확인 *unfold   펴다, 펼치다	:	*private  사적인, 개인적인 *juvenile  젊은, 청소년	:	0
+48	:	활동적인	:	blow away 	:	transport	:	active 	:	virtual	:	3	:	*blow away   ~을 불어 없애다 *transport  수송, 교통	:	*active   활동적인 *virtual  사실상의, 가상의	:	0
+49	:	무죄, 결백	:	continuous	:	drop	:	effort	:	innocence 	:	4	:	*continuous  계속적인 *drop  물방울, 떨어지다	:	*effort  노력 *innocence   무죄, 결백	:	0
+50	:	상업적인	:	spread	:	communicator	:	commercial	:	exact	:	3	:	*spread  퍼지다, 분포하다 *communicator  전달자	:	*commercial  상업적인 *exact  정확한	:	0
+51	:	소비, 소모	:	convenience	:	medium	:	mellowness 	:	consumption 	:	4	:	*convenience  편리 *medium  중위, 매개물, 중간	:	*mellowness   원숙 *consumption   소비, 소모	:	0
+52	:	나타나다, ~인 것 같다	:	passion	:	full-size	:	appear	:	inquire 	:	3	:	*passion  열정, 정열 *full-size  실물 크기의	:	*appear  나타나다, ~인 것 같다 *inquire   묻다, 조사하다	:	0
+53	:	탐사하다, 탐구하다	:	timidity 	:	generator 	:	explore	:	immature 	:	3	:	*timidity   수줍음, 소심 *generator   발생기	:	*explore  탐사하다, 탐구하다 *immature   조수간	:	0
+54	:	동상	:	deluxe	:	shelf	:	statue 	:	vine	:	3	:	*deluxe  호화로운, 사치스러운 *shelf  선반	:	*statue   동상 *vine  포도나무, 덩굴식물	:	0
+55	:	기밀의, 비밀의	:	proper	:	confidential	:	threaten	:	ignore	:	2	:	*proper  적당한, 적절한 *confidential  기밀의, 비밀의	:	*threaten  ~을 위협하다 *ignore  무시하다	:	0
+56	:	빛나는, 선명한, 영리한	:	insufficiency	:	bright 	:	sympathize	:	sustain 	:	2	:	*insufficiency  부족 *bright   빛나는, 선명한, 영리한	:	*sympathize  동정하다, 측은히 여기다 *sustain   지탱하다, 견디다	:	0
+57	:	스파이, 탐정 하다	:	intuitively	:	deluxe	:	spy	:	irregularly	:	3	:	*intuitively  직관적으로 *deluxe  호화로운, 사치스러운	:	*spy  스파이, 탐정 하다 *irregularly  불규칙으로	:	0
+58	:	유사하다, 닮다	:	investigation 	:	formula	:	resemble	:	maintain	:	3	:	*investigation   조사 *formula  공식	:	*resemble  유사하다, 닮다 *maintain  유지하다, 지속하다	:	0
+59	:	놀람,경악, 뜻밖의 일	:	render	:	opinion	:	surprise 	:	confidence	:	3	:	*render  ~하게 하다 *opinion  견해, 의견, 주장	:	*surprise   놀람,경악, 뜻밖의 일 *confidence  확신, 자신감	:	0
+60	:	습기	:	assembly	:	moisture	:	region 	:	warn	:	2	:	*assembly  조립 *moisture  습기	:	*region   지역 *warn  경고하다	:	0
+61	:	反사회적인	:	meadow 	:	manager	:	deserted	:	antisocial 	:	4	:	*meadow   목초지, 초원 *manager  지배인, 경영자	:	*deserted  황폐한, 삭막한 *antisocial   反사회적인	:	0
+62	:	모으다, 채취하다	:	gather	:	remote	:	frustration	:	positive 	:	1	:	*gather  모으다, 채취하다 *remote  (거리가)먼, 원격의	:	*frustration  좌절 *positive   명백한, 긍정적인	:	0
+63	:	하인, 부하	:	servant	:	futurist	:	distinguish 	:	entitle	:	1	:	*servant  하인, 부하 *futurist  미래학자	:	*distinguish   구별하다, 차별하다 *entitle  제목을 달다	:	0
+64	:	책임이 있는	:	mass 	:	present 	:	neutral	:	responsible 	:	4	:	*mass   대중, 덩어리 *present   현재	:	*neutral  중립의 *responsible   책임이 있는	:	0
+65	:	시사 영어	:	current English 	:	seizure 	:	float	:	corporation	:	1	:	*current English   시사 영어 *seizure   압수, 잡기	:	*float  띄우다, 표류하다 *corporation  회사, 조합, 협회	:	0
+66	:	역겨운, 정말로 싫은	:	defense 	:	melody	:	disgusting	:	result	:	3	:	*defense   방어 *melody  멜로디, 선율	:	*disgusting  역겨운, 정말로 싫은 *result  결과, 결과가 되다	:	0
+67	:	얇은 조각	:	patent	:	flake	:	emigrate 	:	totally	:	2	:	*patent  특허 *flake  얇은 조각	:	*emigrate   이주하다 *totally  전적으로, 아주	:	0
+68	:	구조(구출)하다	:	amazing 	:	congress	:	rescue	:	whisper	:	3	:	*amazing   놀라운, 굉장한 *congress  국회, 의회	:	*rescue  구조(구출)하다 *whisper  속삭이다	:	0
+69	:	지루함(tedium), 권태	:	boredom	:	deservedly	:	travel	:	victim	:	1	:	*boredom  지루함(tedium), 권태 *deservedly  당연히, 정당히	:	*travel  여행하다  *victim  희생자, 환자	:	0
+70	:	저항할 수 없는	:	dental	:	irresistible 	:	chiefly	:	alarming	:	2	:	*dental  치과의 *irresistible   저항할 수 없는	:	*chiefly  주로, 특히 *alarming  깜짝 놀라게 하는	:	0
+71	:	의사록, 회의록	:	gathering 	:	balance	:	frustrate 	:	minutes	:	4	:	*gathering   모임 *balance  잔액,저울, 균형(을 맞추다)	:	*frustrate   좌절시키다 *minutes  의사록, 회의록	:	0
+72	:	단순한 	:	mere 	:	logical 	:	enroll 	:	beef 	:	1	:	*mere   단순한  *logical   논리적인	:	*enroll   명부에 올리다 *beef   소고기	:	0
+73	:	꺼리는, 하기 싫어하는	:	pregnant	:	executive 	:	dinosaur	:	reluctant	:	4	:	*pregnant  임신한, 충분한 *executive   집행력이 있는, 경영간부	:	*dinosaur  공룡 *reluctant  꺼리는, 하기 싫어하는	:	0
+74	:	인상적인	:	impressive	:	attend on 	:	fictional	:	fix	:	1	:	*impressive  인상적인 *attend on   시중들다	:	*fictional  허구의, 꾸며낸 *fix  수리하다, 고정시키다	:	0
+75	:	확대하는	:	impression 	:	expansive 	:	comprehend 	:	observational 	:	2	:	*impression   인상, 감명, 감동 *expansive   확대하는	:	*comprehend   이해하다 *observational   관측의	:	0
+76	:	지친	:	illogical	:	perished 	:	veil	:	superiority 	:	2	:	*illogical  비논리적인 *perished   지친	:	*veil  덮다, 숨기다 *superiority   우수, 우월감	:	0
+77	:	조사하다	:	mold	:	investigate 	:	hinder	:	manufacture	:	2	:	*mold  형성(주조)하다, 만들다 *investigate   조사하다	:	*hinder  방해하다 *manufacture  제작, 제조	:	0
+78	:	괴롭히기, 성가심	:	case	:	remain	:	designedly 	:	annoyance	:	4	:	*case  재판 *remain  남다, 남겨두다	:	*designedly   계획적으로 *annoyance  괴롭히기, 성가심	:	0
+79	:	미신	:	genuine	:	case	:	superstition	:	claim	:	3	:	*genuine  진짜의 *case  재판	:	*superstition  미신 *claim  요구하다, 청구하다	:	0
+80	:	세균, 싹, 배아	:	germ	:	starvation 	:	explain 	:	vegetable	:	1	:	*germ  세균, 싹, 배아 *starvation   아사, 굶어 죽음	:	*explain   설명하다 *vegetable  야채	:	0
+81	:	관리인	:	disorder	:	controller 	:	remind	:	resemble	:	2	:	*disorder  무질서, 혼란 *controller   관리인	:	*remind  상기시켜 주다 *resemble  유사하다, 닮다	:	0
+82	:	저축하다	:	as if 	:	popular	:	put by	:	routine	:	3	:	*as if   마치 ~처럼 *popular  인기 있는, 대중의, 유행하는	:	*put by  저축하다 *routine  정해진 일, 일과	:	0
+83	:	~인 체하다	:	breeze	:	ball-point pen 	:	drugged 	:	pretend	:	4	:	*breeze  미풍, 순풍 *ball-point pen   볼펜	:	*drugged   ~에 약을 타다 *pretend  ~인 체하다	:	0
+84	:	이 세상의, 세속적인 	:	feature	:	strictly 	:	worldly	:	sense 	:	3	:	*feature  특징, 특색, 특집기사 *strictly   엄격하게	:	*worldly  이 세상의, 세속적인  *sense   감각, 의미	:	0
+85	:	문서의	:	laundry	:	bald	:	crew 	:	documentary 	:	4	:	*laundry  세탁물 *bald  대머리의	:	*crew   승무원 *documentary   문서의	:	0
+86	:	인력	:	tough 	:	just 	:	partial	:	manpower	:	4	:	*tough   강한, 질긴 *just   정당한, 공평한	:	*partial  일부분의, 부분적인 *manpower  인력	:	0
+87	:	연출, 연기, 연극	:	unique	:	gun	:	thanks to	:	acting	:	4	:	*unique  유일한, 독특한 *gun  대포, 총	:	*thanks to  ~덕택에, ~때문에 *acting  연출, 연기, 연극	:	0
+88	:	야기시키다, 원인	:	positively	:	cause	:	schoolmaster	:	loaf	:	2	:	*positively  긍정적으로 *cause  야기시키다, 원인	:	*schoolmaster  남자 교원, 교사 *loaf  빈둥거리다(= goof)	:	0
+89	:	의욕, 열의	:	nerve	:	concentration 	:	incentive	:	major in	:	3	:	*nerve  신경 *concentration   집중	:	*incentive  의욕, 열의 *major in  전공하다	:	0
+90	:	생태학의	:	efficiency	:	at least	:	biologic 	:	production	:	3	:	*efficiency  능력, 효율성 *at least  적어도	:	*biologic   생태학의 *production  생산	:	0
+91	:	부인하다, 거절하다	:	deny	:	individuate 	:	absence	:	shelter	:	1	:	*deny  부인하다, 거절하다 *individuate   개별화하다	:	*absence  부재 *shelter  피난 장소, 은신처	:	0
+92	:	등급을 높이다	:	career	:	the young 	:	upgrade 	:	industrialist	:	3	:	*career  경력, 직업, 업적 *the young   젊은 사람들	:	*upgrade   등급을 높이다 *industrialist  산업경영자, 실업가	:	0
+93	:	확보하다, 굳게 하다	:	peaceful 	:	bald	:	secure	:	supervisor	:	3	:	*peaceful   평화로운 *bald  대머리의	:	*secure  확보하다, 굳게 하다 *supervisor  감독관	:	0
+94	:	주관성	:	surprising	:	private	:	autograph	:	subjectivity 	:	4	:	*surprising  놀라운, 의외의 *private  사적인, 개인적인	:	*autograph  자필서명, 사인 *subjectivity   주관성	:	0
+95	:	판단하다, 판사	:	which to choose 	:	intonation	:	unveil	:	judge	:	4	:	*which to choose   무엇을 고를지 *intonation  억양, 어조, 음조	:	*unveil  밝히다, 털어놓다 *judge  판단하다, 판사	:	0
+96	:	몹시 추운, 쌀쌀한	:	stick to	:	symbolic 	:	enthusiasm 	:	frigid	:	4	:	*stick to  집착하다, 고수하다 *symbolic   상징적인	:	*enthusiasm   열광, 의욕 *frigid  몹시 추운, 쌀쌀한	:	0
+97	:	사회화하다	:	frequently 	:	socialize 	:	gloomy	:	convince 	:	2	:	*frequently   자주, 빈번하게 *socialize   사회화하다	:	*gloomy  어두운,우울한 *convince   확신시키다	:	0
+98	:	반복적으로	:	repeatedly	:	customary 	:	eastern 	:	inheritance 	:	1	:	*repeatedly  반복적으로 *customary   습관적인, 통상적인	:	*eastern   동쪽의 *inheritance   상속	:	0
+99	:	안내광고	:	classified ads	:	range	:	the red cross	:	youth 	:	1	:	*classified ads  안내광고 *range  떠돌다, 헤매다, 범위, 산맥	:	*the red cross  적십자사 *youth   젊음	:	0
+100	:	원숙한, 성숙한, 익은	:	sore 	:	phrase	:	evolve	:	mellow	:	4	:	*sore   아픈, 쓰라린 *phrase  어구, 구절	:	*evolve  진화하다, 발전하다 *mellow  원숙한, 성숙한, 익은	:	0
