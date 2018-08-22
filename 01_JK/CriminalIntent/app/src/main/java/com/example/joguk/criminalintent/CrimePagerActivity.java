@@ -41,7 +41,7 @@ public class CrimePagerActivity extends AppCompatActivity implements CrimeFragme
             @Override
             public Fragment getItem(int position) {
                 Crime crime = mCrimes.get(position);
-                return CrimeFragment.newInstance(crime.getId());
+                return CrimeFragmentRecycler.newInstance(crime.getId());
             }
 
             @Override
