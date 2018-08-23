@@ -1,0 +1,100 @@
+﻿1	:	필요로 하다, 요구하다	:	require	:	remind	:	sand	:	smoke	:	1	:	*require필요로 하다, 요구하다 *remind기억나게 하다	:	*sand모래(사장) *smoke연기, 담배를 피우다	:	0
+2	:	모양,건강상태	:	fine	:	roll	:	shape	:	steam	:	3	:	*fine품질이 좋은, 훌륭한, 벌금 *roll구르다,말다,두루마리	:	*shape모양,건강상태 *steam증기	:	0
+3	:	여행 수하물	:	baggage	:	heaven	:	save	:	society	:	1	:	*baggage여행 수하물 *heaven천국, 하늘	:	*save구하다,저축하다,절약하다 *society사회	:	0
+4	:	나중에, 더 뒤의	:	conflict	:	later	:	serious	:	standard	:	2	:	*conflict갈등, 대립[충돌]하다 *later나중에, 더 뒤의	:	*serious진지한,심각한 *standard표준, 기준, 표준의	:	0
+5	:	이미지,모습	:	image	:	intend	:	screen	:	source	:	1	:	*image이미지,모습 *intend작정이다, 의도하다	:	*screen화면, 스크린 *source원천, 근원, 출처	:	0
+6	:	부끄러움[수치], 유감	:	decide	:	bar	:	shame	:	steal	:	3	:	*decide결정하다 *bar막대, 빗장, 술집	:	*shame부끄러움[수치], 유감 *steal훔치다	:	0
+7	:	심(각)한, 엄한	:	army	:	ceiling	:	severe	:	statue	:	3	:	*army육군, 군대 *ceiling천장	:	*severe심(각)한, 엄한 *statue조각상	:	0
+8	:	규칙,지배(하다)	:	follow	:	rule	:	serve	:	start	:	2	:	*follow따르다 *rule규칙,지배(하다)	:	*serve시중들다, 봉사하다 *start시작(하다)	:	0
+9	:	물건[재료], 채우다	:	law	:	necessary	:	significant	:	stuff	:	4	:	*law법률 *necessary필요한	:	*significant중대한 *stuff물건[재료], 채우다	:	0
+10	:	(고통을) 겪다	:	produce	:	occupation	:	single	:	suffer	:	4	:	*produce생산하다 *occupation직업, 점령	:	*single단 하나의, 독신의 *suffer(고통을) 겪다	:	0
+11	:	쉬다, 긴장을 풀다	:	case	:	relax	:	send	:	spread	:	2	:	*case경우, 케이스[용기] *relax쉬다, 긴장을 풀다	:	*send보내다 *spread퍼지다, 펴다	:	0
+12	:	금액, 합계, 요약하다	:	record	:	raw	:	skip	:	sum	:	4	:	*record기록(하다),녹음하다 *raw날것의	:	*skip건너뛰다 *sum금액, 합계, 요약하다	:	0
+13	:	계획	:	prepare	:	project	:	sell	:	spot	:	2	:	*prepare준비하다 *project계획	:	*sell팔다 *spot장소[지점], (반)점	:	0
+14	:	어리석은, 멍청한	:	large	:	region	:	silence	:	stupid	:	4	:	*large큰, 커다란 *region지역	:	*silence침묵 *stupid어리석은, 멍청한	:	0
+15	:	산(성)(의)	:	acid	:	hurt	:	scene	:	solve	:	1	:	*acid산(성)(의) *hurt다치게하다,상처	:	*scene장면, 현장 *solve풀다,해결하다	:	0
+16	:	해결하다, 정착하다	:	communicate	:	clone	:	settle	:	state	:	3	:	*communicate의사소통하다 *clone복제생물,복제하다	:	*settle해결하다, 정착하다 *state국가,상태	:	0
+17	:	일반적으로, 대체로	:	both	:	generally	:	selection	:	spin	:	2	:	*both양쪽,둘다의 *generally일반적으로, 대체로	:	*selection선발[선택] *spin빠르게 돌(리)다	:	0
+18	:	공급(품), 공급하다	:	brilliant	:	order	:	slide	:	supply	:	4	:	*brilliant빛나는, 재기 넘치는 *order순서,질서,명령(하다)	:	*slide미끄러져 움직이다 *supply공급(품), 공급하다	:	0
+19	:	성공하다, 승계	:	collection	:	hire	:	similar	:	succeed	:	4	:	*collection수집(품) *hire고용하다	:	*similar비슷한 *succeed성공하다, 승계	:	0
+20	:	정체· 신원을 확인하다	:	individual	:	identify	:	servant	:	stare	:	2	:	*individual개인(의), 개개(의) *identify정체· 신원을 확인하다	:	*servant하인 *stare빤히 보다, 응시하다	:	0
+21	:	의미,뜻	:	foolish	:	meaning	:	seed	:	speech	:	2	:	*foolish어리석은 *meaning의미,뜻	:	*seed씨 *speech말, 연설	:	0
+22	:	정장 한 벌, ~복, 맞다	:	adventure	:	museum	:	skin	:	suit	:	4	:	*adventure모험 *museum박물관	:	*skin피부, 가죽, 껍질 *suit정장 한 벌, ~복, 맞다	:	0
+23	:	일, 문제, 사건	:	device	:	affair	:	seat	:	spaceship	:	2	:	*device장치 *affair일, 문제, 사건	:	*seat좌석,앉히다 *spaceship우주선	:	0
+24	:	바닷가, 호숫가, 강가	:	foreign	:	differ	:	shore	:	straight	:	3	:	*foreign외국의 *differ다르다	:	*shore바닷가, 호숫가, 강가 *straight똑바로[똑바른], 즉시	:	0
+25	:	화학	:	chemistry	:	informal	:	scissors	:	soon	:	1	:	*chemistry화학 *informal비공식의	:	*scissorsrkl *soon곧,일찍	:	0
+26	:	성공한	:	clothes	:	outline	:	simple	:	sucessful	:	4	:	*clothes옷,의복 *outline개요, 윤곽	:	*simple간단한,단순한 *sucessful성공한	:	0
+27	:	잡고있다,개최하다	:	fresh	:	hold	:	second	:	spare	:	2	:	*fresh새로운,신선한 *hold잡고있다,개최하다	:	*second제2의,초,잠깐 *spare여벌의, 여가의	:	0
+28	:	슬픈	:	cooperate	:	sad	:	select	:	spill	:	2	:	*cooperate협력[협동]하다 *sad슬픈	:	*select고르다, 뽑다 *spill엎지르다	:	0
+29	:	독립	:	independence	:	nutrient	:	salty	:	smart	:	1	:	*independence독립 *nutrient영양분[영양소]	:	*salty짠 *smart영리한	:	0
+30	:	빛,밝은	:	firewood	:	light	:	secretary	:	specific	:	2	:	*firewood장작, 땔나무 *light빛,밝은	:	*secretary비서 *specific특정한, 구체적인	:	0
+31	:	자살	:	purpose	:	nation	:	skill	:	suicide	:	4	:	*purpose목적 *nation국가,민족	:	*skill기술 *suicide자살	:	0
+32	:	구조,구조물	:	native	:	official	:	sign	:	structure	:	4	:	*native출생지의, 원주민 *official공식의, 관리[임원]	:	*sign표지,신호,서명하다 *structure구조,구조물	:	0
+33	:	지지(하다), 원조(하다)	:	activity	:	major	:	slight	:	support	:	4	:	*activity활동 *major주요한, 전공	:	*slight약간의, 가벼운 *support지지(하다), 원조(하다)	:	0
+34	:	병든,아픈	:	inform	:	passenger	:	sick	:	strength	:	3	:	*inform알리다, 통지하다 *passenger승객	:	*sick병든,아픈 *strength힘, 세기, 강점	:	0
+35	:	지하철	:	castle	:	main	:	silly	:	subway	:	4	:	*castle성(成) *main주요한	:	*silly어리석은 *subway지하철	:	0
+36	:	확신하다, 내기를 걸다	:	bet	:	devote	:	sculpture	:	southern	:	1	:	*bet확신하다, 내기를 걸다 *devote바치다, 전념하다	:	*sculpture조각(품) *southern남쪽의	:	0
+37	:	해넘이, 일몰	:	license	:	hopeless	:	slave	:	sunset	:	4	:	*license면허(증) *hopeless희망 없는	:	*slave노예 *sunset해넘이, 일몰	:	0
+38	:	빛나다	:	military	:	poet	:	shine	:	store	:	3	:	*military군(사)의 *poet시인	:	*shine빛나다 *store가게,비축하다	:	0
+39	:	시트, (종이) 한 장	:	cartoon	:	coast	:	sheet	:	step	:	3	:	*cartoon만화 *coast해안, 연안	:	*sheet시트, (종이) 한 장 *step걸음,단계,계단	:	0
+40	:	의심(하다)	:	doubt	:	condition	:	same	:	smell	:	1	:	*doubt의심(하다) *condition(건강) 상태, 조건	:	*same같은 *smell냄새	:	0
+41	:	지능	:	intelligence	:	broad	:	scientific	:	somewhere	:	1	:	*intelligence지능 *broad넓은	:	*scientific과학의 *somewhere어딘가에[로]	:	0
+42	:	의식하고 있는,의식이 있는	:	lawyer	:	conscious	:	sense	:	square	:	2	:	*lawyer변호사 *conscious의식하고 있는,의식이 있는	:	*sense느낌,감각,분별력 *square정사각형의,광장	:	0
+43	:	(국)기, 깃발	:	completely	:	flag	:	secret	:	special	:	2	:	*completely완전히 *flag(국)기, 깃발	:	*secret비밀 *special특별한,전문의	:	0
+44	:	충분한	:	noise	:	grain	:	sink	:	sufficient	:	4	:	*noise시끄러운, 소리, 소음 *grain곡물, 낱알	:	*sink가라앉다, 개수대 *sufficient충분한	:	0
+45	:	칭찬(하다)	:	courage	:	praise	:	set	:	starve	:	2	:	*courage용기 *praise칭찬(하다)	:	*set두다,놓다,세우다 *starve굶주리다[굶어 죽다]	:	0
+46	:	날카로운	:	dot	:	frequent	:	sharp	:	steep	:	3	:	*dot점(을 찍다) *frequent자주 일어나는, 빈번한	:	*sharp날카로운 *steep가파른	:	0
+47	:	울타리, 담	:	confidence	:	fence	:	semester	:	spray	:	2	:	*confidence신뢰, 자신(감) *fence울타리, 담	:	*semester학기 *spray(물을)뿌리다, 분무기	:	0
+48	:	병든, 나쁜	:	ill	:	clap	:	science	:	sometimes	:	1	:	*ill병든, 나쁜 *clap(손뼉을)치다	:	*science과학 *sometimes때때로	:	0
+49	:	꼭 할 것 같은	:	bound	:	object	:	score	:	sort	:	1	:	*bound꼭 할 것 같은 *object물건, 목적, 대상	:	*score점수, 득점(하다) *sort종류, 분류하다	:	0
+50	:	추측하다, 가정하다	:	principle	:	row	:	slip	:	suppose	:	4	:	*principle원칙, 원리 *row줄[열], 배[노]를 젓다	:	*slip미끄러지다 *suppose추측하다, 가정하다	:	0
+51	:	공유하다,나누다,몫	:	relate	:	hardly	:	share	:	steel	:	3	:	*relate관련되다[관련시키다] *hardly거의~않다	:	*share공유하다,나누다,몫 *steel강철	:	0
+52	:	늘,언제나	:	guide	:	always	:	seldom	:	spicy	:	2	:	*guide안내자, 안내하다 *always늘,언제나	:	*seldom좀처럼~않는, 드물게 *spicy매운	:	0
+53	:	미친, 열광적인, 화난	:	crazy	:	appointment	:	saying	:	soft	:	1	:	*crazy미친, 열광적인, 화난 *appointment(만날) 약속, 임명	:	*saying속담, 격언 *soft부드러운	:	0
+54	:	사다	:	buy	:	astronaut	:	scold	:	sore	:	1	:	*buy사다 *astronaut우주 비행사	:	*scold꾸짖다 *sore아픈, 쑤시는	:	0
+55	:	몇몇의	:	attention	:	lung	:	several	:	statement	:	3	:	*attention주의[주목] *lung폐, 허파	:	*several몇몇의 *statement성명, 진술	:	0
+56	:	추억	:	fist	:	diligent	:	scare	:	soldier	:	1	:	*fist추억 *diligent부지런한, 근면한	:	*scare무섭게 하다 *soldier군인	:	0
+57	:	씹다	:	bucket	:	chew	:	separate	:	stair	:	2	:	*bucket양동이 *chew씹다	:	*separate분리된, 분리하다 *stair계단	:	0
+58	:	예쁜,매우	:	pretty	:	mental	:	scale	:	soil	:	1	:	*pretty예쁜,매우 *mental정신의, 마음의	:	*scale규모, 동급, 저울 *soil흙, 토양	:	0
+59	:	(단단한) 껍질, 조가비	:	earthquake	:	problem	:	shell	:	stick	:	3	:	*earthquake지진 *problem문제	:	*shell(단단한) 껍질, 조가비 *stick붙(이),찌르다,막대기	:	0
+60	:	모형,모델,모범	:	blanket	:	model	:	search	:	space	:	2	:	*blanket담요 *model모형,모델,모범	:	*search찾다, 수색(하다) *space공간,우주	:	0
+61	:	한숨(짓다)	:	research	:	rope	:	sigh	:	strict	:	3	:	*research연구(하다) *rope로프, 밧줄	:	*sigh한숨(짓다) *strict엄(격)한	:	0
+62	:	과목,주제	:	belong	:	blow	:	silent	:	subject	:	4	:	*belong~에 속하다 *blow불다, 강타[타격]	:	*silent침묵하는, 조용한 *subject과목,주제	:	0
+63	:	깨끗한	:	clean	:	final	:	satisfactory	:	snap	:	1	:	*clean깨끗한 *final마지막의,결승,기말 시험	:	*satisfactory만족스러운 *snap딱 부러지다	:	0
+64	:	짧은, 간단한	:	brief	:	boil	:	satisfy	:	social	:	1	:	*brief짧은, 간단한 *boil끓(이)다	:	*satisfy만족시키다 *social사회의	:	0
+65	:	혁명	:	creative	:	revolution	:	security	:	spectator	:	2	:	*creative창조적인 *revolution혁명	:	*security보안[안보], 보호 *spectator관객, 구경꾼	:	0
+66	:	흔들다	:	branch	:	indoor	:	shake	:	steady	:	3	:	*branch가지, 지점 *indoor실내의	:	*shake흔들다 *steady꾸준한, 안정된	:	0
+67	:	집, 피난처	:	police	:	mention	:	shelter	:	still	:	3	:	*police경찰 *mention언급하다	:	*shelter집, 피난처 *still여전히	:	0
+68	:	깜짝 놀라게 하다, 충격	:	accurate	:	civil	:	shock	:	storm	:	3	:	*accurate정확한 *civil시민의, 민간의	:	*shock깜짝 놀라게 하다, 충격 *storm폭풍우	:	0
+69	:	수줍어하는	:	person	:	insist	:	shy	:	street	:	3	:	*person사람,인물 *insist주장하다[우기다]	:	*shy수줍어하는 *street거리,도로	:	0
+70	:	양치기	:	ignore	:	determine	:	shepherd	:	stomach	:	3	:	*ignore무시하다 *determine결정하다	:	*shepherd양치기 *stomach위, 배[복부]	:	0
+71	:	선물,현재,출석한	:	present	:	delicious	:	schedule	:	sometime	:	1	:	*present선물,현재,출석한 *delicious맛있는	:	*schedule일정[시간표], 예정하다 *sometime언젠가	:	0
+72	:	용감한	:	brave	:	level	:	scary	:	solid	:	1	:	*brave용감한 *level수준, 높이	:	*scary무서운 *solid고체(의), 단단한	:	0
+73	:	해돋이, 일출	:	safe	:	ever	:	skyscraper	:	sunrise	:	4	:	*safe안전한 *ever이전에,언제나,언젠가	:	*skyscraper마천루, 초고층 건물 *sunrise해돋이, 일출	:	0
+74	:	외치다,외침	:	partly	:	palace	:	shout	:	stranger	:	3	:	*partly부분적으로, 일부 *palace궁전	:	*shout외치다,외침 *stranger낮선 사람	:	0
+75	:	발사, 던지기, 주사	:	mostly	:	coach	:	shot	:	strange	:	3	:	*mostly대부분, 대개 *coach코치(하다)	:	*shot발사, 던지기, 주사 *strange이상한,낯선	:	0
+76	:	신성한, 성스러운	:	holy	:	outdoor	:	scenery	:	someday	:	1	:	*holy신성한, 성스러운 *outdoor야외의	:	*scenery경치, 풍경 *someday(미래의)언젠가	:	0
+77	:	결정	:	decision	:	pause	:	scratch	:	sound	:	1	:	*decision결정 *pause잠시 멈추다, 일시 중지	:	*scratch긁다, 할퀴다 *sound소리,들리다,건전한	:	0
+78	:	서두르다, 서두름	:	delight	:	hurry	:	seek	:	spell	:	2	:	*delight기쁨, 기쁘게 하다 *hurry서두르다, 서두름	:	*seek구하다, 찾다 *spell철자를 쓰다[말하다]	:	0
+79	:	성공	:	really	:	flavor	:	similarity	:	success	:	4	:	*really참으로,정말 *flavor맛(을 내다)	:	*similarity유사(점) *success성공	:	0
+80	:	그러한	:	charity	:	assist	:	simply	:	such	:	4	:	*charity자선(단체) *assist돕다, 도움주기	:	*simply단지, 간단히 *such그러한	:	0
+81	:	투쟁(하다)	:	insect	:	arrive	:	signal	:	struggle	:	4	:	*insect곤충 *arrive도착하다	:	*signal신호(를 보내다) *struggle투쟁(하다)	:	0
+82	:	끈[줄], (악기의) 현	:	bat	:	even	:	sightseeing	:	string	:	4	:	*bat박쥐, 배트(로 치다) *even~조차, 더욱~	:	*sightseeing관광 *string끈[줄], (악기의) 현	:	0
+83	:	영구적인, (머리) 파마	:	bow	:	permanent	:	senior	:	spring	:	2	:	*bow절(하다), 활, 나비매듭 *permanent영구적인, (머리) 파마	:	*senior최상급생, 연장자 *spring봄,용수철	:	0
+84	:	꿰매다, 바느질하다	:	create	:	respect	:	sew	:	stay	:	3	:	*create창조하다 *respect존경(하다)	:	*sew꿰매다, 바느질하다 *stay머무르다,~인채있다	:	0
+85	:	이미, 벌써	:	risk	:	already	:	self	:	spirit	:	2	:	*risk위험 *already이미, 벌써	:	*self자기(자신), 자아 *spirit정신, 영혼	:	0
+86	:	신뢰, 신앙	:	faith	:	pool	:	scream	:	sour	:	1	:	*faith신뢰, 신앙 *pool풀, 물웅덩이	:	*scream소리[비명]을 지르다 *sour(맛이)신	:	0
+87	:	측,쪽,측면	:	landscape	:	bless	:	side	:	stretch	:	3	:	*landscape풍경(화) *bless축복하다	:	*side측,쪽,측면 *stretch잡아 늘리다, 펴다[뻗다]	:	0
+88	:	마른[건조한], 말리다	:	future	:	dry	:	selfish	:	spoil	:	2	:	*future미래 *dry마른[건조한], 말리다	:	*selfish이기적인 *spoil망치다	:	0
+89	:	제안하다, 권하다	:	bottom	:	flow	:	site	:	suggest	:	4	:	*bottom밑바닥 *flow흐르다, 흐름	:	*site장소,현장,웹사이트 *suggest제안하다, 권하다	:	0
+90	:	치다, 치기	:	reward	:	exit	:	sight	:	strike	:	4	:	*reward상[보상](을 주다) *exit출구, 나가다	:	*sight시력,시야,광경 *strike치다, 치기	:	0
+91	:	쏘다, 슛하다, 촬영하다	:	cooperation	:	lunar	:	shoot	:	story	:	3	:	*cooperation협력, 협동 *lunar달의	:	*shoot쏘다, 슛하다, 촬영하다 *story이야기,층	:	0
+92	:	갑자기	:	compete	:	futurology	:	sincerely	:	suddenly	:	4	:	*compete경쟁하다 *futurology미래학	:	*sincerely진심으로, 편지, 맺음말 *suddenly갑자기	:	0
+93	:	대조(하다), 대비(되다)	:	express	:	contrast	:	sentence	:	stage	:	2	:	*express표현하다, 속담 *contrast대조(하다), 대비(되다)	:	*sentence문장 *stage단계, 무대	:	0
+94	:	감옥, 교도소	:	repeat	:	jail	:	seem	:	spend	:	2	:	*repeat반복(하다) *jail감옥, 교도소	:	*seem~처럼 보이다 *spend(시간,돈을) 쓰다	:	0
+95	:	닫다	:	fight	:	culture	:	shut	:	straw	:	3	:	*fight싸우다,싸움 *culture문화	:	*shut닫다 *straw짚,빨대	:	0
+96	:	부주의한	:	careless	:	positive	:	satelite	:	smooth	:	1	:	*careless부주의한 *positive긍정적인	:	*satelite(인공)위성 *smooth매끄러운, 부드러운	:	0
+97	:	의견,견해	:	opinion	:	everywhere	:	scan	:	solar	:	1	:	*opinion의견,견해 *everywhere어디에나, 어디든지	:	*scan살펴보다, 스캔하다 *solar태양의	:	0
+98	:	구부리다	:	bend	:	excellent	:	salary	:	slow	:	1	:	*bend구부리다 *excellent뛰어난, 탁월한	:	*salary봉급 *slow느린,늦추다	:	0
+99	:	우주 왕복선	:	grand	:	kind	:	shuttle	:	stream	:	3	:	*grand웅대한 *kind종류,친절한	:	*shuttle우주 왕복선 *stream시내, 흐름, 흐르다	:	0
+100	:	제안	:	flash	:	invention	:	situation	:	suggestion	:	4	:	*flash번쩍 빛나다, 섬광 *invention발명	:	*situation상황 *suggestion제안	:	0

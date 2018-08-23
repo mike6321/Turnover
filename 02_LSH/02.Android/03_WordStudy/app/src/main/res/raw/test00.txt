@@ -1,0 +1,1000 @@
+1:하나의:a,an:call:duck:happy:1:*a,an하나의 *call전화, 부르다:*duck오리 *happy행복한:0
+2:…에 대해서:about:camera:ear:hard:1:*about…에 대해서 *camera사진기, 카메라:*ear귀 *hard열심히, 단단한:0
+3:…를 가로질러:across:camp:early:hat:1:*across…를 가로질러 *camp켐프장, 야영지:*early일찍 *hat모자:0
+4:행동하다:act:can:earth:hate:1:*act행동하다 *can할 수 있다:*earth지구 *hate싫어하다:0
+5:주소:address:candle:east:have:1:*address주소 *candle양초:*east동쪽 *have가지고 있다.:0
+6:무서워하다:afraid:candy:easy:he:1:*afraid무서워하다 *candy사탕:*easy쉬운 *he그:0
+7:…후에:after:cap:eat:head:1:*after…후에 *cap모자:*eat먹다 *head머리카락:0
+8:오후:afternoon:capital:egg:headache:1:*afternoon오후 *capital수도, 대문자:*egg계란 *headache두통:0
+9:다시, 또:again:captain:empty:hear:1:*again다시, 또 *captain우두머리:*empty텅 빈 *hear듣다:0
+10:나이:age:car:end:heart:1:*age나이 *car자동차:*end끝 *heart마음, 심장:0
+11:…전에:ago:card:engine:heavy:1:*ago…전에 *card카드:*engine엔진 *heavy무거운:0
+12:공기:air:care:enjoy:hello:1:*air공기 *care돌보다, 배려:*enjoy즐기다 *hello안녕, 여보세요:0
+13:공항:airport:carry:enough:help:1:*airport공항 *carry나르다, 운반하다:*enough충분한 *help돕다:0
+14:사진첩, CD판, 음반:album:case:eraser:hen:1:*album사진첩, CD판, 음반 *case경우, 사건:*eraser지우개 *hen암닭:0
+15:전부, 모두, 모든 것:all:cassette:evening:here:1:*all전부, 모두, 모든 것 *cassette카셋트:*evening저녁식사 *here여기:0
+16:…을 따라서:along:cat:every:hi:1:*along…을 따라서 *cat고양이:*every모든, 모두의 *hi안녕:0
+17:항상, 언제나:always:catch:example:hide:1:*always항상, 언제나 *catch붙잡다:*example예, 보기 *hide숨기다:0
+18:…사이 에서 :among:ceiling:excellent:high:1:*among…사이 에서  *ceiling천장:*excellent뛰어난 *high높은:0
+19:그리고:and:center:exciting:hiking:1:*and그리고 *center중앙:*exciting흥미진진한, 흥문시키는 *hiking도보여행, 하이킹:0
+20:화가난:angry:chair:excuse:hill:1:*angry화가난 *chair의자:*excuse용서하다 *hill언덕:0
+21:동물:animal:chalk:exercise:hit:1:*animal동물 *chalk분필:*exercise연습, 운동 *hit때리다:0
+22:대답:answer:chance:eye:hold:1:*answer대답 *chance기회:*eye눈 *hold잡다, 들다:0
+23:어떤:any:change:face:hole:1:*any어떤 *change바꾸다:*face얼굴 *hole구멍:0
+24:아파트:apartment:cheap:fact:holiday:1:*apartment아파트 *cheap값싼:*fact사실 *holiday휴일:0
+25:사과:apple:cheese:fair:home:1:*apple사과 *cheese치즈:*fair공정한 *home집:0
+26:닭:arm:chicken:fall:homework:2:*arm팔 *chicken닭:*fall가을, 떨어지다 *homework숙제:0
+27:어린이:around:child:family:hope:2:*around…주위에 *child어린이:*family가족 *hope희망:0
+28:젓가락:arrive:chopstick :far:hose:2:*arrive도착하다 *chopstick 젓가락:*far멀리 떨어진, 먼 *hose호스:0
+29:교회:as:church:farm:horse:2:*as…같은, …로서 *church교회:*farm농장 *horse말:0
+30:원:ask:circle:fast:hospital:2:*ask물어보다 *circle원:*fast빠른 *hospital병원:0
+31:도시:at:city:fat:hot:2:*at…에 대해서 *city도시:*fat살찐 *hot뜨거운:0
+32:학급, 반, 수업:aunt:class:famous:hotel:2:*aunt이모 *class학급, 반, 수업:*famous유명한 *hotel호텔:0
+33:동급생, 반친구:autumn:classmate:father:hour:2:*autumn가을 *classmate동급생, 반친구:*father아버지 *hour시간:0
+34:청소하다, 깨끗한:away:clean:favorite:house:2:*away떨어져서 *clean청소하다, 깨끗한:*favorite가장 좋아하는 *house집:0
+35:오르다:baby:climb:feel:how:2:*baby아기 *climb오르다:*feel느끼다 *how어떻게:0
+36:시계:back:clock:few:hundred:2:*back뒤에 *clock시계:*few조금밖에 없는 *hundred백(100):0
+37:닫다:bad:close:field:hungry:2:*bad나쁜 *close닫다:*field들판, 경기장 *hungry배고픈:0
+38:옷:bag:clothes:fight:hurry:2:*bag가방 *clothes옷:*fight싸움 *hurry서두르다:0
+39:구름:ball:cloud:fill:hurt:2:*ball공 *cloud구름:*fill채우다 *hurt다치게 하다, 상처를 주다:0
+40:클럽, 동호회:balloon:club:film:I:2:*balloon풍선 *club클럽, 동호회:*film영화 *I나:0
+41:코트, 외투:banana:coat:find:ice:2:*banana바나나 *coat코트, 외투:*find찾다 *ice얼음:0
+42:커피:band:coffee:fine:idea:2:*band끈, 악단 *coffee커피:*fine좋은, 맑은 *idea생각:0
+43:동전:bank:coin:finger:if:2:*bank은행 *coin동전:*finger손가락 *if만약 … 라면:0
+44:추운:base:cold:finish:ill:2:*base기초 *cold추운:*finish끝내다 *ill병든:0
+45:색깔:basket:color:fire:in:2:*basket바구니 *color색깔:*fire불타다 *in...안에:0
+46:오다:bath:come:fish:ink:2:*bath목욕 *come오다:*fish물고기 *ink잉크:0
+47:컴퓨터:be:computer:fix:interest:2:*be이다, 있다 *computer컴퓨터:*fix고치다, 고정시키다 *interest흥미, 관심:0
+48:요리:beach:cook:flag:into:2:*beach해변 *cook요리:*flag깃발 *into…으로, …속으로:0
+49:시원한:bear:cool:floor:introduce:2:*bear곰 *cool시원한:*floor마루, 바닥 *introduce소개하다:0
+50:복사하다, 사본:beautiful:copy:flower:island:2:*beautiful아름다운 *copy복사하다, 사본:*flower꽃 *island섬:0
+51:날다:because:corner:fly:it:3:*because때문에 *corner모퉁이:*fly날다 *it그것:0
+52:뒤를 따르다:become:count:follow:job:3:*become…이 되다 *count세다, 계산하다:*follow뒤를 따르다 *job직업:0
+53:음식:bed:country:food:join:3:*bed침대 *country나라, 마을:*food음식 *join가입하다, 함께 하다:0
+54:바보, 멍청이:before:course:fool:juice:3:*before…전에 *course과정:*fool바보, 멍청이 *juice주스:0
+55:발:begin:cousin:foot:jump:3:*begin시작하다 *cousin사촌:*foot발 *jump뛰어오르다:0
+56:…을 위하여, …동안:behind:cover:for:jungle:3:*behind…뒤에 *cover덮다:*for…을 위하여, …동안 *jungle밀림지대:0
+57:잊다:bell:cow:forget:just:3:*bell종 *cow암소:*forget잊다 *just오직, 단지:0
+58:포크:below:crayon:fork:keep:3:*below…아래 *crayon크레용:*fork포크 *keep지키다, 유지(계속)하다:0
+59:자유로운, 무료의:bench:cream:free:key:3:*bench긴의자 *cream크림:*free자유로운, 무료의 *key열쇠:0
+60:신선한:beside:cross:fresh:kick:3:*beside…곁에 *cross가로 지르다:*fresh신선한 *kick차다:0
+61:친구:better:cry:friend:kid:3:*better더 좋은 *cry울다:*friend친구 *kid아이:0
+62:…부터:between:cup:from:kill:3:*between…사이에 *cup컵:*from…부터 *kill죽이다:0
+63:앞:bicycle:curtain:front:kind:3:*bicycle자전거 *curtain커튼:*front앞 *kind친절한, 종류:0
+64:과일:big:curly:fruit:king:3:*big큰 *curly곱슬머리의:*fruit과일 *king왕:0
+65:가득찬:bird:cut:full:kitchen:3:*bird새 *cut자르다:*full가득찬 *kitchen부엌:0
+66:즐거움, 재미:birthday:dad:fun:knee:3:*birthday생일 *dad아빠:*fun즐거움, 재미 *knee무릎:0
+67:게임, 경기:black:dance:game:knife:3:*black검정색 *dance춤추다:*game게임, 경기 *knife칼:0
+68:정원:blow:danger:garden:knock:3:*blow불다 *danger위험한:*garden정원 *knock두드리다:0
+69:가스:blue:dark:gas:know:3:*blue푸른, 남색의, 파랑 *dark어두운:*gas가스 *know알다:0
+70:문:board:date:gate:lady:3:*board판자, 널판지 *date날짜:*gate문 *lady숙녀:0
+71:온화한:boat:daughter :gentle:lake:3:*boat배 *daughter 딸:*gentle온화한 *lake호수:0
+72:얻다, 받다:body:day:get:lamp:3:*body신체, 몸 *day낮, 하루:*get얻다, 받다 *lamp등불:0
+73:소녀:book:dead:girl:land:3:*book책, 예약하다 *dead죽은:*girl소녀 *land땅:0
+74:주다:borrow:deep:give:large:3:*borrow빌리다 *deep깊은:*give주다 *large큰:0
+75:기쁜:bottle:dear:glad:last:3:*bottle병 *dear존경하는:*glad기쁜 *last지난, 바로 전의:0
+76:늦은:bowl:desk:glass:late:4:*bowl사발, 그릇 *desk책상:*glass유리잔, 유리 *late늦은:0
+77:웃다:box:dial:glove:laugh:4:*box상자 *dial전화의 다이얼을 돌리다:*glove장갑 *laugh웃다:0
+78:인도하다:bought:diary:weekend:lead:4:*bought구입했다. Buy의 과거형 *diary일기:*weekend주말 *lead인도하다:0
+79:잎:boy:dictionary:go:leaf:4:*boy소년 *dictionary사전:*go가다 *leaf잎:0
+80:배우다:bread:die:god:learn:4:*bread빵 *die죽다:*god하나님 *learn배우다:0
+81:떠나다, 남겨두다:break:different:gold:leave:4:*break깨뜨리다 *different다른:*gold금 *leave떠나다, 남겨두다:0
+82:왼쪽:breakfast :dinner:good:left:4:*breakfast 아침밥 *dinner저녁식사:*good좋은, 맑은 *left왼쪽:0
+83:다리:bridge:dirty:grandmother :leg:4:*bridge다리 *dirty더러운:*grandmother 할머니 *leg다리:0
+84:학과, 수업:bright:dish:grape:lesson:4:*bright밝은 *dish접시:*grape포도 *lesson학과, 수업:0
+85:허락하다, …하게 하다:bring:do:grass:let:4:*bring가져오다 *do하다:*grass풀, 잔디 *let허락하다, …하게 하다:0
+86:편지:brother:doctor:gray:letter:4:*brother형제 *doctor의사:*gray회색 *letter편지:0
+87:도서관:brown:dog:great:library:4:*brown갈색 *dog개:*great위대한 *library도서관:0
+88:눕다, 거짓말하다:brush:doll:green:lie:4:*brush솔, 솔질하다 *doll인형:*green녹색 *lie눕다, 거짓말하다:0
+89:빛:build:dollar:ground:light:4:*build건설하다 *dollar달러:*ground땅, 기초 *light빛:0
+90:좋아하다:burn:dolphin:group:like:4:*burn불타다 *dolphin돌고래:*group단체 *like좋아하다:0
+91:선, 줄:bus:door:grow:line:4:*bus버스 *door문:*grow자라다 *line선, 줄:0
+92:사자:busy:down:guitar:lion:4:*busy바쁜, (전화가) 통화중인 *down아래에:*guitar기타 *lion사자:0
+93:입술:but:draw:hair:lip:4:*but그러나 *draw그리다:*hair머리카락 *lip입술:0
+94:목록:butter:dream:half:list:4:*butter버터 *dream꿈:*half절반 *list목록:0
+95:듣다:button:dress:hall:listen:4:*button단추 *dress드레스:*hall넓은 방, 홀 *listen듣다:0
+96:작은, 적은:buy:drink:hamburger:little:4:*buy사다 *drink마시다:*hamburger햄버거 *little작은, 적은:0
+97:살다:by:drive:hand:live:4:*by…옆에 *drive운전하다:*hand손 *live살다:0
+98:긴:bye:drop:handle:long:4:*bye안녕 *drop떨어지다, 방울:*handle손잡이 *long긴:0
+99:보다, …처럼 보이다.:calendar:drum:handsome:look:4:*calendar달력 *drum북:*handsome잘 생긴 *look보다, …처럼 보이다.:0
+100:…을 찾다:cake:dry:happen:look for:4:*cake케익 *dry마른, 건조한:*happen(사건이)발생하다 *look for…을 찾다:0
+101:잃다, 분실하다:lose:people:show:than:1:*lose잃다, 분실하다 *people사람들:*show보여주다, 쇼 *than…보다:0
+102:많음:lot:piano:shower:thank:1:*lot많음 *piano피아노:*shower소나기, 샤워를 하다 *thank감사하다:0
+103:(목소리가) 큰:loud:pick:shut:that:1:*loud(목소리가) 큰 *pick줍다, (열매를)따다:*shut닫다 *that저것:0
+104:사랑하다:love:picnic:sick:the:1:*love사랑하다 *picnic소풍:*sick아픈 *the그:0
+105:낮은:low:picture:side:then:1:*low낮은 *picture그림:*side옆, 측면 *then그 때:0
+106:행운:luck:piece:sign:there:1:*luck행운 *piece조각:*sign신호, 서명 *there거기에서:0
+107:점심:lunch:pig:silver:they:1:*lunch점심 *pig돼지:*silver은 *they그들:0
+108:아주머니, 부인:ma'am:pilot:sing:thick:1:*ma'am아주머니, 부인 *pilot조종사:*sing노래하다 *thick두꺼운:0
+109:미친:mad:person:sir:thin:1:*mad미친 *person사람:*sir…님, …씨 *thin얇은:0
+110:우편:mail:pine:sister:thing:1:*mail우편 *pine소나무:*sister자매 *thing것, 물체:0
+111:만들다:make:pink:sit:think:1:*make만들다 *pink분홍:*sit앉다 *think생각하다:0
+112:사람, 남자:man:pipe:size:thirsty:1:*man사람, 남자 *pipe관, 파이프:*size크기 *thirsty목마른:0
+113:많은:many:place:skate:this:1:*many많은 *place장소:*skate스케이트 *this이것:0
+114:지도:map:plan:skirt:thousand:1:*map지도 *plan계획:*skirt치마 *thousand천(=1000):0
+115:3월, 행진하다:march:plane:sky:through:1:*march3월, 행진하다 *plane비행기:*sky하늘 *through…을 통해:0
+116:시장:market:plant:sleep:throw:1:*market시장 *plant식물, 공장:*sleep잠자다 *throw던지다:0
+117:결혼하다:marry:play:slide:ticket:1:*marry결혼하다 *play놀다:*slide미끄러지다 *ticket표:0
+118:문제, 중요하다:matter:please:slow:tie:1:*matter문제, 중요하다 *please제발, 기쁘게 하다:*slow느린 *tie…을 묶다, 매다:0
+119:..일지도 모른다, …해도 좋다:may:pocket:small:tiger:1:*may..일지도 모른다, …해도 좋다 *pocket주머니:*small작은, 적은 *tiger호랑이:0
+120:고기:meat:point:smell:till:1:*meat고기 *point가리키다, 점수:*smell냄새나다 *till…까지:0
+121:메달:medal:police:smile:time:1:*medal메달 *police경찰:*smile웃다 *time시간:0
+122:만나다:meet:pool:smoke:tired:1:*meet만나다 *pool수영장:*smoke연기 *tired피곤한:0
+123:멜론:melon:poor:snow:to:1:*melon멜론 *poor가난한:*snow눈 *to…로:0
+124:미터:meter:post:so:today:1:*meter미터 *post우편:*so그래서, 매우 *today오늘:0
+125:중간의, 중앙의:middle:poster:soap:together:1:*middle중간의, 중앙의 *poster포스터:*soap비누 *together함께:0
+126:감자:milk:potato:soccer:tomato:2:*milk우유 *potato감자:*soccer축구 *tomato토마토:0
+127:연습하다:million:practice:sock:tomorrow:2:*million100만 *practice연습하다:*sock양말 *tomorrow내일:0
+128:현재, 선물:minute:present:soft:tonight:2:*minute분, 잠깐 *present현재, 선물:*soft부드러운 *tonight오늘밤:0
+129:예쁜, 매우:mirror:pretty:some:too:2:*mirror거울 *pretty예쁜, 매우:*some약간의 *too또한:0
+130:인쇄하다:Miss:print:son:tooth:2:*Miss…양 *print인쇄하다:*son아들 *tooth이:0
+131:문제, 중요하다:model:problem:song:top:2:*model모형 *problem문제, 중요하다:*song노래 *top꼭대기:0
+132:끌다, 잡아 당기다:mom:pull:soon:touch:2:*mom엄마 *pull끌다, 잡아 당기다:*soon곧 *touch만지다:0
+133:밀다:money:push:sorry:town:2:*money돈 *push밀다:*sorry슬픈, 미안한 *town마을:0
+134:두다, 놓다:monkey:put:sound:toy:2:*monkey원숭이 *put두다, 놓다:*sound소리 *toy인형:0
+135:여왕:month:queen:soup:train:2:*month달, 개월 *queen여왕:*soup스프 *train기차, 훈련:0
+136:질문:moon:question:south:travel:2:*moon달 *question질문:*south남쪽 *travel여행하다:0
+137:빠른:morning:quick:space:tree:2:*morning아침 *quick빠른:*space우주, 공간 *tree나무:0
+138:조용한:mother:quiet:speak:trip:2:*mother어머니 *quiet조용한:*speak말하다, 이야기하다 *trip여행:0
+139:라디오:mountain:radio:speed:truck:2:*mountain산 *radio라디오:*speed속력 *truck트럭, 화물자동차:0
+140:비행기:mouth:airplane:spell:true      :2:*mouth입 *airplane비행기:*spell철자 *true      참된, 진실의:0
+141:무지개:move:rainbow:spend:try:2:*move움직이다, 이사하다 *rainbow무지개:*spend쓰다, (시간을) 보내다 *try노력하다, 시도하다:0
+142:읽다:movie:read:spoon:tulip:2:*movie영화 *read읽다:*spoon숟가락 *tulip툴립:0
+143:준비된:Mr.:ready:sports:turn:2:*Mr.…씨 *ready준비된:*sports운동경기 *turn돌다, :0
+144:정말, 실제의:Mrs.:real:spring:twice:2:*Mrs.…여사 *real정말, 실제의:*spring봄, 튀어오르다, 스프링 *twice두 번:0
+145:정말로:much:really:square:umbrella:2:*much많은 *really정말로:*square정사각형, 광장 *umbrella우산:0
+146:기록하다:music:record:stair:uncle:2:*music음악 *record기록하다:*stair계단 *uncle삼촌, 아저씨:0
+147:빨강:must:red:stamp:under:2:*must해야 한다 *red빨강:*stamp우편, 우표 *under…아래에서:0
+148:기억하다:name:remember :stand:understand  :2:*name이름 *remember 기억하다:*stand서다, 서 있다 *understand  이해하다:0
+149:반복하다:narrow:repeat:star:until:2:*narrow좁은 *repeat반복하다:*star별 *until…까지:0
+150:휴식:near:rest:start:up:2:*near가까운 *rest휴식:*start시작하다 *up위에:0
+151:정거장, 역:neck:restaurant :station:use:3:*neck목 *restaurant 식당:*station정거장, 역 *use이용하다, 사용하다:0
+152:머무르다:need:return:stay:usual:3:*need필요하다 *return되돌아가다:*stay머무르다 *usual보통의, 평소의:0
+153:수증기:never:ribbon:steam:vacation:3:*never결코.. 하지 않다 *ribbon리본:*steam수증기 *vacation휴가, 방학:0
+154:걸음, 스텝:new:rice:step:vegetable:3:*new새로운 *rice쌀:*step걸음, 스텝 *vegetable채소, 야채:0
+155:막대기:news:rich:stick:very:3:*news뉴스 *rich부유한:*stick막대기 *very매우, 대단히:0
+156:돌 :next:ride:stone:video:3:*next다음의 *ride타다:*stone돌다,  *video비디오:0
+157:멈추다:next to:right:stop:village:3:*next to…옆에 *right옳은, 오른쪽:*stop멈추다 *village마을:0
+158:가게:nice:ring:store:visit:3:*nice좋은 *ring반지, 울리다:*store가게 *visit방문하다:0
+159:폭풍우:night:river:storm:violin:3:*night밤 *river강:*storm폭풍우 *violin바이올린:0
+160:이야기:noisy:road:story:wait:3:*noisy시끄러운 *road길:*story이야기 *wait기다리다:0
+161:난로:noise:robot:stove:wake:3:*noise소음 *robot로봇:*stove난로 *wake잠이 깨다:0
+162:똑바른, 곧은:north:rock:straight:walk:3:*north북쪽 *rock바위:*straight똑바른, 곧은 *walk걷다:0
+163:이상한, 낯선:nose:rocket:strange:wall:3:*nose코 *rocket로켓:*strange이상한, 낯선 *wall벽:0
+164:딸기:not:roll:strawberry:want:3:*not아니다 *roll구르다:*strawberry딸기 *want원하다:0
+165:거리:note:roof:street:war:3:*note공책 *roof지붕:*street거리 *war전쟁:0
+166:…을 치다, 때리다:now:room:strike:warm:3:*now지금 *room방:*strike…을 치다, 때리다 *warm따뜻한:0
+167:강한:number:rose:strong:wash:3:*number숫자 *rose장미:*strong강한 *wash씻다:0
+168:학생:nurse:round:student:waste:3:*nurse간호원 *round둥근:*student학생 *waste낭비하다:0
+169:공부하다:o'clock:ruler:study:watch:3:*o'clock…시, 정각 *ruler자, 지배자:*study공부하다 *watch보다:0
+170:어리석은:of:run:stupid:water:3:*of…의 *run달리다:*stupid어리석은 *water물:0
+171:지하철:off:sad:subway:way:3:*off떨어진, 끄다 *sad슬픈:*subway지하철 *way방법, 길:0
+172:설탕:office:safe:sugar:we:3:*office사무실 *safe안전한:*sugar설탕 *we우리:0
+173:여름:often:salt:summer:weak:3:*often자주, 종종 *salt소금:*summer여름 *weak약한:0
+174:태양:oil:salad:sun:wear:3:*oil기름 *salad샐러드:*sun태양 *wear입다:0
+175:슈퍼마켓:okay:same:supermarket :weather:3:*okay좋아 *same같은:*supermarket 슈퍼마켓 *weather날씨:0
+176:주:old:sand:supper:week:4:*old늙은 *sand모래:*supper저녁식사 *week주:0
+177:환영하다:on:say:sure:welcome:4:*on…위에 *say말하다:*sure확신한 *welcome환영하다:0
+178:잘:once:school:surprise:well:4:*once한 번 *school학교:*surprise놀라운 *well잘:0
+179:서쪽:only:score:sweater:west:4:*only오직, 단지 *score점수:*sweater스웨터 *west서쪽:0
+180:젖은:open:sea:sweet:wet:4:*open열다 *sea바다:*sweet달콤한 *wet젖은:0
+181:무엇:or:season:swim:what:4:*or또는 *season계절:*swim수영하다 *what무엇:0
+182:언제:orange:seat:swing:when:4:*orange오렌지 *seat앉다, 좌석:*swing흔들리다 *when언제:0
+183:어디:other:see:switch:where:4:*other다른 *see보다:*switch스위치 *where어디:0
+184:어느 (것):out:sell:table:which:4:*out밖에 *sell팔다:*table탁자 *which어느 (것):0
+185:하얀색:over:send:take:white:4:*over…위쪽에 *send보내다:*take잡다, 가지고 가다 *white하얀색:0
+186:누구:page:service:talk:who:4:*page쪽, 페이지 *service봉사하다:*talk말하다 *who누구:0
+187:왜:paint:set:tall:why:4:*paint칠하다 *set놓다:*tall키가 큰 *why왜:0
+188:넓은:pair:shall:taller:wide:4:*pair짝, 쌍 *shall…일 것이다:*taller더 큰 *wide넓은:0
+189:…할 것이다:pants:shape:tape:will:4:*pants바지 *shape모양:*tape테이프 *will…할 것이다:0
+190:이기다:paper:she:taste:win:4:*paper종이 *she그녀:*taste맛을 보다, 맛이 나다 *win이기다:0
+191:바람:pardon:sheep:taxi:wind:4:*pardon용서하다 *sheep양:*taxi택시 *wind바람:0
+192:창문:parent:sheet:tea:window:4:*parent부모 *sheet한 장, 시트:*tea차 *window창문:0
+193:날개:park:ship:teach:wing:4:*park공원 *ship배:*teach가르치다 *wing날개:0
+194:겨울:party:shirt:team:winter:4:*party파티 *shirt(남자용)와이셔츠:*team팀 *winter겨울:0
+195:…와 함께:pass:shoes:telephone:with:4:*pass합격하다, 지나가다 *shoes구두:*telephone전화기 *with…와 함께:0
+196:여자:pay:shoot:television:woman:4:*pay지불하다 *shoot발사하다, 쏘다:*television텔레비전 *woman여자:0
+197:놀라움, 놀라다:peace:shop:tell:wonder:4:*peace평화 *shop가게:*tell이야기하다 *wonder놀라움, 놀라다:0
+198:나무:pear:short:temple:wood:4:*pear배 *short짧은:*temple절 *wood나무:0
+199:말, 낱말:pen:shoulder   :tennis:word:4:*pen펜 *shoulder   어깨:*tennis테니스 *word말, 낱말:0
+200:일하다:pencil:shout:test:work:4:*pencil연필 *shout외치다:*test시험 *work일하다:0
+201:전화, 부르다:call:fall:it:people:1:*call전화, 부르다 *fall가을, 떨어지다:*it그것 *people사람들:0
+202:사진기, 카메라:camera:family:job:piano:1:*camera사진기, 카메라 *family가족:*job직업 *piano피아노:0
+203:켐프장, 야영지:camp:far:join:pick:1:*camp켐프장, 야영지 *far멀리 떨어진, 먼:*join가입하다, 함께 하다 *pick줍다, (열매를)따다:0
+204:할 수 있다:can:farm:juice:picnic:1:*can할 수 있다 *farm농장:*juice주스 *picnic소풍:0
+205:양초:candle:fast:jump:picture:1:*candle양초 *fast빠른:*jump뛰어오르다 *picture그림:0
+206:사탕:candy:fat:jungle:piece:1:*candy사탕 *fat살찐:*jungle밀림지대 *piece조각:0
+207:모자:cap:famous:just:pig:1:*cap모자 *famous유명한:*just오직, 단지 *pig돼지:0
+208:수도, 대문자:capital:father:keep:pilot:1:*capital수도, 대문자 *father아버지:*keep지키다, 유지(계속)하다 *pilot조종사:0
+209:우두머리:captain:favorite:key:person:1:*captain우두머리 *favorite가장 좋아하는:*key열쇠 *person사람:0
+210:자동차:car:feel:kick:pine:1:*car자동차 *feel느끼다:*kick차다 *pine소나무:0
+211:카드:card:few:kid:pink:1:*card카드 *few조금밖에 없는:*kid아이 *pink분홍:0
+212:돌보다, 배려:care:field:kill:pipe:1:*care돌보다, 배려 *field들판, 경기장:*kill죽이다 *pipe관, 파이프:0
+213:나르다, 운반하다:carry:fight:kind:place:1:*carry나르다, 운반하다 *fight싸움:*kind친절한, 종류 *place장소:0
+214:경우, 사건:case:fill:king:plan:1:*case경우, 사건 *fill채우다:*king왕 *plan계획:0
+215:카셋트:cassette:film:kitchen:plane:1:*cassette카셋트 *film영화:*kitchen부엌 *plane비행기:0
+216:고양이:cat:find:knee:plant:1:*cat고양이 *find찾다:*knee무릎 *plant식물, 공장:0
+217:붙잡다:catch:fine:knife:play:1:*catch붙잡다 *fine좋은, 맑은:*knife칼 *play놀다:0
+218:천장:ceiling:finger:knock:please:1:*ceiling천장 *finger손가락:*knock두드리다 *please제발, 기쁘게 하다:0
+219:중앙:center:finish:know:pocket:1:*center중앙 *finish끝내다:*know알다 *pocket주머니:0
+220:의자:chair:fire:lady:point:1:*chair의자 *fire불타다:*lady숙녀 *point가리키다, 점수:0
+221:분필:chalk:fish:lake:police:1:*chalk분필 *fish물고기:*lake호수 *police경찰:0
+222:기회:chance:fix:lamp:pool:1:*chance기회 *fix고치다, 고정시키다:*lamp등불 *pool수영장:0
+223:바꾸다:change:flag:land:poor:1:*change바꾸다 *flag깃발:*land땅 *poor가난한:0
+224:값싼:cheap:floor:large:post:1:*cheap값싼 *floor마루, 바닥:*large큰 *post우편:0
+225:치즈:cheese:flower:last:poster:1:*cheese치즈 *flower꽃:*last지난, 바로 전의 *poster포스터:0
+226:숙제:duck:homework:bowl:show:2:*duck오리 *homework숙제:*bowl사발, 그릇 *show보여주다, 쇼:0
+227:희망:ear:hope:box:shower:2:*ear귀 *hope희망:*box상자 *shower소나기, 샤워를 하다:0
+228:호스:early:hose:bought:shut:2:*early일찍 *hose호스:*bought구입했다. Buy의 과거형 *shut닫다:0
+229:말:earth:horse:boy:sick:2:*earth지구 *horse말:*boy소년 *sick아픈:0
+230:병원:east:hospital:bread:side:2:*east동쪽 *hospital병원:*bread빵 *side옆, 측면:0
+231:뜨거운:easy:hot:break:sign:2:*easy쉬운 *hot뜨거운:*break깨뜨리다 *sign신호, 서명:0
+232:호텔:eat:hotel:breakfast :silver:2:*eat먹다 *hotel호텔:*breakfast 아침밥 *silver은:0
+233:시간:egg:hour:bridge:sing:2:*egg계란 *hour시간:*bridge다리 *sing노래하다:0
+234:집:empty:house:bright:sir:2:*empty텅 빈 *house집:*bright밝은 *sir…님, …씨:0
+235:어떻게:end:how:bring:sister:2:*end끝 *how어떻게:*bring가져오다 *sister자매:0
+236:백(100):engine:hundred:brother:sit:2:*engine엔진 *hundred백(100):*brother형제 *sit앉다:0
+237:배고픈:enjoy:hungry:brown:size:2:*enjoy즐기다 *hungry배고픈:*brown갈색 *size크기:0
+238:서두르다:enough:hurry:brush:skate:2:*enough충분한 *hurry서두르다:*brush솔, 솔질하다 *skate스케이트:0
+239:다치게 하다, 상처를 주다:eraser:hurt:build:skirt:2:*eraser지우개 *hurt다치게 하다, 상처를 주다:*build건설하다 *skirt치마:0
+240:나:evening:I:burn:sky:2:*evening저녁식사 *I나:*burn불타다 *sky하늘:0
+241:얼음:every:ice:bus:sleep:2:*every모든, 모두의 *ice얼음:*bus버스 *sleep잠자다:0
+242:생각:example:idea:busy:slide:2:*example예, 보기 *idea생각:*busy바쁜, (전화가) 통화중인 *slide미끄러지다:0
+243:만약 … 라면:excellent:if:but:slow:2:*excellent뛰어난 *if만약 … 라면:*but그러나 *slow느린:0
+244:병든:exciting:ill:butter:small:2:*exciting흥미진진한, 흥문시키는 *ill병든:*butter버터 *small작은, 적은:0
+245:...안에:excuse:in:button:smell:2:*excuse용서하다 *in...안에:*button단추 *smell냄새나다:0
+246:잉크:exercise:ink:buy:smile:2:*exercise연습, 운동 *ink잉크:*buy사다 *smile웃다:0
+247:흥미, 관심:eye:interest:by:smoke:2:*eye눈 *interest흥미, 관심:*by…옆에 *smoke연기:0
+248:…으로, …속으로:face:into:bye:snow:2:*face얼굴 *into…으로, …속으로:*bye안녕 *snow눈:0
+249:소개하다:fact:introduce:calendar:so:2:*fact사실 *introduce소개하다:*calendar달력 *so그래서, 매우:0
+250:섬:fair:island:cake:soap:2:*fair공정한 *island섬:*cake케익 *soap비누:0
+251:책상:happy:because:desk:than:3:*happy행복한 *because때문에:*desk책상 *than…보다:0
+252:전화의 다이얼을 돌리다:hard:become:dial:thank:3:*hard열심히, 단단한 *become…이 되다:*dial전화의 다이얼을 돌리다 *thank감사하다:0
+253:일기:hat:bed:diary:that:3:*hat모자 *bed침대:*diary일기 *that저것:0
+254:사전:hate:before:dictionary:the:3:*hate싫어하다 *before…전에:*dictionary사전 *the그:0
+255:죽다:have:begin:die:then:3:*have가지고 있다. *begin시작하다:*die죽다 *then그 때:0
+256:다른:he:behind:different:there:3:*he그 *behind…뒤에:*different다른 *there거기에서:0
+257:저녁식사:head:bell:dinner:they:3:*head머리카락 *bell종:*dinner저녁식사 *they그들:0
+258:더러운:headache:below:dirty:thick:3:*headache두통 *below…아래:*dirty더러운 *thick두꺼운:0
+259:접시:hear:bench:dish:thin:3:*hear듣다 *bench긴의자:*dish접시 *thin얇은:0
+260:하다:heart:beside:do:thing:3:*heart마음, 심장 *beside…곁에:*do하다 *thing것, 물체:0
+261:의사:heavy:better:doctor:think:3:*heavy무거운 *better더 좋은:*doctor의사 *think생각하다:0
+262:개:hello:between:dog:thirsty:3:*hello안녕, 여보세요 *between…사이에:*dog개 *thirsty목마른:0
+263:인형:help:bicycle:doll:this:3:*help돕다 *bicycle자전거:*doll인형 *this이것:0
+264:달러:hen:big:dollar:thousand:3:*hen암닭 *big큰:*dollar달러 *thousand천(=1000):0
+265:돌고래:here:bird:dolphin:through:3:*here여기 *bird새:*dolphin돌고래 *through…을 통해:0
+266:문:hi:birthday:door:throw:3:*hi안녕 *birthday생일:*door문 *throw던지다:0
+267:아래에:hide:black:down:ticket:3:*hide숨기다 *black검정색:*down아래에 *ticket표:0
+268:그리다:high:blow:draw:tie:3:*high높은 *blow불다:*draw그리다 *tie…을 묶다, 매다:0
+269:꿈:hiking:blue:dream:tiger:3:*hiking도보여행, 하이킹 *blue푸른, 남색의, 파랑:*dream꿈 *tiger호랑이:0
+270:드레스:hill:board:dress:till:3:*hill언덕 *board판자, 널판지:*dress드레스 *till…까지:0
+271:마시다:hit:boat:drink:time:3:*hit때리다 *boat배:*drink마시다 *time시간:0
+272:운전하다:hold:body:drive:tired:3:*hold잡다, 들다 *body신체, 몸:*drive운전하다 *tired피곤한:0
+273:떨어지다, 방울:hole:book:drop:to:3:*hole구멍 *book책, 예약하다:*drop떨어지다, 방울 *to…로:0
+274:북:holiday:borrow:drum:today:3:*holiday휴일 *borrow빌리다:*drum북 *today오늘:0
+275:마른, 건조한:home:bottle:dry:together:3:*home집 *bottle병:*dry마른, 건조한 *together함께:0
+276:우유:arm:corner:glass:milk:4:*arm팔 *corner모퉁이:*glass유리잔, 유리 *milk우유:0
+277:100만:around:count:glove:million:4:*around…주위에 *count세다, 계산하다:*glove장갑 *million100만:0
+278:분, 잠깐:arrive:country:weekend:minute:4:*arrive도착하다 *country나라, 마을:*weekend주말 *minute분, 잠깐:0
+279:거울:as:course:go:mirror:4:*as…같은, …로서 *course과정:*go가다 *mirror거울:0
+280:…양:ask:cousin:god:Miss:4:*ask물어보다 *cousin사촌:*god하나님 *Miss…양:0
+281:모형:at:cover:gold:model:4:*at…에 대해서 *cover덮다:*gold금 *model모형:0
+282:엄마:aunt:cow:good:mom:4:*aunt이모 *cow암소:*good좋은, 맑은 *mom엄마:0
+283:돈:autumn:crayon:grandmother :money:4:*autumn가을 *crayon크레용:*grandmother 할머니 *money돈:0
+284:원숭이:away:cream:grape:monkey:4:*away떨어져서 *cream크림:*grape포도 *monkey원숭이:0
+285:달, 개월:baby:cross:grass:month:4:*baby아기 *cross가로 지르다:*grass풀, 잔디 *month달, 개월:0
+286:달:back:cry:gray:moon:4:*back뒤에 *cry울다:*gray회색 *moon달:0
+287:아침:bad:cup:great:morning:4:*bad나쁜 *cup컵:*great위대한 *morning아침:0
+288:어머니:bag:curtain:green:mother:4:*bag가방 *curtain커튼:*green녹색 *mother어머니:0
+289:산:ball:curly:ground:mountain:4:*ball공 *curly곱슬머리의:*ground땅, 기초 *mountain산:0
+290:입:balloon:cut:group:mouth:4:*balloon풍선 *cut자르다:*group단체 *mouth입:0
+291:움직이다, 이사하다:banana:dad:grow:move:4:*banana바나나 *dad아빠:*grow자라다 *move움직이다, 이사하다:0
+292:영화:band:dance:guitar:movie:4:*band끈, 악단 *dance춤추다:*guitar기타 *movie영화:0
+293:…씨:bank:danger:hair:Mr.:4:*bank은행 *danger위험한:*hair머리카락 *Mr.…씨:0
+294:…여사:base:dark:half:Mrs.:4:*base기초 *dark어두운:*half절반 *Mrs.…여사:0
+295:많은:basket:date:hall:much:4:*basket바구니 *date날짜:*hall넓은 방, 홀 *much많은:0
+296:음악:bath:daughter :hamburger:music:4:*bath목욕 *daughter 딸:*hamburger햄버거 *music음악:0
+297:해야 한다:be:day:hand:must:4:*be이다, 있다 *day낮, 하루:*hand손 *must해야 한다:0
+298:이름:beach:dead:handle:name:4:*beach해변 *dead죽은:*handle손잡이 *name이름:0
+299:좁은:bear:deep:handsome:narrow:4:*bear곰 *deep깊은:*handsome잘 생긴 *narrow좁은:0
+300:가까운:beautiful:dear:happen:near:4:*beautiful아름다운 *dear존경하는:*happen(사건이)발생하다 *near가까운:0
+301:축구:soccer:tomato:neck:restaurant :1:*soccer축구 *tomato토마토:*neck목 *restaurant 식당:0
+302:양말:sock:tomorrow:need:return:1:*sock양말 *tomorrow내일:*need필요하다 *return되돌아가다:0
+303:부드러운:soft:tonight:never:ribbon:1:*soft부드러운 *tonight오늘밤:*never결코.. 하지 않다 *ribbon리본:0
+304:약간의:some:too:new:rice:1:*some약간의 *too또한:*new새로운 *rice쌀:0
+305:아들:son:tooth:news:rich:1:*son아들 *tooth이:*news뉴스 *rich부유한:0
+306:노래:song:top:next:ride:1:*song노래 *top꼭대기:*next다음의 *ride타다:0
+307:곧:soon:touch:next to:right:1:*soon곧 *touch만지다:*next to…옆에 *right옳은, 오른쪽:0
+308:슬픈, 미안한:sorry:town:nice:ring:1:*sorry슬픈, 미안한 *town마을:*nice좋은 *ring반지, 울리다:0
+309:소리:sound:toy:night:river:1:*sound소리 *toy인형:*night밤 *river강:0
+310:스프:soup:train:noisy:road:1:*soup스프 *train기차, 훈련:*noisy시끄러운 *road길:0
+311:남쪽:south:travel:noise:robot:1:*south남쪽 *travel여행하다:*noise소음 *robot로봇:0
+312:우주, 공간:space:tree:north:rock:1:*space우주, 공간 *tree나무:*north북쪽 *rock바위:0
+313:말하다, 이야기하다:speak:trip:nose:rocket:1:*speak말하다, 이야기하다 *trip여행:*nose코 *rocket로켓:0
+314:속력:speed:truck:not:roll:1:*speed속력 *truck트럭, 화물자동차:*not아니다 *roll구르다:0
+315:철자:spell:true      :note:roof:1:*spell철자 *true      참된, 진실의:*note공책 *roof지붕:0
+316:쓰다, (시간을) 보내다:spend:try:now:room:1:*spend쓰다, (시간을) 보내다 *try노력하다, 시도하다:*now지금 *room방:0
+317:숟가락:spoon:tulip:number:rose:1:*spoon숟가락 *tulip툴립:*number숫자 *rose장미:0
+318:운동경기:sports:turn:nurse:round:1:*sports운동경기 *turn돌다, :*nurse간호원 *round둥근:0
+319:봄, 튀어오르다, 스프링:spring:twice:o'clock:ruler:1:*spring봄, 튀어오르다, 스프링 *twice두 번:*o'clock…시, 정각 *ruler자, 지배자:0
+320:정사각형, 광장:square:umbrella:of:run:1:*square정사각형, 광장 *umbrella우산:*of…의 *run달리다:0
+321:계단:stair:uncle:off:sad:1:*stair계단 *uncle삼촌, 아저씨:*off떨어진, 끄다 *sad슬픈:0
+322:우편, 우표:stamp:under:office:safe:1:*stamp우편, 우표 *under…아래에서:*office사무실 *safe안전한:0
+323:서다, 서 있다:stand:understand  :often:salt:1:*stand서다, 서 있다 *understand  이해하다:*often자주, 종종 *salt소금:0
+324:별:star:until:oil:salad:1:*star별 *until…까지:*oil기름 *salad샐러드:0
+325:시작하다:start:up:okay:same:1:*start시작하다 *up위에:*okay좋아 *same같은:0
+326:늙은:use:old:sand:supper:2:*use이용하다, 사용하다 *old늙은:*sand모래 *supper저녁식사:0
+327:…위에:usual:on:say:sure:2:*usual보통의, 평소의 *on…위에:*say말하다 *sure확신한:0
+328:한 번:vacation:once:school:surprise:2:*vacation휴가, 방학 *once한 번:*school학교 *surprise놀라운:0
+329:오직, 단지:vegetable:only:score:sweater:2:*vegetable채소, 야채 *only오직, 단지:*score점수 *sweater스웨터:0
+330:열다:very:open:sea:sweet:2:*very매우, 대단히 *open열다:*sea바다 *sweet달콤한:0
+331:또는:video:or:season:swim:2:*video비디오 *or또는:*season계절 *swim수영하다:0
+332:오렌지:village:orange:seat:swing:2:*village마을 *orange오렌지:*seat앉다, 좌석 *swing흔들리다:0
+333:다른:visit:other:see:switch:2:*visit방문하다 *other다른:*see보다 *switch스위치:0
+334:밖에:violin:out:sell:table:2:*violin바이올린 *out밖에:*sell팔다 *table탁자:0
+335:…위쪽에:wait:over:send:take:2:*wait기다리다 *over…위쪽에:*send보내다 *take잡다, 가지고 가다:0
+336:쪽, 페이지:wake:page:service:talk:2:*wake잠이 깨다 *page쪽, 페이지:*service봉사하다 *talk말하다:0
+337:칠하다:walk:paint:set:tall:2:*walk걷다 *paint칠하다:*set놓다 *tall키가 큰:0
+338:짝, 쌍:wall:pair:shall:taller:2:*wall벽 *pair짝, 쌍:*shall…일 것이다 *taller더 큰:0
+339:바지:want:pants:shape:tape:2:*want원하다 *pants바지:*shape모양 *tape테이프:0
+340:종이:war:paper:she:taste:2:*war전쟁 *paper종이:*she그녀 *taste맛을 보다, 맛이 나다:0
+341:용서하다:warm:pardon:sheep:taxi:2:*warm따뜻한 *pardon용서하다:*sheep양 *taxi택시:0
+342:부모:wash:parent:sheet:tea:2:*wash씻다 *parent부모:*sheet한 장, 시트 *tea차:0
+343:공원:waste:park:ship:teach:2:*waste낭비하다 *park공원:*ship배 *teach가르치다:0
+344:파티:watch:party:shirt:team:2:*watch보다 *party파티:*shirt(남자용)와이셔츠 *team팀:0
+345:합격하다, 지나가다:water:pass:shoes:telephone:2:*water물 *pass합격하다, 지나가다:*shoes구두 *telephone전화기:0
+346:지불하다:way:pay:shoot:television:2:*way방법, 길 *pay지불하다:*shoot발사하다, 쏘다 *television텔레비전:0
+347:평화:we:peace:shop:tell:2:*we우리 *peace평화:*shop가게 *tell이야기하다:0
+348:배:weak:pear:short:temple:2:*weak약한 *pear배:*short짧은 *temple절:0
+349:펜:wear:pen:shoulder   :tennis:2:*wear입다 *pen펜:*shoulder   어깨 *tennis테니스:0
+350:연필:weather:pencil:shout:test:2:*weather날씨 *pencil연필:*shout외치다 *test시험:0
+351:사람들:fall:it:people:bowl:3:*fall가을, 떨어지다 *it그것:*people사람들 *bowl사발, 그릇:0
+352:피아노:family:job:piano:box:3:*family가족 *job직업:*piano피아노 *box상자:0
+353:줍다, (열매를)따다:far:join:pick:bought:3:*far멀리 떨어진, 먼 *join가입하다, 함께 하다:*pick줍다, (열매를)따다 *bought구입했다. Buy의 과거형:0
+354:소풍:farm:juice:picnic:boy:3:*farm농장 *juice주스:*picnic소풍 *boy소년:0
+355:그림:fast:jump:picture:bread:3:*fast빠른 *jump뛰어오르다:*picture그림 *bread빵:0
+356:조각:fat:jungle:piece:break:3:*fat살찐 *jungle밀림지대:*piece조각 *break깨뜨리다:0
+357:돼지:famous:just:pig:breakfast :3:*famous유명한 *just오직, 단지:*pig돼지 *breakfast 아침밥:0
+358:조종사:father:keep:pilot:bridge:3:*father아버지 *keep지키다, 유지(계속)하다:*pilot조종사 *bridge다리:0
+359:사람:favorite:key:person:bright:3:*favorite가장 좋아하는 *key열쇠:*person사람 *bright밝은:0
+360:소나무:feel:kick:pine:bring:3:*feel느끼다 *kick차다:*pine소나무 *bring가져오다:0
+361:분홍:few:kid:pink:brother:3:*few조금밖에 없는 *kid아이:*pink분홍 *brother형제:0
+362:관, 파이프:field:kill:pipe:brown:3:*field들판, 경기장 *kill죽이다:*pipe관, 파이프 *brown갈색:0
+363:장소:fight:kind:place:brush:3:*fight싸움 *kind친절한, 종류:*place장소 *brush솔, 솔질하다:0
+364:계획:fill:king:plan:build:3:*fill채우다 *king왕:*plan계획 *build건설하다:0
+365:비행기:film:kitchen:plane:burn:3:*film영화 *kitchen부엌:*plane비행기 *burn불타다:0
+366:식물, 공장:find:knee:plant:bus:3:*find찾다 *knee무릎:*plant식물, 공장 *bus버스:0
+367:놀다:fine:knife:play:busy:3:*fine좋은, 맑은 *knife칼:*play놀다 *busy바쁜, (전화가) 통화중인:0
+368:제발, 기쁘게 하다:finger:knock:please:but:3:*finger손가락 *knock두드리다:*please제발, 기쁘게 하다 *but그러나:0
+369:주머니:finish:know:pocket:butter:3:*finish끝내다 *know알다:*pocket주머니 *butter버터:0
+370:가리키다, 점수:fire:lady:point:button:3:*fire불타다 *lady숙녀:*point가리키다, 점수 *button단추:0
+371:경찰:fish:lake:police:buy:3:*fish물고기 *lake호수:*police경찰 *buy사다:0
+372:수영장:fix:lamp:pool:by:3:*fix고치다, 고정시키다 *lamp등불:*pool수영장 *by…옆에:0
+373:가난한:flag:land:poor:bye:3:*flag깃발 *land땅:*poor가난한 *bye안녕:0
+374:우편:floor:large:post:calendar:3:*floor마루, 바닥 *large큰:*post우편 *calendar달력:0
+375:포스터:flower:last:poster:cake:3:*flower꽃 *last지난, 바로 전의:*poster포스터 *cake케익:0
+376:…보다:show:happy:because:than:4:*show보여주다, 쇼 *happy행복한:*because때문에 *than…보다:0
+377:감사하다:shower:hard:become:thank:4:*shower소나기, 샤워를 하다 *hard열심히, 단단한:*become…이 되다 *thank감사하다:0
+378:저것:shut:hat:bed:that:4:*shut닫다 *hat모자:*bed침대 *that저것:0
+379:그:sick:hate:before:the:4:*sick아픈 *hate싫어하다:*before…전에 *the그:0
+380:그 때:side:have:begin:then:4:*side옆, 측면 *have가지고 있다.:*begin시작하다 *then그 때:0
+381:거기에서:sign:he:behind:there:4:*sign신호, 서명 *he그:*behind…뒤에 *there거기에서:0
+382:그들:silver:head:bell:they:4:*silver은 *head머리카락:*bell종 *they그들:0
+383:두꺼운:sing:headache:below:thick:4:*sing노래하다 *headache두통:*below…아래 *thick두꺼운:0
+384:얇은:sir:hear:bench:thin:4:*sir…님, …씨 *hear듣다:*bench긴의자 *thin얇은:0
+385:것, 물체:sister:heart:beside:thing:4:*sister자매 *heart마음, 심장:*beside…곁에 *thing것, 물체:0
+386:생각하다:sit:heavy:better:think:4:*sit앉다 *heavy무거운:*better더 좋은 *think생각하다:0
+387:목마른:size:hello:between:thirsty:4:*size크기 *hello안녕, 여보세요:*between…사이에 *thirsty목마른:0
+388:이것:skate:help:bicycle:this:4:*skate스케이트 *help돕다:*bicycle자전거 *this이것:0
+389:천(=1000):skirt:hen:big:thousand:4:*skirt치마 *hen암닭:*big큰 *thousand천(=1000):0
+390:…을 통해:sky:here:bird:through:4:*sky하늘 *here여기:*bird새 *through…을 통해:0
+391:던지다:sleep:hi:birthday:throw:4:*sleep잠자다 *hi안녕:*birthday생일 *throw던지다:0
+392:표:slide:hide:black:ticket:4:*slide미끄러지다 *hide숨기다:*black검정색 *ticket표:0
+393:…을 묶다, 매다:slow:high:blow:tie:4:*slow느린 *high높은:*blow불다 *tie…을 묶다, 매다:0
+394:호랑이:small:hiking:blue:tiger:4:*small작은, 적은 *hiking도보여행, 하이킹:*blue푸른, 남색의, 파랑 *tiger호랑이:0
+395:…까지:smell:hill:board:till:4:*smell냄새나다 *hill언덕:*board판자, 널판지 *till…까지:0
+396:시간:smile:hit:boat:time:4:*smile웃다 *hit때리다:*boat배 *time시간:0
+397:피곤한:smoke:hold:body:tired:4:*smoke연기 *hold잡다, 들다:*body신체, 몸 *tired피곤한:0
+398:…로:snow:hole:book:to:4:*snow눈 *hole구멍:*book책, 예약하다 *to…로:0
+399:오늘:so:holiday:borrow:today:4:*so그래서, 매우 *holiday휴일:*borrow빌리다 *today오늘:0
+400:함께:soap:home:bottle:together:4:*soap비누 *home집:*bottle병 *together함께:0
+401:팔:arm:corner:glass:tomato:1:*arm팔 *corner모퉁이:*glass유리잔, 유리 *tomato토마토:0
+402:…주위에:around:count:glove:tomorrow:1:*around…주위에 *count세다, 계산하다:*glove장갑 *tomorrow내일:0
+403:도착하다:arrive:country:weekend:tonight:1:*arrive도착하다 *country나라, 마을:*weekend주말 *tonight오늘밤:0
+404:…같은, …로서:as:course:go:too:1:*as…같은, …로서 *course과정:*go가다 *too또한:0
+405:물어보다:ask:cousin:god:tooth:1:*ask물어보다 *cousin사촌:*god하나님 *tooth이:0
+406:…에 대해서:at:cover:gold:top:1:*at…에 대해서 *cover덮다:*gold금 *top꼭대기:0
+407:이모:aunt:cow:good:touch:1:*aunt이모 *cow암소:*good좋은, 맑은 *touch만지다:0
+408:가을:autumn:crayon:grandmother :town:1:*autumn가을 *crayon크레용:*grandmother 할머니 *town마을:0
+409:떨어져서:away:cream:grape:toy:1:*away떨어져서 *cream크림:*grape포도 *toy인형:0
+410:아기:baby:cross:grass:train:1:*baby아기 *cross가로 지르다:*grass풀, 잔디 *train기차, 훈련:0
+411:뒤에:back:cry:gray:travel:1:*back뒤에 *cry울다:*gray회색 *travel여행하다:0
+412:나쁜:bad:cup:great:tree:1:*bad나쁜 *cup컵:*great위대한 *tree나무:0
+413:가방:bag:curtain:green:trip:1:*bag가방 *curtain커튼:*green녹색 *trip여행:0
+414:공:ball:curly:ground:truck:1:*ball공 *curly곱슬머리의:*ground땅, 기초 *truck트럭, 화물자동차:0
+415:풍선:balloon:cut:group:true      :1:*balloon풍선 *cut자르다:*group단체 *true      참된, 진실의:0
+416:바나나:banana:dad:grow:try:1:*banana바나나 *dad아빠:*grow자라다 *try노력하다, 시도하다:0
+417:끈, 악단:band:dance:guitar:tulip:1:*band끈, 악단 *dance춤추다:*guitar기타 *tulip툴립:0
+418:은행:bank:danger:hair:turn:1:*bank은행 *danger위험한:*hair머리카락 *turn돌다, :0
+419:기초:base:dark:half:twice:1:*base기초 *dark어두운:*half절반 *twice두 번:0
+420:바구니:basket:date:hall:umbrella:1:*basket바구니 *date날짜:*hall넓은 방, 홀 *umbrella우산:0
+421:목욕:bath:daughter :hamburger:uncle:1:*bath목욕 *daughter 딸:*hamburger햄버거 *uncle삼촌, 아저씨:0
+422:이다, 있다:be:day:hand:under:1:*be이다, 있다 *day낮, 하루:*hand손 *under…아래에서:0
+423:해변:beach:dead:handle:understand  :1:*beach해변 *dead죽은:*handle손잡이 *understand  이해하다:0
+424:곰:bear:deep:handsome:until:1:*bear곰 *deep깊은:*handsome잘 생긴 *until…까지:0
+425:아름다운:beautiful:dear:happen:up:1:*beautiful아름다운 *dear존경하는:*happen(사건이)발생하다 *up위에:0
+426:식당:neck:restaurant :use:sand:2:*neck목 *restaurant 식당:*use이용하다, 사용하다 *sand모래:0
+427:되돌아가다:need:return:usual:say:2:*need필요하다 *return되돌아가다:*usual보통의, 평소의 *say말하다:0
+428:리본:never:ribbon:vacation:school:2:*never결코.. 하지 않다 *ribbon리본:*vacation휴가, 방학 *school학교:0
+429:쌀:new:rice:vegetable:score:2:*new새로운 *rice쌀:*vegetable채소, 야채 *score점수:0
+430:부유한:news:rich:very:sea:2:*news뉴스 *rich부유한:*very매우, 대단히 *sea바다:0
+431:타다:next:ride:video:season:2:*next다음의 *ride타다:*video비디오 *season계절:0
+432:옳은, 오른쪽:next to:right:village:seat:2:*next to…옆에 *right옳은, 오른쪽:*village마을 *seat앉다, 좌석:0
+433:반지, 울리다:nice:ring:visit:see:2:*nice좋은 *ring반지, 울리다:*visit방문하다 *see보다:0
+434:강:night:river:violin:sell:2:*night밤 *river강:*violin바이올린 *sell팔다:0
+435:길:noisy:road:wait:send:2:*noisy시끄러운 *road길:*wait기다리다 *send보내다:0
+436:로봇:noise:robot:wake:service:2:*noise소음 *robot로봇:*wake잠이 깨다 *service봉사하다:0
+437:바위:north:rock:walk:set:2:*north북쪽 *rock바위:*walk걷다 *set놓다:0
+438:로켓:nose:rocket:wall:shall:2:*nose코 *rocket로켓:*wall벽 *shall…일 것이다:0
+439:구르다:not:roll:want:shape:2:*not아니다 *roll구르다:*want원하다 *shape모양:0
+440:지붕:note:roof:war:she:2:*note공책 *roof지붕:*war전쟁 *she그녀:0
+441:방:now:room:warm:sheep:2:*now지금 *room방:*warm따뜻한 *sheep양:0
+442:장미:number:rose:wash:sheet:2:*number숫자 *rose장미:*wash씻다 *sheet한 장, 시트:0
+443:둥근:nurse:round:waste:ship:2:*nurse간호원 *round둥근:*waste낭비하다 *ship배:0
+444:자, 지배자:o'clock:ruler:watch:shirt:2:*o'clock…시, 정각 *ruler자, 지배자:*watch보다 *shirt(남자용)와이셔츠:0
+445:달리다:of:run:water:shoes:2:*of…의 *run달리다:*water물 *shoes구두:0
+446:슬픈:off:sad:way:shoot:2:*off떨어진, 끄다 *sad슬픈:*way방법, 길 *shoot발사하다, 쏘다:0
+447:안전한:office:safe:we:shop:2:*office사무실 *safe안전한:*we우리 *shop가게:0
+448:소금:often:salt:weak:short:2:*often자주, 종종 *salt소금:*weak약한 *short짧은:0
+449:샐러드:oil:salad:wear:shoulder   :2:*oil기름 *salad샐러드:*wear입다 *shoulder   어깨:0
+450:같은:okay:same:weather:shout:2:*okay좋아 *same같은:*weather날씨 *shout외치다:0
+451:그것:supper:fall:it:bowl:3:*supper저녁식사 *fall가을, 떨어지다:*it그것 *bowl사발, 그릇:0
+452:직업:sure:family:job:box:3:*sure확신한 *family가족:*job직업 *box상자:0
+453:가입하다, 함께 하다:surprise:far:join:bought:3:*surprise놀라운 *far멀리 떨어진, 먼:*join가입하다, 함께 하다 *bought구입했다. Buy의 과거형:0
+454:주스:sweater:farm:juice:boy:3:*sweater스웨터 *farm농장:*juice주스 *boy소년:0
+455:뛰어오르다:sweet:fast:jump:bread:3:*sweet달콤한 *fast빠른:*jump뛰어오르다 *bread빵:0
+456:밀림지대:swim:fat:jungle:break:3:*swim수영하다 *fat살찐:*jungle밀림지대 *break깨뜨리다:0
+457:오직, 단지:swing:famous:just:breakfast :3:*swing흔들리다 *famous유명한:*just오직, 단지 *breakfast 아침밥:0
+458:지키다, 유지(계속)하다:switch:father:keep:bridge:3:*switch스위치 *father아버지:*keep지키다, 유지(계속)하다 *bridge다리:0
+459:열쇠:table:favorite:key:bright:3:*table탁자 *favorite가장 좋아하는:*key열쇠 *bright밝은:0
+460:차다:take:feel:kick:bring:3:*take잡다, 가지고 가다 *feel느끼다:*kick차다 *bring가져오다:0
+461:아이:talk:few:kid:brother:3:*talk말하다 *few조금밖에 없는:*kid아이 *brother형제:0
+462:죽이다:tall:field:kill:brown:3:*tall키가 큰 *field들판, 경기장:*kill죽이다 *brown갈색:0
+463:친절한, 종류:taller:fight:kind:brush:3:*taller더 큰 *fight싸움:*kind친절한, 종류 *brush솔, 솔질하다:0
+464:왕:tape:fill:king:build:3:*tape테이프 *fill채우다:*king왕 *build건설하다:0
+465:부엌:taste:film:kitchen:burn:3:*taste맛을 보다, 맛이 나다 *film영화:*kitchen부엌 *burn불타다:0
+466:무릎:taxi:find:knee:bus:3:*taxi택시 *find찾다:*knee무릎 *bus버스:0
+467:칼:tea:fine:knife:busy:3:*tea차 *fine좋은, 맑은:*knife칼 *busy바쁜, (전화가) 통화중인:0
+468:두드리다:teach:finger:knock:but:3:*teach가르치다 *finger손가락:*knock두드리다 *but그러나:0
+469:알다:team:finish:know:butter:3:*team팀 *finish끝내다:*know알다 *butter버터:0
+470:숙녀:telephone:fire:lady:button:3:*telephone전화기 *fire불타다:*lady숙녀 *button단추:0
+471:호수:television:fish:lake:buy:3:*television텔레비전 *fish물고기:*lake호수 *buy사다:0
+472:등불:tell:fix:lamp:by:3:*tell이야기하다 *fix고치다, 고정시키다:*lamp등불 *by…옆에:0
+473:땅:temple:flag:land:bye:3:*temple절 *flag깃발:*land땅 *bye안녕:0
+474:큰:tennis:floor:large:calendar:3:*tennis테니스 *floor마루, 바닥:*large큰 *calendar달력:0
+475:지난, 바로 전의:test:flower:last:cake:3:*test시험 *flower꽃:*last지난, 바로 전의 *cake케익:0
+476:때문에:show:happy:fish:because:4:*show보여주다, 쇼 *happy행복한:*fish물고기 *because때문에:0
+477:…이 되다:shower:hard:this:become:4:*shower소나기, 샤워를 하다 *hard열심히, 단단한:*this이것 *become…이 되다:0
+478:침대:shut:hat:cover:bed:4:*shut닫다 *hat모자:*cover덮다 *bed침대:0
+479:…전에:sick:hate:piano:before:4:*sick아픈 *hate싫어하다:*piano피아노 *before…전에:0
+480:시작하다:side:have:he:begin:4:*side옆, 측면 *have가지고 있다.:*he그 *begin시작하다:0
+481:…뒤에:sign:he:table:behind:4:*sign신호, 서명 *he그:*table탁자 *behind…뒤에:0
+482:종:silver:head:hold:bell:4:*silver은 *head머리카락:*hold잡다, 들다 *bell종:0
+483:…아래:sing:headache:poster:below:4:*sing노래하다 *headache두통:*poster포스터 *below…아래:0
+484:긴의자:sir:hear:bird:bench:4:*sir…님, …씨 *hear듣다:*bird새 *bench긴의자:0
+485:…곁에:sister:heart:hello:beside:4:*sister자매 *heart마음, 심장:*hello안녕, 여보세요 *beside…곁에:0
+486:더 좋은:sit:heavy:brush:better:4:*sit앉다 *heavy무거운:*brush솔, 솔질하다 *better더 좋은:0
+487:…사이에:size:hello:day:between:4:*size크기 *hello안녕, 여보세요:*day낮, 하루 *between…사이에:0
+488:자전거:skate:help:finger:bicycle:4:*skate스케이트 *help돕다:*finger손가락 *bicycle자전거:0
+489:큰:skirt:hen:because:big:4:*skirt치마 *hen암닭:*because때문에 *big큰:0
+490:새:sky:here:bridge:bird:4:*sky하늘 *here여기:*bridge다리 *bird새:0
+491:생일:sleep:hi:smoke:birthday:4:*sleep잠자다 *hi안녕:*smoke연기 *birthday생일:0
+492:검정색:slide:hide:round:black:4:*slide미끄러지다 *hide숨기다:*round둥근 *black검정색:0
+493:불다:slow:high:return:blow:4:*slow느린 *high높은:*return되돌아가다 *blow불다:0
+494:푸른, 남색의, 파랑:small:hiking:fire:blue:4:*small작은, 적은 *hiking도보여행, 하이킹:*fire불타다 *blue푸른, 남색의, 파랑:0
+495:판자, 널판지:smell:hill:key:board:4:*smell냄새나다 *hill언덕:*key열쇠 *board판자, 널판지:0
+496:배:smile:hit:buy:boat:4:*smile웃다 *hit때리다:*buy사다 *boat배:0
+497:신체, 몸:smoke:hold:feel:body:4:*smoke연기 *hold잡다, 들다:*feel느끼다 *body신체, 몸:0
+498:책, 예약하다:snow:hole:ship:book:4:*snow눈 *hole구멍:*ship배 *book책, 예약하다:0
+499:빌리다:so:holiday:around:borrow:4:*so그래서, 매우 *holiday휴일:*around…주위에 *borrow빌리다:0
+500:병:soap:home:as:bottle:4:*soap비누 *home집:*as…같은, …로서 *bottle병:0
+501:모퉁이:corner:glass:tomato:neck:1:*corner모퉁이 *glass유리잔, 유리:*tomato토마토 *neck목:0
+502:세다, 계산하다:count:glove:tomorrow:need:1:*count세다, 계산하다 *glove장갑:*tomorrow내일 *need필요하다:0
+503:나라, 마을:country:weekend:tonight:never:1:*country나라, 마을 *weekend주말:*tonight오늘밤 *never결코.. 하지 않다:0
+504:과정:course:go:too:new:1:*course과정 *go가다:*too또한 *new새로운:0
+505:사촌:cousin:god:tooth:news:1:*cousin사촌 *god하나님:*tooth이 *news뉴스:0
+506:덮다:cover:gold:top:next:1:*cover덮다 *gold금:*top꼭대기 *next다음의:0
+507:암소:cow:good:touch:next to:1:*cow암소 *good좋은, 맑은:*touch만지다 *next to…옆에:0
+508:크레용:crayon:grandmother :town:nice:1:*crayon크레용 *grandmother 할머니:*town마을 *nice좋은:0
+509:크림:cream:grape:toy:night:1:*cream크림 *grape포도:*toy인형 *night밤:0
+510:가로 지르다:cross:grass:train:noisy:1:*cross가로 지르다 *grass풀, 잔디:*train기차, 훈련 *noisy시끄러운:0
+511:울다:cry:gray:travel:noise:1:*cry울다 *gray회색:*travel여행하다 *noise소음:0
+512:컵:cup:great:tree:north:1:*cup컵 *great위대한:*tree나무 *north북쪽:0
+513:커튼:curtain:green:trip:nose:1:*curtain커튼 *green녹색:*trip여행 *nose코:0
+514:곱슬머리의:curly:ground:truck:not:1:*curly곱슬머리의 *ground땅, 기초:*truck트럭, 화물자동차 *not아니다:0
+515:자르다:cut:group:true      :note:1:*cut자르다 *group단체:*true      참된, 진실의 *note공책:0
+516:아빠:dad:grow:try:now:1:*dad아빠 *grow자라다:*try노력하다, 시도하다 *now지금:0
+517:춤추다:dance:guitar:tulip:number:1:*dance춤추다 *guitar기타:*tulip툴립 *number숫자:0
+518:위험한:danger:hair:turn:nurse:1:*danger위험한 *hair머리카락:*turn돌다,  *nurse간호원:0
+519:어두운:dark:half:twice:o'clock:1:*dark어두운 *half절반:*twice두 번 *o'clock…시, 정각:0
+520:날짜:date:hall:umbrella:of:1:*date날짜 *hall넓은 방, 홀:*umbrella우산 *of…의:0
+521:딸:daughter :hamburger:uncle:off:1:*daughter 딸 *hamburger햄버거:*uncle삼촌, 아저씨 *off떨어진, 끄다:0
+522:낮, 하루:day:hand:under:office:1:*day낮, 하루 *hand손:*under…아래에서 *office사무실:0
+523:죽은:dead:handle:understand  :often:1:*dead죽은 *handle손잡이:*understand  이해하다 *often자주, 종종:0
+524:깊은:deep:handsome:until:oil:1:*deep깊은 *handsome잘 생긴:*until…까지 *oil기름:0
+525:존경하는:dear:happen:up:okay:1:*dear존경하는 *happen(사건이)발생하다:*up위에 *okay좋아:0
+526:모래:use:sand:supper:fall:2:*use이용하다, 사용하다 *sand모래:*supper저녁식사 *fall가을, 떨어지다:0
+527:말하다:usual:say:sure:family:2:*usual보통의, 평소의 *say말하다:*sure확신한 *family가족:0
+528:학교:vacation:school:surprise:far:2:*vacation휴가, 방학 *school학교:*surprise놀라운 *far멀리 떨어진, 먼:0
+529:점수:vegetable:score:sweater:farm:2:*vegetable채소, 야채 *score점수:*sweater스웨터 *farm농장:0
+530:바다:very:sea:sweet:fast:2:*very매우, 대단히 *sea바다:*sweet달콤한 *fast빠른:0
+531:계절:video:season:swim:fat:2:*video비디오 *season계절:*swim수영하다 *fat살찐:0
+532:앉다, 좌석:village:seat:swing:famous:2:*village마을 *seat앉다, 좌석:*swing흔들리다 *famous유명한:0
+533:보다:visit:see:switch:father:2:*visit방문하다 *see보다:*switch스위치 *father아버지:0
+534:팔다:violin:sell:table:favorite:2:*violin바이올린 *sell팔다:*table탁자 *favorite가장 좋아하는:0
+535:보내다:wait:send:take:feel:2:*wait기다리다 *send보내다:*take잡다, 가지고 가다 *feel느끼다:0
+536:봉사하다:wake:service:talk:few:2:*wake잠이 깨다 *service봉사하다:*talk말하다 *few조금밖에 없는:0
+537:놓다:walk:set:tall:field:2:*walk걷다 *set놓다:*tall키가 큰 *field들판, 경기장:0
+538:…일 것이다:wall:shall:taller:fight:2:*wall벽 *shall…일 것이다:*taller더 큰 *fight싸움:0
+539:모양:want:shape:tape:fill:2:*want원하다 *shape모양:*tape테이프 *fill채우다:0
+540:그녀:war:she:taste:film:2:*war전쟁 *she그녀:*taste맛을 보다, 맛이 나다 *film영화:0
+541:양:warm:sheep:taxi:find:2:*warm따뜻한 *sheep양:*taxi택시 *find찾다:0
+542:한 장, 시트:wash:sheet:tea:fine:2:*wash씻다 *sheet한 장, 시트:*tea차 *fine좋은, 맑은:0
+543:배:waste:ship:teach:finger:2:*waste낭비하다 *ship배:*teach가르치다 *finger손가락:0
+544:(남자용)와이셔츠:watch:shirt:team:finish:2:*watch보다 *shirt(남자용)와이셔츠:*team팀 *finish끝내다:0
+545:구두:water:shoes:telephone:fire:2:*water물 *shoes구두:*telephone전화기 *fire불타다:0
+546:발사하다, 쏘다:way:shoot:television:fish:2:*way방법, 길 *shoot발사하다, 쏘다:*television텔레비전 *fish물고기:0
+547:가게:we:shop:tell:fix:2:*we우리 *shop가게:*tell이야기하다 *fix고치다, 고정시키다:0
+548:짧은:weak:short:temple:flag:2:*weak약한 *short짧은:*temple절 *flag깃발:0
+549:어깨:wear:shoulder   :tennis:floor:2:*wear입다 *shoulder   어깨:*tennis테니스 *floor마루, 바닥:0
+550:외치다:weather:shout:test:flower:2:*weather날씨 *shout외치다:*test시험 *flower꽃:0
+551:보여주다, 쇼:bowl:it:show:handle:3:*bowl사발, 그릇 *it보여주다, 쇼:*show보여주다, 쇼 *handle손잡이:0
+552:소나기, 샤워를 하다:box:job:shower:boat:3:*box상자 *job소나기, 샤워를 하다:*shower소나기, 샤워를 하다 *boat배:0
+553:닫다:bought:join:shut:paint:3:*bought구입했다. Buy의 과거형 *join닫다:*shut닫다 *paint칠하다:0
+554:아픈:boy:juice:sick:be:3:*boy소년 *juice아픈:*sick아픈 *be이다, 있다:0
+555:옆, 측면:bread:jump:side:video:3:*bread빵 *jump옆, 측면:*side옆, 측면 *video비디오:0
+556:신호, 서명:break:jungle:sign:gray:3:*break깨뜨리다 *jungle신호, 서명:*sign신호, 서명 *gray회색:0
+557:은:breakfast :just:silver:team:3:*breakfast 아침밥 *just은:*silver은 *team팀:0
+558:노래하다:bridge:keep:sing:dead:3:*bridge다리 *keep노래하다:*sing노래하다 *dead죽은:0
+559:…님, …씨:bright:key:sir:very:3:*bright밝은 *key…님, …씨:*sir…님, …씨 *very매우, 대단히:0
+560:자매:bring:kick:sister:cake:3:*bring가져오다 *kick자매:*sister자매 *cake케익:0
+561:앉다:brother:kid:sit:exciting:3:*brother형제 *kid앉다:*sit앉다 *exciting흥미진진한, 흥문시키는:0
+562:크기:brown:kill:size:through:3:*brown갈색 *kill크기:*size크기 *through…을 통해:0
+563:스케이트:brush:kind:skate:oil:3:*brush솔, 솔질하다 *kind스케이트:*skate스케이트 *oil기름:0
+564:치마:build:king:skirt:basket:3:*build건설하다 *king치마:*skirt치마 *basket바구니:0
+565:하늘:burn:kitchen:sky:better:3:*burn불타다 *kitchen하늘:*sky하늘 *better더 좋은:0
+566:잠자다:bus:knee:sleep:set:3:*bus버스 *knee잠자다:*sleep잠자다 *set놓다:0
+567:미끄러지다:busy:knife:slide:tooth:3:*busy바쁜, (전화가) 통화중인 *knife미끄러지다:*slide미끄러지다 *tooth이:0
+568:느린:but:knock:slow:start:3:*but그러나 *knock느린:*slow느린 *start시작하다:0
+569:작은, 적은:butter:know:small:bed:3:*butter버터 *know작은, 적은:*small작은, 적은 *bed침대:0
+570:냄새나다:button:lady:smell:join:3:*button단추 *lady냄새나다:*smell냄새나다 *join가입하다, 함께 하다:0
+571:웃다:buy:lake:smile:flower:3:*buy사다 *lake웃다:*smile웃다 *flower꽃:0
+572:연기:by:lamp:smoke:enjoy:3:*by…옆에 *lamp연기:*smoke연기 *enjoy즐기다:0
+573:눈:bye:land:snow:knife:3:*bye안녕 *land눈:*snow눈 *knife칼:0
+574:그래서, 매우:calendar:large:so:candy:3:*calendar달력 *large그래서, 매우:*so그래서, 매우 *candy사탕:0
+575:비누:cake:last:soap:video:3:*cake케익 *last비누:*soap비누 *video비디오:0
+576:행복한:snow:there:arm:happy:4:*snow눈 *there거기에서:*arm팔 *happy행복한:0
+577:열심히, 단단한:few:sell:around:hard:4:*few조금밖에 없는 *sell팔다:*around…주위에 *hard열심히, 단단한:0
+578:모자:song:once:arrive:hat:4:*song노래 *once한 번:*arrive도착하다 *hat모자:0
+579:싫어하다:rich:wash:as:hate:4:*rich부유한 *wash씻다:*as…같은, …로서 *hate싫어하다:0
+580:가지고 있다.:office:war:ask:have:4:*office사무실 *war전쟁:*ask물어보다 *have가지고 있다.:0
+581:그:speak:up:at:he:4:*speak말하다, 이야기하다 *up위에:*at…에 대해서 *he그:0
+582:머리카락:right:safe:aunt:head:4:*right옳은, 오른쪽 *safe안전한:*aunt이모 *head머리카락:0
+583:두통:Mr.:tennis:autumn:headache:4:*Mr.…씨 *tennis테니스:*autumn가을 *headache두통:0
+584:듣다:diary:knee:away:hear:4:*diary일기 *knee무릎:*away떨어져서 *hear듣다:0
+585:마음, 심장:center:sign:baby:heart:4:*center중앙 *sign신호, 서명:*baby아기 *heart마음, 심장:0
+586:무거운:we:eye:back:heavy:4:*we우리 *eye눈:*back뒤에 *heavy무거운:0
+587:안녕, 여보세요:wall:brown:bad:hello:4:*wall벽 *brown갈색:*bad나쁜 *hello안녕, 여보세요:0
+588:돕다:television:supper:bag:help:4:*television텔레비전 *supper저녁식사:*bag가방 *help돕다:0
+589:암닭:shop:sing:ball:hen:4:*shop가게 *sing노래하다:*ball공 *hen암닭:0
+590:여기:side:pocket:balloon:here:4:*side옆, 측면 *pocket주머니:*balloon풍선 *here여기:0
+591:안녕:excellent:model:banana:hi:4:*excellent뛰어난 *model모형:*banana바나나 *hi안녕:0
+592:숨기다:holiday:understand  :band:hide:4:*holiday휴일 *understand  이해하다:*band끈, 악단 *hide숨기다:0
+593:높은:shower:next:bank:high:4:*shower소나기, 샤워를 하다 *next다음의:*bank은행 *high높은:0
+594:도보여행, 하이킹:ask:buy:base:hiking:4:*ask물어보다 *buy사다:*base기초 *hiking도보여행, 하이킹:0
+595:언덕:surprise:hair:basket:hill:4:*surprise놀라운 *hair머리카락:*basket바구니 *hill언덕:0
+596:때리다:hurry:big:bath:hit:4:*hurry서두르다 *big큰:*bath목욕 *hit때리다:0
+597:잡다, 들다:she:bicycle:be:hold:4:*she그녀 *bicycle자전거:*be이다, 있다 *hold잡다, 들다:0
+598:구멍:flag:road:beach:hole:4:*flag깃발 *road길:*beach해변 *hole구멍:0
+599:휴일:war:police:bear:holiday:4:*war전쟁 *police경찰:*bear곰 *holiday휴일:0
+600:집:catch:farm:beautiful:home:4:*catch붙잡다 *farm농장:*beautiful아름다운 *home집:0
+601:유리잔, 유리:glass:grape:head:bird:1:*glass유리잔, 유리 *grape포도:*head머리카락 *bird새:0
+602:장갑:glove:smoke:not:drum:1:*glove장갑 *smoke연기:*not아니다 *drum북:0
+603:주말:weekend:pipe:bottle:shirt:1:*weekend주말 *pipe관, 파이프:*bottle병 *shirt(남자용)와이셔츠:0
+604:가다:go:early:hate:better:1:*go가다 *early일찍:*hate싫어하다 *better더 좋은:0
+605:하나님:god:borrow:group:fat:1:*god하나님 *borrow빌리다:*group단체 *fat살찐:0
+606:금:gold:please:curtain:break:1:*gold금 *please제발, 기쁘게 하다:*curtain커튼 *break깨뜨리다:0
+607:좋은, 맑은:good:kid:famous:small:1:*good좋은, 맑은 *kid아이:*famous유명한 *small작은, 적은:0
+608:할머니:grandmother :cover:enough:knee:1:*grandmother 할머니 *cover덮다:*enough충분한 *knee무릎:0
+609:포도:grape:noise:ticket:so:1:*grape포도 *noise소음:*ticket표 *so그래서, 매우:0
+610:풀, 잔디:grass:bought:often:home:1:*grass풀, 잔디 *bought구입했다. Buy의 과거형:*often자주, 종종 *home집:0
+611:회색:gray:hat:bought:fix:1:*gray회색 *hat모자:*bought구입했다. Buy의 과거형 *fix고치다, 고정시키다:0
+612:위대한:great:spoon:switch:count:1:*great위대한 *spoon숟가락:*switch스위치 *count세다, 계산하다:0
+613:녹색:green:say:beside:half:1:*green녹색 *say말하다:*beside…곁에 *half절반:0
+614:땅, 기초:ground:exciting:town:poor:1:*ground땅, 기초 *exciting흥미진진한, 흥문시키는:*town마을 *poor가난한:0
+615:단체:group:job:the:skate:1:*group단체 *job직업:*the그 *skate스케이트:0
+616:자라다:grow:party:call:pardon:1:*grow자라다 *party파티:*call전화, 부르다 *pardon용서하다:0
+617:기타:guitar:under:chance:noisy:1:*guitar기타 *under…아래에서:*chance기회 *noisy시끄러운:0
+618:머리카락:hair:father:god:can:1:*hair머리카락 *father아버지:*god하나님 *can할 수 있다:0
+619:절반:half:bright:orange:uncle:1:*half절반 *bright밝은:*orange오렌지 *uncle삼촌, 아저씨:0
+620:넓은 방, 홀:hall:grandmother :excellent:sick:1:*hall넓은 방, 홀 *grandmother 할머니:*excellent뛰어난 *sick아픈:0
+621:햄버거:hamburger:move:sick:knife:1:*hamburger햄버거 *move움직이다, 이사하다:*sick아픈 *knife칼:0
+622:손:hand:pink:sweater:country:1:*hand손 *pink분홍:*sweater스웨터 *country나라, 마을:0
+623:손잡이:handle:right:famous:butter:1:*handle손잡이 *right옳은, 오른쪽:*famous유명한 *butter버터:0
+624:잘 생긴:handsome:burn:here:small:1:*handsome잘 생긴 *burn불타다:*here여기 *small작은, 적은:0
+625:(사건이)발생하다:happen:money:blow:pine:1:*happen(사건이)발생하다 *money돈:*blow불다 *pine소나무:0
+626:토마토:mountain:tomato:finger:nose:2:*mountain산 *tomato토마토:*finger손가락 *nose코:0
+627:내일:throw:tomorrow:thing:movie:2:*throw던지다 *tomorrow내일:*thing것, 물체 *movie영화:0
+628:오늘밤:banana:tonight:hit:have:2:*banana바나나 *tonight오늘밤:*hit때리다 *have가지고 있다.:0
+629:또한:hand:too:glass:roll:2:*hand손 *too또한:*glass유리잔, 유리 *roll구르다:0
+630:이:sit:tooth:often:favorite:2:*sit앉다 *tooth이:*often자주, 종종 *favorite가장 좋아하는:0
+631:꼭대기:field:top:season:hear:2:*field들판, 경기장 *top꼭대기:*season계절 *hear듣다:0
+632:만지다:fine:touch:umbrella:village:2:*fine좋은, 맑은 *touch만지다:*umbrella우산 *village마을:0
+633:마을:short:town:wait:house:2:*short짧은 *town마을:*wait기다리다 *house집:0
+634:인형:juice:toy:river:sea:2:*juice주스 *toy인형:*river강 *sea바다:0
+635:기차, 훈련:ear:train:film:people:2:*ear귀 *train기차, 훈련:*film영화 *people사람들:0
+636:여행하다:beside:travel:button:safe:2:*beside…곁에 *travel여행하다:*button단추 *safe안전한:0
+637:나무:fat:tree:tomato:between:2:*fat살찐 *tree나무:*tomato토마토 *between…사이에:0
+638:여행:music:trip:sky:dad:2:*music음악 *trip여행:*sky하늘 *dad아빠:0
+639:트럭, 화물자동차:hall:truck:dear:floor:2:*hall넓은 방, 홀 *truck트럭, 화물자동차:*dear존경하는 *floor마루, 바닥:0
+640:참된, 진실의:brown:true      :band:the:2:*brown갈색 *true      참된, 진실의:*band끈, 악단 *the그:0
+641:노력하다, 시도하다:trip:try:please:seat:2:*trip여행 *try노력하다, 시도하다:*please제발, 기쁘게 하다 *seat앉다, 좌석:0
+642:툴립:big:tulip:okay:place:2:*big큰 *tulip툴립:*okay좋아 *place장소:0
+643:돌다, :car:turn:headache:autumn:2:*car자동차 *turn돌다, :*headache두통 *autumn가을:0
+644:두 번:room:twice:hungry:exercise:2:*room방 *twice두 번:*hungry배고픈 *exercise연습, 운동:0
+645:우산:balloon:umbrella:kill:kind:2:*balloon풍선 *umbrella우산:*kill죽이다 *kind친절한, 종류:0
+646:삼촌, 아저씨:same:uncle:snow:father:2:*same같은 *uncle삼촌, 아저씨:*snow눈 *father아버지:0
+647:…아래에서:peace:under:pants:cut:2:*peace평화 *under…아래에서:*pants바지 *cut자르다:0
+648:이해하다:glass:understand  :high:never:2:*glass유리잔, 유리 *understand  이해하다:*high높은 *never결코.. 하지 않다:0
+649:…까지:kitchen:until:news:shirt:2:*kitchen부엌 *until…까지:*news뉴스 *shirt(남자용)와이셔츠:0
+650:위에:sand:up:shower:picture:2:*sand모래 *up위에:*shower소나기, 샤워를 하다 *picture그림:0
+651:목:few:sister:neck:over:3:*few조금밖에 없는 *sister자매:*neck목 *over…위쪽에:0
+652:필요하다:than:bye:need:danger:3:*than…보다 *bye안녕:*need필요하다 *danger위험한:0
+653:결코.. 하지 않다:cow:calendar:never:dear:3:*cow암소 *calendar달력:*never결코.. 하지 않다 *dear존경하는:0
+654:새로운:hard:lady:new:below:3:*hard열심히, 단단한 *lady숙녀:*new새로운 *below…아래:0
+655:뉴스:pilot:month:news:surprise:3:*pilot조종사 *month달, 개월:*news뉴스 *surprise놀라운:0
+656:다음의:hit:field:next:roof:3:*hit때리다 *field들판, 경기장:*next다음의 *roof지붕:0
+657:…옆에:fire:hold:next to:hide:3:*fire불타다 *hold잡다, 들다:*next to…옆에 *hide숨기다:0
+658:좋은:ruler:happen:nice:sad:3:*ruler자, 지배자 *happen(사건이)발생하다:*nice좋은 *sad슬픈:0
+659:밤:he:bear:night:sit:3:*he그 *bear곰:*night밤 *sit앉다:0
+660:시끄러운:bag:box:noisy:curly:3:*bag가방 *box상자:*noisy시끄러운 *curly곱슬머리의:0
+661:소음:country:stand:noise:son:3:*country나라, 마을 *stand서다, 서 있다:*noise소음 *son아들:0
+662:북쪽:beach:off:north:duck:3:*beach해변 *off떨어진, 끄다:*north북쪽 *duck오리:0
+663:코:god:king:nose:swim:3:*god하나님 *king왕:*nose코 *swim수영하다:0
+664:아니다:supper:tie:not:arm:3:*supper저녁식사 *tie…을 묶다, 매다:*not아니다 *arm팔:0
+665:공책:bowl:think:note:pick:3:*bowl사발, 그릇 *think생각하다:*note공책 *pick줍다, (열매를)따다:0
+666:지금:by:enough:now:open:3:*by…옆에 *enough충분한:*now지금 *open열다:0
+667:숫자:flower:be:number:evening:3:*flower꽃 *be이다, 있다:*number숫자 *evening저녁식사:0
+668:간호원:kick:taller:nurse:south:3:*kick차다 *taller더 큰:*nurse간호원 *south남쪽:0
+669:…시, 정각:smile:next to:o'clock:book:3:*smile웃다 *next to…옆에:*o'clock…시, 정각 *book책, 예약하다:0
+670:…의:bring:wear:of:keep:3:*bring가져오다 *wear입다:*of…의 *keep지키다, 유지(계속)하다:0
+671:떨어진, 끄다:go:roof:off:thank:3:*go가다 *roof지붕:*off떨어진, 끄다 *thank감사하다:0
+672:사무실:new:watch:office:she:3:*new새로운 *watch보다:*office사무실 *she그녀:0
+673:자주, 종종:bus:until:often:fine:3:*bus버스 *until…까지:*often자주, 종종 *fine좋은, 맑은:0
+674:기름:thick:cry:oil:show:3:*thick두꺼운 *cry울다:*oil기름 *show보여주다, 쇼:0
+675:좋아:ice:bench:okay:name:3:*ice얼음 *bench긴의자:*okay좋아 *name이름:0
+676:이용하다, 사용하다:narrow:body:ground:use:4:*narrow좁은 *body신체, 몸:*ground땅, 기초 *use이용하다, 사용하다:0
+677:보통의, 평소의:kill:body:heavy:usual:4:*kill죽이다 *body신체, 몸:*heavy무거운 *usual보통의, 평소의:0
+678:휴가, 방학:dream:rice:borrow:vacation:4:*dream꿈 *rice쌀:*borrow빌리다 *vacation휴가, 방학:0
+679:채소, 야채:pencil:pool:job:vegetable:4:*pencil연필 *pool수영장:*job직업 *vegetable채소, 야채:0
+680:매우, 대단히:restaurant :room:understand  :very:4:*restaurant 식당 *room방:*understand  이해하다 *very매우, 대단히:0
+681:비디오:fix:lady:hole:video:4:*fix고치다, 고정시키다 *lady숙녀:*hole구멍 *video비디오:0
+682:마을:post:speed:office:village:4:*post우편 *speed속력:*office사무실 *village마을:0
+683:방문하다:baby:kick:play:visit:4:*baby아기 *kick차다:*play놀다 *visit방문하다:0
+684:바이올린:slow:only:hiking:violin:4:*slow느린 *only오직, 단지:*hiking도보여행, 하이킹 *violin바이올린:0
+685:기다리다:handsome:sleep:brother:wait:4:*handsome잘 생긴 *sleep잠자다:*brother형제 *wait기다리다:0
+686:잠이 깨다:cheese:size:burn:wake:4:*cheese치즈 *size크기:*burn불타다 *wake잠이 깨다:0
+687:걷다:if:dance:skate:walk:4:*if만약 … 라면 *dance춤추다:*skate스케이트 *walk걷다:0
+688:벽:father:twice:butter:wall:4:*father아버지 *twice두 번:*butter버터 *wall벽:0
+689:원하다:sheet:waste:thank:want:4:*sheet한 장, 시트 *waste낭비하다:*thank감사하다 *want원하다:0
+690:전쟁:see:place:heart:war:4:*see보다 *place장소:*heart마음, 심장 *war전쟁:0
+691:따뜻한:soap:hi:between:warm:4:*soap비누 *hi안녕:*between…사이에 *warm따뜻한:0
+692:씻다:bag:box:fire:wash:4:*bag가방 *box상자:*fire불타다 *wash씻다:0
+693:낭비하다:sister:breakfast :hot:waste:4:*sister자매 *breakfast 아침밥:*hot뜨거운 *waste낭비하다:0
+694:보다:robot:shoot:band:watch:4:*robot로봇 *shoot발사하다, 쏘다:*band끈, 악단 *watch보다:0
+695:물:away:sports:service:water:4:*away떨어져서 *sports운동경기:*service봉사하다 *water물:0
+696:방법, 길:chair:tall:king:way:4:*chair의자 *tall키가 큰:*king왕 *way방법, 길:0
+697:우리:hotel:sister:taste:we:4:*hotel호텔 *sister자매:*taste맛을 보다, 맛이 나다 *we우리:0
+698:약한:water:rose:mouth:weak:4:*water물 *rose장미:*mouth입 *weak약한:0
+699:입다:tea:show:score:wear:4:*tea차 *show보여주다, 쇼:*score점수 *wear입다:0
+700:날씨:shop:high:piano:weather:4:*shop가게 *high높은:*piano피아노 *weather날씨:0
+701:저녁식사:supper:use:bowl:glass:1:*supper저녁식사 *use이용하다, 사용하다:*bowl사발, 그릇 *glass유리잔, 유리:0
+702:확신한:sure:usual:box:glove:1:*sure확신한 *usual보통의, 평소의:*box상자 *glove장갑:0
+703:놀라운:surprise:vacation:bought:weekend:1:*surprise놀라운 *vacation휴가, 방학:*bought구입했다. Buy의 과거형 *weekend주말:0
+704:스웨터:sweater:vegetable:boy:go:1:*sweater스웨터 *vegetable채소, 야채:*boy소년 *go가다:0
+705:달콤한:sweet:very:bread:god:1:*sweet달콤한 *very매우, 대단히:*bread빵 *god하나님:0
+706:수영하다:swim:video:break:gold:1:*swim수영하다 *video비디오:*break깨뜨리다 *gold금:0
+707:흔들리다:swing:village:breakfast :good:1:*swing흔들리다 *village마을:*breakfast 아침밥 *good좋은, 맑은:0
+708:스위치:switch:visit:bridge:grandmother :1:*switch스위치 *visit방문하다:*bridge다리 *grandmother 할머니:0
+709:탁자:table:violin:bright:grape:1:*table탁자 *violin바이올린:*bright밝은 *grape포도:0
+710:잡다, 가지고 가다:take:wait:bring:grass:1:*take잡다, 가지고 가다 *wait기다리다:*bring가져오다 *grass풀, 잔디:0
+711:말하다:talk:wake:brother:gray:1:*talk말하다 *wake잠이 깨다:*brother형제 *gray회색:0
+712:키가 큰:tall:walk:brown:great:1:*tall키가 큰 *walk걷다:*brown갈색 *great위대한:0
+713:더 큰:taller:wall:brush:green:1:*taller더 큰 *wall벽:*brush솔, 솔질하다 *green녹색:0
+714:테이프:tape:want:build:ground:1:*tape테이프 *want원하다:*build건설하다 *ground땅, 기초:0
+715:맛을 보다, 맛이 나다:taste:war:burn:group:1:*taste맛을 보다, 맛이 나다 *war전쟁:*burn불타다 *group단체:0
+716:택시:taxi:warm:bus:grow:1:*taxi택시 *warm따뜻한:*bus버스 *grow자라다:0
+717:차:tea:wash:busy:guitar:1:*tea차 *wash씻다:*busy바쁜, (전화가) 통화중인 *guitar기타:0
+718:가르치다:teach:waste:but:hair:1:*teach가르치다 *waste낭비하다:*but그러나 *hair머리카락:0
+719:팀:team:watch:butter:half:1:*team팀 *watch보다:*butter버터 *half절반:0
+720:전화기:telephone:water:button:hall:1:*telephone전화기 *water물:*button단추 *hall넓은 방, 홀:0
+721:텔레비전:television:way:buy:hamburger:1:*television텔레비전 *way방법, 길:*buy사다 *hamburger햄버거:0
+722:이야기하다:tell:we:by:hand:1:*tell이야기하다 *we우리:*by…옆에 *hand손:0
+723:절:temple:weak:bye:handle:1:*temple절 *weak약한:*bye안녕 *handle손잡이:0
+724:테니스:tennis:wear:calendar:handsome:1:*tennis테니스 *wear입다:*calendar달력 *handsome잘 생긴:0
+725:시험:test:weather:cake:happen:1:*test시험 *weather날씨:*cake케익 *happen(사건이)발생하다:0
+726:가을, 떨어지다:glass:fall:show:tomato:2:*glass유리잔, 유리 *fall가을, 떨어지다:*show보여주다, 쇼 *tomato토마토:0
+727:가족:glove:family:shower:tomorrow:2:*glove장갑 *family가족:*shower소나기, 샤워를 하다 *tomorrow내일:0
+728:멀리 떨어진, 먼:weekend:far:shut:tonight:2:*weekend주말 *far멀리 떨어진, 먼:*shut닫다 *tonight오늘밤:0
+729:농장:go:farm:sick:too:2:*go가다 *farm농장:*sick아픈 *too또한:0
+730:빠른:god:fast:side:tooth:2:*god하나님 *fast빠른:*side옆, 측면 *tooth이:0
+731:살찐:gold:fat:sign:top:2:*gold금 *fat살찐:*sign신호, 서명 *top꼭대기:0
+732:유명한:good:famous:silver:touch:2:*good좋은, 맑은 *famous유명한:*silver은 *touch만지다:0
+733:아버지:grandmother :father:sing:town:2:*grandmother 할머니 *father아버지:*sing노래하다 *town마을:0
+734:가장 좋아하는:grape:favorite:sir:toy:2:*grape포도 *favorite가장 좋아하는:*sir…님, …씨 *toy인형:0
+735:느끼다:grass:feel:sister:train:2:*grass풀, 잔디 *feel느끼다:*sister자매 *train기차, 훈련:0
+736:조금밖에 없는:gray:few:sit:travel:2:*gray회색 *few조금밖에 없는:*sit앉다 *travel여행하다:0
+737:들판, 경기장:great:field:size:tree:2:*great위대한 *field들판, 경기장:*size크기 *tree나무:0
+738:싸움:green:fight:skate:trip:2:*green녹색 *fight싸움:*skate스케이트 *trip여행:0
+739:채우다:ground:fill:skirt:truck:2:*ground땅, 기초 *fill채우다:*skirt치마 *truck트럭, 화물자동차:0
+740:영화:group:film:sky:true      :2:*group단체 *film영화:*sky하늘 *true      참된, 진실의:0
+741:찾다:grow:find:sleep:try:2:*grow자라다 *find찾다:*sleep잠자다 *try노력하다, 시도하다:0
+742:좋은, 맑은:guitar:fine:slide:tulip:2:*guitar기타 *fine좋은, 맑은:*slide미끄러지다 *tulip툴립:0
+743:손가락:hair:finger:slow:turn:2:*hair머리카락 *finger손가락:*slow느린 *turn돌다, :0
+744:끝내다:half:finish:small:twice:2:*half절반 *finish끝내다:*small작은, 적은 *twice두 번:0
+745:불타다:hall:fire:smell:umbrella:2:*hall넓은 방, 홀 *fire불타다:*smell냄새나다 *umbrella우산:0
+746:물고기:hamburger:fish:smile:uncle:2:*hamburger햄버거 *fish물고기:*smile웃다 *uncle삼촌, 아저씨:0
+747:고치다, 고정시키다:hand:fix:smoke:under:2:*hand손 *fix고치다, 고정시키다:*smoke연기 *under…아래에서:0
+748:깃발:handle:flag:snow:understand  :2:*handle손잡이 *flag깃발:*snow눈 *understand  이해하다:0
+749:마루, 바닥:handsome:floor:so:until:2:*handsome잘 생긴 *floor마루, 바닥:*so그래서, 매우 *until…까지:0
+750:꽃:happen:flower:soap:up:2:*happen(사건이)발생하다 *flower꽃:*soap비누 *up위에:0
+751:사발, 그릇:tomato:supper:bowl:neck:3:*tomato토마토 *supper저녁식사:*bowl사발, 그릇 *neck목:0
+752:상자:tomorrow:sure:box:need:3:*tomorrow내일 *sure확신한:*box상자 *need필요하다:0
+753:구입했다. Buy의 과거형:tonight:surprise:bought:never:3:*tonight오늘밤 *surprise놀라운:*bought구입했다. Buy의 과거형 *never결코.. 하지 않다:0
+754:소년:too:sweater:boy:new:3:*too또한 *sweater스웨터:*boy소년 *new새로운:0
+755:빵:tooth:sweet:bread:news:3:*tooth이 *sweet달콤한:*bread빵 *news뉴스:0
+756:깨뜨리다:top:swim:break:next:3:*top꼭대기 *swim수영하다:*break깨뜨리다 *next다음의:0
+757:아침밥:touch:swing:breakfast :next to:3:*touch만지다 *swing흔들리다:*breakfast 아침밥 *next to…옆에:0
+758:다리:town:switch:bridge:nice:3:*town마을 *switch스위치:*bridge다리 *nice좋은:0
+759:밝은:toy:table:bright:night:3:*toy인형 *table탁자:*bright밝은 *night밤:0
+760:가져오다:train:take:bring:noisy:3:*train기차, 훈련 *take잡다, 가지고 가다:*bring가져오다 *noisy시끄러운:0
+761:형제:travel:talk:brother:noise:3:*travel여행하다 *talk말하다:*brother형제 *noise소음:0
+762:갈색:tree:tall:brown:north:3:*tree나무 *tall키가 큰:*brown갈색 *north북쪽:0
+763:솔, 솔질하다:trip:taller:brush:nose:3:*trip여행 *taller더 큰:*brush솔, 솔질하다 *nose코:0
+764:건설하다:truck:tape:build:not:3:*truck트럭, 화물자동차 *tape테이프:*build건설하다 *not아니다:0
+765:불타다:true      :taste:burn:note:3:*true      참된, 진실의 *taste맛을 보다, 맛이 나다:*burn불타다 *note공책:0
+766:버스:try:taxi:bus:now:3:*try노력하다, 시도하다 *taxi택시:*bus버스 *now지금:0
+767:바쁜, (전화가) 통화중인:tulip:tea:busy:number:3:*tulip툴립 *tea차:*busy바쁜, (전화가) 통화중인 *number숫자:0
+768:그러나:turn:teach:but:nurse:3:*turn돌다,  *teach가르치다:*but그러나 *nurse간호원:0
+769:버터:twice:team:butter:o'clock:3:*twice두 번 *team팀:*butter버터 *o'clock…시, 정각:0
+770:단추:umbrella:telephone:button:of:3:*umbrella우산 *telephone전화기:*button단추 *of…의:0
+771:사다:uncle:television:buy:off:3:*uncle삼촌, 아저씨 *television텔레비전:*buy사다 *off떨어진, 끄다:0
+772:…옆에:under:tell:by:office:3:*under…아래에서 *tell이야기하다:*by…옆에 *office사무실:0
+773:안녕:understand  :temple:bye:often:3:*understand  이해하다 *temple절:*bye안녕 *often자주, 종종:0
+774:달력:until:tennis:calendar:oil:3:*until…까지 *tennis테니스:*calendar달력 *oil기름:0
+775:케익:up:test:cake:okay:3:*up위에 *test시험:*cake케익 *okay좋아:0
+776:행복한:neck:fall:fish:happy:4:*neck목 *fall가을, 떨어지다:*fish물고기 *happy행복한:0
+777:열심히, 단단한:need:family:this:hard:4:*need필요하다 *family가족:*this이것 *hard열심히, 단단한:0
+778:모자:never:far:cover:hat:4:*never결코.. 하지 않다 *far멀리 떨어진, 먼:*cover덮다 *hat모자:0
+779:싫어하다:new:farm:piano:hate:4:*new새로운 *farm농장:*piano피아노 *hate싫어하다:0
+780:가지고 있다.:news:fast:he:have:4:*news뉴스 *fast빠른:*he그 *have가지고 있다.:0
+781:그:next:fat:table:he:4:*next다음의 *fat살찐:*table탁자 *he그:0
+782:머리카락:next to:famous:hold:head:4:*next to…옆에 *famous유명한:*hold잡다, 들다 *head머리카락:0
+783:두통:nice:father:poster:headache:4:*nice좋은 *father아버지:*poster포스터 *headache두통:0
+784:듣다:night:favorite:bird:hear:4:*night밤 *favorite가장 좋아하는:*bird새 *hear듣다:0
+785:마음, 심장:noisy:feel:hello:heart:4:*noisy시끄러운 *feel느끼다:*hello안녕, 여보세요 *heart마음, 심장:0
+786:무거운:noise:few:brush:heavy:4:*noise소음 *few조금밖에 없는:*brush솔, 솔질하다 *heavy무거운:0
+787:안녕, 여보세요:north:field:day:hello:4:*north북쪽 *field들판, 경기장:*day낮, 하루 *hello안녕, 여보세요:0
+788:돕다:nose:fight:finger:help:4:*nose코 *fight싸움:*finger손가락 *help돕다:0
+789:암닭:not:fill:because:hen:4:*not아니다 *fill채우다:*because때문에 *hen암닭:0
+790:여기:note:film:bridge:here:4:*note공책 *film영화:*bridge다리 *here여기:0
+791:안녕:now:find:smoke:hi:4:*now지금 *find찾다:*smoke연기 *hi안녕:0
+792:숨기다:number:fine:round:hide:4:*number숫자 *fine좋은, 맑은:*round둥근 *hide숨기다:0
+793:높은:nurse:finger:return:high:4:*nurse간호원 *finger손가락:*return되돌아가다 *high높은:0
+794:도보여행, 하이킹:o'clock:finish:fire:hiking:4:*o'clock…시, 정각 *finish끝내다:*fire불타다 *hiking도보여행, 하이킹:0
+795:언덕:of:fire:key:hill:4:*of…의 *fire불타다:*key열쇠 *hill언덕:0
+796:때리다:off:fish:buy:hit:4:*off떨어진, 끄다 *fish물고기:*buy사다 *hit때리다:0
+797:잡다, 들다:office:fix:feel:hold:4:*office사무실 *fix고치다, 고정시키다:*feel느끼다 *hold잡다, 들다:0
+798:구멍:often:flag:ship:hole:4:*often자주, 종종 *flag깃발:*ship배 *hole구멍:0
+799:휴일:oil:floor:around:holiday:4:*oil기름 *floor마루, 바닥:*around…주위에 *holiday휴일:0
+800:집:okay:flower:as:home:4:*okay좋아 *flower꽃:*as…같은, …로서 *home집:0
+801:축구:soccer:tomato:neck:restaurant :1:*soccer축구 *tomato토마토:*neck목 *restaurant 식당:0
+802:양말:sock:tomorrow:need:return:1:*sock양말 *tomorrow내일:*need필요하다 *return되돌아가다:0
+803:부드러운:soft:tonight:never:ribbon:1:*soft부드러운 *tonight오늘밤:*never결코.. 하지 않다 *ribbon리본:0
+804:약간의:some:too:new:rice:1:*some약간의 *too또한:*new새로운 *rice쌀:0
+805:아들:son:tooth:news:rich:1:*son아들 *tooth이:*news뉴스 *rich부유한:0
+806:노래:song:top:next:ride:1:*song노래 *top꼭대기:*next다음의 *ride타다:0
+807:곧:soon:touch:next to:right:1:*soon곧 *touch만지다:*next to…옆에 *right옳은, 오른쪽:0
+808:슬픈, 미안한:sorry:town:nice:ring:1:*sorry슬픈, 미안한 *town마을:*nice좋은 *ring반지, 울리다:0
+809:소리:sound:toy:night:river:1:*sound소리 *toy인형:*night밤 *river강:0
+810:스프:soup:train:noisy:road:1:*soup스프 *train기차, 훈련:*noisy시끄러운 *road길:0
+811:남쪽:south:travel:noise:robot:1:*south남쪽 *travel여행하다:*noise소음 *robot로봇:0
+812:우주, 공간:space:tree:north:rock:1:*space우주, 공간 *tree나무:*north북쪽 *rock바위:0
+813:말하다, 이야기하다:speak:trip:nose:rocket:1:*speak말하다, 이야기하다 *trip여행:*nose코 *rocket로켓:0
+814:속력:speed:truck:not:roll:1:*speed속력 *truck트럭, 화물자동차:*not아니다 *roll구르다:0
+815:철자:spell:true      :note:roof:1:*spell철자 *true      참된, 진실의:*note공책 *roof지붕:0
+816:쓰다, (시간을) 보내다:spend:try:now:room:1:*spend쓰다, (시간을) 보내다 *try노력하다, 시도하다:*now지금 *room방:0
+817:숟가락:spoon:tulip:number:rose:1:*spoon숟가락 *tulip툴립:*number숫자 *rose장미:0
+818:운동경기:sports:turn:nurse:round:1:*sports운동경기 *turn돌다, :*nurse간호원 *round둥근:0
+819:봄, 튀어오르다, 스프링:spring:twice:o'clock:ruler:1:*spring봄, 튀어오르다, 스프링 *twice두 번:*o'clock…시, 정각 *ruler자, 지배자:0
+820:정사각형, 광장:square:umbrella:of:run:1:*square정사각형, 광장 *umbrella우산:*of…의 *run달리다:0
+821:계단:stair:uncle:off:sad:1:*stair계단 *uncle삼촌, 아저씨:*off떨어진, 끄다 *sad슬픈:0
+822:우편, 우표:stamp:under:office:safe:1:*stamp우편, 우표 *under…아래에서:*office사무실 *safe안전한:0
+823:서다, 서 있다:stand:understand  :often:salt:1:*stand서다, 서 있다 *understand  이해하다:*often자주, 종종 *salt소금:0
+824:별:star:until:oil:salad:1:*star별 *until…까지:*oil기름 *salad샐러드:0
+825:시작하다:start:up:okay:same:1:*start시작하다 *up위에:*okay좋아 *same같은:0
+826:늙은:use:old:sand:supper:2:*use이용하다, 사용하다 *old늙은:*sand모래 *supper저녁식사:0
+827:…위에:usual:on:say:sure:2:*usual보통의, 평소의 *on…위에:*say말하다 *sure확신한:0
+828:한 번:vacation:once:school:surprise:2:*vacation휴가, 방학 *once한 번:*school학교 *surprise놀라운:0
+829:오직, 단지:vegetable:only:score:sweater:2:*vegetable채소, 야채 *only오직, 단지:*score점수 *sweater스웨터:0
+830:열다:very:open:sea:sweet:2:*very매우, 대단히 *open열다:*sea바다 *sweet달콤한:0
+831:또는:video:or:season:swim:2:*video비디오 *or또는:*season계절 *swim수영하다:0
+832:오렌지:village:orange:seat:swing:2:*village마을 *orange오렌지:*seat앉다, 좌석 *swing흔들리다:0
+833:다른:visit:other:see:switch:2:*visit방문하다 *other다른:*see보다 *switch스위치:0
+834:밖에:violin:out:sell:table:2:*violin바이올린 *out밖에:*sell팔다 *table탁자:0
+835:…위쪽에:wait:over:send:take:2:*wait기다리다 *over…위쪽에:*send보내다 *take잡다, 가지고 가다:0
+836:쪽, 페이지:wake:page:service:talk:2:*wake잠이 깨다 *page쪽, 페이지:*service봉사하다 *talk말하다:0
+837:칠하다:walk:paint:set:tall:2:*walk걷다 *paint칠하다:*set놓다 *tall키가 큰:0
+838:짝, 쌍:wall:pair:shall:taller:2:*wall벽 *pair짝, 쌍:*shall…일 것이다 *taller더 큰:0
+839:바지:want:pants:shape:tape:2:*want원하다 *pants바지:*shape모양 *tape테이프:0
+840:종이:war:paper:she:taste:2:*war전쟁 *paper종이:*she그녀 *taste맛을 보다, 맛이 나다:0
+841:용서하다:warm:pardon:sheep:taxi:2:*warm따뜻한 *pardon용서하다:*sheep양 *taxi택시:0
+842:부모:wash:parent:sheet:tea:2:*wash씻다 *parent부모:*sheet한 장, 시트 *tea차:0
+843:공원:waste:park:ship:teach:2:*waste낭비하다 *park공원:*ship배 *teach가르치다:0
+844:파티:watch:party:shirt:team:2:*watch보다 *party파티:*shirt(남자용)와이셔츠 *team팀:0
+845:합격하다, 지나가다:water:pass:shoes:telephone:2:*water물 *pass합격하다, 지나가다:*shoes구두 *telephone전화기:0
+846:지불하다:way:pay:shoot:television:2:*way방법, 길 *pay지불하다:*shoot발사하다, 쏘다 *television텔레비전:0
+847:평화:we:peace:shop:tell:2:*we우리 *peace평화:*shop가게 *tell이야기하다:0
+848:배:weak:pear:short:temple:2:*weak약한 *pear배:*short짧은 *temple절:0
+849:펜:wear:pen:shoulder   :tennis:2:*wear입다 *pen펜:*shoulder   어깨 *tennis테니스:0
+850:연필:weather:pencil:shout:test:2:*weather날씨 *pencil연필:*shout외치다 *test시험:0
+851:사람들:fall:it:people:bowl:3:*fall가을, 떨어지다 *it그것:*people사람들 *bowl사발, 그릇:0
+852:피아노:family:job:piano:box:3:*family가족 *job직업:*piano피아노 *box상자:0
+853:줍다, (열매를)따다:far:join:pick:bought:3:*far멀리 떨어진, 먼 *join가입하다, 함께 하다:*pick줍다, (열매를)따다 *bought구입했다. Buy의 과거형:0
+854:소풍:farm:juice:picnic:boy:3:*farm농장 *juice주스:*picnic소풍 *boy소년:0
+855:그림:fast:jump:picture:bread:3:*fast빠른 *jump뛰어오르다:*picture그림 *bread빵:0
+856:조각:fat:jungle:piece:break:3:*fat살찐 *jungle밀림지대:*piece조각 *break깨뜨리다:0
+857:돼지:famous:just:pig:breakfast :3:*famous유명한 *just오직, 단지:*pig돼지 *breakfast 아침밥:0
+858:조종사:father:keep:pilot:bridge:3:*father아버지 *keep지키다, 유지(계속)하다:*pilot조종사 *bridge다리:0
+859:사람:favorite:key:person:bright:3:*favorite가장 좋아하는 *key열쇠:*person사람 *bright밝은:0
+860:소나무:feel:kick:pine:bring:3:*feel느끼다 *kick차다:*pine소나무 *bring가져오다:0
+861:분홍:few:kid:pink:brother:3:*few조금밖에 없는 *kid아이:*pink분홍 *brother형제:0
+862:관, 파이프:field:kill:pipe:brown:3:*field들판, 경기장 *kill죽이다:*pipe관, 파이프 *brown갈색:0
+863:장소:fight:kind:place:brush:3:*fight싸움 *kind친절한, 종류:*place장소 *brush솔, 솔질하다:0
+864:계획:fill:king:plan:build:3:*fill채우다 *king왕:*plan계획 *build건설하다:0
+865:비행기:film:kitchen:plane:burn:3:*film영화 *kitchen부엌:*plane비행기 *burn불타다:0
+866:식물, 공장:find:knee:plant:bus:3:*find찾다 *knee무릎:*plant식물, 공장 *bus버스:0
+867:놀다:fine:knife:play:busy:3:*fine좋은, 맑은 *knife칼:*play놀다 *busy바쁜, (전화가) 통화중인:0
+868:제발, 기쁘게 하다:finger:knock:please:but:3:*finger손가락 *knock두드리다:*please제발, 기쁘게 하다 *but그러나:0
+869:주머니:finish:know:pocket:butter:3:*finish끝내다 *know알다:*pocket주머니 *butter버터:0
+870:가리키다, 점수:fire:lady:point:button:3:*fire불타다 *lady숙녀:*point가리키다, 점수 *button단추:0
+871:경찰:fish:lake:police:buy:3:*fish물고기 *lake호수:*police경찰 *buy사다:0
+872:수영장:fix:lamp:pool:by:3:*fix고치다, 고정시키다 *lamp등불:*pool수영장 *by…옆에:0
+873:가난한:flag:land:poor:bye:3:*flag깃발 *land땅:*poor가난한 *bye안녕:0
+874:우편:floor:large:post:calendar:3:*floor마루, 바닥 *large큰:*post우편 *calendar달력:0
+875:포스터:flower:last:poster:cake:3:*flower꽃 *last지난, 바로 전의:*poster포스터 *cake케익:0
+876:…보다:show:happy:because:than:4:*show보여주다, 쇼 *happy행복한:*because때문에 *than…보다:0
+877:감사하다:shower:hard:become:thank:4:*shower소나기, 샤워를 하다 *hard열심히, 단단한:*become…이 되다 *thank감사하다:0
+878:저것:shut:hat:bed:that:4:*shut닫다 *hat모자:*bed침대 *that저것:0
+879:그:sick:hate:before:the:4:*sick아픈 *hate싫어하다:*before…전에 *the그:0
+880:그 때:side:have:begin:then:4:*side옆, 측면 *have가지고 있다.:*begin시작하다 *then그 때:0
+881:거기에서:sign:he:behind:there:4:*sign신호, 서명 *he그:*behind…뒤에 *there거기에서:0
+882:그들:silver:head:bell:they:4:*silver은 *head머리카락:*bell종 *they그들:0
+883:두꺼운:sing:headache:below:thick:4:*sing노래하다 *headache두통:*below…아래 *thick두꺼운:0
+884:얇은:sir:hear:bench:thin:4:*sir…님, …씨 *hear듣다:*bench긴의자 *thin얇은:0
+885:것, 물체:sister:heart:beside:thing:4:*sister자매 *heart마음, 심장:*beside…곁에 *thing것, 물체:0
+886:생각하다:sit:heavy:better:think:4:*sit앉다 *heavy무거운:*better더 좋은 *think생각하다:0
+887:목마른:size:hello:between:thirsty:4:*size크기 *hello안녕, 여보세요:*between…사이에 *thirsty목마른:0
+888:이것:skate:help:bicycle:this:4:*skate스케이트 *help돕다:*bicycle자전거 *this이것:0
+889:천(=1000):skirt:hen:big:thousand:4:*skirt치마 *hen암닭:*big큰 *thousand천(=1000):0
+890:…을 통해:sky:here:bird:through:4:*sky하늘 *here여기:*bird새 *through…을 통해:0
+891:던지다:sleep:hi:birthday:throw:4:*sleep잠자다 *hi안녕:*birthday생일 *throw던지다:0
+892:표:slide:hide:black:ticket:4:*slide미끄러지다 *hide숨기다:*black검정색 *ticket표:0
+893:…을 묶다, 매다:slow:high:blow:tie:4:*slow느린 *high높은:*blow불다 *tie…을 묶다, 매다:0
+894:호랑이:small:hiking:blue:tiger:4:*small작은, 적은 *hiking도보여행, 하이킹:*blue푸른, 남색의, 파랑 *tiger호랑이:0
+895:…까지:smell:hill:board:till:4:*smell냄새나다 *hill언덕:*board판자, 널판지 *till…까지:0
+896:시간:smile:hit:boat:time:4:*smile웃다 *hit때리다:*boat배 *time시간:0
+897:피곤한:smoke:hold:body:tired:4:*smoke연기 *hold잡다, 들다:*body신체, 몸 *tired피곤한:0
+898:…로:snow:hole:book:to:4:*snow눈 *hole구멍:*book책, 예약하다 *to…로:0
+899:오늘:so:holiday:borrow:today:4:*so그래서, 매우 *holiday휴일:*borrow빌리다 *today오늘:0
+900:함께:soap:home:bottle:together:4:*soap비누 *home집:*bottle병 *together함께:0
+901:잃다, 분실하다:lose:people:show:than:1:*lose잃다, 분실하다 *people사람들:*show보여주다, 쇼 *than…보다:0
+902:많음:lot:piano:shower:thank:1:*lot많음 *piano피아노:*shower소나기, 샤워를 하다 *thank감사하다:0
+903:(목소리가) 큰:loud:pick:shut:that:1:*loud(목소리가) 큰 *pick줍다, (열매를)따다:*shut닫다 *that저것:0
+904:사랑하다:love:picnic:sick:the:1:*love사랑하다 *picnic소풍:*sick아픈 *the그:0
+905:낮은:low:picture:side:then:1:*low낮은 *picture그림:*side옆, 측면 *then그 때:0
+906:행운:luck:piece:sign:there:1:*luck행운 *piece조각:*sign신호, 서명 *there거기에서:0
+907:점심:lunch:pig:silver:they:1:*lunch점심 *pig돼지:*silver은 *they그들:0
+908:아주머니, 부인:ma'am:pilot:sing:thick:1:*ma'am아주머니, 부인 *pilot조종사:*sing노래하다 *thick두꺼운:0
+909:미친:mad:person:sir:thin:1:*mad미친 *person사람:*sir…님, …씨 *thin얇은:0
+910:우편:mail:pine:sister:thing:1:*mail우편 *pine소나무:*sister자매 *thing것, 물체:0
+911:만들다:make:pink:sit:think:1:*make만들다 *pink분홍:*sit앉다 *think생각하다:0
+912:사람, 남자:man:pipe:size:thirsty:1:*man사람, 남자 *pipe관, 파이프:*size크기 *thirsty목마른:0
+913:많은:many:place:skate:this:1:*many많은 *place장소:*skate스케이트 *this이것:0
+914:지도:map:plan:skirt:thousand:1:*map지도 *plan계획:*skirt치마 *thousand천(=1000):0
+915:3월, 행진하다:march:plane:sky:through:1:*march3월, 행진하다 *plane비행기:*sky하늘 *through…을 통해:0
+916:시장:market:plant:sleep:throw:1:*market시장 *plant식물, 공장:*sleep잠자다 *throw던지다:0
+917:결혼하다:marry:play:slide:ticket:1:*marry결혼하다 *play놀다:*slide미끄러지다 *ticket표:0
+918:문제, 중요하다:matter:please:slow:tie:1:*matter문제, 중요하다 *please제발, 기쁘게 하다:*slow느린 *tie…을 묶다, 매다:0
+919:..일지도 모른다, …해도 좋다:may:pocket:small:tiger:1:*may..일지도 모른다, …해도 좋다 *pocket주머니:*small작은, 적은 *tiger호랑이:0
+920:고기:meat:point:smell:till:1:*meat고기 *point가리키다, 점수:*smell냄새나다 *till…까지:0
+921:메달:medal:police:smile:time:1:*medal메달 *police경찰:*smile웃다 *time시간:0
+922:만나다:meet:pool:smoke:tired:1:*meet만나다 *pool수영장:*smoke연기 *tired피곤한:0
+923:멜론:melon:poor:snow:to:1:*melon멜론 *poor가난한:*snow눈 *to…로:0
+924:미터:meter:post:so:today:1:*meter미터 *post우편:*so그래서, 매우 *today오늘:0
+925:중간의, 중앙의:middle:poster:soap:together:1:*middle중간의, 중앙의 *poster포스터:*soap비누 *together함께:0
+926:감자:milk:potato:soccer:tomato:2:*milk우유 *potato감자:*soccer축구 *tomato토마토:0
+927:연습하다:million:practice:sock:tomorrow:2:*million100만 *practice연습하다:*sock양말 *tomorrow내일:0
+928:현재, 선물:minute:present:soft:tonight:2:*minute분, 잠깐 *present현재, 선물:*soft부드러운 *tonight오늘밤:0
+929:예쁜, 매우:mirror:pretty:some:too:2:*mirror거울 *pretty예쁜, 매우:*some약간의 *too또한:0
+930:인쇄하다:Miss:print:son:tooth:2:*Miss…양 *print인쇄하다:*son아들 *tooth이:0
+931:문제, 중요하다:model:problem:song:top:2:*model모형 *problem문제, 중요하다:*song노래 *top꼭대기:0
+932:끌다, 잡아 당기다:mom:pull:soon:touch:2:*mom엄마 *pull끌다, 잡아 당기다:*soon곧 *touch만지다:0
+933:밀다:money:push:sorry:town:2:*money돈 *push밀다:*sorry슬픈, 미안한 *town마을:0
+934:두다, 놓다:monkey:put:sound:toy:2:*monkey원숭이 *put두다, 놓다:*sound소리 *toy인형:0
+935:여왕:month:queen:soup:train:2:*month달, 개월 *queen여왕:*soup스프 *train기차, 훈련:0
+936:질문:moon:question:south:travel:2:*moon달 *question질문:*south남쪽 *travel여행하다:0
+937:빠른:morning:quick:space:tree:2:*morning아침 *quick빠른:*space우주, 공간 *tree나무:0
+938:조용한:mother:quiet:speak:trip:2:*mother어머니 *quiet조용한:*speak말하다, 이야기하다 *trip여행:0
+939:라디오:mountain:radio:speed:truck:2:*mountain산 *radio라디오:*speed속력 *truck트럭, 화물자동차:0
+940:비:mouth:rain:spell:true      :2:*mouth입 *rain비:*spell철자 *true      참된, 진실의:0
+941:무지개:move:rainbow:spend:try:2:*move움직이다, 이사하다 *rainbow무지개:*spend쓰다, (시간을) 보내다 *try노력하다, 시도하다:0
+942:읽다:movie:read:spoon:tulip:2:*movie영화 *read읽다:*spoon숟가락 *tulip툴립:0
+943:준비된:Mr.:ready:sports:turn:2:*Mr.…씨 *ready준비된:*sports운동경기 *turn돌다, :0
+944:정말, 실제의:Mrs.:real:spring:twice:2:*Mrs.…여사 *real정말, 실제의:*spring봄, 튀어오르다, 스프링 *twice두 번:0
+945:정말로:much:really:square:umbrella:2:*much많은 *really정말로:*square정사각형, 광장 *umbrella우산:0
+946:기록하다:music:record:stair:uncle:2:*music음악 *record기록하다:*stair계단 *uncle삼촌, 아저씨:0
+947:빨강:must:red:stamp:under:2:*must해야 한다 *red빨강:*stamp우편, 우표 *under…아래에서:0
+948:기억하다:name:remember :stand:understand  :2:*name이름 *remember 기억하다:*stand서다, 서 있다 *understand  이해하다:0
+949:반복하다:narrow:repeat:star:until:2:*narrow좁은 *repeat반복하다:*star별 *until…까지:0
+950:휴식:near:rest:start:up:2:*near가까운 *rest휴식:*start시작하다 *up위에:0
+951:정거장, 역:neck:restaurant :station:use:3:*neck목 *restaurant 식당:*station정거장, 역 *use이용하다, 사용하다:0
+952:머무르다:need:return:stay:usual:3:*need필요하다 *return되돌아가다:*stay머무르다 *usual보통의, 평소의:0
+953:수증기:never:ribbon:steam:vacation:3:*never결코.. 하지 않다 *ribbon리본:*steam수증기 *vacation휴가, 방학:0
+954:걸음, 스텝:new:rice:step:vegetable:3:*new새로운 *rice쌀:*step걸음, 스텝 *vegetable채소, 야채:0
+955:막대기:news:rich:stick:very:3:*news뉴스 *rich부유한:*stick막대기 *very매우, 대단히:0
+956:돌다, :next:ride:stone:video:3:*next다음의 *ride타다:*stone돌다,  *video비디오:0
+957:멈추다:next to:right:stop:village:3:*next to…옆에 *right옳은, 오른쪽:*stop멈추다 *village마을:0
+958:가게:nice:ring:store:visit:3:*nice좋은 *ring반지, 울리다:*store가게 *visit방문하다:0
+959:폭풍우:night:river:storm:violin:3:*night밤 *river강:*storm폭풍우 *violin바이올린:0
+960:이야기:noisy:road:story:wait:3:*noisy시끄러운 *road길:*story이야기 *wait기다리다:0
+961:난로:noise:robot:stove:wake:3:*noise소음 *robot로봇:*stove난로 *wake잠이 깨다:0
+962:똑바른, 곧은:north:rock:straight:walk:3:*north북쪽 *rock바위:*straight똑바른, 곧은 *walk걷다:0
+963:이상한, 낯선:nose:rocket:strange:wall:3:*nose코 *rocket로켓:*strange이상한, 낯선 *wall벽:0
+964:딸기:not:roll:strawberry:want:3:*not아니다 *roll구르다:*strawberry딸기 *want원하다:0
+965:거리:note:roof:street:war:3:*note공책 *roof지붕:*street거리 *war전쟁:0
+966:…을 치다, 때리다:now:room:strike:warm:3:*now지금 *room방:*strike…을 치다, 때리다 *warm따뜻한:0
+967:강한:number:rose:strong:wash:3:*number숫자 *rose장미:*strong강한 *wash씻다:0
+968:학생:nurse:round:student:waste:3:*nurse간호원 *round둥근:*student학생 *waste낭비하다:0
+969:공부하다:o'clock:ruler:study:watch:3:*o'clock…시, 정각 *ruler자, 지배자:*study공부하다 *watch보다:0
+970:어리석은:of:run:stupid:water:3:*of…의 *run달리다:*stupid어리석은 *water물:0
+971:지하철:off:sad:subway:way:3:*off떨어진, 끄다 *sad슬픈:*subway지하철 *way방법, 길:0
+972:설탕:office:safe:sugar:we:3:*office사무실 *safe안전한:*sugar설탕 *we우리:0
+973:여름:often:salt:summer:weak:3:*often자주, 종종 *salt소금:*summer여름 *weak약한:0
+974:태양:oil:salad:sun:wear:3:*oil기름 *salad샐러드:*sun태양 *wear입다:0
+975:슈퍼마켓:okay:same:supermarket :weather:3:*okay좋아 *same같은:*supermarket 슈퍼마켓 *weather날씨:0
+976:주:old:sand:supper:week:4:*old늙은 *sand모래:*supper저녁식사 *week주:0
+977:환영하다:on:say:sure:welcome:4:*on…위에 *say말하다:*sure확신한 *welcome환영하다:0
+978:잘:once:school:surprise:well:4:*once한 번 *school학교:*surprise놀라운 *well잘:0
+979:서쪽:only:score:sweater:west:4:*only오직, 단지 *score점수:*sweater스웨터 *west서쪽:0
+980:젖은:open:sea:sweet:wet:4:*open열다 *sea바다:*sweet달콤한 *wet젖은:0
+981:무엇:or:season:swim:what:4:*or또는 *season계절:*swim수영하다 *what무엇:0
+982:언제:orange:seat:swing:when:4:*orange오렌지 *seat앉다, 좌석:*swing흔들리다 *when언제:0
+983:어디:other:see:switch:where:4:*other다른 *see보다:*switch스위치 *where어디:0
+984:어느 (것):out:sell:table:which:4:*out밖에 *sell팔다:*table탁자 *which어느 (것):0
+985:하얀색:over:send:take:white:4:*over…위쪽에 *send보내다:*take잡다, 가지고 가다 *white하얀색:0
+986:누구:page:service:talk:who:4:*page쪽, 페이지 *service봉사하다:*talk말하다 *who누구:0
+987:왜:paint:set:tall:why:4:*paint칠하다 *set놓다:*tall키가 큰 *why왜:0
+988:넓은:pair:shall:taller:wide:4:*pair짝, 쌍 *shall…일 것이다:*taller더 큰 *wide넓은:0
+989:…할 것이다:pants:shape:tape:will:4:*pants바지 *shape모양:*tape테이프 *will…할 것이다:0
+990:이기다:paper:she:taste:win:4:*paper종이 *she그녀:*taste맛을 보다, 맛이 나다 *win이기다:0
+991:바람:pardon:sheep:taxi:wind:4:*pardon용서하다 *sheep양:*taxi택시 *wind바람:0
+992:창문:parent:sheet:tea:window:4:*parent부모 *sheet한 장, 시트:*tea차 *window창문:0
+993:날개:park:ship:teach:wing:4:*park공원 *ship배:*teach가르치다 *wing날개:0
+994:겨울:party:shirt:team:winter:4:*party파티 *shirt(남자용)와이셔츠:*team팀 *winter겨울:0
+995:…와 함께:pass:shoes:telephone:with:4:*pass합격하다, 지나가다 *shoes구두:*telephone전화기 *with…와 함께:0
+996:여자:pay:shoot:television:woman:4:*pay지불하다 *shoot발사하다, 쏘다:*television텔레비전 *woman여자:0
+997:놀라움, 놀라다:peace:shop:tell:wonder:4:*peace평화 *shop가게:*tell이야기하다 *wonder놀라움, 놀라다:0
+998:나무:pear:short:temple:wood:4:*pear배 *short짧은:*temple절 *wood나무:0
+999:말, 낱말:pen:shoulder   :tennis:word:4:*pen펜 *shoulder   어깨:*tennis테니스 *word말, 낱말:0
+1000:일하다:pencil:shout:test:work:4:*pencil연필 *shout외치다:*test시험 *work일하다:0
